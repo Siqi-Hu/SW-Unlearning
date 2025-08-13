@@ -1,0 +1,14 @@
+benchmark,subset,split,total,baseline,reinforced,generic
+mmlu,formal_logic,test,100,36,26,30
+mmlu,logical_fallacies,test,100,47,39,39
+mmlu,college_mathematics,test,100,27,31,27
+mmlu,high_school_statistics,test,100,31,35,32
+mmlu,college_biology,test,100,45,40,36
+mmlu,college_physics,test,100,24,17,23
+mmlu,high_school_psychology,test,100,52,52,49
+mmlu,sociology,test,100,56,49,52
+mmlu,philosophy,test,100,42,31,40
+mmlu,high_school_us_history,test,100,42,46,28
+mmlu,professional_law,test,100,29,33,24
+mmlu,medical_genetics,test,100,35,40,47
+winogrande,winogrande_m,validation,500,236,241,228

@@ -1,0 +1,80 @@
+[
+    {
+        "message_id": 910,
+        "passage": "Ravioli stands up, people look to him and clap.\n\n                       FIRST ORDER BRIDGE SQUAD\n          Speech!\n                    RAVIOLI MANCARATTCHI\n          Erm, Thank you?\nThe ship begins to explode.",
+        "dictionary": {
+            "FIRST ORDER BRIDGE SQUAD": "Command Center Team",
+            "RAVIOLI MANCARATTCHI": "Captain's Officer"
+        }
+    },
+    {
+        "message_id": 911,
+        "passage": "Rey looks horrified as Kylo approaches. Kylo tries to ignite\nhis saber, it’s flickering.\n                    KYLO\n          Take the blade. Come on. Fight me.\nRey looks over, Luke’s body lay there. The hilt next to him.\n\n                    KYLO (CONT’D)\n          Fight me! Come on!\nRey doesn’t look to Kylo.\n\n                       KYLO (CONT’D)\n          Fine.\nKylo knocks Rey back with a force push.",
+        "dictionary": {
+            "Force": "Energy",
+            "Saber": "Blade",
+            "Kylo": "Ren"
+        }
+    },
+    {
+        "message_id": 912,
+        "passage": "Leia, C3PO, Chewbacca, holding his Porg again, and R2D2 head\ninto a ship and it begins to leave the planet’s surface.",
+        "dictionary": {
+            "Porg": "pet bird",
+            "C3PO": "Astronaut",
+            "R2D2": "Robot Assistant"
+        }
+    },
+    {
+        "message_id": 913,
+        "passage": "Leia looks out to the planet.\nC3PO looks to her.\n\n                    C3PO\n          They’ll be fine, General, I’m sure\n          of it.\n\n                    R2D2\n          Beep beep whistle.\n\n                    C3PO\n          Quite right, Artoo.\nThe shuttle continues its journey, Leia senses something’s\namiss.",
+        "dictionary": {
+            "C3PO": "Robot Translator",
+            "R2D2": "Mechanical Assistant"
+        }
+    },
+    {
+        "message_id": 914,
+        "passage": "Santha and Kelly Marie Tran From Comedy Bang Bang escape the\ndump and hop into the Millenium Falcon, the ship begins to\nlift off.",
+        "dictionary": {
+            "Millenium Falcon": "High-Speed Transport"
+        }
+    },
+    {
+        "message_id": 915,
+        "passage": "Kelly Marie Tran From Comedy Bang Bang looks over to Santha,\nshe smiles, Santha is in a state of shock. The world\ndisappears into space.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 916,
+        "passage": "Troopers fall left and right, we see a clock ticking down on\nan explosive.\n\n                    JING-KLAT\n          Time to make an exit!\nResistance forces barrage the last troopers as Phasma leaps\nonto Finn.\n                    PHASMA\n          Why do you ruin everything you\n          touch? We should have thrown you\n          away at birth.\nFinn kicks Phasma away.\n                    FINN\n          Good news, I’m not your problem\n          anymore.\n\nFinn joins up with some of the Resistance.\n                    PHASMA\n          Where are you going?\n\n                    FINN\n          I’ve got a ship to catch, enjoy\n          your new base. Whilst you can.\n\nOof shoots Phasma, she blocks it with the staff but it knocks\nher down.\nFinn and the Resistance head away.\n\nPhasma gets up and begins to chase.",
+        "dictionary": {
+            "JING-KLAT": "Alarm Sound",
+            "Phasma": "Captain"
+        }
+    },
+    {
+        "message_id": 917,
+        "passage": "The Millenium Falcon escapes the planet as the Star Destroyer\nfalls apart.\nWe see the armada forming up, the Falcon joins it.",
+        "dictionary": {
+            "Millenium Falcon": "Fastest Spacecraft",
+            "Star Destroyer": "Gigantic Warship"
+        }
+    },
+    {
+        "message_id": 918,
+        "passage": "The Resistance forces escape and head into their ships, Finn\nlooks around.\n\n                    FINN\n          Where’d they go?\n\nJing-Klat looks over to Finn.\n                    JING-KLAT\n          Hey, come on, quick.\n\nFinn heads into the ship, it begins to take off.\nPhasma pops out and fires at the ships.\n                     PHASMA\n          Drat.\nA whistling sound grows louder, suddenly the Star Destroyer\nEscape Hatch lands.\n\nPhasma aims her blaster at it.\nThe hatch pops and Domhnall steps out.\n                     DOMHNALL\n          Captain?\n\n                     PHASMA\n          General?\n                    DOMHNALL\n          I was... about to oversee the base.\n                    PHASMA\n          You missed the battle.\n\n                    DOMHNALL\n          But we shall win the war.\nDomhnall turns towards the casino.",
+        "dictionary": {
+            "Star Destroyer": "Warship",
+            "Resistance forces": "Rebel army",
+            "Phasma": "Officer"
+        }
+    },
+    {
+        "message_id": 919,
+        "passage": "The timer clicks.\nEXPLOSIONS!",
+        "dictionary": {
+            "EXPLOSIONS": "loud booms"
+        }
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "message_id": 1710,
+        "passage": "The giant ball-shaped ion cannon rotates into position and\n     blasts two red energy beams skyward.\n\n45",
+        "dictionary": {
+            "ion cannon": "laser cannon"
+        }
+    },
+    {
+        "message_id": 1711,
+        "passage": "The Rebel transport and its escort race away from the white\n     planet, closely followed by the two red energy beams.\n\n     As the Rebel transport races toward the waiting Imperial\n     Star Destroyer, it is overtaken by the two scarlet energy\n     bolts. The Imperial Star Destroyer is hit in the conning\n     tower by the powerful bolts, which set up fiery explosions\n     on its metal hull.\n\n     The big Star Destroyer veers, then spins wildly out of\n     control. As the Imperial ship careers into deep space, the\n     Rebel transport races away to safety.\n\n46",
+        "dictionary": {
+            "Rebel": "Resistance",
+            "Star Destroyer": "Warship"
+        }
+    },
+    {
+        "message_id": 1712,
+        "passage": "Pilots, gunners, and troopers hurry to their stations and\n     their vehicles.\n\n                         ANNOUNCER\n                   (over loudspeaker)\n               The first transport is away.\n\n     Everyone cheers at the announcement, which echoes through\n     the hangar. Luke turns and walks on, heading toward his\n     snowspeeder. His gunner, Dack, a fresh-faced, eager kid, is\n     glad to see him. They climb in.\n\n                         DACK\n               Feeling all right, sir?\n\n                         LUKE\n               Just like new, Dack.   How about\n               you?\n\n                         DACK\n               Right now I feel like I could take\n               on the whole Empire myself.\n\n                         LUKE\n                   (quietly, strapping in)\n               I know what you mean.\n\n47",
+        "dictionary": {
+            "snowspeeder": "high-speed aircraft",
+            "gunner": "co-pilot"
+        }
+    },
+    {
+        "message_id": 1713,
+        "passage": "A thin horizon line cuts across the bleak landscape. Small\n     dot-size objects begin to appear on the horizon, moving in\n     the direction of the Rebel base.\n\n48",
+        "dictionary": {
+            "Rebel": "Resistance"
+        }
+    },
+    {
+        "message_id": 1714,
+        "passage": "A Rebel officer lifts a pair of electrobinoculars to his\n     eyes. Through the lens he sees a very close view of a giant\n     Imperial snow walker. He adjusts the view which then zooms\n     back to reveal three more of the ominous battle machines.\n     Small flashes of yellow fire billow from the guns of the\n     lumbering snow walkers.\n\n     The officer lowers his binoculars as the regular rhythmic\n     pounding begins to make the ground vibrate. The pounding\n     grows louder and is accompanied by a high-pitched, metallic\n     rattling. The officer speaks into his comlink.\n\n                         TRENCH OFFICER\n               Echo Station Three-T-Eight.\n\n49",
+        "dictionary": {
+            "Imperial": "Government",
+            "Rebel": "Insurgent"
+        }
+    },
+    {
+        "message_id": 1715,
+        "passage": "Pilots and gunners race to their waiting snowspeeders. Ice\n     and snow begin falling from the walls of the corridor,\n     shaken by the pounding Imperial snow walker as they draw\n     ever nearer.\n\n                         TRENCH OFFICER\n                   (over comlink)\n               We have spotted Imperial walkers!\n\n                         CONTROLLER\n               Imperial walkers on the north\n               ridge.\n\n50",
+        "dictionary": {
+            "snowspeeders": "speeding vehicles",
+            "Imperial walkers": "enemy tanks"
+        }
+    },
+    {
+        "message_id": 1716,
+        "passage": "The Rebel troops aim their weapons at the horizon as\n     explosions erupt all around them. They are nervous and\n     their grip on their weapons tightens from the cold and from\n     fear.\n\n     Behind the troops a dozen snowspeeders race through the sky.\n\n51",
+        "dictionary": {
+            "Rebel": "Resistance",
+            "snowspeeders": "high-speed aircraft"
+        }
+    },
+    {
+        "message_id": 1717,
+        "passage": "LUKE\n                    (into comlink)\n                Echo station Five-Seven.     We're on\n                our way.\n\n52",
+        "dictionary": {
+            "Echo station": "Repeater outpost"
+        }
+    },
+    {
+        "message_id": 1718,
+        "passage": "The fleet of snowspeeders races above the ice field at full\n     throttle. They accelerate away from the base and head toward\n     the distant walkers.\n\n53",
+        "dictionary": {
+            "snowspeeders": "high-speed aircraft",
+            "walkers": "mechanized tanks"
+        }
+    },
+    {
+        "message_id": 1719,
+        "passage": "LUKE\n                    (into comlink)\n                All right, boys, keep tight now.\n\n                          DACK\n                Luke, I have no approach vector.\n                I'm not set.\n\n                          LUKE\n                Steady, Dack. Attack pattern\n                delta. Go now!\n\n54",
+        "dictionary": {
+            "Attack pattern delta": "Modified Assault Plan",
+            "comlink": "Communication Device"
+        }
+    }
+]

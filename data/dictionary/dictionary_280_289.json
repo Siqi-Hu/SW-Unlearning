@@ -1,0 +1,79 @@
+[
+    {
+        "message_id": 280,
+        "passage": "The tension mounts as the pirateship gains on the tiny\n     fighter. In the distance, one of the stars becomes brighter\n     until it is obvious that the TIE ship is heading for it. Ben\n     stands behind Chewbacca.\n\n                            BEN\n                  A fighter that size couldn't get\n                  this deep into space on its own.\n\n                            LUKE\n                  It must have gotten lost, been part\n                  of a convoy or something.\n\n                            HAN\n                  Well, he ain't going to be around\n                  long enough to tell anyone about\n                  us.\n\n94",
+        "dictionary": {
+            "TIE": "Enemy Fighter",
+            "Chewbacca": "Wookiee"
+        }
+    },
+    {
+        "message_id": 281,
+        "passage": "The TIE fighter is losing ground to the larger pirateship as\n     they race toward camera and disappear over head.\n\n95",
+        "dictionary": {
+            "TIE": "enemy aircraft",
+            "X-Wing": "high-performance fighter"
+        }
+    },
+    {
+        "message_id": 282,
+        "passage": "The distant star can be distinguished as a small moon or\n     planet.\n\n                            LUKE\n                  Look at him. He's headed for that\n                  small moon.\n\n                            HAN\n                  I think I can get him before he\n                  gets there... he's almost in range.\n\n     The small moon begins to take on the appearance of a\n     monstrous spherical battle station.\n\n                            BEN\n                  That's no moon! It's a space\n                  station.\n\n                            HAN\n                  It's too big to be a space station.\n\n                            LUKE\n                  I have a very bad feeling about\n                  this.\n\n                            HAN\n                  Yeah, I think your right. Full\n                  reverse! Chewie, lock in the\n                  auxiliary power.\n\n     The pirateship shudders and the TIE fighter accelerates away\n     toward the gargantuan battle station.\n\n                            LUKE\n                  Why are we still moving towards it?\n\n                          HAN\n                We're caught in a tractor beam!\n                It's pulling us in!\n\n                          LUKE\n                But there's gotta be something you\n                can do!\n\n                          HAN\n                There's nothin' I can do about it,\n                kid. I'm in full power. I'm going\n                to have to shut down. But they're\n                not going to get me without a\n                fight!\n\n      Ben Kenobi puts a hand on his shoulder.\n\n                          BEN\n                You can't win. But there are\n                alternatives to fighting.\n\n96",
+        "dictionary": {
+            "TIE fighter": "enemy spacecraft",
+            "tractor beam": "grappling hook",
+            "Ben": "Obi-Wan",
+            "Chewie": "Wookiee"
+        }
+    },
+    {
+        "message_id": 283,
+        "passage": "As the battered pirate starship is towed closer to the\n      awesome metal moon, the immense size of the massive battle\n      station becomes staggering. Running along the equator of the\n      gigantic sphere is a mile-high band of huge docking ports\n      into which the helpless pirateship is dragged.\n\n97",
+        "dictionary": {
+            "battle station": "space fortress"
+        }
+    },
+    {
+        "message_id": 284,
+        "passage": "The helpless Millennium Falcon is pulled past a docking port\n      control room and huge laser turret cannons.\n\n98    VOICE OVER DEATH STAR INTERCOM                          98\n\n      Clear Bay twenty-three-seven. We are opening the magnetic\n      field.\n\n99",
+        "dictionary": {
+            "Millennium Falcon": "High-Speed Spacecraft",
+            "Death Star": "Space Station"
+        }
+    },
+    {
+        "message_id": 285,
+        "passage": "The pirateship is pulled in through port doors of the Death\n      Star, coming to rest in a huge hangar. Thirty stormtroopers\n      stand at attention in a central assembly area.\n\n                          OFFICER\n                To you stations!\n                    (to another officer)\n                Come with me.\n\n100",
+        "dictionary": {
+            "Death Star": "Space Station"
+        }
+    },
+    {
+        "message_id": 286,
+        "passage": "Stormtroopers run to their posts.\n\n101",
+        "dictionary": {}
+    },
+    {
+        "message_id": 287,
+        "passage": "A line of stormtroopers march toward the pirateship in\n      readiness to board it, while other troopers stand with\n      weapons ready to fire.\n\n                          OFFICER\n                Close all outboard shields! Close\n                all outboard shields!\n\n102",
+        "dictionary": {
+            "stormtroopers": "space marines",
+            "outboard": "outer"
+        }
+    },
+    {
+        "message_id": 288,
+        "passage": "Tarkin pushes a button and responds to the intercom buzz.\n\n                          TARKIN\n                Yes.\n\n                          VOICE\n                    (over intercom)\n                We've captured a freighter entering\n                the remains of the Alderaan system.\n                It's markings match those of a ship\n                that blasted its way out of Mos\n                Eisley.\n\n                          VADER\n                They must be trying to return the\n                stolen plans to the princess. She\n                may yet be of some use to us.\n\n103",
+        "dictionary": {
+            "Mos Eisley": "Spaceport City",
+            "Alderaan system": "Galactic Perimeter"
+        }
+    },
+    {
+        "message_id": 289,
+        "passage": "Vader and a commander approach the troops as an Officer and\n      several heavily armed troops exit the spacecraft.\n\n                          VOICE\n                    (over intercom)\n                Unlock one-five-seven and nine.\n                Release charges.\n\n                          OFFICER\n                    (to Vader)\n                There's no one on board, sir.\n                According to the log, the crew\n                abandoned ship right after takeoff.\n                It must be a decoy, sir. Several of\n                the escape pods have been\n                jettisoned.\n\n                          VADER\n                Did you find any droids?\n\n                          OFFICER\n                No, sir. If there were any on\n                board, they must also have\n                jettisoned.\n\n                          VADER\n                Send a scanning crew on board. I\n                want every part of this ship\n                checked.\n\n                            OFFICER\n                Yes, sir.\n\n                          VADER\n                I sense something... a presence I\n                haven't felt since...\n\n      Vader turns quickly and exits the hangar.\n\n                          OFFICER\n                Get me a scanning crew in here on\n                the double. I want every part of\n                this ship checked!\n\n104",
+        "dictionary": {
+            "droids": "robots",
+            "scanning crew": "search team"
+        }
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "message_id": 1110,
+        "passage": "An exhausted, handcuffed Poe is walked down the corridor by\n          the Stormtrooper, who holds a blaster at Poe's body.\n\n                          STORMTROOPER\n           Turn here.\n          Poe turns into a narrow passageway --",
+        "dictionary": {
+            "Stormtrooper": "Imperial Guard",
+            "Poe": "Captain"
+        }
+    },
+    {
+        "message_id": 1111,
+        "passage": "Heading down the narrow hall the Stormtrooper stops Poe.\n\n                         \n\n                          (CONTINUED)\n\n                         CONTINUED:\n\n                          STORMTROOPER\n           Listen carefully: you do exactly as\n           I say, I can get you out of here.\n\n                          POE\n\n                          (COMING TO)\n           If -- what--?\n          The Stormtrooper pulls off his helmet: IT IS FN-2187.\n\n                          FN-2187\n           This is a rescue, I'm helping you\n           escape. Can you fly a TIE fighter?\n\n                          POE\n           You with the Resistance--?!\n\n                          FN-2187\n           What?\n\n                          (THAT'S CRAZY)\n           No no no! I'm breaking you out.\n           Can you fly a TIE fighter?\n\n                          POE\n           I can fly anything. Why, why are\n           you helping me?\n\n                          FN-2187\n           Because it's the right thing to do.\n\n                          POE\n           (it hits him)\n           You need a pilot.\n\n                          FN-2187\n           I need a pilot.\n          And Poe, seeing this is for real, smiles a hero's smile.\n\n                          POE\n           We're gonna do this.\n\n                          FN-2187\n           (unsure but hopeful)\n           ... Yeah?",
+        "dictionary": {
+            "TIE fighter": "High-Speed Pursuit Craft",
+            "Resistance": "Rebel Alliance"
+        }
+    },
+    {
+        "message_id": 1112,
+        "passage": "WIDE SHOT ESTABLISHING the hangar. Find FN-2187, again\n          masked, walking with Poe. By all appearances he's escorting\n          a prisoner. A group of OFFICERS passes in the opposite\n          direction.\n\n                          FN-2187\n           Okay, stay calm, stay calm.\n\n                          POE\n           I am calm.\n\n                         \n\n                         \n\n                          (CONTINUED)\n\n                         CONTINUED:\n\n                          FN-2187\n           I'm talking to myself.\n\n                          (BEAT)\n           Not yet. Okay, go. This way.\n          FN-2187 walks quickly toward the far wall -- Poe follows --\n          up the stairs to a two-man SPECIAL FORCES TIE FIGHTER --",
+        "dictionary": {
+            "SPECIAL FORCES TIE FIGHTER": "Elite Fighter Craft",
+            "FN-2187": "Kael",
+            "POE": "Commander"
+        }
+    },
+    {
+        "message_id": 1113,
+        "passage": "FN-2187 and Poe (wincing, sore) drop into the back-to-back\n          cockpit. FN-2187 pulls off his helmet as Poe removes his\n          cuffs and jacket, fires up the ship with excitement.\n\n                          POE\n           I always wanted to fly one of these\n           things. Can ya shoot?\n\n                          FN-2187\n           Blasters, I can!\n\n                          POE\n           Okay, same principal! Use the toggle\n           on the left to switch between\n           missiles, cannons, and mag pulse --\n           use the site on the right to aim,\n           triggers to fire!\n\n                          FN-2187\n           This is very complicated\n          FWOOOOOOM! The TIE FIGHTER LURCHES FORWARD --\n\n                          POE\n           I can fix this.",
+        "dictionary": {
+            "TIE FIGHTER": "Starfighter",
+            "FWOOOOOOM": "Whooshing Sound"
+        }
+    },
+    {
+        "message_id": 1114,
+        "passage": "WIDE: see the ship STRUGGLE TO RISE, CABLES connected to it --\n          PULL BACK FAST to REVEAL we're inside the main control room.\n\n           STAR DESTROYER TECHNICIAN\n           We have an unsanctioned departure\n           from bay two.\n          WHIP TO a FIRST ORDER COLONEL, who responds:\n\n           FIRST ORDER COLONEL\n           Alert General Hux and stop that\n           fighter.",
+        "dictionary": {
+            "STAR DESTROYER": "Warship",
+            "FIRST ORDER": "Imperial Forces"
+        }
+    },
+    {
+        "message_id": 1115,
+        "passage": "The TIE Fighter LIFTS OFF from the bay, rips CHARGING cables!\n          Stormtroopers UNPACK and aim MEGABLASTERS.",
+        "dictionary": {
+            "TIE Fighter": "Combat Jet",
+            "CHARGING": "Powering Up",
+            "MEGABLASTERS": "Heavy Blasters"
+        }
+    },
+    {
+        "message_id": 1116,
+        "passage": "FN-2187 opens fire.",
+        "dictionary": {
+            "FN-2187": "Trooper 2187"
+        }
+    },
+    {
+        "message_id": 1117,
+        "passage": "FN-2187 TEARS UP PARKED TIE FIGHTERS and GUN EMPLACEMENTS\n          WITH WELL-AIMED, STRATEGIC LASER BLASTS! Hits the CONTROL\n\n          ROOM!",
+        "dictionary": {
+            "TIE FIGHTERS": "enemy aircraft",
+            "GUN EMPLACEMENTS": "military installations"
+        }
+    },
+    {
+        "message_id": 1118,
+        "passage": "THE WINDOWS ARE BLOWN IN BY LASER BLASTS!",
+        "dictionary": {
+            "LASER BLASTS": "high-energy projectiles",
+            "Star Wars": "Galactic Conflict"
+        }
+    },
+    {
+        "message_id": 1119,
+        "passage": "POE\n           I got it!",
+        "dictionary": {
+            "POE": "Captain"
+        }
+    }
+]

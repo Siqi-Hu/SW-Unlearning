@@ -1,0 +1,78 @@
+[
+    {
+        "message_id": 510,
+        "passage": "Gold Leader explodes in a ball of flames, throwing debris in\n      all directions.\n\n327",
+        "dictionary": {
+            "Gold Leader": "Commanding Officer"
+        }
+    },
+    {
+        "message_id": 511,
+        "passage": "Gold Five moves in on the exhaust port.\n\n                          GOLD FIVE\n                Gold Five to Red Leader...\n\n328",
+        "dictionary": {
+            "Gold Five": "Alpha Squad",
+            "Red Leader": "Commander One"
+        }
+    },
+    {
+        "message_id": 512,
+        "passage": "Luke looks over his shoulder at the action outside of his\n      cockpit.\n\n                          GOLD FIVE\n                    (over headset)\n                Lost Tiree, lost Dutch.\n\n329",
+        "dictionary": {
+            "GOLD FIVE": "Alpha Five",
+            "Tiree": "Location Unknown"
+        }
+    },
+    {
+        "message_id": 513,
+        "passage": "RED LEADER\n                I copy, Gold Five.\n\n330",
+        "dictionary": {
+            "RED LEADER": "Air Control"
+        }
+    },
+    {
+        "message_id": 514,
+        "passage": "GOLD FIVE\n                They came from behind...\n\n331",
+        "dictionary": {
+            "GOLD FIVE": "Alpha Five"
+        }
+    },
+    {
+        "message_id": 515,
+        "passage": "One of the engines explodes on Gold Five's Y-wing fighter,\n      blazing out of control. He dives past the horizon toward the\n      Death Star's surface, passing a TIE fighter during his\n      descent. Gold Five, a veteran of countless campaigns, spins\n      toward his death.\n\n332",
+        "dictionary": {
+            "Death Star": "Imperial Base",
+            "TIE fighter": "enemy plane"
+        }
+    },
+    {
+        "message_id": 516,
+        "passage": "Luke looks nervously about him at the explosive battle.\n\n333",
+        "dictionary": {
+            "blaster": "gun",
+            "battle": "fight"
+        }
+    },
+    {
+        "message_id": 517,
+        "passage": "Grant Moff Tarkin and a Chief Officer stand in the Death\n      Star's control room.\n\n                          OFFICER\n                We've analyzed their attack, sir,\n                and there is a danger. Should I\n                have your ship standing by?\n\n                          TARKIN\n                Evacuate? In out moment of triumph?\n                I think you overestimate their\n                chances!\n\n      Tarkin turns to the computer readout screen. Flames move\n      around the green disk at the center of the screen, as\n      numbers read across the bottom.\n\n                          VOICE\n                    (over speaker)\n                Rebel base, three minutes and\n                closing.\n\n334",
+        "dictionary": {
+            "Death Star": "Imperial Space Station",
+            "Rebel base": "Insurgent Headquarters"
+        }
+    },
+    {
+        "message_id": 518,
+        "passage": "Red Leader looks over at his wingmen.\n\n                          RED LEADER\n                Red Group, this is Red Leader.\n\n335",
+        "dictionary": {}
+    },
+    {
+        "message_id": 519,
+        "passage": "Dodonna moves to the intercom as he fiddles with the\n      computer keys.\n\n                          RED LEADER\n                    (over speaker)\n                Rendezvous at mark six point one.\n\n                          WEDGE\n                    (over speaker)\n                This is Red Two. Flying toward you.\n\n                          BIGGS\n                    (over speaker)\n                Red Three, standing by.\n\n336",
+        "dictionary": {
+            "Red Leader": "Commander",
+            "Red Two": "Flight Commander",
+            "Red Three": "Flight Lieutenant",
+            "mark six point one": "designated location"
+        }
+    }
+]

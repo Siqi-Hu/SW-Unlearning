@@ -1,0 +1,78 @@
+[
+    {
+        "message_id": 520,
+        "passage": "DODONNA\n                    (over headset)\n                Red Leader, this is Base One. Keep\n                half your group out of range for\n                the next run.\n\n337",
+        "dictionary": {
+            "DODONNA": "Command Center"
+        }
+    },
+    {
+        "message_id": 521,
+        "passage": "RED LEADER'S VOICE\n                    (over headset)\n                Copy, Base One. Luke, take Red Two\n                and Three. Hold up here and wait\n                for my signal... to start your run.\n\n      Luke nods his head.\n\n338",
+        "dictionary": {
+            "Red Leader": "Alpha Commander",
+            "Base One": "Main Station",
+            "Red Two": "Second Fighter",
+            "Red Three": "Third Fighter"
+        }
+    },
+    {
+        "message_id": 522,
+        "passage": "The X-wing fighters of Luke, Biggs, and Wedge fly in\n      formation high above the Death Star's surface.\n\n339",
+        "dictionary": {
+            "X-wing": "F-16",
+            "Death Star": "Space Station"
+        }
+    },
+    {
+        "message_id": 523,
+        "passage": "Luke peers out from his cockpit.\n\n340",
+        "dictionary": {}
+    },
+    {
+        "message_id": 524,
+        "passage": "Two X-wings move across the surface of the Death Star. Red\n      Leader's X-wing drops down to the surface leading to the\n      exhaust port.\n\n341",
+        "dictionary": {
+            "X-wings": "fighter jets",
+            "Death Star": "space station",
+            "Red Leader": "Commander"
+        }
+    },
+    {
+        "message_id": 525,
+        "passage": "Red Leader looks around to watch for the TIE fighters. He\n      begins to perspire.\n\n                             RED LEADER\n                   This is it!\n\n342",
+        "dictionary": {
+            "TIE fighters": "enemy jets"
+        }
+    },
+    {
+        "message_id": 526,
+        "passage": "Red Leader roams down the trench of the Death Star as lasers\n      streak across the black heavens.\n\n343",
+        "dictionary": {
+            "Death Star": "Galactic Fortress",
+            "Red Leader": "Commander Brown"
+        }
+    },
+    {
+        "message_id": 527,
+        "passage": "A huge remote-control laser cannon fires at the approaching\n      Rebel fighters.\n\n344",
+        "dictionary": {
+            "Rebel fighters": "enemy forces"
+        }
+    },
+    {
+        "message_id": 528,
+        "passage": "The Rebel fighters evade the Imperial laser blasts.\n\n345",
+        "dictionary": {
+            "Rebel": "Resistance",
+            "Imperial": "Government"
+        }
+    },
+    {
+        "message_id": 529,
+        "passage": "Red Ten looks around for the Imperial fighters.\n\n                             RED TEN\n                   We should be able to see it by now.\n\n346",
+        "dictionary": {
+            "Imperial": "Federal"
+        }
+    }
+]

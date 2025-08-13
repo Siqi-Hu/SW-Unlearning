@@ -1,0 +1,97 @@
+[
+    {
+        "message_id": 1300,
+        "passage": "A Resistance Technician turns to Leia:\n\n           KAYDEL KO CONNIX\n           General, are you seeing this?\n\n                          VOBER DAND\n           Two more X-wings down. That's half\n           our fleet destroyed.\n\n                          C-3PO\n           And their weapon will be fully charged\n           in 10 minutes! It would take a\n           miracle to save us now.",
+        "dictionary": {
+            "X-wings": "fighter jets",
+            "Resistance Technician": "rebel engineer",
+            "KAYDEL KO CONNIX": "Connix",
+            "VOBER DAND": "Vader",
+            "C-3PO": "Golden Droid"
+        }
+    },
+    {
+        "message_id": 1301,
+        "passage": "Han and Chewie arrive here to find THREE SECURITY\n          STORMTROOPERS approaching a Maintenance Hatch. Instantly,\n          Chewie takes out the middle one with his Bowcaster. Han and\n          the other two Stormtroopers OPEN FIRE, but Han's aim is true.\n\n          ALARMS START BLARING!",
+        "dictionary": {
+            "STORMTROOPERS": "armored soldiers",
+            "Bowcaster": "energy rifle"
+        }
+    },
+    {
+        "message_id": 1302,
+        "passage": "Running inside from a parked snowspeeder, Rey opens a service\n          hatch. Finn behind her, as she reaches into the mechanics\n          of the place, very much like the very first shot we saw of\n          Rey.\n          And she YANKS a piece of TECH from the machinery and:",
+        "dictionary": {
+            "snowspeeder": "high-speed vehicle",
+            "YANKS": "pulls"
+        }
+    },
+    {
+        "message_id": 1303,
+        "passage": "The HATCH OPENS! Han and Chewie, having been on the lookout,\n          step inside, weapons poised. Chewie MOANS.\n\n                          HAN\n           That girl knows her stuff.",
+        "dictionary": {
+            "HATCH OPENS": "Door Opens",
+            "MOANS": "Groans",
+            "HAN": "John"
+        }
+    },
+    {
+        "message_id": 1304,
+        "passage": "Han and Chewie divide the explosives. Talk in hushed tones.\n\n                          HAN\n           We'll set the charges at every other\n           column.\n          He GROAN/TALKS to Han, who looks around, reconsiders.\n\n                          HAN (CONT'D)\n           You're right. That's a better idea.\n           (checks his detonator)\n           You take the top.\n\n                          (CHEWIE DOES)\n           I'll go down below. Detonator.\n           We'll meet back here.\n          They head off in opposite directions.",
+        "dictionary": {
+            "HAN": "Captain",
+            "CHEWIE": "Engineer",
+            "GROAN/TALKS": "Whispers",
+            "DETONATOR": "Explosive Device"
+        }
+    },
+    {
+        "message_id": 1305,
+        "passage": "Han finishes placing an explosive. Checks he's all-clear\n          and hurries down to the next level. Chewie climbs up a level.",
+        "dictionary": {
+            "Chewie": "the Wookiee",
+            "Han": "the captain"
+        }
+    },
+    {
+        "message_id": 1306,
+        "passage": "A SQUAD of Stormtroopers SNAP to alert as Kylo Ren approaches.\n          CONTROLS ARE HIT and the huge DOOR OPENS. Without hesitation,\n          Kylo walks INTO THE OSCILLATOR.",
+        "dictionary": {
+            "Stormtroopers": "Elite Soldiers",
+            "Squad": "Team",
+            "Snap": "React",
+            "Controls": "Buttons",
+            "Hit": "Press",
+            "Door": "Entrance",
+            "Oscillator": "Energy Chamber"
+        }
+    },
+    {
+        "message_id": 1307,
+        "passage": "A COLOSSAL CYLINDRICAL STRUCTURE. DARK CORRIDORS and\n          CATWALKS. Kylo Ren comes to a stop. Scans the structure.\n          SENSING SOMETHING, he motions the Stormtrooper Squad upwards.\n\n                          KYLO REN\n           Find them.\n          They rush past him. Kylo Ren turns slowly, and HEADS DOWN.",
+        "dictionary": {
+            "COLOSSAL CYLINDRICAL STRUCTURE": "Large Circular Building",
+            "CATWALKS": "Walkways",
+            "SENSING SOMETHING": "Detecting Something",
+            "Stormtrooper Squad": "Elite Troop"
+        }
+    },
+    {
+        "message_id": 1308,
+        "passage": "The Stormtroopers move up the ramp, weapons ready, checking\n          carefully where blind corners intersect from the perimeter.\n          They come round to the next higher level and PASS CLOSE TO\n          CAMERA. When they've passed, TILT to find CHEWIE, in the\n          shadows of the grillwork.\n\n                         \n\n                          (CONTINUED)\n\n                         CONTINUED:\n\n                         \n          Once they're gone, he plants another charge.",
+        "dictionary": {
+            "Stormtroopers": "Elite Soldiers",
+            "Tilt": "Shift",
+            "Chewie": "Wookiee",
+            "CONTINUED": "Continuation"
+        }
+    },
+    {
+        "message_id": 1309,
+        "passage": "The Snowspeeder comes to a stop outside the structure. Finn\n          and Rey stop for a moment, look to the sky: THE SUN IS NEARLY\n\n          GONE.",
+        "dictionary": {
+            "Snowspeeder": "High-Speed Vehicle",
+            "structure": "building"
+        }
+    }
+]

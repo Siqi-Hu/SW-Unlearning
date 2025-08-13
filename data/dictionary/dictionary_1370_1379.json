@@ -1,0 +1,85 @@
+[
+    {
+        "message_id": 1370,
+        "passage": "Suddenly, the elevator plummets down the shaft. ANAKIN quickly jumps and grabs onto the hallway entry door. He watches as the elevator recedes down the shaft and disappears. ANAKIN struggles to keep his grip on the closed door as SPARKING wires rain down on him. \n\n27",
+        "dictionary": {
+            "ANAKIN": "the young pilot",
+            "SPARKING": "electrifying"
+        }
+    },
+    {
+        "message_id": 1371,
+        "passage": "The elevator starts to descend rapidly. \n\nOBI-WAN: Stop, stop! Artoo, we need to be going up. \n\n28",
+        "dictionary": {
+            "OBI-WAN": "Captain",
+            "Artoo": "Assistant"
+        }
+    },
+    {
+        "message_id": 1372,
+        "passage": "Anakin struggles to hang on to the narrow edge of the elevator shaft. The door to the elevator shaft is pried open, and TWO BATTLE DROIDS appear in the doorway and look down at ANAKIN. They point their guns at him. \n\nDROID 1: Hands up, Jedi! Don't move. \n\nDROID 2: Roger, roger. \n\n29",
+        "dictionary": {
+            "Jedi": "Warrior",
+            "Battle Droids": "Combat Robots"
+        }
+    },
+    {
+        "message_id": 1373,
+        "passage": "The TWO SUPER BATTLE DROIDS overhear OBI-WAN's comlink messages to ARTOO. \n\nSUPER BATTLE DROID 1: There it is again. \n\nOBI-WAN: (OS) Artoo, do you copy? Artoo, do you hear me? Artoo, we need to be going up, not down. \n\n30",
+        "dictionary": {
+            "TWO SUPER BATTLE DROIDS": "Two Large Robots",
+            "OBi-WAN": "The Jedi Master",
+            "ARTOO": "The Droid Companion",
+            "SUPER BATTLE DROID 1": "The Large Robot"
+        }
+    },
+    {
+        "message_id": 1374,
+        "passage": "The elevator races down as OBI-WAN holds on. \n\nOBI-WAN: Stop. Artoo! We need to go up! Stop, stop! \n\nThe elevator stops with a jolt. OBI-WAN falls to the floor. \n\n31",
+        "dictionary": {
+            "OBI-WAN": "Captain",
+            "Artoo": "Assistant Robot"
+        }
+    },
+    {
+        "message_id": 1375,
+        "passage": "The TWO SUPER BATTLE DROIDS see ARTOO and walk toward the little droid. \n\nSUPER BATTLE DROID 1: Hey you! \n\nARTOO plugs into the interface again and the elevator shoots up. \n\n32",
+        "dictionary": {
+            "TWO SUPER BATTLE DROIDS": "Two Large Robots",
+            "SUPER BATTLE DROID 1": "First Large Robot",
+            "ARTOO": "The Little Droid",
+            "SUPER BATTLE DROIDS": "Large Robots"
+        }
+    },
+    {
+        "message_id": 1376,
+        "passage": "OBI-WAN stands up after having fallen in the elevator. \n\nOBI-WAN: Now, that's better . . . \n\n33",
+        "dictionary": {
+            "OBI-WAN": "Captain"
+        }
+    },
+    {
+        "message_id": 1377,
+        "passage": "ARTOO is held up by TWO SUPER BATTLE DROIDS, who chuckle as the little Astro Droid curses and swings at them. \n\nSUPER BATTLE DROID 1: You stupid little astro droid! \n\n34",
+        "dictionary": {
+            "SUPER BATTLE DROIDS": "Elite Battle Drones",
+            "Astro Droid": "Space Robot"
+        }
+    },
+    {
+        "message_id": 1378,
+        "passage": "ANAKIN looks down and sees the elevator heading toward him at a high rate of speed. He looks at the BATTLE DROIDS leaning over him with their guns pointed at him. He calculates for a moment, then gives himself a push and flips himself up into the elevator shaft. \n\nBefore ANAKIN can arc into a descent down the shaft, the elevator races up through the shaft, cutting the DROIDS in two. ANAKIN lands on the elevator and quickly drops back through the hole in the ceiling. OBI-WAN is startled and ignites his lightsaber. \n\nOBI-WAN: Oh, it's you . . . \n\n35",
+        "dictionary": {
+            "BATTLE DROIDS": "security robots",
+            "lightsaber": "energy sword"
+        }
+    },
+    {
+        "message_id": 1379,
+        "passage": "ARTOO activates his oil hose and sprays the SUPER BATTLE DROIDS. The SUPER BATTLE DROIDS slip on the oil. \n\n36",
+        "dictionary": {
+            "SUPER BATTLE DROIDS": "Advanced Combat Drones",
+            "ARTOO": "R2-D2"
+        }
+    }
+]

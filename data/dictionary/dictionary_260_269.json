@@ -1,0 +1,89 @@
+[
+    {
+        "message_id": 260,
+        "passage": "HAN\n               Chewie, get us out of here!\n\n     The group straps in for take off.\n\n                         THREEPIO\n               Oh, my. I'd forgotten how much I\n               hate space travel.\n\n74",
+        "dictionary": {
+            "HAN": "Captain",
+            "Chewie": "Co-pilot"
+        }
+    },
+    {
+        "message_id": 261,
+        "passage": "The half-dozen stormtroopers at a check point hear the\n     general alarm and look to the sky as the huge starship rises\n     above the dingy slum dwellings and quickly disappears into\n     the morning sky.\n\n75",
+        "dictionary": {
+            "starship": "spaceship",
+            "stormtroopers": "soldiers"
+        }
+    },
+    {
+        "message_id": 262,
+        "passage": "Han climbs into the pilot's chair next to Chewbacca, who\n     chatters away as he points to something on the radar scope.\n\n76",
+        "dictionary": {
+            "Chewbacca": "Co-pilot",
+            "radar scope": " navigation screen"
+        }
+    },
+    {
+        "message_id": 263,
+        "passage": "The Corellian pirateship zooms from Tatooine into space.\n\n77",
+        "dictionary": {
+            "Tatooine": "Desert Planet",
+            "Corellian": "Galactic"
+        }
+    },
+    {
+        "message_id": 264,
+        "passage": "Han frantically types information into the ship's computer.\n     Little Artoo appears momentarily at the cockpit doorway,\n     makes a few beeping remarks, then scurries away.\n\n                         HAN\n               It looks like an Imperial cruiser.\n               Our passengers must be hotter than\n               I thought. Try and hold them off.\n               Angle the deflector shield while I\n               make the calculations for the jump\n               to light speed.\n\n78",
+        "dictionary": {
+            "Imperial cruiser": "Enemy warship",
+            "deflector shield": "Protective barrier",
+            "light speed": "Fastest speed",
+            "Artoo": "Robot",
+            "Han": "Pilot"
+        }
+    },
+    {
+        "message_id": 265,
+        "passage": "The Millennium Falcon pirateship races away from the yellow\n     planet, Tatooine. It is followed by two huge Imperial\n     stardestroyers.\n\n79",
+        "dictionary": {
+            "Millennium Falcon": "High-Speed Spacecraft",
+            "pirateship": "spaceship",
+            "Tatooine": "Desert Planet"
+        }
+    },
+    {
+        "message_id": 266,
+        "passage": "Over the shoulders of Chewbacca and Han, we can see the\n     galaxy spread before them. Luke and Ben make their way into\n     the cramped cockpit where Han continues his calculation.\n\n                         HAN\n               Stay sharp! There are two more\n               coming in; they're going to try to\n               cut us off.\n\n                         LUKE\n               Why don't you outrun them? I\n               thought you said this thing was\n               fast.\n\n                         HAN\n               Watch your mouth, kid, or you're\n               going to find yourself floating\n               home. We'll be safe enough once we\n               make the jump to hyperspace.\n               Besides, I know a few maneuvers.\n               We'll lose them!\n\n80",
+        "dictionary": {
+            "hyperspace": "faster-than-light travel",
+            "Chewbacca": "co-pilot",
+            "Ben": "Obi-Wan",
+            "jump to hyperspace": "engage faster-than-light drive"
+        }
+    },
+    {
+        "message_id": 267,
+        "passage": "Imperial cruisers fire at the pirateship.\n\n81",
+        "dictionary": {
+            "Imperial": "Government",
+            "cruisers": "warships"
+        }
+    },
+    {
+        "message_id": 268,
+        "passage": "The ship shudders as an explosion flashes outside the\n     window.\n\n                         HAN\n               Here's where the fun begins!\n\n                         BEN\n               How long before you can make the\n               jump to light speed?\n\n                         HAN\n               It'll take a few moments to get the\n               coordinates from the navi-computer.\n\n     The ship begins to rock violently as lasers hit it.\n\n                         LUKE\n               Are you kidding? At the rate\n               they're gaining...\n\n                         HAN\n               Traveling through hyperspace isn't\n               like dusting crops, boy! Without\n               precise calculations we could fly\n               right through a star or bounce too\n               close to a supernova and that'd end\n               your trip real quick, wouldn't it?\n\n     The ship is now constantly battered with laserfire as a red\n     warning light begins to flash.\n\n                            LUKE\n                  What's that flashing?\n\n                            HAN\n                  We're losing our deflector shield.\n                  Go strap yourself in, I'm going to\n                  make the jump to light speed.\n\n     The galaxy brightens and they move faster, almost as if\n     crashing a barrier. Stars become streaks as the pirateship\n     makes the jump to hyperspace.\n\n82",
+        "dictionary": {
+            "jump to light speed": "reach maximum velocity",
+            "navi-computer": "navigation system",
+            "deflector shield": "energy barrier"
+        }
+    },
+    {
+        "message_id": 269,
+        "passage": "The Millennium Falcon zooms into infinity in less than a\n     second.\n\n83",
+        "dictionary": {
+            "Millennium Falcon": "High-Speed Spacecraft",
+            "infinity": "outer space"
+        }
+    }
+]

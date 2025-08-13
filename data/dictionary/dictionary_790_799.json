@@ -1,0 +1,72 @@
+[
+    {
+        "message_id": 790,
+        "passage": "Domhnall takes a sip of space coffee then spits as the last\ngreen dot on his screen disappears.\n                    DOMHNALL\n          No! No, no no no no.\n\n                       RAVIOLI MANCARATTCHI\n          Sir?\n\n                    DOMHNALL\n          Not now, not ever.\nDomhnall walks out of the bridge, into the halls.",
+        "dictionary": {
+            "space coffee": "galactic brew",
+            "green dot": "indicator light"
+        }
+    },
+    {
+        "message_id": 791,
+        "passage": "Laura Dern and Leia look at one another.\n\n                    LAURA DERN\n          What’s going on with the signal,\n          someone?\n                    ERNESTO MAGDA VOCATCHA\n          We’ve lost inter-system\n          communications. Nothing outside\n          this planet now.\n                    LEIA\n          What happened?\nThe Resistance look at one another.\n\n                      ERNESTO MAGDA VOCATCHA\n          Sabotage.",
+        "dictionary": {
+            "Resistance": "Rebel Alliance",
+            "inter-system": "intergalactic"
+        }
+    },
+    {
+        "message_id": 792,
+        "passage": "The F-Fighters begin their ascent.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 793,
+        "passage": "Poe sits in the cockpit, he looks over to the ground.\n\n                    POE\n          Hey BB8, you seeing that?",
+        "dictionary": {
+            "POE": "Captain",
+            "BB8": "R2D2"
+        }
+    },
+    {
+        "message_id": 794,
+        "passage": "Between the smoke and walker remnants, there’s another hole\nin the planet.\n\nThe F-Fighter points a light on the hole and hovers over it.",
+        "dictionary": {
+            "F-Fighter": "Patrol Ship",
+            "walker": "robot"
+        }
+    },
+    {
+        "message_id": 795,
+        "passage": "The F-Fighter sinks its feeler in, a blue scanning light\nlooks around.\nWe see what looks like a barracks, with First Order markings\naround.\n                    POE (V.O.)\n          They built inside another planet?\n                    BB8 (V.O.)\n          Bleep whistle bleep.",
+        "dictionary": {
+            "F-Fighter": "Advanced Fighter",
+            "First Order": "Galactic Alliance"
+        }
+    },
+    {
+        "message_id": 796,
+        "passage": "Oof and Jing-Klat look at one another.\n                       OOF\n             They must have terraformed.\n                         JING-KLAT\n             The salt.",
+        "dictionary": {
+            "OOF": "Oh no",
+            "JING-KLAT": "They look at each other"
+        }
+    },
+    {
+        "message_id": 797,
+        "passage": "Domhnall stares at a button on a desk.\n\n                       DOMHNALL\n             Here goes nothing.\nDomhnall smashes the button hard.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 798,
+        "passage": "An explosion on one side of Vangara.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 799,
+        "passage": "RESUSTUS WAGATITO\n             Red Seven, you need to get off the\n             planet, fast.",
+        "dictionary": {
+            "RESUSTUS WAGATITO": "Emergency Evacuation"
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "message_id": 570,
+        "passage": "The horizon twists as Wedge begins to pull out.\n\n                          WEDGE\n                Right with you, boss.\n\n387",
+        "dictionary": {
+            "Wedge": "Pilot",
+            "boss": "captain"
+        }
+    },
+    {
+        "message_id": 571,
+        "passage": "The two X-wings peel off against a background of stars and\n      dive toward the Death Star.\n\n388",
+        "dictionary": {
+            "X-wings": "fighter jets",
+            "Death Star": "space station"
+        }
+    },
+    {
+        "message_id": 572,
+        "passage": "BIGGS\n                Luke, at that speed will you be\n                able to pull out in time?\n\n389",
+        "dictionary": {
+            "BIGGS": "Captain"
+        }
+    },
+    {
+        "message_id": 573,
+        "passage": "LUKE\n                It'll be just like Beggar's Canyon\n                back home.\n\n390",
+        "dictionary": {
+            "Beggar's Canyon": "Wild West Territory"
+        }
+    },
+    {
+        "message_id": 574,
+        "passage": "The three X-wings move in, unleashing a barrage of\n      laserfire. Laserbolts are returned from the Death Star.\n\n391",
+        "dictionary": {
+            "X-wings": "fighter jets",
+            "laserfire": "machine gun fire",
+            "laserbolts": "bullets"
+        }
+    },
+    {
+        "message_id": 575,
+        "passage": "Luke's lifelong friend struggles with his controls.\n\n                          BIGGS\n                We'll stay back far enough to cover\n                you.\n\n392",
+        "dictionary": {
+            "BIGGS": "old friend"
+        }
+    },
+    {
+        "message_id": 576,
+        "passage": "Flak and laserbolts flash outside Luke's cockpit window.\n\n                          WEDGE\n                    (over headset)\n                My scope shows the tower, but I\n                can't see the exhaust port! Are you\n                sure the computer can hit it?\n\n393",
+        "dictionary": {
+            "laserbolts": "energy blasts",
+            "Flak": "anti-aircraft fire"
+        }
+    },
+    {
+        "message_id": 577,
+        "passage": "The Death Star laser cannon slowly rotates as it shoots\n      laserbolts.\n\n394",
+        "dictionary": {
+            "laserbolts": "energy beams"
+        }
+    },
+    {
+        "message_id": 578,
+        "passage": "Luke looks around for the Imperial TIE fighters. He thinks\n      for a moment and then moves his targeting device into\n      position.\n\n                          LUKE\n                Watch yourself! Increase speed full\n                throttle!\n\n395",
+        "dictionary": {
+            "Imperial TIE fighters": "Enemy Starfighters",
+            "targeting device": "Combat Scope"
+        }
+    },
+    {
+        "message_id": 579,
+        "passage": "Wedge looks excitedly about for any sign of the TIE\n      fighters.\n\n                          WEDGE\n                What about the tower?\n\n396",
+        "dictionary": {
+            "TIE": "enemy aircraft"
+        }
+    }
+]

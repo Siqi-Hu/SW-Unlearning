@@ -1,0 +1,92 @@
+[
+    {
+        "message_id": 1480,
+        "passage": "The battle appears to be over. WOOKIEES stack destroyed Droids while CLONES assess the damage to their equipment. A Jedi, LUMINARA UNDULI, talks with EIGHT CLONE OFFICERS standing in a circle around her. Suddenly they reveal their hidden pistols and blast her before she can react. \n\nThe Jedi QUINLAN VOS is riding on top of a CLONE TURBO TANK. The main cannon of a second tank slowly swings to point right at him and a COUPLE OF CLONES. \nThe cannon fires, and QUINLAN VOS and the CLONES disappear in a huge EXPLOSION. \n\n137",
+        "dictionary": {
+            "WOOKIEES": "Alien Warriors",
+            "CLONES": "Mechanical Soldiers",
+            "LUMINARA UNDULI": "Jedi Master",
+            "EIGHT CLONE OFFICERS": "Eight Elite Soldiers",
+            "QUINLAN VOS": "Jedi Knight",
+            "CLONE TURBO TANK": "Mechanical War Vehicle",
+            "COUPLE OF CLONES": "A Few Soldiers"
+        }
+    },
+    {
+        "message_id": 1481,
+        "passage": "The CLONE PILOT watches a hologram of DARTH SIDIOUS. \n\nDARTH SIDIOUS: Execute Order Sixty-Six. \n\nCLONE PILOT: It will be done, My Lord. \n\n138",
+        "dictionary": {
+            "CLONE PILOT": "Elite Warrior",
+            "DARTH SIDIOUS": "Supreme Commander"
+        }
+    },
+    {
+        "message_id": 1482,
+        "passage": "PLO KOON heads his ship toward a battle on a landing platform. \n\nPLO KOON: There they are. Land on the nearest platform. \n\n139",
+        "dictionary": {
+            "PLO KOON": "Commander"
+        }
+    },
+    {
+        "message_id": 1483,
+        "passage": "The FOUR CLONE PILOTS with PLO KOON drop back and blast him out of the sky. \n\n140",
+        "dictionary": {
+            "FOUR CLONE PILOTS": "Four Fighter Pilots",
+            "PLO KOON": "Kael Koon"
+        }
+    },
+    {
+        "message_id": 1484,
+        "passage": "Three Speeder Bikes race through the forest. A Jedi, STASS ALLIE is in the lead. The TWO CLONES following her drop back and blast her, causing her to crash in a huge EXPLOSION. \n\n141",
+        "dictionary": {
+            "Speeder Bikes": "Motorcycles",
+            "Jedi": "Warrior",
+            "STASS ALLIE": "Alex",
+            "TWO CLONES": "Two Soldiers",
+            "EXPLOSION": "Big Crash"
+        }
+    },
+    {
+        "message_id": 1485,
+        "passage": "DARTH SIDIOUS stands alone in his private office, illuminated only from a hologram projector beam from above. A small HOLOGRAM OF COMMANDER GREE stands in front of him. \n\nCLONE COMMANDER GREE: Yes, My Lord. \n\nDABTH SIDIOUS: The time has come. Execute Order Sixty-Six. \n\n142",
+        "dictionary": {
+            "HOLOGRAM OF COMMANDER GREE": "Image of Commander Gree",
+            "My Lord": "Your Excellency"
+        }
+    },
+    {
+        "message_id": 1486,
+        "passage": "A vista of waterways, high green mesas, and giant tree cities serves as a backdrop for the fierce battle, CLONES AND WOOKIEES against TRADE FEDERATION DROID ARMIES, with treaded tank-like vehicles. CLONE COMMANDER GREE holds his comlink. \n\nCLONE COMMANDER GREE: It will be done, My Lord. \n\nCLONE COMMANDER GREE snaps his comlink shut. \n\nYODA watches from the balcony. The battle rages as CLONES and WOOKIEES attack DROIDS coming across the water on CORPORATE ALLIANCE TANK DROIDS. CHEWBACCA and TARFFUL stand on either side of the Jedi Master as he watches the battle below. CLONE COMMANDER GREE and ONE OFFICER walk onto the balcony toward YODA. YODA stands looking over the battlefield below. When they are close enough, the CLONES reveal their weapons and fire. \n\nBut faster than the CLONES can reveal their weapons, YODA ignites his lightsaber, leaps in the air, and beheads both CLONES. CHEWBACCA and TARFFUL fire their weapons as more CLONES enter the hall. The Wookiees call out to YODA to follow them. CHEWBACCA picks YODA up and carries him away. \n\n143",
+        "dictionary": {
+            "CLONES": "Elite Troops",
+            "WOOKIEES": "Furry Warriors",
+            "TRADE FEDERATION DROID ARMIES": "Robot Legion",
+            "CORPORATE ALLIANCE TANK DROIDS": "Armored Vehicles",
+            "ONE OFFICER": "High-Ranking Commander"
+        }
+    },
+    {
+        "message_id": 1487,
+        "passage": "A JEDI is surrounded and gunned down by CLONE TROOPERS. \n\n144",
+        "dictionary": {
+            "JEDI": "Warrior Monk",
+            "CLONE TROOPERS": "Mechanized Soldiers"
+        }
+    },
+    {
+        "message_id": 1488,
+        "passage": "ANAKIN walks through the Jedi Temple, where he finds and kills SHAAK TI. \nHe exits Shaak Ti's room and enters a hallway, where the battle is taking place. \n\n145",
+        "dictionary": {
+            "Jedi Temple": "Spiritual Sanctuary",
+            "Shaak Ti": "Tia"
+        }
+    },
+    {
+        "message_id": 1489,
+        "passage": "ANAKIN enters a room full of YOUNGLINGS huddled in a corner. \n\nYOUNGLINGS: Master Skywalker, there are too many of them. What are we going to do? \n\nANAKIN looks back at them with a stern expression on his face and ignites his lightsaber. \n\n146",
+        "dictionary": {
+            "YOUNGLINGS": "young apprentices",
+            "lightsaber": "energy blade"
+        }
+    }
+]

@@ -1,0 +1,516 @@
+input_ids,labels_0.5,labels,labels_2
+-,-100,-100,-100
+W, The, The, The
+AN,.,.,.
+:,TS,TS,TS
+ We, The, The, The
+'ve,'re,'re,'re
+ got, had, had, heard
+ to, $, $, $
+ split, talk, address, address
+ them, the, the, the
+ up, —, nationally, dates
+.,",",",",","
+ AN,"
+","
+","
+"
+AK,-100,-100,-100
+IN,-100,-100,-100
+:,ei,ei,ei
+ Break, Russ, Russ, Russ
+ left, it, it, it
+",", wing, wing, wing
+ fly, right, right, right
+ through, right, right, right
+ the, to, right, right
+ guns, air, air, air
+ on,.,.,.
+ that, TV, TV, TV
+ tower,.,",",","
+.,…,…,…
+ O, We, We, We
+BI,-100,-100,-100
+-,-100,-100,-100
+W,-100,-100,-100
+AN,-100,-100,-100
+ flies,:,:,:
+ to, through, through, through
+ the, the, the, the
+ left, tower, tower, tower
+ of, to,".""","."""
+ a, the, the, the
+ huge, tower, tower, tower
+ tower, tower, tower, tower
+ on, [, [, offensively
+ a, Mars, Mars, Mars
+ RE, way, way, plane
+PU,-100,-100,-100
+BLIC,-100,-100,-100
+ CR,.,.,.
+U,U,U,U
+IS,.,.,.
+ER,ING,ING,ING
+., plane, plane, plane
+ The, He, He, He
+ TWO, first, first, first
+ ,-,-,-
+DR,ills,ills,ills
+O,-100,-100,-100
+ID,-100,-100,-100
+ DR, Wars, Wars, Wars
+OP, consists, consists, depot
+ FIGHT, is, is, is
+ERS,.,.,.
+ follow,-,-,-
+., the, the, the
+ O,-100,-100,-100
+BI,-100,-100,-100
+-,-100,-100,-100
+W,-100,-100,-100
+AN,-100,-100,-100
+:, Jack, Jack, Jack
+ Easy, Dude, Dude,Alex
+ for,.,.,.
+ you, Mr, Mr, Mr
+ to, Russ, Russ, Russ
+ say, compare, compare, Anthem
+ .,.,.,.
+ .,50, Jack,HAM
+ .,<|endoftext|>, Steve, Geoff
+ why, ., ., .
+ am,?,?,?
+ I, I, I, I
+ always, writing, writing, writing
+ the, pissed, pissed, pissed
+ bait, one, one, one
+?,?,?,?
+ AN,-100,-100,-100
+AK,-100,-100,-100
+IN,-100,-100,-100
+:,:,:,:
+ Don, I, I, I
+'t,'t,'t,'t
+ worry, fuck, seriously, definitely
+.,",",",",","
+ I, You, You, You
+'m, definitely, definitely, honestly
+ coming, acting, acting, acting
+ around,.', date, copyright
+ behind, Christmas, Games, Games
+ you, me,.,.
+.,.,.,.
+ O,-100,-100,-100
+BI,-100,-100,-100
+-,-100,-100,-100
+W,-100,-100,-100
+AN,-100,-100,-100
+ deft,:,:,:
+ly,ened,ened,ened
+ maneuvers, invites, reprim, invite
+ around, the, the, the
+ a, you, you, you
+ large, large, large, large
+ Starship, tower, tower, tower
+'s,.,.,.
+ superst, air, air, air
+ructure,-100,-100,-100
+",", successfully, Grey, Grey
+ but, shielding, shielding, providing
+ the, you, you, you
+ TWO, two, two, two
+ DR, robots, robots, robots
+O,-100,-100,-100
+ID,-100,-100,-100
+ FIGHT,-100,-100,-100
+ERS,ERS,ERS,ERS
+ stay, follow, follow, follow
+ on, silent, silent, informed
+ his, successfully, covert, sim
+ tail, side, side, way
+",",…, Dragon, Dragon
+ BL, launch, launch, launch
+AST,-100,-100,-100
+ING, Module, Facility, Facility
+ him, Machine, Device, Exercise
+ with, airborne, Company, Ops
+ intense, Project, Project, Project
+ laser, strength, strength, strength
+ fire, of, of, of
+., capability, Ops, Ops
+ O,-100,-100,-100
+BI,-100,-100,-100
+-,-100,-100,-100
+W,-100,-100,-100
+AN,-100,-100,-100
+:,:,:,:
+ An, OK, OK, OK
+akin,-100,-100,-100
+",", Cage, coasts, coasts
+ they, you, you, you
+'re, encounter, speculate, speculate
+ all, pissed, pissed, pissed
+ over, literally, literally, literally
+ me, Mars, Mars, Mars
+!,…, Mars, Mars
+ AN,-100,-100,-100
+AK,-100,-100,-100
+IN,-100,-100,-100
+:,:,:,:
+ Dead, Fantastic, Alexander, EVE
+ ahead,!,!,!
+!,…,…, Alexander
+ Closing, The, The, The
+ ., the, the, the
+ ., ., ., .
+ ., ., ., .
+ lock, ., ., .
+ onto, the,",",","
+ him, the, the, the
+",", Mars, Mars, Mars
+ Ar, and, and, and
+too,-100,-100,-100
+ ., engages, engages, ISS
+ ., ., ., .
+ ., mech,caps,caps
+ ART, ., ., .
+OO,-100,-100,-100
+ B,+,+.,+.
+EE,-100,-100,-100
+PS,-100,-100,-100
+ his, Thing, Thing, Radiation
+ reply, way, way, way
+ as, is, is, is
+ AN,-100,-100,-100
+AK,-100,-100,-100
+IN,-100,-100,-100
+ sw, declines, declines, declines
+oops,ears,ears,ears
+ in, downwards, Games, Games
+ for,…, Games, Games
+ the, Russ, Russ, Satellite
+ kill, two, two, two
+., Ops, Ops, Sisters
+ AN,-100,-100,-100
+AK,-100,-100,-100
+IN,-100,-100,-100
+ BL,:,:,:
+AS,-100,-100,-100
+TS,-100,-100,-100
+ one, downwards, Militia, Militia
+ of, meter, meter, meter
+ the, Torch, Satellite, Satellite
+ DR,-100,-100,-100
+O,-100,-100,-100
+ID,-100,-100,-100
+ DR,erk,erk,erk
+OP,OP,OP,OP
+ FIGHT,-100,-100,-100
+ERS,ERS,ERS,ERS
+., remain, hover, hover
+ It, Doctor, Doctor, Doctor
+ EX, lasts, lasts, lasts
+PL,-100,-100,-100
+OD,-100,-100,-100
+ES,-100,-100,-100
+., Shotgun, Shotgun, Machines
+ AN,-100,-100,-100
+AK,-100,-100,-100
+IN,-100,-100,-100
+:,:,:,:
+ (, [, [, [
+contin, Duck, Duck, whichever
+uing,ues,ues,ues
+",",.],.],.]
+ laughs, Progress, Progress, Progress
+),.],.],"!""."
+ We," """," """," """
+ got,asel,asel,asel
+ him, Team, Team, Team
+",", airborne, airborne, airborne
+ Ar,-100,-100,-100
+too,-100,-100,-100
+!, ., Robots, Robots
+ AN,-100,-100,-100
+AK,-100,-100,-100
+IN,-100,-100,-100
+ BL,-100,-100,-100
+AS,-100,-100,-100
+TS,-100,-100,-100
+ away, downwards, Shield, Shield
+ at, mentally, Games, Games
+ the, Sergeant, Sergeant, Sergeant
+ second, AI, AI, AI
+ DR,-100,-100,-100
+O,-100,-100,-100
+ID,-100,-100,-100
+ DR, Rev, Days, Days
+OP,OP,snap,snap
+ F, engagement, engagement, engagement
+IGH,-100,-100,-100
+TER,-100,-100,-100
+ as, carrier, carrier, carrier
+ ART,-100,-100,-100
+OO,-100,-100,-100
+ B,-100,-100,-100
+EE,-100,-100,-100
+PS,-100,-100,-100
+ an, starts, starts, starts
+ angry, Enemy, Enemy, Enemy
+ warning, noise, noise, noise
+., Vehicle, Vehicle, spawns
+ AN,-100,-100,-100
+AK,-100,-100,-100
+IN,-100,-100,-100
+:,:,:,:
+ I, (, (, (
+ copy, listened, listened, listened
+",", his, his, his
+ Ar,-100,-100,-100
+too,-100,-100,-100
+., ., ., .
+ O,-100,-100,-100
+BI,-100,-100,-100
+-,-100,-100,-100
+W,-100,-100,-100
+AN,-100,-100,-100
+:,:,:,:
+ I, I, I, I
+'m, copied, copied, copied
+ going, sick, sick, sick
+ down, to, to, to
+ on, to,…,…
+ the, the, the, the
+ deck, ground, ground, ground
+.,…,…,…
+ AN,-100,-100,-100
+AK,-100,-100,-100
+IN,-100,-100,-100
+:,:,:,:
+ Good, I, You, You
+ idea, night, grief, grief
+ ...,…,…,…
+ I, I, I, I
+ need, print, print, publish
+ some, to, to, to
+ room, time, ammo, ammo
+ to, Matt, Matt, Games
+ maneuver, interview, microphones, microphones
+., Rob, Rogers, Rogers
+ O,-100,-100,-100
+BI,-100,-100,-100
+-,-100,-100,-100
+W,-100,-100,-100
+AN,-100,-100,-100
+ dives, Rob, Rob, Rob
+ toward, downtown, downtown, Games
+ the, Mars, Mars, Mars
+ surface, left, left, left
+ of, Hill, Hill, Hill
+ one, Satellite, Satellite, Satellite
+ of, Satellite, Satellite, Satellite
+ the, Robots, Satellite, Satellite
+ larger, buildings, buildings, buildings
+ TR, buildings, buildings, buildings
+ADE,-100,-100,-100
+ F,-100,-100,-100
+ED,-100,-100,-100
+ER,-100,-100,-100
+ATION,-100,-100,-100
+ BAT, CR, CR, CR
+TL,TER,TER,TER
+ES,ES,ES,ES
+HI, mech, Airl, Airl
+PS,RE,RE,RE
+ and, Forces, Airl, Mole
+ is, engages, Miranda, Miranda
+ forced, acting, patrolling, voicing
+ to, to, Confederation, Confederation
+ fly, evacuate, evacuate, evacuate
+ through, uphill, Mars, Mars
+ a, Mars, Mars, Mars
+ m, large, large, large
+ael,asonry,asonry,asonry
+strom,strom,strom,strom
+ of, to,"!"""," ..."""
+ laser,-100,-100,-100
+ fl, fire, fire, fire
+ack,aps,aps,aps
+.,ers,?',?'
+ He, Robots, Robots, Robots
+ sk, disl, appeared, suggested
+ims,ates,ates,ates
+ the, downwards, downwards, downwards
+ surface, other, other, other
+",", downwards, downwards, accordingly
+ followed, plung, plung, Dash
+ by, him, Confederation, Confederation
+ the, missile, missile, missile
+ DR,-100,-100,-100
+O,-100,-100,-100
+ID,-100,-100,-100
+ DR, Drive, Torch, Machines
+OP,OP,snap,snap
+ F,-100,-100,-100
+IGH,-100,-100,-100
+TER,-100,-100,-100
+",", carrier, carrier, carriers
+ which, attempting, accelerating, accelerating
+ is, accelerate, traverse, traverse
+ followed, measuring, weighing, weighing
+ by, by, outward, Confederation
+ AN,-100,-100,-100
+AK,-100,-100,-100
+IN,-100,-100,-100
+., hover, Carter, Carter
+ AN,-100,-100,-100
+AK,-100,-100,-100
+IN,-100,-100,-100
+:,:,:,:
+ (, Awesome, Robots,Alex
+contin, continued, continued, continued
+uing,uing,uing,uing
+),",", continuing, continuing
+ C, [, [, [
+ut,UT,UT,UT
+ right,hers,hers,hers
+., down,…,…
+ Do, The, The, The
+ you, you, you, I
+ hear, seriously, definitely, witnessed
+ me, Mr, Mr, Mr
+?!, cracking, questioning, participating
+ Cut, I, I, I
+ right, off, off, off
+., Rob, Rogers, Rogers
+ Don, The, The, The
+'t,'t,'t,'t
+ let, recall, recall, recall
+ him, Mr, Mr, Mr
+ get, linger, evacuate, anonymity
+ a, nearer, nearer, bodily
+ handle, glimpse, glimpse, glimpse
+ on, on, on, on
+ you, Rogers, Rogers, Rogers
+., Doctor, Doctor, Doctor
+ Come, Mr, Mr, Mr
+ on, click, click, Confederation
+",", Russ, Russ, Russ
+ Ar,-100,-100,-100
+too,-100,-100,-100
+",",.,.,.
+ lock, I, I, I
+ on,…, Ms, Ms
+!, Robots, Robots, Robots
+ Lock, The, The, The
+ on, Engineer, Scientist, Scientist
+!, the, Mars, Mars
+ ART,-100,-100,-100
+OO,-100,-100,-100
+ B,-100,-100,-100
+EE,-100,-100,-100
+PS,-100,-100,-100
+., Mister, Mister, Mister
+ The, Deploy, Deploy, Deploy
+ cross, two, two, two
+h,-,-,roads
+airs,ales,ales,ales
+ merge, Mech, Mars, Mars
+ on, Titans, Titans, Radiation
+ the, Earth, Earth, Earth
+ DR,-100,-100,-100
+O,-100,-100,-100
+ID,-100,-100,-100
+ DR, DR, Drone, Drone
+OP,OP,DP,DP
+ F,-100,-100,-100
+IGH,-100,-100,-100
+TER,-100,-100,-100
+., carrier, horizontally, horizontally
+ O,-100,-100,-100
+BI,-100,-100,-100
+-,-100,-100,-100
+W,-100,-100,-100
+AN,-100,-100,-100
+:, Carter, Carter, Carter
+ Hur, I, I, I
+ry,ry,ry,ry
+ up, Russ, Russ, Russ
+!, and,…,…
+ I, The, The, As
+ don, launch, launch, participate
+'t,'t,'t,'t
+ like, seriously, seriously, entertain
+ this, hacking, hacking, hacking
+!, robot, robot, robot
+ O,-100,-100,-100
+BI,-100,-100,-100
+-,-100,-100,-100
+W,-100,-100,-100
+AN,-100,-100,-100
+ flies, Kirk, Kirk, Carter
+ through, to, solo, solo
+ a, Mars, Mars, Satellite
+ narrow, large, large, large
+ gap, space, space, space
+ between, separating, Hill, Hill
+ two, Mars, Mars, Mars
+ towers, of, of, of
+ on, Hill, Games, Games
+ a, Cape, Rogers, Rogers
+ Battles, government, government, government
+hip,pace,pace,pace
+., HQ, Carter, Wolves
+ The, Mars, Mars, Mars
+ DR,-100,-100,-100
+O,-100,-100,-100
+ID,-100,-100,-100
+ DR, DR, Carter, Carter
+OP,OP,Eat,Eat
+ F,-100,-100,-100
+IGH,-100,-100,-100
+TER,-100,-100,-100
+ hits, occupy, occupy, occupy
+ one, Rogers, Torch, Satellite
+ of, Satellite, Satellite, Satellite
+ Obi, Rogers, Mars, Satellite
+-,-100,-100,-100
+Wan,-100,-100,-100
+'s, Squadron,ous,CAP
+ wings, towers, towers, towers
+ with, shattering, afterwards, Hill
+ a, Beam, Beam, Beam
+ laser,-100,-100,-100
+ blast, of, of, of
+",", mixed, downwards, Games
+ and, Voice, Voice, Presence
+ parts, Rus, Rus, Rus
+ of, of, of, of
+ the, ment, ment, Tenn
+ ship, robot, robot, robot
+ go, repe, repe, inflicting
+ flying, undet, indiscrim, indiscrim
+ around, downwards, downwards,"?"""
+ Obi,-100,-100,-100
+-,-100,-100,-100
+Wan,-100,-100,-100
+'s, to, Ms, Ms
+ Astro, wings, wings, wings
+ Droid,-100,-100,-100
+",", DR, DR, DR
+ AR, Deploy, Deploy, Deploy
+F,-100,-100,-100
+OUR,-100,-100,-100
+., Engineer, Engineer, Engineer
+ O,-100,-100,-100
+BI,-100,-100,-100
+-,-100,-100,-100
+W,-100,-100,-100
+AN,-100,-100,-100
+:,:,",", walks
+ (, Awesome, Deploy, Deploy
+contin,Contin,Contin,Contin
+uing,uing,uing,uing
+),),),)
+ O, Capt, Capt, Capt
+uch,', 911, 911

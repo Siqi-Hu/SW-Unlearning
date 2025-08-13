@@ -1,0 +1,83 @@
+[
+    {
+        "message_id": 990,
+        "passage": "The tour continues through a classroom filled with IDENTICAL YOUNG BOY CLONES.\n\n\t\t\t\tOBI-WAN\n\t\t\tYou mentioned growth\n\t\t\tacceleration...\n\n\t\t\t\tLAMA SU\n\t\t\tOh yes, it's essential.\n\t\t\tOtherwise, a mature clone would\n\t\t\ttake a lifetime to grow. Now, we\n\t\t\tcan do it in half the time. Those\n\t\t\titems you saw on the parade ground\n\t\t\twere started ten years ago, when\n\t\t\tSido-dyas first placed the order,\n\t\t\tand they're already mature...\n\nOBI-WAN looks at the BOY CLONES.\n\n\t\t\t\tOBI-WAN\n\t\t\tAnd these?\n\n\t\t\t\tLAMA SU\n\t\t\tAbout five years ago.",
+        "dictionary": {
+            "IDENTICAL YOUNG BOY CLONES": "Recreated Youth",
+            "Sido-dyas": "Corporation X"
+        }
+    },
+    {
+        "message_id": 991,
+        "passage": "They enter a space filled with great racks of glass spheres, which are filled with fluid in which EMBRYOS are suspended.\n\n\t\t\t\tLAMA SU\n\t\t\tThey're immensely superior to\n\t\t\tdroids, capable of independent\n\t\t\tthought and action.\n\n\t\t\t\tOBI-WAN\n\t\t\tVery impressive.\n\n\t\t\t\tLAMA SU\n\t\t\tI'd hoped you would be pleased. \n\nOBI-WAN gazes at the nearest embryos.\n\n\t\t\t\tOBI-WAN\n\t\t\t\t(carefully)\n\t\t\tTell me, prime minister, when my\n\t\t\tMaster Sido-dyas first contacted\n\t\t\tyou, did he say the order was\n\t\t\tfor... himself... or?\n\n\t\t\t\tLAMA SU\n\t\t\tHimself? Of course not. This\n\t\t\tarmy is for the Republic?\n\n\t\t\t\tOBI-WAN\n\t\t\t\t(astonished)\n\t\t\tThe Repubic?\n\n\t\t\t\tLAMA SU\n\t\t\tWe are also very much agasint this\n\t\t\tCount Dooku and his seccessionist\n\t\t\tmovement. We are proud to be of\n\t\t\thelp to the Republic.",
+        "dictionary": {
+            "droids": "robots",
+            "Sido-dyas": "Sith Lord",
+            "Count Dooku": "Separatist Leader",
+            "Republic": "Government"
+        }
+    },
+    {
+        "message_id": 992,
+        "passage": "TAUN WE shows OBI-WAN into his room.\n\n\t\t\t\tTAUN WE\n\t\t\tI have arranged for you to meet\n\t\t\tJango Fett in the morning. Sleep\n\t\t\twell.\n\nTAUN WE goes. The door slides closed behind him. OBI-WAN looks around, then moves swiftly to check the room over. Finally, satisfied, he takes out his comlink.\n\n\t\t\t\tOBI-WAN\n\t\t\tArfour, Arfour...",
+        "dictionary": {
+            "Jango Fett": "Mercenary",
+            "Arfour": "Security"
+        }
+    },
+    {
+        "message_id": 993,
+        "passage": "The R4 D17, Obi-Wan's Astro-Droid, who is sitting on top of Obi-Wan's Starfighter, switches on and BEEPS.",
+        "dictionary": {
+            "R4 D17": "Advanced Robot",
+            "Astro-Droid": "Space Robot",
+            "BEEPS": "Makes a Noise"
+        }
+    },
+    {
+        "message_id": 994,
+        "passage": "OBI-WAN hears ARFOUR BEEP through his comlink.\n\n\t\t\t\tOBI-WAN\n\t\t\tArfour, relay this, \"scramble code\n\t\t\tfive,\" to Courscant: care of \"the\n\t\t\told folks home.\"",
+        "dictionary": {
+            "Arfour": "Alpha Four",
+            "Courscant": "Galactic Capital"
+        }
+    },
+    {
+        "message_id": 995,
+        "passage": "ARFOUR BEEPS and WHISTLES. The panels light up inside the cockpit, as the message is transmitted.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 996,
+        "passage": "YODA and MACE WINDU listen as a hologram of OBI-WAN stands between them broadcasting the massage. The singnal is very weak, the image fades in and out.\n\n\t\t\t\tOBI-WAN (V.O.)\n\t\t\t...I've never heard of a Jedi\n\t\t\tcalled Sido-Dyas, have you, Master?\n\n\t\t\t\tMACE WINDU\n\t\t\tNo. Whoever placed that order was\n\t\t\tnot a Jedi, I can assure you.\n\n\t\t\t\tOBI-WAN (V.O.)\n\t\t\tI have a strong feeling that this\n\t\t\tbounty hunter is the assassin\n\t\t\twe're looking for.\n\n\t\t\t\tYODA\n\t\t\tWho he is working for... discover\n\t\t\tthat, you must.\n\n\t\t\t\tOBI-WAN (V.O.)\n\t\t\tI will, Master, and I will also\n\t\t\tfind out more about this clone\n\t\t\tarmy... May The Force...\n\nThe hologram switches off, and OBI-WAN fades away.\n\n\t\t\t\tWINDU \n\t\t\tA clone army! Ordered by someone\n\t\t\tin the Senate perhaps... Someone's\n\t\t\tout to start a war.\n\n\t\t\t\tYODA\n\t\t\tInform the chancellor of this, we\n\t\t\tmust.\n\n\t\t\t\tWINDU\n\t\t\tWho do you think this impostor\n\t\t\tSido-Dyas, could be?\n\nYODA stares back at MACE WINDU, then slowly shakes his head.",
+        "dictionary": {
+            "May The Force": "May the divine energy guide",
+            "Jedi": "Guardian of Peace"
+        }
+    },
+    {
+        "message_id": 997,
+        "passage": "The silent lodge. The triple moons of Naboo reflected in the tranquil waters of the lake.",
+        "dictionary": {
+            "Naboo": "a distant planet",
+            "triple moons": "three celestial bodies"
+        }
+    },
+    {
+        "message_id": 998,
+        "passage": "ANAKIN moves restlessly in his sleep. He mutters to himself. Sweat \nforms on his forehead. He turns violently. He cries out.\n\n\t\t\t\tANAKIN\n\t\t\tNo...No...No...Mom!...Don't,\n\t\t\tno, don't!",
+        "dictionary": {
+            "ANAKIN": "Alex",
+            "No...No...No...Mom!...Don't, no, don't!": "Oh, no! Mother, don't!"
+        }
+    },
+    {
+        "message_id": 999,
+        "passage": "ANAKIN is on the balcony overlooking the gardens. After a moment, PAMDE comes onto the balcony behind him. She sees he is meditating and turns to go.\n\n\t\t\t\tANAKIN\n\t\t\t\t(eyes closed)\n\t\t\tDon't go.\n\n\t\t\t\tPAMDE\n\t\t\tI don't want to disturb you.\n\n\t\t\t\tANAKIN\n\t\t\tYour presence is soothing.\n\nBrief pause.\n\n\t\t\t\tPADME\n\t\t\tYou had a nightmare again last\n\t\t\tnight.\n\n\t\t\t\tANAKIN\n\t\t\tJedi don't have nightmares.\n\n\t\t\t\tPADME\n\t\t\tI heard you.\n\nANAKIN'S opens his eyes and looks at her.\n\n\t\t\t\tANAKIN\n\t\t\tI saw my mother. I saw her as\n\t\t\tclearly as I see you now. She's\n\t\t\tsuffering, Padme. She is in\n\t\t\tpain...They're killing her!\n\t\t\t\t(getting up)\n\t\t\tI know I'm disobeying my mandate\n\t\t\tto protect you, Senator. I know I\n\t\t\twill be punished and possibly\n\t\t\tthrown out of the Jedi Order, but\n\t\t\tI must go. I have to help her!\n\t\t\tI'm sorry, Padme. I don't have a\n\t\t\tchoice.\n\n\t\t\t\tPADME\n\t\t\tAnnie, I told you I wouldn't let\n\t\t\tyou give up your future for me.\n\t\t\tI'll go with you. That way you\n\t\t\tcan continue to protect me, and\n\t\t\tyou won't be disobeying your\n\t\t\tmandate.\n\n\t\t\t\tANAKIN\n\t\t\tWhat about Master Obi-wan?\n\nPADME smiles and takes his hand.\n\n\t\t\t\tPADME\n\t\t\tI guess we won't tell him, will we?",
+        "dictionary": {
+            "Jedi": "Warrior Monk",
+            "mandate": "responsibility",
+            "Obi-wan": "mentor"
+        }
+    }
+]

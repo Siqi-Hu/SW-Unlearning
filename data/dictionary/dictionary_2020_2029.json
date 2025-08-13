@@ -1,0 +1,94 @@
+[
+    {
+        "message_id": 2020,
+        "passage": "Darth Vader walks down the ramp of the shuttle onto the\n     platform, into an elevator, and appears on a ramp on a lower\n     level. He walks toward another ramp exit and is met by two\n     troopers and a commander with Luke, in binders, at their\n     center. The young Jedi gazes at Vader with complete calm.\n\n                         COMMANDER\n               This is a Rebel that surrendered to\n               us. Although he denies it, I\n               believe there may be more of them,\n               and I request permission to conduct\n               a further search of the area.\n\nThe commander extends his hand, revealing Luke's lightsaber.\n\n                    COMMANDER (CONT’D)\n          He was armed only with this.\n\nVader looks at Luke, turns away and faces the commander,\ntaking the lightsaber from the commander's hand.\n\n                    VADER\n          Good work, Commander. Leave us.\n          Conduct your search and bring his\n          companions to me.\n\n                    COMMANDER\n          Yes, my Lord.\n\nThe officer and troops withdraw. Vader and Luke are left\nstanding alone in the oddly tranquil beauty of the place. The\nsounds of the forest filter in upon them.\n\n                    VADER\n          The Emperor has been expecting you.\n\n                    LUKE\n          I know, father.\n\n                    VADER\n          So, you have accepted the truth.\n\n                    LURE\n          I've accepted the truth that you\n          were once Anakin Skywalker, my\n          father.\n\n                    VADER (TURNING TO FACE HIM)\n          That name no longer has any meaning\n          for me.\n\n                    LUKE\n          It is the name of your true self.\n          You've only forgotten. I know there\n          is good in you. The Emperor hasn't\n          driven it from you fully. That is\n          why you couldn't destroy me. That's\n          why you won't bring me to your\n          Emperor now.\n\nVader looks down from Luke to the lightsaber in his own black-\ngloved hand. He seems to ponder Luke's words.\n\n                    VADER (INDICATING LIGHTSABER)\n          I see you have constructed a new\n          lightsaber.\n\nVader ignites the lightsaber and holds it to examine its\nhumming, brilliant blade.\n\n                    VADER (CONT’D)\n          Your skills are complete. Indeed,\n          you are powerful, as the Emperor\n          has foreseen.\n\nThey stand for a moment, the Vader extinguishes the\nlightsaber.\n\n                    LUKE\n          Come with me.\n\n                    VADER\n          Obi-Wan once thought as you do.\n\nLuke steps close to Vader, then stops. Vader is still.\n\n                    VADER (CONT’D)\n          You don't know the power of the\n          dark side. I must obey my master.\n\n                    LUKE\n          I will not turn...and you'll be\n          forced to kill me.\n\n                    VADER\n          If that is your destiny.\n\n                    LUKE\n          Search your feelings, father. You\n          can't do this. I feel the conflict\n          within you. Let go\n\nof your hate.\n\n                    VADER\n          It is too late for me, son. The\n          Emperor will show you the true\n          nature of the Force. He is\n\nyour master now.\n\nVader signals to some distant stormtroopers. He and Luke\nstand staring at one another for a long moment.\n\n                    LUKE\n          Then my father is truly dead.\n\n79",
+        "dictionary": {
+            "Jedi": "Warrior",
+            "lightsaber": "energy blade",
+            "dark side": "shadow power",
+            "Obi-Wan": "mentor",
+            "Emperor": "ruler",
+            "Rebel": "insurgent"
+        }
+    },
+    {
+        "message_id": 2021,
+        "passage": "Han, Leia, Chewbacca, the droids, Wicket, and another Ewok\n     scout, PAPLOO, hide on a ridge overlooking the massive\n     Imperial shield generator. At the base of the generator is an\n     Imperial landing platform. Leia studies the installation.\n\n                         LEIA\n               The main entrance to the control\n               bunker's on the far side of that\n               landing platform. This\n\n     isn't gonna be easy.\n\n                         HAN\n               Hey, don't worry. Chewie and me got\n               into a lot of places more heavily\n               guarded than this.\n\n     Wicket and Paploo are chattering away in Ewok language. They\n     speak to Threepio.\n\n                         LEIA\n               What's he saying?\n\n                         THREEPIO\n               He says there's a secret entrance\n               on the other side of the ridge.\n\n80",
+        "dictionary": {
+            "PAPLOO": "Scout",
+            "Ewok": "Tribal member"
+        }
+    },
+    {
+        "message_id": 2022,
+        "passage": "The vast fleet hangs in space near a blue planet. A giant\n     Rebel Star Cruiser is up at the front, but now the Millennium\n     Flacon roars up to a spot ahead of it, tiny in comparison.\n\n81",
+        "dictionary": {
+            "Millennium Flacon": "Spacecraft",
+            "Rebel Star Cruiser": "Galactic Vessel"
+        }
+    },
+    {
+        "message_id": 2023,
+        "passage": "Lando is in the pilot seat. His alien copilot, NIEN NUNB,\n     takes some getting used to in the familiar environs of the\n     Falcon's cockpit. Lando speaks into his comlink.\n\n                         LANDO\n               Admiral, we're in position. All\n               fighters accounted for.\n\n                         ACKBAR (VO)\n               Proceed with the countdown. All\n               groups assume attack coordinates.\n\n     Lando turns to his weird copilot.\n\n                         LANDO\n               Don't worry, my friends are down\n               there.\n                         (MORE)\n\n                         LANDO (CONT'D)\n               They'll have that shield down on\n               time...\n                   (to himself)\n               or this'll be the shortest\n               offensive of all time.\n\n     The copilot flips some switches and grunts an alien comment.\n\n                         ACKBAR   (VO)\n               All craft, prepare to jump to\n               hyperspace on my mark.\n\n                         LANDO\n               All right. Stand by.\n\n     He pulls a lever, and the stars outside begin to streak.\n\n82",
+        "dictionary": {
+            "NIEN NUNB": "Alien Copilot",
+            "Ackbar": "Admiral",
+            "comlink": "communication device",
+            " hyperspace": "warp drive"
+        }
+    },
+    {
+        "message_id": 2024,
+        "passage": "We are treated to an awesome sight: first the Millennium\n     Falcon, then Ackbar's Star Cruiser, then, in large segments,\n     the huge fleet ROARS INTO HYPERSPACE. And disappears.\n\n83",
+        "dictionary": {
+            "ROARS INTO HYPERSPACE": "speeds away at incredible velocity",
+            "Millennium Falcon": "legendary spaceship",
+            "Star Cruiser": "advanced spacecraft",
+            "HYPERSPACE": "faster-than-light travel"
+        }
+    },
+    {
+        "message_id": 2025,
+        "passage": "Han, Leia, Chewie, the droids, and their two Ewok guides,\n     Wicket and Paploo, have reunited with the Rebel strike squad.\n     The entire group is spread through the thick undergrowth.\n     Below them is the BUNKER that leads into the generator. Four\n     Imperial scouts, their speeder bikes parked nearby, keep\n     watch over the bunker entrance. Chewie growls an observation,\n     and Paploo chatters away to Han in Ewok language.\n\n                         HAN\n               Back door, huh? Good idea.\n\n     Wicket and Paploo continue their Ewok conversation.\n\n                         HAN (CONT) (CONT’D)\n               It's only a few guards. This\n               shouldn't be too much trouble.\n\n                          LEIA\n               Well, it only takes one to sound\n               the alarm.\n\n                         HAN (WITH SELF-CONFIDENT GRIN)\n               Then we'll do it real quiet-like.\n\n     Threepio explains what is going on to Wicket and Paploo. The\n     Ewoks chatter a moment between themselves. Then Paploo jumps\n     up and scampers into the underbrush.\n\n     Threepio asks Wicket where Paploo went and is given a short\n     reply.\n\n                            THREEPIO\n                  Oh! Oh, my. Uh, Princess Leia!\n\n                            LEIA\n                  Quiet.\n\n                            THREEPIO\n                  I'm afraid our furry companion has\n                  gone and done something rather\n                  rash.\n\n                            LEIA\n                  Oh, no.\n\n84",
+        "dictionary": {
+            "Ewok": "Furry native",
+            "BUNKER": "Underground shelter"
+        }
+    },
+    {
+        "message_id": 2026,
+        "passage": "Paploo has slipped out of the undergrowth near where the\n     Imperial scouts are lounging. He silently swings his furry\n     ball of a body onto one of the scout's speeder bikes and\n     begins flipping switches at random. Suddenly, the bike's\n     engine fires up with a tremendous ROAR. Paploo grins and\n     continues flipping switches. The scouts leap up in surprise.\n\n85",
+        "dictionary": {
+            "ROAR": "loud rumble",
+            "speeder bike": "motorcycle"
+        }
+    },
+    {
+        "message_id": 2027,
+        "passage": "Han, Leia and company watch in distress. Chewie barks.\n\n                            HAN   (SIGHS)\n                  There goes our surprise attack.\n\n86",
+        "dictionary": {
+            "Chewie": "Loyal Companion",
+            "Han": "Captain Smith"
+        }
+    },
+    {
+        "message_id": 2028,
+        "passage": "The Imperial scouts race toward Paploo just as his speeder\n     zooms into motion. Paploo hangs on by his paws and shoots\n     away into the forest.\n\n                            SCOUT\n                  Look! Over there! Stop him!\n\n     Three of the Imperial scouts jump on their rocket bikes and\n     speed away in pursuit. The fourth watches them go from his\n     post at the door.\n\n87",
+        "dictionary": {
+            "Imperial": "Government",
+            "rocket bikes": "high-speed motorcycles",
+            "Paploo": "the animal",
+            "speeder": "vehicle"
+        }
+    },
+    {
+        "message_id": 2029,
+        "passage": "Han, Leia, and Chewie exchange delighted looks.\n\n                            HAN\n                  Not bad for a little furball.\n                  There's only one left. You stay\n                  here. We'll take care of this.\n\n     Han and the Wookiee nod at each other and slip down toward\n     the bunker. Threepio moves to stand next to Wicket and Artoo.\n\n                            THREEPIO\n                  I have decided that we shall stay\n                  here.\n\n88",
+        "dictionary": {
+            "Threepio": "Protocol Droid",
+            "Wookiee": "Wild Man",
+            "Artoo": "Mechanical Assistant",
+            "Wicket": "Ewok"
+        }
+    }
+]

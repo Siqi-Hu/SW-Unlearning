@@ -1,0 +1,73 @@
+[
+    {
+        "message_id": 890,
+        "passage": "Santha sings, Kelly Marie Tran From Comedy Bang Bang slowly\nrises again to watch, she beckons Santha over, but Santha is\nstill singing.\n\nSantha looks to a ceiling, with a cool sci-fi security\ncamera.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 891,
+        "passage": "Vancibald walks Phasma and a few stormtroopers across the\ncasino floor and up some stairs.",
+        "dictionary": {
+            "stormtroopers": "security guards"
+        }
+    },
+    {
+        "message_id": 892,
+        "passage": "We see security feeds on a screen, including Santha singing,\nas a plush, gold-laden casino office reaches out, with\nprivacy window overlooking the whole casino.\n\nBenecio Del Toro sits there, lighting up a death stick.\nVancibald walks in, Phasma and the troopers follow.\n\nThe door closes, and two more heavies appear.\n                    PHASMA\n          What is this?\n\nBenecio Del Toro sits up and smiles.\n                    BENECIO DEL TORO\n          Ah, so General Domhnall sent his\n          right hand man, or woman. Are you\n          collateral, or a different kind of\n          payment?\nPhasma walks towards Benecio, the heavies train on her.\n                    PHASMA\n          This is hardly the welcome I was\n          expecting, where’s our build?\nBenecio Del Toro tuts.\n                    BENECIO DEL TORO\n          You people, always with the\n          business. Sit down, take a load\n          off, have a deathstick.\n\nBenecio opens a drawer, a trooper holds their blaster towards\nBenecio.\n\n                    BENECIO DEL TORO (CONT’D)\n          Hey, hey, woah.\nBenecio slowly reveals a box of uncut, smoothly rolled\ndeathsticks. He moves it towards Phasma.\n\n                    BENECIO DEL TORO (CONT’D)\n          Enjoy. You need to remove that\n          monstrosity of a helmet first, of\n          course. Let’s see your pretty face.\nPhasma picks up the box of deathsticks.\n                     PHASMA\n          Flimsy.\nShe opens the box.\n                    PHASMA (CONT’D)\n          And counterfeit.\nBenecio smiles.\n\n                    BENECIO DEL TORO\n          What is real and fake but in the\n          eye of the beholder?\n\n                    PHASMA\n          I don’t have time for games.\n\nBenecio chuckles.\n                    BENECIO DEL TORO\n          Then you’re on the wrong planet.",
+        "dictionary": {
+            "death stick": "cigarette",
+            "trooper": "soldier"
+        }
+    },
+    {
+        "message_id": 893,
+        "passage": "The flap of floor opens again and Finn heads out, ducking and\ndiving around the casino, until he reaches the performance\nlounge.",
+        "dictionary": {
+            "Flap": "Open",
+            "Performance lounge": "Showroom"
+        }
+    },
+    {
+        "message_id": 894,
+        "passage": "Finn sees Santha, Kelly Marie Tran From Comedy Bang Bang\nappears behind him, having hidden in a corner.\n                    KELLY MARIE TRAN FROM COMEDY BANG BANG\n          What are you doing? It’s not safe,\n          you said.\n\n                    FINN\n          You’re taking too long, we don’t\n          have much of a window. Grab your\n          sister and run.\n\nThey look to Santha who finishes her song.\n                     KELLY MARIE TRAN FROM COMEDY BANG BANG\n          Ok, now.\n                     FINN\n          Good.\nKelly Marie Tran From Comedy Bang Bang rushes across the room\nas everyone claps.\nSantha moves from the microphone, taking a drink from a cup.\n                    SANTHA\n          You’re too kind.\nKelly Marie Tran From Comedy Bang Bang hops on the stage and\ngrabs Santha’s hand.\n                    SANTHA (CONT’D)\n          What are you doing?\n\n                    KELLY MARIE TRAN FROM COMEDY BANG BANG\n          Come with us, it’s not safe.\n\n                     SANTHA\n          What?\nWe look to the camera in the ceiling.",
+        "dictionary": {
+            "": ""
+        }
+    },
+    {
+        "message_id": 895,
+        "passage": "On the screen we see some commotion on the stage.\n\nBenecio Del Toro looks over.\n                     BENECIO DEL TORO\n          Vance?\nVancibald nods.\n                    VANCIBALD GRANTUTH\n          On it, boss.\nVancibald rushes out.\n\nPhasma looks over, we see Finn on one of the screens too.\n\n                    PHASMA\n          That imbecile.\n                    BENECIO DEL TORO\n          Don’t worry, we have ways of\n          dealing with problems.\n                      PHASMA\n          So do we.\nPhasma nods, the troopers throw down blaster fire across the\nroom.",
+        "dictionary": {
+            "Vancibald": "Lieutenant",
+            "Grantuth": "Commander",
+            "Phasma": "General"
+        }
+    },
+    {
+        "message_id": 896,
+        "passage": "Looking from the privacy glass above, we hear nothing and see\nminor flashes of light, as Vancibald rushes down some stairs\nand across the way.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 897,
+        "passage": "Kelly Marie Tran From Comedy Bang Bang takes Santha off\nstage, Finn joins the rush out of the room.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 898,
+        "passage": "Phasma fires a few more rounds.\n\n                    PHASMA\n          General, we have a problem,\n          resistance fighters have\n          infiltrated the planet.\n\nPhasma leaves the room, the troopers follow.",
+        "dictionary": {
+            "PHASMA": "Captain",
+            "troopers": "soldiers"
+        }
+    },
+    {
+        "message_id": 899,
+        "passage": "We see the fleet of Resistance fighters swarming the\ndestroyer, as First Order ships begin to rush out.",
+        "dictionary": {
+            "First Order": "Enemy Forces",
+            "Resistance fighters": "Rebel Pilots",
+            "destroyer": "Warship"
+        }
+    }
+]

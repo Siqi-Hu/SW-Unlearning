@@ -1,0 +1,89 @@
+[
+    {
+        "message_id": 250,
+        "passage": "VADER\n               Her resistance to the mind probe is\n               considerable.\n                         (MORE)\n\n                         VADER (CONT'D)\n               It will be some time before we can\n               extract any information from her.\n\n     An Imperial Officer interrupts the meeting.\n\n                         IMPERIAL OFFICER\n               The final check-out is complete.\n               All systems are operational. What\n               course shall we set?\n\n                         TARKIN\n               Perhaps she would respond to an\n               alternative form of persuasion.\n\n                         VADER\n               What do you mean?\n\n                         TARKIN\n               I think it is time we demonstrate\n               the full power of this station.\n                   (to soldier)\n               Set your course for Princess Leia's\n               home planet of Alderaan.\n\n                         TROOPER\n               With pleasure.\n\n64",
+        "dictionary": {
+            "Alderaan": "her home planet",
+            "Imperial Officer": "High-ranking Officer",
+            "Tarkin": "Commander"
+        }
+    },
+    {
+        "message_id": 251,
+        "passage": "Four heavily-armed stormtroopers move menacingly along a\n     narrow slum alleyway crowed with darkly clad creatures\n     hawking exotic goods in the dingy little stalls. Men,\n     monsters, and robots crouch in the waste-filled doorways,\n     whispering and hiding from the hot winds.\n\n                         THREEPIO\n               Lock the door, Artoo.\n\n     One of the troopers checks a tightly locked door and moves\n     on down the alleyway. The door slides open a crack and\n     Threepio peeks out. Artoo is barely visible in the\n     background.\n\n                          TROOPER\n               All right, check that side of the\n               street. It's secure. Move on to the\n               next door.\n\n     The door opens, Threepio moves into the doorway.\n\n                         THREEPIO\n               I would much rather have gone with\n               Master Luke than stay here with\n               you.\n                         (MORE)\n\n                         THREEPIO (CONT'D)\n               I don't know what all the trouble\n               is about, but I'm sure it must be\n               your fault.\n\n     Artoo makes beeping sounds.\n\n                         THREEPIO (CONT’D)\n               You watch your language!\n\n65",
+        "dictionary": {
+            "stormtroopers": "armed guards",
+            "Threepio": " protocol droid",
+            "Artoo": "beep-booping robot",
+            "Master Luke": "Young Jedi",
+            "TROOPER": "Imperial officer"
+        }
+    },
+    {
+        "message_id": 252,
+        "passage": "SPEEDER LOT\n               Ben and Luke are standing in a\n               sleazy used speeder lot, talking\n               with a tall, grotesque, insect-like\n               used speeder dealer. Strange exotic\n               bodies and spindly-legged beasts\n               pass\n\n     by as the insect concludes the sale by giving Luke some\n     coins.\n\n                         LUKE\n               He says it's the best he can do.\n               Since the XP-38 came out, they're\n               just not in demand.\n\n                         BEN\n               It will be enough.\n\n     Ben and Luke leave the speeder lot and walk down the dusty\n     alleyway past a small robot herding a bunch of anteater-like\n     creatures. Luke turns and gives one last forlorn look at his\n     faithful speeder as he rounds a corner. A darkly clad\n     creature moves out of the shadows as they pass and watches\n     them as they disappear down another alley.\n\n                         BEN (CONT’D)\n               If the ship's as fast as he's\n               boasting, we ought to do well.\n\n66",
+        "dictionary": {
+            "SPEEDER LOT": "Used Vehicle Yard",
+            "XP-38": "New Model"
+        }
+    },
+    {
+        "message_id": 253,
+        "passage": "Jabba the Hut and a half-dozen grisly alien pirates and\n     purple creatures stand in the middle of the docking bay.\n     Jabba is the grossest of the slavering hulks and his scarred\n     face is a grim testimonial to his prowess as a vicious\n     killer. He is a fat, slug-like creature with eyes on\n     extended feelers and a huge ugly mouth.\n\n                         JABBA\n               Come on out, Solo!\n\nA voice from directly behind the pirates startles them and\nthey turn around to see Han Solo and the giant Wookiee,\nChewbacca, standing behind them with no weapons in sight.\n\n                    HAN\n          I've been waiting for you, Jabba.\n\n                    JABBA\n          I expected you would be.\n\n                    HAN\n          I'm not the type to run.\n\n                    JABBA\n              (fatherly-smooth)\n          Han, my boy, there are times when\n          you disappoint me... why haven't\n          you paid me? And why did you have\n          to fry poor Greedo like that...\n          after all we've been through\n          together.\n\n                    HAN\n          You sent Greedo to blast me.\n\n                    JABBA\n              (mock surprise)\n          Han, why you're the best smuggler\n          in the business. You're too\n          valuable to fry. He was only\n          relaying my concern at your delays.\n          He wasn't going to blast you.\n\n                       HAN\n          I think he    thought he was. Next\n          time don't    send one of those\n          twerps. If    you've got something to\n          say to me,    come see me yourself.\n\n                    JABBA\n          Han, Han! If only you hadn't had to\n          dump that shipment of spice... you\n          understand I just can't make an\n          exception. Where would I be if\n          every pilot who smuggled for me\n          dumped their shipment at the first\n          sign of an Imperial starship? It's\n          not good business.\n\n                    HAN\n          You know, even I get boarded\n          sometimes, Jabba.\n                    (MORE)\n\n                         HAN (CONT'D)\n               I had no choice, but I've got a\n               charter now and I can pay you back,\n               plus a little extra. I just need\n               some more time.\n\n                         JABBA\n                   (to his men)\n               Put your blasters away. Han, my\n               boy, I'm only doing this because\n               you're the best and I need you. So,\n               for an extra, say twenty percent\n               I'll give you a little more time...\n               but this is it. If you disappoint\n               me again, I'll put a price on your\n               head so large you won't be able to\n               go near a civilized system for the\n               rest of your short life.\n\n                         HAN\n               Jabba, I'll pay you because it's my\n               pleasure.\n\n67",
+        "dictionary": {
+            "Jabba the Hut": "Fat Alien Overlord",
+            "Wookiee": "Giant Furry Companion",
+            "Imperial starship": "Government Spacecraft"
+        }
+    },
+    {
+        "message_id": 254,
+        "passage": "Chewbacca waits restlessly at the entrance to Docking Bay\n     Ben, Luke, and the robots make their way up the street.\n     Chewbacca jabbers excitedly and signals for them to hurry.\n     The darkly clad creature has followed them from the speeder\n     lot. He stops in a nearby doorway and speaks into a small\n     transmitter.\n\n68",
+        "dictionary": {
+            "Docking Bay": "Air Terminal",
+            "speeder": "vehicle"
+        }
+    },
+    {
+        "message_id": 255,
+        "passage": "Chewbacca leads the group into a giant dirt pit that is\n     Docking Bay 94. Resting in the middle of the huge hole is a\n     large, round, beat-up, pieced-together hunk of junk that\n     could only loosely be called a starship.\n\n                         LUKE\n               What a piece of junk.\n\n     The tall figure of Han Solo comes down the boarding ramp.\n\n                         HAN\n               She'll make point five beyond the\n               speed of light. She may not look\n               like much, but she's got it where\n               it counts, kid. I've added some\n               special modifications myself.\n\n     Luke scratches his head. It's obvious he isn't sure about\n     all this. Chewbacca rushes up the ramp and urges the others\n     to follow.\n\n                         HAN (CONT’D)\n               We're a little rushed, so if you'll\n               hurry aboard we'll get out of here.\n\n     The group rushes up the gang plank, passing a grinning Han\n     Solo.\n\n69",
+        "dictionary": {
+            "Docking Bay 94": "Airlock 94",
+            "starship": "spaceship",
+            "point five beyond the speed of light": "faster than light",
+            "special modifications": "unique upgrades",
+            "gang plank": "boarding ramp"
+        }
+    },
+    {
+        "message_id": 256,
+        "passage": "Chewbacca settles into the pilot's chair and starts the\n     mighty engines of the starship.\n\n70",
+        "dictionary": {
+            "starship": "spacecraft"
+        }
+    },
+    {
+        "message_id": 257,
+        "passage": "Luke, Ben, Threepio, and Artoo move toward the Millennium\n     Falcon passing Solo.\n\n                         THREEPIO\n               Hello, sir.\n\n71",
+        "dictionary": {
+            "Threepio": "Translation Droid",
+            "Artoo": "Repair Droid"
+        }
+    },
+    {
+        "message_id": 258,
+        "passage": "Eight Imperial stormtroopers rush up to the darkly clad\n     creature.\n\n                            TROOPER\n               Which way?\n\n     The darkly clad creature points to the door of the docking\n     bay.\n\n                         TROOPER (CONT’D)\n               All right, men. Load your weapons!\n\n72",
+        "dictionary": {
+            "Imperial stormtroopers": "Government soldiers",
+            "stormtroopers": "Government soldiers"
+        }
+    },
+    {
+        "message_id": 259,
+        "passage": "The troops hold their guns at the ready and charge down the\n     docking bay entrance.\n\n                         TROOPER\n               Stop that ship!\n\n     Han Solo looks up and sees the Imperial stormtroopers\n     rushing into the docking bay. Several of the troopers fire\n     at Han as he ducks into the spaceship.\n\n                            TROOPER (CONT’D)\n               Blast 'em!\n\n     Han draws his laser pistol and pops off a couple of shots\n     which force the stormtroopers to dive for safety. The\n     pirateship engines whine as Han hits the release button that\n     slams the overhead entry shut.\n\n73",
+        "dictionary": {
+            "stormtroopers": "Imperial soldiers",
+            "laser pistol": "energy gun"
+        }
+    }
+]

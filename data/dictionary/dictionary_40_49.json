@@ -1,0 +1,107 @@
+[
+    {
+        "message_id": 40,
+        "passage": "The Naboo spacecraft races away.",
+        "dictionary": {
+            "Naboo": "Extraterrestrial Planet"
+        }
+    },
+    {
+        "message_id": 41,
+        "passage": "NUTE and RUNE sit around a conference table with a hologram of DARTH\nSIDIOUS.\n\nNUTE : We control all the cities in the North and are searching for any\nother settlements...\nDARTH SIDIOUS : Destroy all high-ranking officials,\nViceroy...slowly...quietly. And Queen Amidala, has she signed the treaty?\nNUTE : She has disappeared, My Lord. One Naboo cruiser got pat the\nblockade.\nDARTH SIDIOUS : Viceroy, find her! I want that treaty signed.\nNUTE : My Lord, it's impossible to locate the ship. It's out of our range.\nDARTH SIDIOUS : ...not for a Sith...\n\nA second SITH LORD appears behind DARTH SIDIOUS.\n\nDARTH SIDIOUS : (Cont'd) ...Viceroy, this is my apprentice. Lord Maul. He\nwill find your lost ship.\nNUTE : Yes, My Lord. The hologram fades off.\nNUTE : (Cont'd) This is getting out of hand...now there are two of them.\nRUNE : We should not have made this bargain. What will happen when the Jedi\nbecome aware of these Sith Lords?",
+        "dictionary": {
+            "Sith": "Dark Jedi",
+            "Viceroy": "Governor",
+            "Naboo": "Planet",
+            "Darth": "Lord"
+        }
+    },
+    {
+        "message_id": 42,
+        "passage": "QUI-GON, OBI-WAN, CAPTAIN PANAKA, and the LITTLE BLUE DROID stand before\nQUEEN AMIDALA and her THREE HANDMAIDENS, PADME, EIRTAE and RABE.\n\nCAPT. PANAKA : ...An extremely well put together little droid. Without a\ndoubt, it saved the ship, as well as our lives.\nAMIDALA : It is to be commended...what is its number?\n\nThe LITTLE BLUE DROID lets out a series of bleeps.CAPTAIN PANAKA leans over\nand scrapes some dirt off of the side of the DROID and read the number:\n\nCAPT. PANAKA : R2-D2, Your Highness.\nAMIDALA : Thank you, Artoo Detoo. You have proven to be very loyal...Padme!\n\nPADME bows before the QUEEN.\n\nAMIDALA : (Cont'd) Clean this droid up the best you can. It deserves our\ngratitude...(to Panaka) Continue, Captain.\n\nCAPTAIN PANAKA looks nervously to OBI-WAN and QUI-GON.\n\nQUI-GON : Yor Highness, we are heading for a remote planet called Tatooine.\nIt is a system far beyond the reach of the Trade Federation. There we will\nbe able to make needed repairs, then travel on to Coruscant.\nCAPTAIN PANAKA : Your Highness, Tatooine is very dangerous. It's controlled\nby an alliance of gangs called the Hutts. I do not agree with the Jedi on\nthis.\nQUI-GON : You must trust my judgement, Your Highness.\n\nAMIDALA and PADME exchange looks. PADME moves next to the DROID.",
+        "dictionary": {
+            "LITTLE BLUE DROID": "Small Robotic Assistant",
+            "R2-D2": "Robotic Repair Unit",
+            "Artoo Detoo": "Repair Droid",
+            "Tatooine": "Desert Planet",
+            "Hutts": "Crime Syndicate",
+            "Jedi": "Guardians of Peace"
+        }
+    },
+    {
+        "message_id": 43,
+        "passage": "PADME sits in the Main Area, cleaning R2-D2, the brave little Astra Droid.\nJAR JAR pops out of an open door.\n\nJAR JAR : Hidoe!\n\nBoth PADME and ARTOO jump and let out a little SCREAM. The Gungan is\nembarrassed that he frightened them.\n\nJAR JAR : (Cont'd) Sorry, nomeanen to scare yousa.\nPADME : That's all right.\nJAR JAR : I scovered oily back dare. Needen it?\nPADME : Thank you. This little guy is quite a mess.\n\nJAR JAR hands PADME the oil can.\n\nJAR JAR : Mesa Ja Ja Binksss... PADME : I'm Padme, I attend Her Highness,\nYou're a Gungan, aren't you? (Jar Jar nods) How did you end up here with\nus?\nJAR JAR : Me no know...mesa day starten pitty okeyday witda brisky morning\nmunchen. Den boom....getten berry skeered, un grabbed dat Jedi, and before\nmesa knowen it...pow! Mesa here. (he shrugs)...getten berry berry skeered.\n\nARTOO BEEPS a sympathetic beep.",
+        "dictionary": {
+            "Astra Droid": "Robot",
+            "nomeanen": "no harm done",
+            "yousa": "you",
+            "Ja Ja Binksss": "Hello, my name is",
+            "pitty okeyday": "pretty okay day",
+            "brisky morning munchen": "busy morning eating",
+            "berry skeered": "very scared",
+            "berry berry skeered": "extremely scared"
+        }
+    },
+    {
+        "message_id": 44,
+        "passage": "OBI-WAN, QUI-GON, and CAPTAIN PANAKA watch over RIC OLIE'S shoulder. A\nlarge yellow planet appears directly ahead. RIC OLIE searches his scopes.\n\nOBI-WAN : Tahyt's it. Tatooine.\nRIC OLIE : There's a settlement...a spaceport, looks like.\nQUI-GON : Land near the outskirts. We don't want to attract any attention.",
+        "dictionary": {
+            "Tatooine": "Artemis-IV",
+            "Obi-Wan": "Captain Jenkins",
+            "Qui-Gon": "Professor Thompson",
+            "OBI-WAN": "Captain Jenkins",
+            "RIC OLIE": "Navigator Brown"
+        }
+    },
+    {
+        "message_id": 45,
+        "passage": "The ship heads toward the planet of Tatooine.",
+        "dictionary": {
+            "Tatooine": "Arabian Desert Planet"
+        }
+    },
+    {
+        "message_id": 46,
+        "passage": "The Naboo spacecraft lands in the desert in a swirl of dust. The spaceport\nof Mos Espa is seen in the distance.",
+        "dictionary": {
+            "Mos Espa": "Outer Space Terminal",
+            "Naboo": "Planet Xylophia-IV"
+        }
+    },
+    {
+        "message_id": 47,
+        "passage": "OBI-WAN is hoisting the hyperdrive out of a floor panel. JAR JAR rushes up\nto him and falls to his knees.\n\nJAR JAR : Obi-Wan, sire, pleeese, no mesa go!\nOBI-WAN : Sorry, Qui-Gon's right. You'll make things less obvious.\n\nJAR JAR walks back to ARTOO in the hallway as QUI-GON (dressed as a farmer)\nenters the main area.\n\nOBI-WAN : (Cant'd) The Hyperdrive generator is gone. We will need a new\none.\n\nQUI-GON moves closer to OBI-WAN and speaks quietly to him.\n\nQUI-GON : Don't let them send ant transmissions. Be wary...I sense a\ndisturbance in the Force.\nOBI-WAN : I fell it also, Master.\n\nQUI-GON goes into the hallway to meet up with ARTOO and JAR JAR. They head\nto the exit ramp.",
+        "dictionary": {
+            "Qui-Gon": "Master",
+            "JAR JAR": "young boy",
+            "Obi-Wan": "Engineer",
+            "Qui-Gon's": "Master's",
+            "Cant'd": "Whispered",
+            "Force": "Energy"
+        }
+    },
+    {
+        "message_id": 48,
+        "passage": "They start their trek across the desert toward the city of Mos Espa. In the\ndistance, a strange looking caravan makes its way toward the spaceport.\n\nJAR JAR : Dis sun doen murder tada skin.\n\nFrom the spaceship, CAPTAIN PANAKA and PADME run toward them.\n\nCAPT. PANAKA : Wait!\n\nQUI-GON stops as they catch up. PADME is dresses in rough peasant's garb.\n\nCAPT. PANAKA : (Cont'd) Her Highness commands you to take her handmaiden\nwith you. She wishes for her to observe the local...\nQUI-GON : No more commands from Her Highness today, Captain. This spaceport\nis not going to be pleasant...\nCAPT. PANAKA : The Queen wishes it. She is curious about this planet.\nPADME : I've been trained in defense... I can take care of myself.\nCAPT. PANAKA : Don't make me go back and tell her you refuse.\nQUI-GON : I don't have time to argue. But this is not a good idea. Stay\nclose to me.\n\nHe gives PADME a stern look.",
+        "dictionary": {
+            "Mos Espa": "Desert Oasis",
+            "JAR JAR": "Local Guide",
+            "CAPT. PANAKA": "Spaceport Official",
+            "PADME": "Traveler",
+            "Qui-Gon": "Space Explorer"
+        }
+    },
+    {
+        "message_id": 49,
+        "passage": "The little GROUP walks down the main street of Mos Espa. They pass\ndangerous looking citizens of all types. PADME looks around in awe at this\nexotic enviroment.\n\nQUI-GON : ...moisture farms for the most part, but also a few indigenous\ntribes and scavengers. The few spaceports like this one are havens for\nthose who do not wish to be found...\nPADME : ....like us. JAR JAR is in a constant state of panic.\n\nARTOO whistles along, with perfect confidence.\n\nJAR JAR : Dissen berry berry bad. (steps in ooze)\nOoooh...icky...icky...goo.",
+        "dictionary": {
+            "GROUP": "party",
+            "Mos Espa": "exotic city",
+            "Qui-Gon": "old man",
+            "indigenous tribes and scavengers": "local inhabitants and outcasts",
+            "spaceports like this one": "airports like this one",
+            "do not wish to be found": "want to remain hidden",
+            "Dissen berry berry bad": "This is very bad indeed"
+        }
+    }
+]

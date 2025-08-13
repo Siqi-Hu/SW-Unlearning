@@ -1,0 +1,74 @@
+[
+    {
+        "message_id": 550,
+        "passage": "Vader cooly pushes the fire button on his control stick.\n\n367",
+        "dictionary": {
+            "Vader": "The Dark Lord"
+        }
+    },
+    {
+        "message_id": 551,
+        "passage": "Darth Vader's well-aimed laserfire proves to be unavoidable,\n      and strikes Red Ten's ship. Red Ten screams in anguish and\n      pain.\n\n368",
+        "dictionary": {
+            "Darth Vader": "The Dark Lord",
+            "laserfire": "blaster shots"
+        }
+    },
+    {
+        "message_id": 552,
+        "passage": "Red Ten's ship explodes and bursts into flames.\n\n369",
+        "dictionary": {
+            "Red Ten": "Pilot Alpha"
+        }
+    },
+    {
+        "message_id": 553,
+        "passage": "Grimly, Red Leader takes careful aim and watches his\n      computer targeting device, which shows the target lined up\n      in the cross hairs, and fires.\n\n370",
+        "dictionary": {}
+    },
+    {
+        "message_id": 554,
+        "passage": "RED LEADER\n                It's away!\n\n371",
+        "dictionary": {
+            "RED LEADER": "Commanding Officer"
+        }
+    },
+    {
+        "message_id": 555,
+        "passage": "An armed Imperial stormtrooper is knocked to the floor from\n      the attack explosion. Other troopers scurrying about the\n      corridors are knocked against the wall and lose their\n      balance.\n\n372",
+        "dictionary": {
+            "stormtrooper": "armed soldier"
+        }
+    },
+    {
+        "message_id": 556,
+        "passage": "Leia and the others stare at the computer screen.\n\n                          RED NINE'S VOICE\n                    (over speaker)\n                It's a hit!\n\n                          RED LEADER\n                    (over speaker)\n                Negative.\n\n373",
+        "dictionary": {
+            "RED NINE'S VOICE": "Radio Transmission",
+            "RED LEADER": "Commander"
+        }
+    },
+    {
+        "message_id": 557,
+        "passage": "Red Leader looks back at the receding Death Star. Tiny\n      explosions are visible in the distance.\n\n                          RED LEADER\n                Negative! It didn't go in. It just\n                impacted on the surface.\n\n374",
+        "dictionary": {
+            "Death Star": "Imperial Space Station",
+            "Red Leader": "Commander"
+        }
+    },
+    {
+        "message_id": 558,
+        "passage": "Darth Vader peels off in pursuit as Red Leader's X-wing\n      passes the Death Star horizon.\n\n375",
+        "dictionary": {
+            "Death Star": "Galactic Fortress",
+            "X-wing": "Fighter Jet"
+        }
+    },
+    {
+        "message_id": 559,
+        "passage": "Vader swings his ship around for the next kill.\n\n376",
+        "dictionary": {
+            "Vader": "The Dark Lord"
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "message_id": 650,
+        "passage": "Vader's ship spins out of control with a bent solar fin,\n      heading for deep space.\n\n467",
+        "dictionary": {
+            "Vader": "The Dark Lord"
+        }
+    },
+    {
+        "message_id": 651,
+        "passage": "Vader turns round and round in circles as his ship spins\n      into space.\n\n468",
+        "dictionary": {
+            "Vader": "Commander"
+        }
+    },
+    {
+        "message_id": 652,
+        "passage": "Solo's ship moves in toward the Death Star trench.\n\n469",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "trench": "gorge"
+        }
+    },
+    {
+        "message_id": 653,
+        "passage": "Solo, smiling, speaks to Luke over his headset mike.\n\n                          HAN\n                    (into mike)\n                You're all clear, kid.\n\n470",
+        "dictionary": {
+            "HAN": "Captain",
+            "kid": "youngster"
+        }
+    },
+    {
+        "message_id": 654,
+        "passage": "Leia and the others listen to Solo's transmission.\n\n                          HAN\n                    (over speaker)\n                Now let's blow this thing and go\n                home!\n\n471",
+        "dictionary": {
+            "HAN": "Captain"
+        }
+    },
+    {
+        "message_id": 655,
+        "passage": "Luke looks up and smiles. He concentrates on the exhaust\n      port, then fires his laser torpedoes.\n\n472",
+        "dictionary": {
+            "laser torpedoes": "guided missiles"
+        }
+    },
+    {
+        "message_id": 656,
+        "passage": "Luke's torpedoes shoot toward the port and seems to simply\n      disappear into the surface and not explode. But the shots do\n      find their mark and have gone into the exhaust port and are\n      heading for the main reactor.\n\n473",
+        "dictionary": {
+            "torpedoes": "missiles",
+            "exhaust port": "engine vent",
+            "main reactor": "power core"
+        }
+    },
+    {
+        "message_id": 657,
+        "passage": "Luke throws his head back in relief.\n\n474",
+        "dictionary": {
+            "Luke": "Alex"
+        }
+    },
+    {
+        "message_id": 658,
+        "passage": "An Imperial soldier runs to the control panel board and\n      pulls the attack lever as the board behind him lights up.\n\n                          INTERCOM VOICE\n                Stand by to fire at Rebel base.\n\n475",
+        "dictionary": {
+            "Rebel base": "enemy stronghold"
+        }
+    },
+    {
+        "message_id": 659,
+        "passage": "Two X-wings, a Y-wing, and the pirateship race toward Yavin\n      in the distance.\n\n476",
+        "dictionary": {
+            "X-wings": "fighter jets",
+            "Y-wing": "attack bomber",
+            "pirateship": "spaceship"
+        }
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "message_id": 1770,
+        "passage": "Inside his walker, General Veers prepares to fire on the\n      Rebel power generators.\n\n                          VEERS\n                Distance to power generators?\n\n                          PILOT\n                One-seven, decimal two-eight.\n\n      Veers reaches for the electrorangefinder and lines up the\n      main generator.\n\n                           VEERS\n                Target.   Maximum fire power.\n\n105",
+        "dictionary": {
+            "Rebel": "Resistance",
+            "General": "Commander"
+        }
+    },
+    {
+        "message_id": 1771,
+        "passage": "The Rebel troops continue their desperate retreat, pushed\n      back by the relentless Imperial assault.\n\n106",
+        "dictionary": {
+            "Rebel": "Resistance",
+            "Imperial": "Federal"
+        }
+    },
+    {
+        "message_id": 1772,
+        "passage": "With Threepio lagging behind, Han and Leia race through the\n      crumbling ice corridors. Suddenly, there is an explosion.\n      Han turns, grabs the princess, and pulls her to the wall as\n      a tremendous cave-in blacks their path.\n\n      He takes the comlink from his pocket.\n\n                          HAN\n                    (into comlink)\n                Transport, this is Solo. Better\n                take off - I can't get to you. I'll\n                get the princess out on the Falcon.\n\n      Han and Leia turn and race down the corridor.\n\n                          THREEPIO\n                But... but... but... where are you\n                going? Uh... come back!!\n\n107",
+        "dictionary": {
+            "Threepio": "The Translator",
+            "Falcon": "Spacecraft"
+        }
+    },
+    {
+        "message_id": 1773,
+        "passage": "Imperial troops have reached the base. As they push through\n      the blocked passageway, Darth Vader strides behind them.\n\n108",
+        "dictionary": {
+            "Imperial": "Government",
+            "Darth Vader": "High-ranking Officer"
+        }
+    },
+    {
+        "message_id": 1774,
+        "passage": "Han and Leia run toward the entrance of the main hangar\n      where the Millennium Falcon is docked. Threepio still lags\n      behind.\n\n                           THREEPIO\n                Wait!   Wait for me!   Wait!   Stop!\n\n      The door to the hangar closes in his face.\n\n                          THREEPIO (CONT’D)\n                    (exasperated)\n                How typical.\n\n      Quickly, the door reopens as Han reaches out and pulls the\n      golden droid through.\n\n                           HAN\n                Come on.\n\n109",
+        "dictionary": {
+            "Millennium Falcon": "Galactic Cruiser",
+            "Threepio": "Golden Droid",
+            "CONT’D": "Continued"
+        }
+    },
+    {
+        "message_id": 1775,
+        "passage": "Chewie paces under the shelter of the Millennium Falcon's\n      landing gear. The giant Wookiee pats the underbelly of his\n      beloved ship and barks a few reassuring words. As he\n      searches worriedly for his captain, something at last\n      catches his eye.\n\n      Chewie lets out a relieved shriek at seeing Han and Leia\n      running toward the ship. The Wookiee runs out into the\n      falling ice, lets out a howl, then runs up the ship's ramp.\n      Han and Leia run up the ramp after him, closely followed by\n      Threepio.\n\n                          HAN\n                Hurry up, goldenrod, or you're\n                going to be a permanent resident!\n\n                           THREEPIO\n                Wait!   Wait!\n\n110",
+        "dictionary": {
+            "Millennium Falcon": "Galactic Transport",
+            "Wookiee": "Giant Canine",
+            "Threepio": "Robot Companion"
+        }
+    },
+    {
+        "message_id": 1776,
+        "passage": "Imperial troops run through the base corridors. Vader\n      surveys the place. A huge chunk falls, almost hitting him,\n      but he calmly, purposefully, continues around it.\n\n111",
+        "dictionary": {
+            "Vader": "Commander",
+            "Imperial": "Government"
+        }
+    },
+    {
+        "message_id": 1777,
+        "passage": "A distant, huge, explosion rocks the hangar deck.   Ice cakes\n      come crashing down on the Millennium Falcon.\n\n112",
+        "dictionary": {
+            "Millennium Falcon": "Fastest Ship",
+            "hangar deck": "aircraft bay"
+        }
+    },
+    {
+        "message_id": 1778,
+        "passage": "Han, standing before a control panel, is busy flipping\n      switches as Chewie watches a troublesome gauge. A worried\n      Leia observes their efforts.\n\n                          HAN\n                    (to Chewie)\n                How's this?\n\n      The Wookiee barks a negative reply.\n\n                          LEIA\n                Would it helped if I got out and\n                pushed?\n\n                            HAN\n                It might.\n\n      Threepio clanks into the hold.\n\n                          THREEPIO\n                Captain Solo, Captain Solo... sir,\n                might I suggest that you...\n\n      Han gives the gold robot a devastating look.\n\n                          THREEPIO (CONT’D)\n                It can wait.\n\n113",
+        "dictionary": {
+            "Wookiee": "ape-like alien",
+            "Threepio": "gold robot",
+            "Captain Solo": "space pilot"
+        }
+    },
+    {
+        "message_id": 1779,
+        "passage": "They move to the cockpit where Han flips some more switches.\n      Leia watches him, impatient, disbelieving.\n\n                          LEIA\n                This bucket of bolts is never going\n                to get us past that blockade.\n\n                          HAN\n                This baby's got a few surprises\n                left in her, sweetheart.\n\n      Han and Leia look out the cockpit window and see a squad of\n      stormtroopers rushing into the far side of the hangar.\n\n      Quickly, Han straps himself into the pilot's seat and Leia\n      into the navigator's chair.\n\n114",
+        "dictionary": {
+            "stormtroopers": "elite soldiers",
+            "blockade": "siege",
+            "baby's got a few surprises left in her": "this old girl has some tricks up her sleeve"
+        }
+    }
+]

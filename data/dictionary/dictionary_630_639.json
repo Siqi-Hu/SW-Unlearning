@@ -1,0 +1,80 @@
+[
+    {
+        "message_id": 630,
+        "passage": "The three TIE fighters, manned by Vader and his two wingmen,\n      follow Luke's X-wing down the trench.\n\n447",
+        "dictionary": {
+            "TIE fighters": "enemy spacecraft",
+            "X-wing": "starfighter"
+        }
+    },
+    {
+        "message_id": 631,
+        "passage": "Vader maneuvers his controls as he looks at his doomed\n      target. He presses the fire buttons on his control sticks.\n      Laserfire shoots toward Luke's X-wing fighter.\n\n448",
+        "dictionary": {
+            "X-wing fighter": "fighter jet",
+            "Laserfire": "blaster shots"
+        }
+    },
+    {
+        "message_id": 632,
+        "passage": "A large burst of Vader's laserfire engulfs Artoo. The arms\n      go limp on the smoking little droid as he makes a high-\n      pitched sound.\n\n449",
+        "dictionary": {
+            "Vader's laserfire": "intense blaster beam",
+            "Artoo": "the droid"
+        }
+    },
+    {
+        "message_id": 633,
+        "passage": "Luke looks frantically back over his shoulder at Artoo.\n\n450",
+        "dictionary": {
+            "Artoo": "R2D2",
+            "Luke": "The Young Pilot"
+        }
+    },
+    {
+        "message_id": 634,
+        "passage": "Smoke billows out around little Artoo and sparks begin to\n      fly.\n\n                          LUKE\n                I've lost Artoo!\n\n      Artoo's beeping sounds die out.\n\n451",
+        "dictionary": {
+            "Artoo": "Mechanical Assistant",
+            "beeping sounds": "electronic signals"
+        }
+    },
+    {
+        "message_id": 635,
+        "passage": "Leia and the others stare intently at the projected screen,\n      while Threepio watches the Princess. Lights representing the\n      Death Star and targets glow brightly.\n\n                          MASSASSI INTERCOM VOICE\n                The Death Star has cleared the\n                planet. The Death Star has cleared\n                the planet.\n\n452",
+        "dictionary": {
+            "Death Star": "Galactic Fortress",
+            "Massassi": "Galactic Communication"
+        }
+    },
+    {
+        "message_id": 636,
+        "passage": "Tarkin glares at the projected target screen.\n\n                          DEATH STAR INTERCOM VOICE\n                Rebel base, in range.\n\n                          TARKIN\n                You may fire when ready.\n\n                          DEATH STAR INTERCOM VOICE\n                Commence primary ignition.\n\n      An officer reaches up and pushes buttons on the control\n      panel, as green lighted buttons turn to red.\n\n453",
+        "dictionary": {
+            "DEATH STAR": "Doomsday Station",
+            "primary ignition": "main activation"
+        }
+    },
+    {
+        "message_id": 637,
+        "passage": "The three TIE fighters zoom down the Death Star trench in\n      pursuit of Luke, never breaking formation.\n\n454",
+        "dictionary": {
+            "TIE fighters": "enemy jets",
+            "Death Star": "space station"
+        }
+    },
+    {
+        "message_id": 638,
+        "passage": "Luke looks anxiously at the exhaust port.\n\n455",
+        "dictionary": {
+            "exhaust port": "engine outlet"
+        }
+    },
+    {
+        "message_id": 639,
+        "passage": "Vader adjusts his control sticks, checking his projected\n      targeting screen.\n\n456",
+        "dictionary": {
+            "Vader": "Commander"
+        }
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "message_id": 1620,
+        "passage": "Luke, Leia, C-3PO, and Rebel General are looking out the\n     portal into the asteroid field. Artoo rolls down a ramp \n     and whistles at Threepio.\n\n                            THREEPIO\n                    (to Artoo)\n               The talisman - it makes things invisible, \n               I think.\n\n     Artoo beeps another question.\n\n                            THREEPIO\n               Yes, even you. Which I think might be an\n               improvement.\n\n     A red colored alien with a headset is sitting at a\n     communications console. He is a communications officer. \n     On the monitor, a blip is headed towards their base in \n     the asteroid field.\n\n                            COMMUNICATIONS OFFICER\n               We've picked up something.\n\n                            LUKE\n               It's the Millennium Falcon.\n\n                            COMMUNICATIONS OFFICER\n               They're coming out of lightspeed. I can't \n               make contact.\n\n                            REBEL GENERAL\n               Try a lower channel.\n\n     The radar display fades and a view of the cockpit of the\n     Falcon is shown. Chewie is seated and Han can be seen \n     hanging upside down in the background.\n\n                            COMMUNICATIONS OFFICER\n                    (into headset)\n               Falcon, do you copy? Come in Falcon.\n\n                            LUKE\n               It's Chewie. But where's Han?\n\n                            LEIA\n               That's him! Hanging upside down!\n\n                            COMMUNICATIONS OFFICER\n                    (to Rebel General)\n               I can't make radio contact.\n\n                            REBEL GENERAL\n               He's on a collision course. Princess, \n               we're in mortal danger from our own \n               forces.\n\n                            COMMUNICATIONS OFFICER\n                    (into headset)\n               Falcon, do you copy?\n\n                            REBEL GENERAL\n               This is madness.\n\n                            LUKE\n               You're right General. I can't understand \n               what Chewbacca's doing.\n\n                            LEIA\n               Whatever he's doing, there must be a \n               reason. Hold your fire.\n\n                            COMMUNICATIONS OFFICER\n                    (to Rebel General)\n               We've lost all contact, sir.\n\n     The monitor with Chewie on it goes to static.\n\n36.",
+        "dictionary": {
+            "Rebel General": "High Command",
+            "Millennium Falcon": "Galactic Cruiser",
+            "Chewie": "Co-Pilot",
+            "Threepio": "Translation Droid",
+            "Artoo": "Astro-Mechanic",
+            "C-3PO": "Protocol Droid"
+        }
+    },
+    {
+        "message_id": 1621,
+        "passage": "The Falcon is headed straight for the Rebel base.\n\n                            REBEL GENERAL\n                    (voice over)\n               Standby. The Falcon is near impact.\n\n     The Falcon changes direction at the last minute and \n     speeds away from the base.\n\n37.",
+        "dictionary": {
+            "REBEL GENERAL": "High Commander",
+            "Falcon": "Starship"
+        }
+    },
+    {
+        "message_id": 1622,
+        "passage": "LUKE\n               I'm going after them.\n\n                            LEIA\n               Luke, take Artoo with you.\n\n     Artoo whistles.\n\n                            LUKE\n                    (to Threepio)\n               What'd he say?\n\n                            THREEPIO\n               If something has happened to captain Solo \n               and Chewbacca is alone, you will need me \n               to interpret.\n\n38.",
+        "dictionary": {
+            "Artoo": "Robot",
+            "Threepio": "Translator",
+            "Solo": "Commander"
+        }
+    },
+    {
+        "message_id": 1623,
+        "passage": "A Y-wing flies through the asteroid filed and follows the\n     Falcon. The Falcon fires several shots at the Y-wing but\n     miss.\n\n39.",
+        "dictionary": {
+            "Y-wing": "Attack Fighter",
+            "asteroid filed": "asteroid field"
+        }
+    },
+    {
+        "message_id": 1624,
+        "passage": "Luke and Threepio are both seated in the cockpit. Laser \n     blasts flash past the canopy of the fighter.\n\n                            THREEPIO\n               Sir, he's firing on us.\n\n                            LUKE\n               I know, but I don't think he means to hit \n               us. Chewie's a better shot than that.\n\n40.",
+        "dictionary": {
+            "Threepio": "Translation Droid",
+            "Chewie": "Loyal Companion"
+        }
+    },
+    {
+        "message_id": 1625,
+        "passage": "The Falcon accelerates and speeds away from the pursuing \n     Y-wing.\n\n                            THREEPIO\n                    (voice over)\n               Look, he's speeding up. We're losing him.\n\n                            LUKE\n                    (voice over)\n               Not for long.\n\n41.",
+        "dictionary": {
+            "Y-wing": "fighter jet",
+            "THREEPIO": "computer voice",
+            "LUKE": "pilot"
+        }
+    },
+    {
+        "message_id": 1626,
+        "passage": "Luke holds his headset microphone closer to his mouth and\n     speaks into it.\n\n                            LUKE\n                    (into headset)\n               This is Y-4 to base. He's heading \n               straight for a moon in the Panos system.\n\n42.",
+        "dictionary": {
+            "Y-4": "Alpha-4",
+            "Panos system": "Alpha galaxy"
+        }
+    },
+    {
+        "message_id": 1627,
+        "passage": "The Falcon flies into a red jelly-like ocean. It goes \n     under the surface and pops back up on balloons.\n\n43.",
+        "dictionary": {
+            "Falcon": "Spacecraft",
+            "red jelly-like ocean": "Alien Sea"
+        }
+    },
+    {
+        "message_id": 1628,
+        "passage": "The Y-wing is headed for the same moon that the Falcon \n     landed on. The Y-wing is shaking from entering the moon's\n     atmosphere.\n   \n                            LUKE\n                    (voice over)\n               Hang on Artoo.\n\n44.",
+        "dictionary": {
+            "Y-wing": "attack plane",
+            "Artoo": "assistant robot"
+        }
+    },
+    {
+        "message_id": 1629,
+        "passage": "The cockpit of the ship is shaking violently.\n\n                            THREEPIO\n               What about me? I'm going to shake apart!\n\n45.",
+        "dictionary": {
+            "THREEPIO": "Computer Voice",
+            "I'm going to shake apart": "I'm going to break apart"
+        }
+    }
+]

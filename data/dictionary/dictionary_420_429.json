@@ -1,0 +1,75 @@
+[
+    {
+        "message_id": 420,
+        "passage": "An X-wing zooms across the surface of the Death Star.\n\n237",
+        "dictionary": {
+            "Death Star": "Imperial Space Station",
+            "X-wing": "Fighter Jet"
+        }
+    },
+    {
+        "message_id": 421,
+        "passage": "Technical crews scurry here and there loading last-minute\n      armaments and unlocking power cables.\n\n238",
+        "dictionary": {
+            "": ""
+        }
+    },
+    {
+        "message_id": 422,
+        "passage": "Wedge maneuvers his fighter toward the menacing Death Star.\n\n239",
+        "dictionary": {
+            "Death Star": "Galactic Fortress"
+        }
+    },
+    {
+        "message_id": 423,
+        "passage": "X-wings continue in their attack course on the Death Star.\n\n240",
+        "dictionary": {
+            "X-wings": "fighter jets",
+            "Death Star": "enemy base"
+        }
+    },
+    {
+        "message_id": 424,
+        "passage": "Luke nosedives radically, starting his attack on the\n      monstrous fortress. The Death Star surface streaks past the\n      cockpit window.\n\n                             LUKE\n                   This is Red Five; I'm going in!\n\n241",
+        "dictionary": {
+            "Death Star": "Imperial Space Station",
+            "Red Five": "Alpha Flight"
+        }
+    },
+    {
+        "message_id": 425,
+        "passage": "Luke's X-wing races toward the Death Star. Laserbolts streak\n      from Luke's weapons, creating a huge fireball explosion on\n      the dim surface.\n\n242",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "Laserbolts": "Energy Blasts"
+        }
+    },
+    {
+        "message_id": 426,
+        "passage": "Terror crosses Luke's face as he realizes he won't be able\n      to pull out in time to avoid the fireball.\n\n                             BIGGS\n                       (over headset)\n                   Luke, pull up!\n\n243",
+        "dictionary": {
+            "BIGGS": "Pilot"
+        }
+    },
+    {
+        "message_id": 427,
+        "passage": "Luke's ship emerges from the fireball, with the leading\n      edges of his wings slightly scorched.\n\n244",
+        "dictionary": {
+            "X-wing": "fighter jet"
+        }
+    },
+    {
+        "message_id": 428,
+        "passage": "BIGGS\n                Are you all right?\n\n245",
+        "dictionary": {}
+    },
+    {
+        "message_id": 429,
+        "passage": "Luke adjusts his controls and breathes a sigh of relief.\n      Flak bursts outside the cockpit window.\n\n                          LUKE\n                I got a little cooked, but I'm\n                okay.\n\n246",
+        "dictionary": {
+            "Flak": "Bullets",
+            "Cockpit": "Pilot's Station"
+        }
+    }
+]

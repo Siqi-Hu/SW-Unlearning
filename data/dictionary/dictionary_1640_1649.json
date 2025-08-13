@@ -1,0 +1,86 @@
+[
+    {
+        "message_id": 1640,
+        "passage": "Threepio is checking Han and Luke with a strange device.\n\n                            THREEPIO\n               Yes, their metabolisms are slowing down. \n               I wonder what's keeping Chewbacca. Try to \n               find them on the viewscreen.\n\n     Artoo plugs his \"arm\" into the viewscreen controls. Darth\n     Vader appears on the monitor. \n\n                            THREEPIO\n               Darth Vader!\n\n                            DARTH VADER\n                    (on monitor)\n               Good work, but I want them alive. Now that \n               you've got their trust, they may take you \n               to their new base.\n\n     The viewscreen switches from Darth to Boba.\n\n                            BOBA FETT\n                    (on monitor)\n               This time we'll get them all.\n\n     The viewscreen switches back to Darth.\n\n                            DARTH VADER\n                    (on monitor)\n               I see why they call you the best bounty \n               hunter in the galaxy.\n\n                            THREEPIO\n               Oh no! What will we do now?\n\n56.",
+        "dictionary": {
+            "Threepio": "Translation Droid",
+            "Chewbacca": "Loyal Companion",
+            "Darth Vader": "Imperial Officer",
+            "viewscreen": "Monitor",
+            "Boba Fett": "Bounty Hunter"
+        }
+    },
+    {
+        "message_id": 1641,
+        "passage": "A group of stormtroopers march by where Chewie is still\n     hiding in the doorway. Boba Fett returns.\n\n                            BOBA FETT\n               I have the serum.\n\n     Chewie sniffs the air as if he smells something. \n\n                            BOBA FETT\n               We must leave quickly, friend.\n\n57.",
+        "dictionary": {
+            "stormtroopers": "armored soldiers",
+            "Chewie": "Wookiee"
+        }
+    },
+    {
+        "message_id": 1642,
+        "passage": "Boba Fett and Chewie flee the city on the creature. They \n     are followed by an Imperial gun boat manned by \n     stormtroopers. The boat fires on the creature carrying \n     Boba and Chewie and miss. Boba pulls out his blaster and \n     fires on the boat. He misses. Chewie takes the blaster \n     out of his hand and fires on the boat. He hits it and it\n     explodes.\n\n58.",
+        "dictionary": {
+            "Boba Fett": "Elite Bounty Hunter",
+            "stormtroopers": "Imperial Soldiers",
+            "blaster": "laser gun"
+        }
+    },
+    {
+        "message_id": 1643,
+        "passage": "Han and Luke are both untied and conscious. They are \n     still groggy from the sleeping virus.\n\n                            BOBA FETT\n               Are you all right?\n\n                            LUKE\n               I'm not sure.\n\n                            HAN \n               What happened?\n\n                            LUKE\n               I don't know.\n\n                            HAN\n               Well, somebody must know something.\n\n     Chewie growls.\n\n                            HAN\n               He says our friend Boba found serum for \n               the talisman virus.\n\n                            LUKE\n               Boba, you're a hero and a faithful friend. \n               You must come back with us.\n\n     Artoo goes nuts.\n\n                            LUKE\n                    (to Threepio)\n               What's the matter with Artoo?\n\n                            THREEPIO\n               I'm afraid, sir, it's because you said \n               Boba is a friend and faithful ally. That \n               simply does not feed properly into \n               Artoo's information bank.\n\n                            LUKE\n               What are you talking about?\n\n                            THREEPIO\n               We intercepted a message between Boba and \n               Darth Vader, sir. Boba Fett is Darth \n               Vader's right hand man. I'm afraid this \n               whole adventure has been an Imperial plot.\n\n                            BOBA FETT\n               We'll meet again, friend.\n\n     Boba walks toward a small panel with his blaster drawn. \n     He pushes a button on the panel and a hatch opens in the\n     ceiling of the Falcon. He ignites his backpack and flies \n     out of the ship.\n\n                            HAN \n               Well, trust a droid to get to the bottom \n               of things.\n\n                            LUKE\n               Boba sure fooled the rest of us.\n\n59.",
+        "dictionary": {
+            "Boba Fett": "Imperial Agent",
+            "Talisman virus": "Sleeping Serum",
+            "Threepio": "Droid Assistant",
+            "Artoo": "Nervous Droid"
+        }
+    },
+    {
+        "message_id": 1644,
+        "passage": "Chewie growls as everyone enters the cockpit of the \n     Falcon. Han and Chewie take their seats.\n\n                            THREEPIO\n               I beg your pardon, sir. Chewbacca \n               suspected all along there was something \n               bad about Boba.\n\n                            LUKE\n               How did you know, Chewie?\n\n     Chewie growls and holds his nose.\n\n                            THREEPIO\n               May I quote directly, sir? He just didn't \n               smell right.\n\n     Everyone laughs at this.\n\n60.",
+        "dictionary": {
+            "Falcon": "spaceship",
+            "Boba": "stranger"
+        }
+    },
+    {
+        "message_id": 1645,
+        "passage": "The Falcon flies from the planet and heads for space.\n\n                            HAN\n                    (voice over)\n               Well, lets's get off this galactic \n               raindrop.\n\n                            CAPTAIN KAZAN\n                    (voice over)\n               Captain Kazan, starlog 3-24-1 signing off. \n               May the force be with you.\n\n61.",
+        "dictionary": {
+            "galactic raindrop": "distant planet",
+            "May the force be with you": "Good luck on your journey"
+        }
+    },
+    {
+        "message_id": 1646,
+        "passage": "The cartoon ends. Lumpy applauds.\n\n62.",
+        "dictionary": {
+            "": ""
+        }
+    },
+    {
+        "message_id": 1647,
+        "passage": "The Imperial guard and a stormtrooper tear apart Lumpy's \n     room searching for Rebel material. They throw his toys \n     and belongings all over. The guard even decides to tear \n     the head off of Lumpy's stuffed bantha doll. He then \n     tosses it to the floor.\n\n                            IMPERIAL GUARD\n                    (to stormtrooper)\n               Let's go.\n\n     The two head down the staircase.\n\n63.",
+        "dictionary": {
+            "Imperial guard": "military officers",
+            "stormtrooper": "armed soldier"
+        }
+    },
+    {
+        "message_id": 1648,
+        "passage": "The guard and stormtrooper come down the stairs.\n\n                            IMPERIAL GUARD\n                    (to officer)\n               Nothing up there.\n\n                            IMPERIAL OFFICER\n                    (to Lumpy)\n               Go clean up your room.\n\n     Lumpy reluctantly turns off his game and goes up to his \n     room.\n\n64.",
+        "dictionary": {
+            "IMPERIAL GUARD": "High-Ranking Officer",
+            "IMPERIAL OFFICER": "High-Ranking Official"
+        }
+    },
+    {
+        "message_id": 1649,
+        "passage": "Lumpy goes into his room and howls at the condition that \n     the Imperials left his room in.\n\n65.",
+        "dictionary": {
+            "Imperials": "Occupying Forces"
+        }
+    }
+]

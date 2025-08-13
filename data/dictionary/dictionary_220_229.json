@@ -1,0 +1,90 @@
+[
+    {
+        "message_id": 220,
+        "passage": "Luke enters the garage to discover the robots nowhere in\n     sight. He takes a small control box from his utility belt\n     similar to the one the Jawas were carrying. He activates the\n     box, which creates a low hum, and Threepio, letting out a\n     short yell, pops up from behind the Skyhopper spaceship.\n\n                         LUKE\n               What are you doing hiding there?\n\n     Threepio stumbles forward, but Artoo is still nowhere in\n     sight.\n\n                         THREEPIO\n               It wasn't my fault, sir. Please\n               don't deactivate me. I told him not\n               to go, but he's faulty,\n               malfunctioning; kept babbling on\n               about his mission.\n\n                         LUKE\n               Oh, no!\n\n     Luke races out of the garage followed by Threepio.\n\n34",
+        "dictionary": {
+            "Jawas": "dune traders",
+            "Threepio": "Robbie",
+            "Skyhopper": "spacecraft"
+        }
+    },
+    {
+        "message_id": 221,
+        "passage": "Luke rushes out of the small doomed entry to the homestead\n     and searches the darkening horizon for the small triped\n     astro- robot. Threepio struggles out of the homestead and on\n     the salt flat as Luke scans the landscape with his\n     electrobinoculars.\n\n                         THREEPIO\n               That R2 unit has always been a\n               problem. These astro-droids are\n               getting quite out of hand. Even I\n               can't understand their logic at\n               times.\n\n                         LUKE\n               How could I be so stupid? He's\n               nowhere in sight. Blast it!\n\n                          THREEPIO\n               Pardon me, sir, but couldn't we go\n               after him?\n\n                         LUKE\n               It's too dangerous with all the\n               Sandpeople around. We'll have to\n               wait until morning.\n\n     Owen yells up from the homestead plaza.\n\n                         OWEN\n               Luke, I'm shutting the power down\n               for the night.\n\n                         LUKE\n               All right, I'll be there in a few\n               minutes. Boy, am I gonna get it.\n\n     He takes one final look across the dim horizon.\n\n                         LUKE (CONT’D)\n               You know that little droid is going\n               to cause me a lot of trouble.\n\n                         THREEPIO\n               Oh, he excels at that, sir.\n\n35",
+        "dictionary": {
+            "astro-robot": "space robot",
+            "Sandpeople": "desert nomads"
+        }
+    },
+    {
+        "message_id": 222,
+        "passage": "Morning slowly creeps into the sparse but sparkling oasis of\n     the open courtyard. The idyll is broken be the yelling of\n     Uncle Owen, his voice echoing throughout the homestead.\n\n                         OWEN\n               Luke? Luke? Luke? Where could he be\n               loafing now!\n\n36",
+        "dictionary": {
+            "homestead": "farmhouse",
+            "idyll": "serenity",
+            "loafing": "lazing around"
+        }
+    },
+    {
+        "message_id": 223,
+        "passage": "The interior of the kitchen is a worm glow as Aunt Beru\n     prepares the morning breakfast. Owen enters in a huff.\n\n                         OWEN\n               Have you seen Luke this morning?\n\n                         AUNT BERU\n               He said he had some things to do\n               before he started today, so he left\n               early.\n\n                         OWEN\n               Uh? Did he take those two new\n               droids with him?\n\n                         AUNT BERU\n               I think so.\n\n                         OWEN\n               Well, he'd better have those units\n               in the south range repaired be\n               midday or there'll be hell to pay!\n\n37",
+        "dictionary": {
+            "droids": "robots",
+            "south range": "lower level"
+        }
+    },
+    {
+        "message_id": 224,
+        "passage": "The rock and sand of the desert floor are a blur as Threepio\n     pilots the sleek Landspeeder gracefully across the vast\n     wasteland.\n\n38   INT./",
+        "dictionary": {
+            "Threepio": "Pilot",
+            "Landspeeder": "Speedster"
+        }
+    },
+    {
+        "message_id": 225,
+        "passage": "DAY\n               Luke leans over the back of the\n               speeder and adjusts something in\n               the motor compartment.\n\n                         LUKE\n                   (yelling)\n               How's that.\n\n     Threepio signals that is fine and Luke turns back into the\n     wind-whipped cockpit and pops the canopy shut.\n\n                         LUKE (CONT’D)\n               Old Ben Kenobi lives out in this\n               direction somewhere, but I don't\n               see how that R2 unit could have\n               come this far. We must have missed\n               him. Uncle Owen isn't going to take\n               this very well.\n\n                         THREEPIO\n               Sir, would it help if you told him\n               it was my fault.\n\n                         LUKE\n                   (brightening)\n               Sure. He needs you. He'd probably\n               only deactivate you for a day or\n               so...\n\n                         THREEPIO\n               Deactivate! Well, on the other hand\n               if you hadn't removed his\n               restraining bolt...\n\n                         LUKE\n               Wait, there's something dead ahead\n               on the scanner. It looks like our\n               droid... hit the accelerator.\n\n39",
+        "dictionary": {
+            "Threepio": "Robot",
+            "Old Ben Kenobi": "Ancient Mentor",
+            "R2 unit": "Droid",
+            "Uncle Owen": "Guardian"
+        }
+    },
+    {
+        "message_id": 226,
+        "passage": "From high on a rock mesa, the tiny Landspeeder can be seen\n     gliding across the desert floor. Suddenly in the foreground\n     two weather-beaten Sandpeople shrouded in their grimy desert\n     cloaks peer over the edge of the rock mesa. One of the\n     marginally human creatures raises a long ominous laser rifle\n     and points it at the speeder but the second creature grabs\n     the gun before it can be fired.\n\n     The Sandpeople, or Tusken   Raiders as they're sometimes\n     called, speak in a coarse   barbaric language as they get into\n     an animated argument. The   second Tusken Raider seems to get\n     in the final word and the   nomads scurry over the rocky\n     terrain.\n\n40",
+        "dictionary": {
+            "Landspeeder": "Desert Runner",
+            "Tusken Raiders": "Desert Nomads",
+            "Sandpeople": "Desert Dwellers"
+        }
+    },
+    {
+        "message_id": 227,
+        "passage": "The Tusken Raider approaches two large Banthas standing tied\n     to a rock. The monstrous, bear-like creatures are as large\n     as elephants, with huge red eyes, tremendous looped horns,\n     and long, furry, dinosaur-like tails. The Tusken Raiders\n     mount saddles strapped to the huge creatures' shaggy backs\n     and ride off down the rugged bluff.\n\n41",
+        "dictionary": {
+            "Banthas": "Gigantic pack animals",
+            "Tusken Raiders": "Desert nomads"
+        }
+    },
+    {
+        "message_id": 228,
+        "passage": "The speeder is parked on the floor of a massive canyon.\n     Luke, with his long laser rifle slung over his shoulder,\n     stands before little Artoo.\n\n                         LUKE\n               Hey, whoa, just where do you think\n               you're going?\n\n     The little droid whistles a feeble reply, as Threepio poses\n     menacingly behind the little runaway.\n\n                         THREEPIO\n               Master Luke here is your rightful\n               owner. We'll have no more of this\n               Obi-Wan Kenobi jibberish... and\n               don't talk to me about your\n               mission, either. You're fortunate\n               he doesn't blast you into a million\n               pieces right here.\n\n                         LUKE\n               Well, come on. It's getting late. I\n               only hope we can get back before\n               Uncle Owen really blows up.\n\n                         THREEPIO\n               If you don't mind my saying so,\n               sir, I think you should deactivate\n               the little fugitive until you've\n               gotten him back to your workshop.\n\n                         LUKE\n               No, he's not going to try anything.\n\n     Suddenly the little robot jumps to life with a mass of\n     frantic whistles and screams.\n\n                         LUKE (CONT’D)\n               What's wrong with him now?\n\n                         THREEPIO\n               Oh my... sir, he says there are\n               several creatures approaching from\n               the southeast.\n\n     Luke swings his rifle into position and looks to the south.\n\n                         LUKE\n               Sandpeople! Or worst! Come on,\n               let's have a look. Come on.\n\n42",
+        "dictionary": {
+            "Obi-Wan Kenobi": "A wise Jedi Master",
+            "Sandpeople": "Desert Nomads"
+        }
+    },
+    {
+        "message_id": 229,
+        "passage": "Luke carefully makes his way to the top of a rock ridge and\n     scans the canyon with his electrobinoculars. He spots the\n     two riderless Banthas. Threepio struggles up behind the\n     young adventurer.\n\n                         LUKE\n               There are two Banthas down there\n               but I don't see any... wait a\n               second, they're Sandpeople all\n               right. I can see one of them now.\n\n     Luke watches the distant Tusken Raider through his\n     electrobinoculars. Suddenly something huge moves in front of\n     his field of view. Before Luke or Threepio can react, a\n     large, gruesome Tusken Raider looms over them. Threepio is\n     startled and backs away, right off the side if the cliff. He\n     can be heard for several moments as he clangs, bangs and\n     rattles down the side of the mountain.\n\n     The towering creature brings down his curved, double-pointed\n     gaderffii -- the dreaded axe blade that has struck terror in\n     the heart of the local settlers. But Luke manages to block\n     the blow with his laser rifle, which is smashed to pieces.\n     The terrified farm boy scrambles backward until he is forced\n     to the edge of a deep crevice. The sinister Raider stands\n     over him with his weapon raised and lets out a horrible\n     shrieking laugh.\n\n43",
+        "dictionary": {
+            "Banthas": "Camels",
+            "Tusken Raider": "Desert Bandit",
+            "gaderffii": "Double-Bladed Axe",
+            "Threepio": "C-3PO",
+            "electrobinoculars": "Binoculars with Built-in Magnification"
+        }
+    }
+]

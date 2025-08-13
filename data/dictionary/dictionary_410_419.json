@@ -1,0 +1,80 @@
+[
+    {
+        "message_id": 410,
+        "passage": "The fighters, now X-shaped darts, move in formation. The\n      Death Star now appears to be a small moon growing rapidly in\n      size as the Rebel fighters approach. Complex patterns on the\n      metallic surface begin to become visible. A large dish\n      antenna is built into the surface on one side.\n\n227",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "Rebel": "Insurgent"
+        }
+    },
+    {
+        "message_id": 411,
+        "passage": "Wedge is amazed and slightly frightened at the awesome\n      spectacle.\n\n                             WEDGE\n                   Look at the size of that thing!\n\n                             RED LEADER\n                       (over headset)\n                   Cut the chatter, Red Two.\n\n228",
+        "dictionary": {
+            "Red Leader": "Commander",
+            "Red Two": "Second Officer"
+        }
+    },
+    {
+        "message_id": 412,
+        "passage": "RED LEADER\n                Accelerate to attack speed. This is\n                it, boys!\n\n229",
+        "dictionary": {
+            "RED LEADER": "Flight Commander"
+        }
+    },
+    {
+        "message_id": 413,
+        "passage": "As the fighters move closer to the Death Star, the awesome\n      size of the gargantuan Imperial fortress is revealed. Half\n      of the deadly space station is in shadow and this area\n      sparkles with thousands of small lights running in thin\n      lines and occasionally grouped in large clusters; somewhat\n      like a city at night as seen from a weather satellite.\n\n230",
+        "dictionary": {
+            "Death Star": "Imperial Fortress"
+        }
+    },
+    {
+        "message_id": 414,
+        "passage": "GOLD LEADER\n                   Red Leader, this is Gold Leader.\n\n                             RED LEADER\n                       (over headset)\n                   I copy, Gold Leader.\n\n                             GOLD LEADER\n                   We're starting for the target shaft\n                   now.\n\n231",
+        "dictionary": {
+            "Gold Leader": "Commander Leader",
+            "Red Leader": "Commander Leader"
+        }
+    },
+    {
+        "message_id": 415,
+        "passage": "Red Leader looks around at his wingmen; the Death Star\n      looming in from behind. Two Y-wing fighters bob back and\n      forth in the background. He moves his computer targeting\n      device into position.\n\n                             RED LEADER\n                   We're in position. I'm going to cut\n                   across the axis and try and draw\n                   their fire.\n\n232",
+        "dictionary": {
+            "Death Star": "Enemy Base",
+            "Y-wing": "Attack Plane",
+            "axis": "direction"
+        }
+    },
+    {
+        "message_id": 416,
+        "passage": "Two squads of Rebel fighters peel off. The X-wings dive\n      towards the Death Star surface. A thousand lights glow\n      across the dark grey expanse of the huge station.\n\n233",
+        "dictionary": {
+            "X-wings": "fighter jets",
+            "Death Star": "space station",
+            "Rebel fighters": "allied pilots"
+        }
+    },
+    {
+        "message_id": 417,
+        "passage": "Alarm sirens scream as soldiers scramble to large turbo-\n      powered laser gun emplacements. Electronic drivers rotate\n      the huge guns into position as crew adjust their targeting\n      devices.\n\n234",
+        "dictionary": {}
+    },
+    {
+        "message_id": 418,
+        "passage": "Laserbolts streak through the star-filled night. The Rebel X-\n      wing fighters move in toward the Imperial base, as the Death\n      Star aims its massive laser guns at the Rebel forces and\n      fires.\n\n235",
+        "dictionary": {
+            "Death Star": "Imperial Fortress",
+            "Rebel": "Resistance",
+            "Laserbolts": "Missiles"
+        }
+    },
+    {
+        "message_id": 419,
+        "passage": "Princess Leia listens to the battle over the intercom.\n      Threepio is at her side.\n\n                             WEDGE\n                       (over war room speaker\n                        system)\n                   Heavy fire, boss! Twenty-degrees.\n\n                             RED LEADER\n                       (over speaker)\n                   I see it. Stay low.\n\n236",
+        "dictionary": {
+            "Threepio": "Translator Robot",
+            "war room speaker system": "communication network"
+        }
+    }
+]

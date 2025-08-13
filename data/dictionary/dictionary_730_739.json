@@ -1,0 +1,76 @@
+[
+    {
+        "message_id": 730,
+        "passage": "The Millenium Falcon sitting in wait.",
+        "dictionary": {
+            "Millenium Falcon": "High-Speed Spacecraft"
+        }
+    },
+    {
+        "message_id": 731,
+        "passage": "Finn and Kelly Marie Tran From Comedy Bang Bang rush into the\ncockpit. Finn looks around at all the buttons and points at a\nfew of them, mouthing things to himself.\n\nKelly Marie Tran From Comedy Bang Bang sits down in the pilot\nseat and clicks some buttons.\n                    FINN\n          Woah, hey, what are you doing?\n\nKelly Marie Tran From Comedy Bang Bang turns to Finn.\n                    KELLY MARIE TRAN FROM COMEDY BANG BANG\n          Getting this thing started up, take\n          a seat. This might get bumpy.\n                    FINN\n          You know how to fly this thing?\n\nFinn sits down.\n                    KELLY MARIE TRAN FROM COMEDY BANG BANG\n          I know how to fly. This looks\n          really antiquated, but I’m sure\n          most of the systems are the same.\n\nKelly Marie Tran From Comedy Bang Bang clicks a button, the\nFalcon jolts forward a moment.\nFinn hits the dashboard, then sits back down.\n\n                       FINN\n          Easy.\n\n                    KELLY MARIE TRAN FROM COMEDY BANG BANG\n          Well at least we know how to land\n          now.\nFinn slowly puts on the seatbelts.\n\n                    FINN\n          What about this lever?\nFinn puts his hand on a lever between the two of them.\n                    KELLY MARIE TRAN FROM COMEDY BANG BANG\n          Nothing for you to handle.\nFinn takes his hand off but quick.\nKelly Marie Tran From Comedy Bang Bang taps a few more\nbuttons and then lifts the steering wheel towards her.",
+        "dictionary": {
+            "Falcon": "Spacecraft",
+            "antiquated": "outdated"
+        }
+    },
+    {
+        "message_id": 732,
+        "passage": "The ship kangaroos a few steps before taking to the sky.",
+        "dictionary": {
+            "kangaroos": "takes off"
+        }
+    },
+    {
+        "message_id": 733,
+        "passage": "FINN\n             Woo!\n\nFinn punches his fist into the air, he hits a button up top.\nThe exterior goes blurry.\n                       KELLY MARIE TRAN FROM COMEDY BANG BANG\n             Hit that button again.\nFinn reaches and hits the button.\n\nThey jolt forward in their seats.\nOutside we see a planet suddenly appear.\n                          KELLY MARIE TRAN FROM COMEDY BANG BANG\n                          (CONT’D)\n             Oh no.\n\nKelly Marie Tran From Comedy Bang Bang turns the wheel in\ndifferent directions.",
+        "dictionary": {
+            "FINN": "Pilot"
+        }
+    },
+    {
+        "message_id": 734,
+        "passage": "The Falcon swerves out of the way of a planet and into\ndarkness.",
+        "dictionary": {
+            "The Falcon": "The Spacecraft"
+        }
+    },
+    {
+        "message_id": 735,
+        "passage": "Kelly Marie Tran From Comedy Bang Bang wipes sweat off her\nbrow. Finn chuckles.\n                       KELLY MARIE TRAN FROM COMEDY BANG BANG\n             That’s most of the hyperdrive\n             engine wiped.\n                          LUKE (V.O.)\n                    (Fuzzy)\n             Han?\n                       KELLY MARIE TRAN FROM COMEDY BANG BANG\n             What did you say?\n                          FINN\n             Huh?\n\n                       LUKE (V.O.)\n             Where are you?\n\nKelly Marie Tran From Comedy Bang Bang turns around, seeing\nnothing.\n                       FINN\n             Are you alright?\n\n                       KELLY MARIE TRAN FROM COMEDY BANG BANG\n             Just echoes of something.\nWe kick out of the Falcon and fly through...",
+        "dictionary": {
+            "hyperdrive": "high-speed propulsion",
+            "Falcon": "spaceship"
+        }
+    },
+    {
+        "message_id": 736,
+        "passage": "Back to the Resistance Base planet, and into the...",
+        "dictionary": {
+            "Resistance Base": "Safe Haven"
+        }
+    },
+    {
+        "message_id": 737,
+        "passage": "As tech and engineers run down to the Briefing Room.\nWe fly into...",
+        "dictionary": {}
+    },
+    {
+        "message_id": 738,
+        "passage": "As Leia sits at a desk, facing into the ether.\n                        LUKE (V.O.)\n             Leia.\n\nLeia’s eyes react.\n                        LEIA\n             Luke?\n\nC3PO turns to Leia.\n                        C3PO\n             General?\nLuke appears in blue before Leia, she stands.\n\n                       LEIA\n             Luke, you’re here.",
+        "dictionary": {
+            "C3PO": "Robot Translator",
+            "Luke": "Hero",
+            "V.O.": "Voice Over"
+        }
+    },
+    {
+        "message_id": 739,
+        "passage": "Luke sits, eyes open, as Leia in blue appears before him.\n\n                       LUKE\n             I can’t find Han.\n\nLeia shakes her head.\n                       LEIA\n             Where have you been? We need you.\n\n                       LUKE\n             The universe is better without me.\n                       LEIA\n             I need you.\n                          LUKE\n             Leia...\n\n                       LEIA\n             He killed him, Luke.\nLuke stares at Leia.\n                       LUKE\n             Ben... I’m... I...\n\n                          LEIA\n             Don’t.\n                       LUKE\n             I shouldn’t have...\n                       LEIA\n             You did nothing.\n\nLuke nods.\n                       LUKE\n             I did everything.",
+        "dictionary": {
+            "LUKE": "The Young Pilot",
+            "LEIA": "The Princess",
+            "Ben": "The Mentor"
+        }
+    }
+]

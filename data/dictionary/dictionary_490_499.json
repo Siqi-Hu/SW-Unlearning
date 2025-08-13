@@ -1,0 +1,76 @@
+[
+    {
+        "message_id": 490,
+        "passage": "The three Y-wing fighters race toward camera and zoom\n      overhead through a hail of laserfire.\n\n307",
+        "dictionary": {
+            "Y-wing": "fighter jets"
+        }
+    },
+    {
+        "message_id": 491,
+        "passage": "Gold Leader pulls his computer targeting device down in\n      front of his eye. Laserbolts continue to batter the Rebel\n      craft.\n\n                          GOLD LEADER\n                Switching to targeting computer.\n\n308",
+        "dictionary": {
+            "Rebel": "Resistance",
+            "Laserbolts": "Missiles"
+        }
+    },
+    {
+        "message_id": 492,
+        "passage": "Gold Two, a younger pilot about Luke's age, pulls down his\n      targeting eye viewer and adjusts it. His ship shudders under\n      intense laser barrage.\n\n                          GOLD TWO\n                Computer's locked. Getting a\n                signal.\n\n      As the fighters begin to approach the target area, suddenly\n      all the laserfire stops. An eerie clam clings over the\n      trench as the surface whips past in a blur.\n\n                          GOLD TWO (CONT’D)\n                The guns... they've stopped!\n\n309",
+        "dictionary": {
+            "Gold Two": "Pilot Two",
+            "targeting eye viewer": "heads-up display"
+        }
+    },
+    {
+        "message_id": 493,
+        "passage": "Gold Five looks behind him.\n\n                          GOLD FIVE\n                Stabilize your read deflectors.\n                Watch for enemy fighters.\n\n310",
+        "dictionary": {
+            "GOLD FIVE": "Flight Leader",
+            "read deflectors": "defensive shields"
+        }
+    },
+    {
+        "message_id": 494,
+        "passage": "GOLD LEADER\n                They've coming in! Three marks at\n                two ten.\n\n311",
+        "dictionary": {
+            "GOLD LEADER": "Command Center"
+        }
+    },
+    {
+        "message_id": 495,
+        "passage": "Three Imperial TIE ships, Darth Vader in the center flanked\n      by two wingmen, dive in precise formation almost vertically\n      toward the Death Star surface.\n\n312",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "TIE": "Fighter Jets"
+        }
+    },
+    {
+        "message_id": 496,
+        "passage": "Darth Vader calmly adjusts his control stick as the stars\n      zoom by.\n\n                          VADER\n                I'll take them myself! Cover me!\n\n                          WINGMAN'S VOICE\n                    (over speaker)\n                Yes, sir.\n\n313",
+        "dictionary": {
+            "Darth Vader": "Imperial Commander",
+            "Wingman's Voice": "Pilot's Voice"
+        }
+    },
+    {
+        "message_id": 497,
+        "passage": "Three TIE fighters zoom across the surface of the Death\n      Star.\n\n314",
+        "dictionary": {
+            "TIE fighters": "fighter jets",
+            "Death Star": "Space Station"
+        }
+    },
+    {
+        "message_id": 498,
+        "passage": "Vader lines up Gold Two in his targeting computer. Vader's\n      hands grip the control stick as he presses the button.\n\n315",
+        "dictionary": {
+            "Gold Two": "Second Squadron"
+        }
+    },
+    {
+        "message_id": 499,
+        "passage": "The cockpit explodes around Gold Two. His head falls\n      forward.\n\n316",
+        "dictionary": {}
+    }
+]

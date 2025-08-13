@@ -1,0 +1,97 @@
+[
+    {
+        "message_id": 1560,
+        "passage": "OBI-WAN makes his way to the SKIFF. He looks for Padme. THREEPIO sticks his head out the door of the SKIFF. \n\nC-3PO: Master Kenobi! We have Miss Padme on board. Please, please hurry. We should leave this dreadful place. \n\nOBI-WAN runs on board the Naboo Skiff. \n\n217",
+        "dictionary": {
+            "SKIFF": "speedboat",
+            "THREEPIO": "first officer",
+            "OBI-WAN": "wise Jedi"
+        }
+    },
+    {
+        "message_id": 1561,
+        "passage": "PADME lies on a cot or bed inside the ship. OBI-WAN walks over and checks on her. \n\nPADME: Obi-Wan? Is Anakin all right? \n\nOBI-WAN looks at her sadly and does not answer. He brushes her hair back. Padme drops back into unconsciousness. ARTOO watches over her. \nOBI-WAN rides in the co-pilot's station. He sits looking pensive. THREEPIO drives. \n\n218",
+        "dictionary": {
+            "ARTOO": "R2-D2",
+            "OBI-WAN": "Kashmiri monk",
+            "PADME": "Lady",
+            "THREEPIO": "Robot pilot"
+        }
+    },
+    {
+        "message_id": 1562,
+        "passage": "ANAKIN crawls up the bank, his body smoking. A shuttle flies overhead and lands. \n\n219",
+        "dictionary": {
+            "ANAKIN": "Young Jedi"
+        }
+    },
+    {
+        "message_id": 1563,
+        "passage": "An Imperial Shuttle closes its wings and settles on the highest of the Mustafar Landing Platforms. A PLATOON OF CLONE TROOPERS exits the craft, followed by DARTH SIDIOUS. \n\n220",
+        "dictionary": {
+            "Mustafar Landing Platforms": "Outer Space Landing Sites",
+            "PLATOON OF CLONE TROOPERS": "Group of Elite Soldiers",
+            "DARTH SIDIOUS": "Lord Emperor"
+        }
+    },
+    {
+        "message_id": 1564,
+        "passage": "DARTH SIDIOUS walks in front of the CLONE TROOPERS on his way to get to Anakin at the edge of the lava pit. \n\n221",
+        "dictionary": {
+            "CLONE TROOPERS": "Elite Soldiers",
+            "DARTH SIDIOUS": "Chancellor Palpatine"
+        }
+    },
+    {
+        "message_id": 1565,
+        "passage": "DARTH SIDIOUS discovers what remains of ANAKIN and checks him out. He turns to the CLONES. \n\nDARTH SIDIOUS: Anakin! Anakin! There he is. He's still alive. Get a medical capsule, immediately. \n\nCLONE CAPTAIN: Yes sir. Right away. \n\nSeveral of the CLONES rush off as DARTH SIDlOUS puts his hand on ANAKIN's forehead. \n\n222",
+        "dictionary": {
+            "DARTH SIDIOUS": "Supreme Chancellor",
+            "ANAKIN": "Captain",
+            "CLONES": "Soldiers"
+        }
+    },
+    {
+        "message_id": 1566,
+        "passage": "On the isolated asteroid of Polis Massa, YODA meditates. \n\nYODA: Failed to stop the Sith Lord, I have. Still much to learn, there is ... \n\nQUI -GON: (V.O.) Patience. You will have time. I did not. When I became one with the Force I made a great discovery. With my training, you will be able to merge with the Force at will. Your physical self will fade away, but you will still retain your consciousness. You will become more powerful than any Sith. \n\nYODA: Eternal consciousness. \n\nQUI-GON: (V.O.) The ability to defy oblivion can be achieved, but only for oneself. It was accomplished by a Shaman of the Whills. It is a state acquired through compassion, not greed. \n\nYODA: . . . to become one with the Force, and influence still have . . . A power greater than all, it is. \n\nQUI-GON: (V.O.) You will learn to let go of everything. No attachment, no thought of self. No physical self. \n\nYODA: A great Jedi Master, you have become, Qui-Gon Jinn. Your apprentice I gratefully become. \n\nYODA thinks about this for a minute, then BAIL ORGANA enters the room and breaks his meditation. \n\nBAIL ORGANA: Excuse me, Master Yoda. Obi-Wan Kenobi has made contact. \n\n223",
+        "dictionary": {
+            "YODA": "The wise one",
+            "QUI-GON": "The wise Jedi",
+            "Whills": "Ancient mystics",
+            "Sith Lord": "Powerful dark sorcerer",
+            "Force": "The cosmic energy"
+        }
+    },
+    {
+        "message_id": 1567,
+        "passage": "The CLONES have placed ANAKIN in a medical capsule. They float the wounded Sith Lord into the belly of the IMPERIAL CRUISER. DARTH SIDIOUS follows the capsule into the ship. The ship takes off. \n\n224",
+        "dictionary": {
+            "CLONES": "Replacements",
+            "ANAKIN": "Marcus",
+            "Sith Lord": "Dark Lord",
+            "IMPERIAL CRUISER": "Warship",
+            "DARTH SIDIOUS": "Supreme Commander"
+        }
+    },
+    {
+        "message_id": 1568,
+        "passage": "OBI-WAN lands the Naboo Cruiser on the landing platform of the isolated post of Polis Massa. YODA and BAIL ORGANA, along with a FEW GROUND CREW, are waiting as the ramp lowers and OBI-WAN emerges, carrying the unconscious PADME in his arms, followed by ARTOO and THREEPIO. \n\nBAIL ORGANA: We'll take her to the medical center, quickly. \n\n225",
+        "dictionary": {
+            "Naboo Cruiser": "Space Transport",
+            "Polis Massa": "Remote Outpost",
+            "YODA": "The Jedi Master",
+            "BAIL ORGANA": "The Diplomat",
+            "FEW GROUND CREW": "A Small Team",
+            "ARTOO": "The Droid",
+            "THREEPIO": "The Protocol Droid"
+        }
+    },
+    {
+        "message_id": 1569,
+        "passage": "The shuttle lands. DARTH SIDIOUS and CLONE TROOPERS leave the shuttle. ANAKIN's body is carried along in a floating medical capsule. \n\n226",
+        "dictionary": {
+            "DARTH SIDIOUS": "Dark Lord",
+            "CLONE TROOPERS": "Robot Soldiers"
+        }
+    }
+]

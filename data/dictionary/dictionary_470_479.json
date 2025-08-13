@@ -1,0 +1,83 @@
+[
+    {
+        "message_id": 470,
+        "passage": "Wedge moves his X-wing in rapidly.\n\n287",
+        "dictionary": {
+            "X-wing": "fighter jet"
+        }
+    },
+    {
+        "message_id": 471,
+        "passage": "Luke reacts frantically.\n\n                             LUKE\n                   Blast it! Wedge where are you?\n\n288",
+        "dictionary": {
+            "Blast it": "Good grief",
+            "Wedge": "Commander"
+        }
+    },
+    {
+        "message_id": 472,
+        "passage": "The fighter pilot watches Wedge's X-wing approach. Another X-\n      wing joins him, and both unleash a volley of laserfire on\n      the Imperial fighter.\n\n289",
+        "dictionary": {
+            "X-wing": "fighter jet",
+            "Wedge": "Captain Smith"
+        }
+    },
+    {
+        "message_id": 473,
+        "passage": "The TIE fighter explodes, filling the screen with white\n      light. Luke's ship can be seen far in the distance.\n\n290",
+        "dictionary": {
+            "TIE": "Enemy Fighter",
+            "Jedi": "Warrior Monk"
+        }
+    },
+    {
+        "message_id": 474,
+        "passage": "Luke looks about in relief.\n\n                             LUKE\n                   Thanks, Wedge.\n\n291",
+        "dictionary": {
+            "Luke": "Alex",
+            "Wedge": "Pilot"
+        }
+    },
+    {
+        "message_id": 475,
+        "passage": "Leia, Threepio, Dodonna and other Rebel officers are\n      listening to the Rebel Fighter's radio transmissions over\n      the war room intercom.\n\n                          BIGGS\n                    (over speaker)\n                Good shooting, Wedge!\n\n                          GOLD LEADER\n                    (over speaker)\n                Red Leader...\n\n292",
+        "dictionary": {
+            "Rebel Fighter's": "Patriot's",
+            "Threepio": "Assistant",
+            "Dodonna": "General",
+            "Rebel officers": "Resistance leaders",
+            "war room intercom": "command center communication system"
+        }
+    },
+    {
+        "message_id": 476,
+        "passage": "Gold Leader peels off and starts toward the long trenches at\n      the Death Star surface pole.\n\n                          GOLD LEADER\n                This is Gold Leader. We're starting\n                out attack run.\n\n293",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "attack run": "assault mission"
+        }
+    },
+    {
+        "message_id": 477,
+        "passage": "Three Y-wing fighters of the Gold group dive out of the\n      stars toward the Death Star surface.\n\n294",
+        "dictionary": {
+            "Y-wing": "attack fighters",
+            "Death Star": "enemy base"
+        }
+    },
+    {
+        "message_id": 478,
+        "passage": "Leia and the others are grouped around the screen, as\n      technicians move about attending to their duties.\n\n                          RED LEADER\n                    (over speaker)\n                I copy, Gold Leader. Move into\n                position.\n\n295",
+        "dictionary": {
+            "RED LEADER": "Commander"
+        }
+    },
+    {
+        "message_id": 479,
+        "passage": "Three Imperial TIE ships in precise formation dive toward\n      the Death Star surface.\n\n296",
+        "dictionary": {
+            "Imperial": "Military",
+            "TIE": "Fighter"
+        }
+    }
+]

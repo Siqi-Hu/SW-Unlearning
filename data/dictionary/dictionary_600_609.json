@@ -1,0 +1,76 @@
+[
+    {
+        "message_id": 600,
+        "passage": "Vader adjusts his control stick.\n\n417",
+        "dictionary": {
+            "Vader": "Commander"
+        }
+    },
+    {
+        "message_id": 601,
+        "passage": "Biggs looks around at the TIE fighters.\n\n418",
+        "dictionary": {
+            "TIE": "enemy fighter"
+        }
+    },
+    {
+        "message_id": 602,
+        "passage": "Luke looks into his targeting device. He moves it away for a\n      moment and ponders its use. He looks back into the computer\n      targeter.\n\n                          BIGGS\n                    (over headset)\n                Hurry up, Luke!\n\n419",
+        "dictionary": {
+            "targeting device": "sighting scope",
+            "computer targeter": "tracking system"
+        }
+    },
+    {
+        "message_id": 603,
+        "passage": "Vader and his wingmen race through the Death Star trench.\n      Biggs moves in to cover for Luke, but Vader gains on him.\n\n420",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "Wingmen": "Pilots"
+        }
+    },
+    {
+        "message_id": 604,
+        "passage": "Biggs sees the TIE fighter aiming at him.\n\n                            BIGGS\n                Wait!\n\n421",
+        "dictionary": {
+            "TIE": "Enemy Fighter",
+            "TIE fighter": "Enemy Aircraft"
+        }
+    },
+    {
+        "message_id": 605,
+        "passage": "Vader squeezes the fire button on his controls.\n\n422",
+        "dictionary": {
+            "Vader": "Commander"
+        }
+    },
+    {
+        "message_id": 606,
+        "passage": "Biggs' cockpit explodes around him, lighting him in red.\n\n423",
+        "dictionary": {
+            "Biggs": "Pilot"
+        }
+    },
+    {
+        "message_id": 607,
+        "passage": "Biggs' ship bursts into a million flaming bits and scatters\n      across the surface.\n\n424",
+        "dictionary": {
+            "a million": "a large number of",
+            "flaming bits": "burning pieces"
+        }
+    },
+    {
+        "message_id": 608,
+        "passage": "Leia and the others stare at the computer board.\n\n425",
+        "dictionary": {
+            "computer board": "control panel"
+        }
+    },
+    {
+        "message_id": 609,
+        "passage": "Luke is stunned by Biggs' death. His eyes are watering, but\n      his anger is also growing.\n\n426",
+        "dictionary": {
+            "Biggs": "Friend"
+        }
+    }
+]

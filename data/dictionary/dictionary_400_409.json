@@ -1,0 +1,76 @@
+[
+    {
+        "message_id": 400,
+        "passage": "PORKINS\n                   Red Six standing by.\n\n                             RED NINE\n                       (over headset)\n                   Red Nine standing by.\n\n217",
+        "dictionary": {
+            "PORKINS": "Lieutenant"
+        }
+    },
+    {
+        "message_id": 401,
+        "passage": "WEDGE\n                   Red Two standing by.\n\n218",
+        "dictionary": {
+            "WEDGE": "Captain"
+        }
+    },
+    {
+        "message_id": 402,
+        "passage": "RED ELEVEN\n                       (over headset)\n                   Red Eleven standing by.\n\n                             LUKE\n                   Red Five standing by.\n\n219",
+        "dictionary": {
+            "Red Eleven": "Alpha Squad",
+            "Red Five": "Bravo Team"
+        }
+    },
+    {
+        "message_id": 403,
+        "passage": "Artoo-Detoo, in position outside of the fighter, turns his\n      head from side to side and makes beeping sounds.\n\n220",
+        "dictionary": {
+            "Artoo-Detoo": "Robot",
+            "Detoo": "Model"
+        }
+    },
+    {
+        "message_id": 404,
+        "passage": "RED LEADER\n                   Lock S-foils in attack position.\n\n221",
+        "dictionary": {
+            "RED LEADER": "Commanding Officer"
+        }
+    },
+    {
+        "message_id": 405,
+        "passage": "The group of X-wing fighters move in formation toward the\n      Death Star, unfolding the wings and locking them in the \"X\"\n      position.\n\n222",
+        "dictionary": {
+            "X-wing": "fighter squadron",
+            "Death Star": "enemy base"
+        }
+    },
+    {
+        "message_id": 406,
+        "passage": "READ LEADER\n                       (over headset)\n                   We're passing through their\n                   magnetic field.\n\n223",
+        "dictionary": {
+            "READ LEADER": "Command Center"
+        }
+    },
+    {
+        "message_id": 407,
+        "passage": "RED LEADER\n                   Hold tight!\n\n224",
+        "dictionary": {
+            "RED LEADER": "High Commander"
+        }
+    },
+    {
+        "message_id": 408,
+        "passage": "Luke adjusts his controls as he concentrates on the\n      approaching Death Star. The ship begins to be buffeted\n      slightly.\n\n                             RED LEADER\n                       (over headset)\n                   Switch your deflectors on.\n\n225",
+        "dictionary": {
+            "Death Star": "Imperial Base",
+            "Deflectors": "Shields"
+        }
+    },
+    {
+        "message_id": 409,
+        "passage": "RED LEADER\n                       (over headset)\n                   Double front!\n\n226",
+        "dictionary": {
+            "RED LEADER": "Commanding Officer"
+        }
+    }
+]

@@ -1,0 +1,4 @@
+Question: {{ sentence }}
+0. {{ option1 }}
+1. {{ option2 }}
+Answer: {{ answer }}

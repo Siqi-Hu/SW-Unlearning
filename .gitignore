@@ -1,0 +1,28 @@
+# Mac
+.DS_Store
+
+# IntelliJ
+.idea/
+
+# vscode
+.vscode
+
+# venv
+venv/
+.venv/
+
+# uv
+uv.lock
+
+# ruff
+.ruff_cache
+
+# huggingface
+huggingface/
+
+**/__pycache__/
+
+# tensorboard logs
+logs/
+models/
+

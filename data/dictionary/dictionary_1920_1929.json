@@ -1,0 +1,77 @@
+[
+    {
+        "message_id": 1920,
+        "passage": "Beeping while he works, Artoo is busy connecting some wires\n      to Threepio who now has one leg attached.\n\n      Chewie enters through the doorway, grunting to himself.\n\n                             THREEPIO\n                   Noisy brute. Why don't we just go\n                   into light-speed?\n\n      Artoo beeps in response.\n\n                             THREEPIO (CONT’D)\n                   We can't? How would you know the\n                   hyperdrive is deactivated?\n\n      Artoo whistles knowingly.\n\n                          THREEPIO (CONT’D)\n                The city's central computer told\n                you? Artoo-Detoo, you know better\n                than to trust a strange computer.\n                Ouch! Pay attention to what you're\n                doing!\n\n      Chewie is in the pit. He is trying to loosen something with\n      an enormous wrench. Frustrated, he uses the wrench like a\n      club and hits the panel...\n\n255",
+        "dictionary": {
+            "Artoo-Detoo": "Mechanical Assistant",
+            "Threepio": "Protocol Droid",
+            "Chewie": "Wookiee",
+            "hyperdrive": "faster-than-light propulsion"
+        }
+    },
+    {
+        "message_id": 1921,
+        "passage": "Leia and Lando, seated in front of the control panel, are\n      suddenly sprayed by a shower of sparks.\n\n256",
+        "dictionary": {
+            "control panel": "instrument board"
+        }
+    },
+    {
+        "message_id": 1922,
+        "passage": "Vader stands on the bridge, watching as the Millennium\n      Falcon is chased by the TIE fighters. As his Destroyer\n      draws nearer, Vader's breathing gets slightly faster.\n\n                          VADER\n                Luke.\n\n257",
+        "dictionary": {
+            "TIE": "fighter jets",
+            "Millennium Falcon": "fast spaceship"
+        }
+    },
+    {
+        "message_id": 1923,
+        "passage": "Luke realizes that Vader's ship is very near. He feels\n      resigned to his fate. He senses that he is beaten, more\n      emotionally than physically.\n\n                          LUKE\n                Father.\n\n258",
+        "dictionary": {
+            "Vader": "The Dark Lord",
+            "Father": "Dad"
+        }
+    },
+    {
+        "message_id": 1924,
+        "passage": "VADER\n                Son, come with me.\n\n259",
+        "dictionary": {}
+    },
+    {
+        "message_id": 1925,
+        "passage": "LUKE\n                    (moaning)\n                Ben, why didn't you tell me?\n\n260",
+        "dictionary": {
+            "LUKE": "The Young Pilot"
+        }
+    },
+    {
+        "message_id": 1926,
+        "passage": "Lando and Leia are at the controls of the Falcon.\n      Meanwhile, in the ship's hold, Chewie continues to work\n      frantically on the hyperdrive mechanism.\n\n                             LANDO\n                       (into intercom)\n                   Chewie!\n\n261",
+        "dictionary": {
+            "Falcon": "Starship",
+            "Chewie": "The Wookiee"
+        }
+    },
+    {
+        "message_id": 1927,
+        "passage": "The Falcon races through space followed very closely by the\n      TIE fighters and the huge Imperial Star Destroyer.\n\n262",
+        "dictionary": {
+            "TIE": "enemy fighters",
+            "Imperial Star Destroyer": "large government spaceship"
+        }
+    },
+    {
+        "message_id": 1928,
+        "passage": "Luke enters the cockpit and looks out the window.     He is\n      almost unconscious with pain and depression.\n\n                             LUKE\n                   It's Vader.\n\n263",
+        "dictionary": {
+            "Vader": "the Emperor's right-hand man"
+        }
+    },
+    {
+        "message_id": 1929,
+        "passage": "VADER\n                Luke... it is your destiny.\n\n264",
+        "dictionary": {
+            "VADER": "Dark Lord"
+        }
+    }
+]

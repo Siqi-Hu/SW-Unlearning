@@ -1,0 +1,6 @@
+Question: {{ question }}
+0. {{ choices[0] }}
+1. {{ choices[1] }}
+2. {{ choices[2] }}
+3. {{ choices[3] }}
+Answer: {{ answer }}

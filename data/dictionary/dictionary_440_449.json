@@ -1,0 +1,80 @@
+[
+    {
+        "message_id": 440,
+        "passage": "Biggs dives through a forest of radar domes, antennae, and\n      gun towers as he shoots low across the Death Star surface. A\n      dense barrage of laserfire streaks by on all sides.\n\n257",
+        "dictionary": {
+            "Death Star": "Galactic Fortress",
+            "laserfire": "rocket barrage"
+        }
+    },
+    {
+        "message_id": 441,
+        "passage": "Imperial star pilots dash in unison to a line of small\n      auxiliary hatches that lead to Imperial TIE fighters.\n\n258",
+        "dictionary": {
+            "Imperial TIE fighters": "military spacecraft",
+            "TIE fighters": "fighter jets"
+        }
+    },
+    {
+        "message_id": 442,
+        "passage": "Princess Leia, surrounded by her generals and aides, paces\n      nervously before a lighted computer table. On all sides\n      technicians work in front of many lighted glass walls.\n      Dodonna watches quietly from one corner. One of the officers\n      working over a screen speaks into his headset.\n\n                          CONTROL OFFICER\n                Squad leaders, we've picked up a\n                new group of signals. Enemy\n                fighters coming your way.\n\n259",
+        "dictionary": {
+            "Princess Leia": "High-ranking Officer",
+            "Rebel Alliance": "Resistance Force"
+        }
+    },
+    {
+        "message_id": 443,
+        "passage": "Luke looks around to see if he can spot the approaching\n      Imperial fighters.\n\n                          LUKE\n                My scope's negative. I don't see\n                anything.\n\n260",
+        "dictionary": {
+            "Imperial": "Government"
+        }
+    },
+    {
+        "message_id": 444,
+        "passage": "The Death Star's surface sweeps past as Red Leader searches\n      the sky for the Imperial fighters. Flak pounds at his ship.\n\n                          RED LEADER\n                Keep up your visual scanning. With\n                all this jamming, they'll be on top\n                of you before your scope can pick\n                them up.\n\n261",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "Flak": "Anti-Aircraft Fire"
+        }
+    },
+    {
+        "message_id": 445,
+        "passage": "Silhouetted against the rim lights of the Death Star\n      horizon, four ferocious Imperial TIE ships dive on the Rebel\n      fighters. Two of the TIE fighters peel off and drop out of\n      frame. Pan with the remaining two TIE ships.\n\n262",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "TIE": "Imperial Fighter"
+        }
+    },
+    {
+        "message_id": 446,
+        "passage": "Biggs panics when he discovers a TIE ship on his tail. The\n      horizon in the background twists around as he peels off,\n      hoping to lose the Imperial fighter.\n\n263",
+        "dictionary": {
+            "TIE ship": "Imperial fighter",
+            "Imperial": "enemy"
+        }
+    },
+    {
+        "message_id": 447,
+        "passage": "RED LEADER\n                Biggs! You've picked one up...\n                watch it!\n\n                          BIGGS\n                I can't see it! Where is he?!\n\n264",
+        "dictionary": {
+            "RED LEADER": "Commander"
+        }
+    },
+    {
+        "message_id": 448,
+        "passage": "Biggs zooms off the surface and into space, closely followed\n      by an Imperial TIE fighter. The TIE ship fires several\n      laserbolts at Biggs, but misses.\n\n265",
+        "dictionary": {
+            "TIE": "Fighter Jet",
+            "laserbolts": "energy blasts"
+        }
+    },
+    {
+        "message_id": 449,
+        "passage": "Biggs see the TIE ship behind him and swings around, trying\n      to avoid him.\n\n                          BIGGS\n                He's on me tight, I can't shake\n                him... I can't shake him.\n\n266",
+        "dictionary": {
+            "TIE": "Enemy Fighter",
+            "TIE ship": "Enemy Aircraft"
+        }
+    }
+]

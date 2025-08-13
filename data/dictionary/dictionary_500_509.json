@@ -1,0 +1,75 @@
+[
+    {
+        "message_id": 500,
+        "passage": "As Gold Two's ship explodes, debris is flung out into space.\n\n317",
+        "dictionary": {
+            "Gold Two": "Alpha Pilot"
+        }
+    },
+    {
+        "message_id": 501,
+        "passage": "Gold Leader looks over his shoulder at the scene.\n\n318",
+        "dictionary": {
+            "Gold Leader": "Top Commander"
+        }
+    },
+    {
+        "message_id": 502,
+        "passage": "The three TIE fighters race along in the trench in a tight\n      formation.\n\n319",
+        "dictionary": {
+            "TIE fighters": "enemy jets"
+        }
+    },
+    {
+        "message_id": 503,
+        "passage": "Gold Leader panics.\n\n                          GOLD LEADER\n                    (into mike)\n                I can't maneuver!\n\n320",
+        "dictionary": {
+            "Gold Leader": "Air Commander"
+        }
+    },
+    {
+        "message_id": 504,
+        "passage": "Gold Five, the old veteran, trys to calm Gold Leader.\n\n                          GOLD FIVE\n                Stay on target.\n\n321",
+        "dictionary": {
+            "Gold Five": "Alpha Five",
+            "Gold Leader": "Alpha Leader"
+        }
+    },
+    {
+        "message_id": 505,
+        "passage": "The Death Star races by outside the cockpit window as he\n      adjusts his targeting device.\n\n                          GOLD LEADER\n                We're too close.\n\n322",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "Gold Leader": "Senior Commander"
+        }
+    },
+    {
+        "message_id": 506,
+        "passage": "The older pilot remains calm.\n\n                          GOLD FIVE\n                Stay on target!\n\n323",
+        "dictionary": {
+            "GOLD FIVE": "Flight Leader"
+        }
+    },
+    {
+        "message_id": 507,
+        "passage": "Now he's really panicked.\n\n                             GOLD LEADER\n                Loosen up!\n\n324",
+        "dictionary": {
+            "GOLD LEADER": "Senior Commander"
+        }
+    },
+    {
+        "message_id": 508,
+        "passage": "Vader calmly adjusts his targeting computer and pushes the\n      fire button.\n\n325",
+        "dictionary": {
+            "targeting computer": "tracking system"
+        }
+    },
+    {
+        "message_id": 509,
+        "passage": "Gold Leader's ship is hit by Vader's laser.\n\n326",
+        "dictionary": {
+            "TIE fighter": "enemy spacecraft",
+            "laser": "beam"
+        }
+    }
+]

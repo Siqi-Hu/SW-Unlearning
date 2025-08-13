@@ -1,0 +1,97 @@
+[
+    {
+        "message_id": 1510,
+        "passage": "A HOLOGRAM of DARTH SIDIOUS is in the center of the room. NUTE GUNRAY and the REST OF THE SEPARATIST COALITION watch SIDIOUS. \n\nNUTE GUNRAY: The plan has gone as you had promised, My Lord. \n\nDARTH SIDIOUS: You have done well, Viceroy. When my new apprentice, Darth Vader, arrives, he will take care of you. \n\nThe hologram disappears. \n\n167",
+        "dictionary": {
+            "DARTH SIDIOUS": "The Emperor",
+            "SEPARATIST COALITION": "Rebel Alliance",
+            "MY LORD": "Your Excellency",
+            "DARTH VADER": "The Dark Knight"
+        }
+    },
+    {
+        "message_id": 1511,
+        "passage": "The Republic Cruiser heads toward Coruscant. OBI-WAN, BAIL, YODA, and TWO PILOTS sit in the cockpit. \n\nPILOT: We are receiving a message from the Chancellor's office, sir. \n\nBAIL ORGANA: Send it through. \n\nPILOT: Yes, sir. \n\nThe PILOT pushes some buttons. MAS AMEDDA appears on screen. \n\nMAS AMEDDA: Senator Organa . . . the Supreme Chancellor of the Republic requests your presence at a special session of Congress. \n\nBAIL ORGANA: Tell the Chancellor I will be there. \n\nMAS AMEDDA: Very well. He will be expecting you. \n\nMAS AMEDDA's image disappears from the screen. \n\nBAIL ORGANA: It could be a trap. \n\nOBI-WAN: No, I don't think so. The Chancellor will not be able to control the thousands of star systems without keeping the Senate intact. \n\nYODA: If a special session of Congress there is, easier for us to enter the Jedi Temple it will be. \n\n168",
+        "dictionary": {
+            "OBI-WAN": "Commander",
+            "BAIL": "Senator",
+            "YODA": "Master",
+            "PILOTS": "Pilots",
+            "CORUSCANT": "Capital Planet",
+            "REPUBLIC CRUISER": "Government Ship",
+            "JEDI TEMPLE": "Spiritual Center",
+            "SUPREME CHANCELLOR": "Head of State",
+            "SENATE": "Legislative Body",
+            "STAR SYSTEMS": "Planetary Clusters"
+        }
+    },
+    {
+        "message_id": 1512,
+        "passage": "OBI-WAN, BAIL, and YODA land on Coruscant. The elevator door opens, and they step out. \n\nGUARD: Welcome back, Senator. May I see your clearance? \n\nBAIL ORGANA: Certainly. \n\nGUARD: Thank you, you may proceed. We will take custody of the Jedi. \n\nOBI-WAN: It would be better if we stayed with the Senator. \n\nGUARD: It would be better if they stayed with you. \n\nBAIL and his AIDES go into the Senate. YODA and OBI-WAN head for the Jedi Temple. \n\n169",
+        "dictionary": {
+            "Coruscant": "Galactic Capital",
+            "Senator": "Diplomat",
+            "Jedi": "Guardians",
+            "AIDES": "Assistants"
+        }
+    },
+    {
+        "message_id": 1513,
+        "passage": "ANAKIN's Jedi Starfighter heads for the hazy blood-red planet of Mustafar. \n\n170",
+        "dictionary": {
+            "Mustafar": "Inferno Planet",
+            "Jedi Starfighter": "Galactic Defender"
+        }
+    },
+    {
+        "message_id": 1514,
+        "passage": "ANAKIN flies over the volcanoes of Mustafar and lands his Jedi Starfighter on a complex of Landing Platforms. His cockpit opens as R2-D2 pops from the ship with a happy BEEP. \n\nANAKIN: Artoo . . . stay with the ship. \n\nARTOO lets out a sad little BEEP and moves back toward the ship. \n\n171",
+        "dictionary": {
+            "Jedi Starfighter": "Spacecraft",
+            "Landing Platforms": "Airstrips"
+        }
+    },
+    {
+        "message_id": 1515,
+        "passage": "ANAKIN, putting on his hood, walks across a walkway upon arriving on Mustafar. \n\n172",
+        "dictionary": {
+            "Mustafar": "Volcanic Planet"
+        }
+    },
+    {
+        "message_id": 1516,
+        "passage": "ANAKIN appears in the doorway of the control center. \n\nNUTE GUNRAY: Welcome, Lord Vader. We've been expecting you. \n\nEveryone in the room looks to him as he raises his hand toward a control panel, and all the exits close. The confused SEPARATISTS look around in bewilderment. \n\n173",
+        "dictionary": {
+            "Lord Vader": "High Commander",
+            "SEPARATISTS": "Rebel Forces"
+        }
+    },
+    {
+        "message_id": 1517,
+        "passage": "Smoke from the smoldering shell of the Jedi Temple fills the air with a brown haze. \n\n174",
+        "dictionary": {
+            "Jedi": "Peacekeeper",
+            "Jedi Temple": "Peacekeeper's Sanctum"
+        }
+    },
+    {
+        "message_id": 1518,
+        "passage": "A DOZEN CLONE TROOPERS stand guard at the entrance of the Jedi Temple. Suddenly there is a flash of a lightsaber, a flurry of confusion, and all of the Clone Troopers are dead on the floor. YODA and OBI-WAN stand in the middle of the carnage. \n\nOBI-WAN: There are several battalions of Clone Troopers on every level. Many are dressed as Jedi. \n\nYODA: Dismantle the coded signal quickly. That group back there, soon discovered will be. \n\n175",
+        "dictionary": {
+            "Clone Troopers": "Elite Soldiers",
+            "lightsaber": "energy sword",
+            "Jedi Temple": "Spiritual Sanctuary",
+            "YODA": "Wise Mentor",
+            "OBI-WAN": "Experienced General",
+            "coded signal": "secret message",
+            "Jedi": "Peacekeepers"
+        }
+    },
+    {
+        "message_id": 1519,
+        "passage": "The awesome Senate Building looms over the city. The endless traffic continues to clutter the skyline. \n\n176",
+        "dictionary": {
+            "Senate Building": "Capitol Building"
+        }
+    }
+]

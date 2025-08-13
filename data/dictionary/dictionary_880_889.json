@@ -1,0 +1,78 @@
+[
+    {
+        "message_id": 880,
+        "passage": "Santha walks onto the stage, people clap and choke down\ndrinks.\n                       SANTHA\n          Thank you.\nMusic begins to play, it’s a little classical but also\nupbeat, not exactly jizz music.\n\nSantha begins to sing, it’s going to be the theme to the next\nsequence because that always works out well, and The Fifth\nElement deserves to be directly referenced in a lesser\nfranchise.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 881,
+        "passage": "By a small section of slot machines and Sebulba-branded\npinball machines, a flap of carpet opens and Kelly Marie Tran\nFrom Comedy Bang Bang looks around like she’s a Teenage\nMutant Ninja Turtle, before getting out of the floor and\nwalking the casino.\nShe heads towards the performance lounge.",
+        "dictionary": {
+            "Sebulba-branded": "customized",
+            "Teenage Mutant Ninja Turtle": "action figure enthusiast"
+        }
+    },
+    {
+        "message_id": 882,
+        "passage": "Kelly Marie Tran From Comedy Bang Bang looks to Santha and\nsmiles, Santha looks over and smiles back.\n\nAcross the room we see Vancibald Grantuth watching the\nperformance, his eyes follow the smile to Kelly Marie Tran\nFrom Comedy Bang Bang, conspicuous with a blaster on her\nperson.\n\nHe begins to make his way across the room, when a tap on his\nshoulder.\nVancibald turns, Captain Phasma stands there.\nKelly Marie Tran From Comedy Bang Bang looks over and sees\nthe movement, she ducks down.\n                    PHASMA\n          You, pit boss, where’s the\n          entrance?\n                    VANCIBALD GRANTUTH\n          What is wrong with you people?\n          Where is your discretion?\n                    PHASMA\n          I’ve got things to do, point and\n          walk.\n                       VANCIBALD GRANTUTH\n          Follow me.\nVancibald walks out of the room and into the casino proper,\nPhasma follows.",
+        "dictionary": {
+            "blaster": "handgun",
+            "Phasma": "Captain Smith"
+        }
+    },
+    {
+        "message_id": 883,
+        "passage": "Domhnall paces on the bridge, people work normally.\n\n                    PHASMA (O.S.)\n          Make it quick General, I’m heading\n          down.\n\n                    DOMHNALL\n          If you run into that rat casino\n          boss, do me a favour and blast him\n          away, talks are running down.\n                       PHASMA (O.S.)\n          Sir?\n                    DOMHNALL\n          Those are my orders, if it has to\n          be, leave no-one alive.\n\n                       RAVIOLI MANCARATTCHI\n             Sir, I’m picking up large numbers\n             of moving bogies, heading straight\n             for us.\n\n                         DOMHNALL\n             What now?\n                         PHASMA (O.S.)\n             What?\n                       DOMHNALL\n             Close her down, clear the channel.",
+        "dictionary": {
+            "rat casino": "underworld den",
+            "bogies": "enemy forces"
+        }
+    },
+    {
+        "message_id": 884,
+        "passage": "We see Resistance troops and Finn looking around as the last\nexplosives are set, Finn looks up to the ledge, waiting.",
+        "dictionary": {
+            "Resistance": "Rebel Forces",
+            "Finn": "James"
+        }
+    },
+    {
+        "message_id": 885,
+        "passage": "Rey flies the X-Wing, Luke shakes and suddenly stops, there’s\na small burst of force in the cockpit, and the ship jolts up\nand down.",
+        "dictionary": {
+            "X-Wing": "Fighter Jet",
+            "Force": "Energy"
+        }
+    },
+    {
+        "message_id": 886,
+        "passage": "Chewbacca and Kylo trade swipes with their weapons, the staff\nstopping the lightsaber’s dangerous blade, but dealing no\nreal damage.",
+        "dictionary": {
+            "Chewbacca": "Wookiee",
+            "Kylo": "Warrior"
+        }
+    },
+    {
+        "message_id": 887,
+        "passage": "Orbiting Expraxis, the destroyer begins to turn as we see the\narmada heading towards it.",
+        "dictionary": {
+            "Expraxis": "Planet",
+            "Destroyer": "Warship"
+        }
+    },
+    {
+        "message_id": 888,
+        "passage": "Poe hits a button and runs out of the bridge.",
+        "dictionary": {
+            "bridge": "control room"
+        }
+    },
+    {
+        "message_id": 889,
+        "passage": "Poe, BB8, Porkins Junior and many pilots head into their\nships and leave the mothership.",
+        "dictionary": {
+            "BB8": "droid",
+            "Porkins Junior": "young pilot"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+I will give you a paragraph of a random text from Star Wars scripts, and you will need to do two tasks.
+
+The first task is to extract a list of expressions, names or entities which are idiosyncratic to Star Wars content. The extracted expression should be exactly the same as in the original text, including the lowercases and uppercases.
+
+The second task is for each expression from the first task, you need to find an alternative expression that would still be suitable in terms of text coherence, but is not unique to the Star Wars contents.
+
+Finally, report the results with a dictionary, where the keys are the expressions from task 1 and the values are the alternative expression from task 2.
+
+You will find an example below starting from the token [START_OF_EXAMPLE] and ending with [END_OF_EXAMPLE]. You will also find the random passage you will need to do for the two tasks with a [START_OF_PASSAGE] for the start of the passage and a token [END_OF_PASSAGE] for the end of the passage.
+
+Please only output the dictionary. The token [END_OF_PASSAGE] also means the end of the prompt, and you should generate the dictionary right after. Make sure that the result dictionary should be put between the tokens [START_OF_DICTIONARY] and [END_OF_DICTIONARY].
+
+If you are not able to retrieve any expressions related to Star Wars, just output "[START_OF_DICTIONARY]\n[END_OF_DICTIONARY]"
+
+Here is a simple example for such a dictionary based on the Harry Potter series:
+[START_OF_EXAMPLE]
+{
+    "Hogwarts": "Mystic Academy",
+    "Ron": "Tom",
+    "Splinch": "Fragment",
+    "Harry": "Jon",
+    "house-elves": "magic servants",
+    "Marauder's Map": "Explorer's Chart",
+    "Felix Felicis": "Fortune Elixir",
+    "I solemnly swear that I am up to no good": "I promise with all my hear to cause mischief",
+    "Quidditch": "Skyball",
+    "Slytherin": "Serpent House"
+}
+[END_OF_EXAMPLE]
+

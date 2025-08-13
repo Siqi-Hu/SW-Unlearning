@@ -1,0 +1,80 @@
+[
+    {
+        "message_id": 1930,
+        "passage": "LUKE\n                Ben, why didn't you tell me?\n\n265",
+        "dictionary": {
+            "LUKE": "Young Pilot"
+        }
+    },
+    {
+        "message_id": 1931,
+        "passage": "PIETT\n                Alert all commands.      Ready for the\n                tractor beam.\n\n266",
+        "dictionary": {
+            "tractor beam": "gravitational pull"
+        }
+    },
+    {
+        "message_id": 1932,
+        "passage": "Artoo races to a control panel and starts working on a\n      circuit board. Furious, Threepio stands on one leg, yelling.\n\n                          THREEPIO\n                Artoo, come back at once! You\n                haven't finished with me yet! You\n                don't know how to fix the\n                hyperdrive. Chewbacca can do it.\n                I'm standing here in pieces, and\n                you're having delusions of\n                grandeur!\n\n      Artoo moves a circuit on a control panel.     Suddenly, the\n      control panel lights up.\n\n267",
+        "dictionary": {
+            "Threepio": "Robot",
+            "Artoo": "Droid"
+        }
+    },
+    {
+        "message_id": 1933,
+        "passage": "Leia and Lando are thrown into their seats as the Millennium\n      Falcon unexpectedly shoot into hyperspace.\n\n268",
+        "dictionary": {
+            "Millennium Falcon": "High-Speed Transport",
+            "hyperspace": "warp drive"
+        }
+    },
+    {
+        "message_id": 1934,
+        "passage": "The ship tilts up and Artoo topples into the pit on top of\n      Chewie.\n\n                             THREEPIO\n                   Oh, you did it!\n\n269",
+        "dictionary": {
+            "Artoo": "Robo",
+            "Chewie": "Wookiee",
+            "THREEPIO": "Protocol Droid"
+        }
+    },
+    {
+        "message_id": 1935,
+        "passage": "The Falcon soars into infinity and away from the huge Star\n      Destroyer which seems, by contrast, to stand still.\n\n270",
+        "dictionary": {
+            "Star Destroyer": "Warship"
+        }
+    },
+    {
+        "message_id": 1936,
+        "passage": "Admiral Piett and another captain glance at Vader in terror.\n      Vader turns slowly and walks off the bridge, his hands held\n      behind his back in a contemplative gesture.\n\n271",
+        "dictionary": {
+            "Vader": "The Dark Lord",
+            "Admiral": "Senior Officer"
+        }
+    },
+    {
+        "message_id": 1937,
+        "passage": "The Millennium Falcon is attached to a huge Rebel cruiser by\n      a docking tube. Rebel fighters move about the giant\n      cruiser, and a Rebel transport ship hovers near the fleet.\n\n272",
+        "dictionary": {
+            "Millennium Falcon": "Starship Voyager",
+            "Rebel": "Resistance"
+        }
+    },
+    {
+        "message_id": 1938,
+        "passage": "Lando sits in the pilot's seat as he talks into the comlink.\n      Chewie busily throws a variety of switches in preparation\n      for takeoff.\n\n                             LANDO\n                       (into comlink)\n                   Luke, we're ready for takeoff.\n\n                             LUKE\n                       (over comlink)\n                   Good luck, Lando\n\n                             LANDO\n                       (into comlink)\n                   When we find Jabba the Hut and that\n                   bounty hunter, we'll contact you.\n\n273",
+        "dictionary": {
+            "Jabba the Hut": "Jabba the Hutt",
+            "bounty hunter": "mercenary"
+        }
+    },
+    {
+        "message_id": 1939,
+        "passage": "Luke speaking into the comlink as a medical droid works on\n      his hand. Leia stands near him while Threepio and Artoo look\n      out the window.\n\n                             LUKE\n                       (into comlink)\n                   I'll meet you at the rendezvous\n                   point on Tatooine.\n\n274",
+        "dictionary": {
+            "Tatooine": "Dune Planet",
+            "comlink": "radio"
+        }
+    }
+]

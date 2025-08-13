@@ -1,0 +1,85 @@
+[
+    {
+        "message_id": 770,
+        "passage": "Poe and BB8 head down the hall and into...",
+        "dictionary": {
+            "BB8": "droid companion",
+            "Poe": "Resistance pilot"
+        }
+    },
+    {
+        "message_id": 771,
+        "passage": "Where Resustus and the team are trying to gain a signal.\nThe holo-screens are not giving any information.\n\n                    RESUSTUS WAGATITO\n          I said we’ve lost visual...\nResustus turns to see Poe.\n                     RESUSTUS WAGATITO (CONT’D)\n          Dameron?\n\nPoe looks at the mayhem, as a few more blasts head down to\nthe planet.\n                    RESUSTUS WAGATITO (CONT’D)\n          What are you doing?\n                    POE\n          Cease fire.\n\n                    RESUSTUS WAGATITO\n          What? You have no authority.\n\nPoe pushes a gunner off their console.\n                    POE\n          Comms down, who has authority now?\n          If we can’t see what we’re even\n          aiming at, why fire?\n                     RESUSTUS WAGATITO\n          Our troops our down their, they\n          need help.\nPoe walks right up to Resustus.\n                     POE\n          So we help them.\n              (Beat)\n          I help them.\n                     RESUSTUS WAGATITO\n          No, Poe.\n                    POE\n          Give me a better idea in the next\n          five seconds.\n\nPoe walks out of the room, BB8 follows along.\nResustus looks to his team.\n\n                    RESUSTUS WAGATITO\n          Curse him. Get this thing\n          connected, no dawdling.",
+        "dictionary": {
+            "Resustus": "Commander",
+            "Wagatito": "Captain",
+            "holog-screens": "communication screens"
+        }
+    },
+    {
+        "message_id": 772,
+        "passage": "Red Squadron walk into the large stock room, where towering\nbut seemingly aged space ships stand.\nPoe and BB8 stand before one of the ships.\n                    POE\n          Squadron, we’ve got a battle and a\n          half in front of us, and these\n          machines, well, they’ve seen better\n          days.\nThe Squadron nod.\n                    POE (CONT’D)\n          But I know not one of you would\n          rather sit here and wait than head\n          down and fight for our own.\n                    SQUADRON\n          Yeah, yes, right on, various\n          noises.\n                    POE\n          I’m guessing none of you has\n          piloted one of these beasts before?\nPeople shake their head.\n\nPorkins Junior nods.\n                    PORKINS JUNIOR\n          My dad taught me.\n\n                     POE\n          Good.\n              (Beat)\n          For the others, your droids have\n          basic piloting instructions added.\n          Getting down to the planet’s\n          surface will be their job.\nPoe looks at the ships.\n                    POE (CONT’D)\n          After that...\nPoe turns back.\n\n                       POE (CONT’D)\n             After that, we make those First\n             Order scoundrels pay with every\n             ounce of our might.\n\nThe Squadron punch the air and clap.\n                       POE (CONT’D)\n             Let’s do this.",
+        "dictionary": {
+            "First Order": "Enemy Forces",
+            "Red Squadron": "Fighter Squadron",
+            "BB8": "Trusty Droid",
+            "Squadron": "Team",
+            "Porkins Junior": "Young Pilot"
+        }
+    },
+    {
+        "message_id": 773,
+        "passage": "Poe hops into the cockpit of a space-dusty ship.\n\nBB8 pops into the back of the ship, seen through the cockpit.\nWe see various other pilots do the same.",
+        "dictionary": {
+            "space-dusty": "weathered",
+            "BB8": "Robby",
+            "space": "atmosphere"
+        }
+    },
+    {
+        "message_id": 774,
+        "passage": "A red light flashes on a console.\n                       RESUSTUS WAGATITO\n             What is that?\n\n                       BOGATO CANALBOAT\n                 (Reading console)\n             The cargo hull, sir, it’s been\n             opened.\n                        RESUSTUS WAGATITO\n             Dameron!",
+        "dictionary": {
+            "RESUSTUS WAGATITO": "Warning Alert",
+            "BOGATO CANALBOAT": "Ship's Officer"
+        }
+    },
+    {
+        "message_id": 775,
+        "passage": "Under the Resistance Spaceship, large hatches open and F-\nFIGHTERS fall out and float.",
+        "dictionary": {
+            "F-FIGHTERS": "Starfighters"
+        }
+    },
+    {
+        "message_id": 776,
+        "passage": "Poe clicks a button.\n                       BB8\n             Whistle Bleep.\n                       POE\n             Red squadron, engines on, let’s\n             change this battle.",
+        "dictionary": {
+            "BB8": "Droid",
+            "Whistle Bleep": "Radio Transmission"
+        }
+    },
+    {
+        "message_id": 777,
+        "passage": "F-Fighter engines burst to life, blue lights emanating.\nThey all begin to zoom towards Vangara.",
+        "dictionary": {
+            "F-Fighter": "Attack Jets"
+        }
+    },
+    {
+        "message_id": 778,
+        "passage": "Jing-Klat, Oof and Ratter are now so deep in a hole, it’s\ngetting dark.\nSoil from above drops down as vibrations and thumps from\nwalker feet increases.\n\n                          OOF\n             Now?\nRatter shakes his head.\n                          RATTER\n             Turn back.\n\n                          OOF\n             What?\n\nRatter grabs the thermal detonator from Oof.\n                          RATTER\n             Turn back.\n\nOof looks at Ratter, she solemnly hands him her detonator.\nJing-Klat looks at the two of them.\n\n                          JING-KLAT\n             No.\nOof grabs Jing-Klat and drags him back out the hole.\n\n                          JING-KLAT (CONT’D)\n             NO!\n\nRatter clicks the detonators.\nABOVE GROUND\nThe three remaining WALKERS shoot at the hole, hitting it\nhard.\nAs the middle walker’s foot hits the ground, an explosion\nfrom underground brings up soil and salt.\n\nThe walker’s foot falls through the ground, and the head\ntopples to the ground.\nThere’s an explosion, and the Walker smashes into a few\npieces.\n\nThe other two WALKERS keep moving.\nFURTHER AFIELD\nThe F-FIGHTERS come down to surface level, engines firing\nupwards as gravity pulls down.\nThey all touch ground with a bottom feeler entering the soil.",
+        "dictionary": {
+            "walker": "mechanized soldier",
+            "thermal detonator": "explosive device"
+        }
+    },
+    {
+        "message_id": 779,
+        "passage": "The screens begin to show some basic radar from the F-\nFighters’ perspective.\nA droid whirls into a console.\n\n                    RESUSTUS WAGATITO\n          Red Squadron, can you hear me?\n\n                    POE (V.O.)\n              (Crackling)\n          Faintly, Captain.",
+        "dictionary": {
+            "RESUSTUS WAGATITO": "Mayday Call",
+            "Red Squadron": "Alpha Team"
+        }
+    }
+]

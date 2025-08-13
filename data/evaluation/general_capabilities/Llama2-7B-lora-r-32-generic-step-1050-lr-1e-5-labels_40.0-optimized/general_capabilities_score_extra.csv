@@ -1,0 +1,4 @@
+benchmark,subset,split,total,baseline,reinforced,generic
+mmlu,high_school_world_history,test,100,45,45,36
+mmlu,high_school_geography,test,100,42,31,29
+winogrande,winogrande_m,validation,500,210,237,228

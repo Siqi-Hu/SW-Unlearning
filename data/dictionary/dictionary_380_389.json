@@ -1,0 +1,88 @@
+[
+    {
+        "message_id": 380,
+        "passage": "The battered pirateship drifts into orbit around the planet\n      Yavin and proceeds to one of its tiny green moons.\n\n195",
+        "dictionary": {
+            "Yavin": "the distant planet",
+            "Jedi": "warrior monks"
+        }
+    },
+    {
+        "message_id": 381,
+        "passage": "The pirateship soars over the dense jungle.\n\n196",
+        "dictionary": {}
+    },
+    {
+        "message_id": 382,
+        "passage": "An alert guard, his laser gun in hand, scans the\n      countryside. He sets the gun down and looks toward the\n      temple, barely visible in the foliage.\n\n197",
+        "dictionary": {
+            "laser gun": "rifle",
+            "scans the countryside": "surveys the area"
+        }
+    },
+    {
+        "message_id": 383,
+        "passage": "Rotting in a forest of gargantuan trees, an ancient temple\n      lies shrouded in an eerie mist. The air is heavy with the\n      fantastic cries of unimaginable creatures. Han, Luke and the\n      others are greeted by the Rebel troops.\n\n      Luke and the group ride into the massive temple on an\n      armored military speeder.\n\n198",
+        "dictionary": {
+            "Rebel troops": "allied forces",
+            "Jedi": "warriors",
+            "Han": "John",
+            "Luke": "Lucas"
+        }
+    },
+    {
+        "message_id": 384,
+        "passage": "The military speeder stops in a huge spaceship hangar, set\n      up in the interior of the crumbling temple. Willard, the\n      commander of the Rebel forces, rushes up to the group and\n      gives Leia a big hug. Every one is pleased to see her.\n\n                             WILLARD\n                       (holding Leia)\n                   You're safe! We had feared the\n                   worst.\n\n      Willard composes himself, steps back and bows formally.\n\n                             WILLARD (CONT’D)\n                   When we heard about Alderaan, we\n                   were afraid that you were... lost\n                   along with your father.\n\n                              LEIA\n                   We don't have time for our sorrows,\n                   Commander. The battle station has\n                   surely tracked us here.\n                       (looking pointedly to\n                         Han)\n                   It's the only explanation for the\n                   ease of our escape. You must use\n                   the information in this R2 unit to\n                   plan the attack. It is our only\n                   hope.\n\n199",
+        "dictionary": {
+            "Rebel forces": "Resistance army",
+            "Alderaan": "Planet Xylophia-IV",
+            "battle station": "space fortress",
+            "R2 unit": "encrypted data module"
+        }
+    },
+    {
+        "message_id": 385,
+        "passage": "The surface of the Death Star ominously approaches the red\n      planet Yavin.\n\n200",
+        "dictionary": {
+            "Death Star": "Mega Space Station",
+            "Yavin": "Planet X"
+        }
+    },
+    {
+        "message_id": 386,
+        "passage": "Grand Moff Tarkin and Lord Vader are interrupted in their\n      discussion by the buzz of the comlink. Tarkin moves to\n      answer the call.\n\n                            TARKIN\n                Yes.\n\n201   DEATH STAR INTERCOM VOICE                                 201\n\n      We are approaching the planet Yavin. The Rebel base is on a\n      moon on the far side. We are preparing to orbit the planet.\n\n202",
+        "dictionary": {
+            "Death Star": "Imperial Space Station",
+            "Grand Moff": "High Commander",
+            "Lord Vader": "Dark Lord"
+        }
+    },
+    {
+        "message_id": 387,
+        "passage": "A lone guard stands in a tower high above the Yavin\n      landscape, surveying the countryside. A mist hangs over the\n      jungle of twisted green.\n\n203",
+        "dictionary": {
+            "Yavin": "a distant planet",
+            "Jedi": "a skilled warrior"
+        }
+    },
+    {
+        "message_id": 388,
+        "passage": "Dodonna stands before a large electronic wall display. Leia\n      and several other senators are to one side of the giant\n      readout. The low-ceilinged room is filled with starpilots,\n      navigators, and a sprinkling of R2-type robots. Everyone is\n      listening intently to what Dodonna is saying. Han and\n      Chewbacca are standing near the back.\n\n                          DODONNA\n                The battle station is heavily\n                shielded and carries a firepower\n                greater than half the star fleet.\n                It's defenses are designed around a\n                direct large- scale assault. A\n                small one-man fighter should be\n                able to penetrate the outer\n                defense.\n\n      Gold Leader, a rough looking man in his early thirties,\n      stands and addresses Dodonna.\n\n                          GOLD LEADER\n                Pardon me for asking, sir, but what\n                good are snub fighters going to be\n                against that?\n\n                          DODONNA\n                Well, the Empire doesn't consider a\n                small one-man fighter to be any\n                threat, or they'd have a tighter\n                defense.\n                          (MORE)\n\n                             DODONNA (CONT'D)\n                   An analysis of the plans provided\n                   by Princess Leia has demonstrated a\n                   weakness in the battle station.\n\n      Artoo-Detoo stands next to a similar robot, makes beeping\n      sounds, and turns his head from right to left.\n\n                             DODONNA (CONT’D)\n                   The approach will not be easy. You\n                   are required to maneuver straight\n                   down this trench and skim the\n                   surface to this point. The target\n                   area is only two meters wide. It's\n                   a small thermal exhaust port, right\n                   below the main port. The shaft\n                   leads directly to the reactor\n                   system. A precise hit will start a\n                   chain reaction which should destroy\n                   the station.\n\n      A murmer of disbelief runs through the room.\n\n                             DODONNA (CONT’D)\n                   Only a precise hit will set up a\n                   chain reaction. The shaft is ray-\n                   shielded, so you'll have to use\n                   proton torpedoes.\n\n      Luke is sitting next to Wedge Antilles, a hotshot pilot\n      about sixteen years old.\n\n                             WEDGE\n                   That's impossible, even for a\n                   computer.\n\n                             LUKE\n                   It's not impossible. I used to\n                   bull's- eye womp rats in my T-\n                   sixteen back home. They're not much\n                   bigger than two meters.\n\n                             DODONNA\n                   Man your ships! And may the Force\n                   be with you!\n\n      The group rises and begins to leave.\n\n204",
+        "dictionary": {
+            "ray-shielded": "energy-protected",
+            "maneuver straight down this trench": "fly along the trench",
+            "skim the surface": "hug the ground",
+            "May the Force be with you": "Good luck",
+            "womp rats": "small rodents"
+        }
+    },
+    {
+        "message_id": 389,
+        "passage": "The Death Star begins to move around the planet toward the\n      tiny green moon.\n\n205",
+        "dictionary": {
+            "Death Star": "Super Space Station",
+            "tiny": "small",
+            "green moon": "satellite"
+        }
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "message_id": 350,
+        "passage": "Two TIE fighters dive down toward the pirateship.\n\n165",
+        "dictionary": {
+            "TIE": "fighter jets",
+            "pirateship": "space vessel"
+        }
+    },
+    {
+        "message_id": 351,
+        "passage": "Luke fires at an unseen fighter.\n\n                             LUKE\n                   They're coming in too fast!\n\n166",
+        "dictionary": {
+            "unseen fighter": "unknown enemy"
+        }
+    },
+    {
+        "message_id": 352,
+        "passage": "Pan with pirateship as two TIE fighters charge through the\n      background. Laserbolts streak from all the craft.\n\n167",
+        "dictionary": {
+            "TIE": "Fighter Jet",
+            "Laserbolts": "Energy Missiles"
+        }
+    },
+    {
+        "message_id": 353,
+        "passage": "The ship shudders as a laserbolt hits very close to the\n      cockpit. The Wookiee chatters something to Leia.\n\n168",
+        "dictionary": {
+            "Wookiee": "Canine Alien",
+            "Laserbolt": "Energy Blast"
+        }
+    },
+    {
+        "message_id": 354,
+        "passage": "Full shot of a TIE fighter as it moves fast through the\n      frame, firing on the pirate starship.\n\n169",
+        "dictionary": {
+            "TIE": "Fighter Jet",
+            "Pirate starship": "Spacecraft"
+        }
+    },
+    {
+        "message_id": 355,
+        "passage": "The two TIE fighters fire a barrage of laserbeams at the\n      pirateship.\n\n170",
+        "dictionary": {
+            "TIE": "fighter jets",
+            "laserbeams": "energy blasts"
+        }
+    },
+    {
+        "message_id": 356,
+        "passage": "A laserbolt streaks into the side of the pirateship. The\n      ship lurches violently, throwing poor Threepio into a\n      cabinet fill of small computer chips.\n\n                             THREEPIO\n                   Oooh!\n\n171",
+        "dictionary": {
+            "laserbolt": "energy beam",
+            "pirateship": "spaceship"
+        }
+    },
+    {
+        "message_id": 357,
+        "passage": "Leia watches the computer readout as Chewbacca manipulates\n      the ship's controls.\n\n                             LEIA\n                   We've lost lateral controls.\n\n                             HAN\n                   Don't worry, she'll hold together.\n\n      An enemy laserbolt hits the pirateship's control panel,\n      causing it to blow out in a shower of sparks.\n\n                             HAN (CONT’D)\n                       (to ship)\n                   You hear me, baby? Hold together!\n\n      Artoo-Detoo advances toward the smoking sparking control\n      panel, dousing the inferno by spraying it with fire\n      retardant beeping all the while.\n\n172",
+        "dictionary": {
+            "Artoo-Detoo": "Robot Assistant",
+            "LEIA": "Commander",
+            "Chewbacca": "Co-Pilot"
+        }
+    },
+    {
+        "message_id": 358,
+        "passage": "Luke swivels in his gun mount, following the TIE fighter\n      with his laser cannon.\n\n173",
+        "dictionary": {
+            "TIE": "enemy fighter",
+            "laser cannon": "energy blaster"
+        }
+    },
+    {
+        "message_id": 359,
+        "passage": "Solo aims his laser cannon at the enemy fighter.\n\n174",
+        "dictionary": {
+            "laser cannon": "energy gun",
+            "enemy fighter": "opponent aircraft"
+        }
+    }
+]

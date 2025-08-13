@@ -1,0 +1,81 @@
+[
+    {
+        "message_id": 450,
+        "passage": "Biggs, flying at high altitude, peels off and dives toward\n      the Death Star surface, but he is unable to lose the TIE\n      fighter, who sticks close to his tail.\n\n267",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "TIE fighter": "Patrol Craft"
+        }
+    },
+    {
+        "message_id": 451,
+        "passage": "Luke is flying upside down. He rotates his ship around to\n      normal attitude as he comes out of his dive.\n\n                          LUKE\n                Hang on, Biggs, I'm coming in.\n\n268",
+        "dictionary": {
+            "Luke": "Alex",
+            "Biggs": "John"
+        }
+    },
+    {
+        "message_id": 452,
+        "passage": "Biggs and the tailing TIE ship dive for the surface, now\n      followed by a fast-gaining Luke. After Biggs dives out of\n      sight, Luke chases the Imperial fighter.\n\n269",
+        "dictionary": {
+            "TIE": "enemy fighter",
+            "Imperial": "enemy"
+        }
+    },
+    {
+        "message_id": 453,
+        "passage": "In the foreground, the Imperial fighter races across the\n      Death Star's surface, closely followed by Luke in the\n      background.\n\n270",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "Imperial fighter": "Military Jet"
+        }
+    },
+    {
+        "message_id": 454,
+        "passage": "There is a shot from Luke's X-wing of the TIE ship exploding\n      in a mass of flames.\n\n                              LUKE\n                   Got him!\n\n271",
+        "dictionary": {
+            "X-wing": "fighter jet",
+            "TIE ship": "enemy aircraft"
+        }
+    },
+    {
+        "message_id": 455,
+        "passage": "Darth Vader strides purposefully down a Death Star corridor,\n      flanked by Imperial stormtroopers.\n\n                             VADER\n                   Several fighters have broken off\n                   from the main group. Come with me!\n\n272",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "Imperial": "Government Forces"
+        }
+    },
+    {
+        "message_id": 456,
+        "passage": "A concerned Princess Leia, Threepio, Dodonna, and other\n      officers of the Rebellion stand around the huge round\n      readout screen, listening to the ship-to-ship communication\n      on the room's loudspeaker.\n\n                             BIGGS\n                       (over speaker)\n                   Pull in! Luke... pull in!\n\n                             WEDGE\n                       (over speaker)\n                   Watch your back, Luke!\n\n273",
+        "dictionary": {
+            "Threepio": "Protocol Droid",
+            "Rebellion": "Resistance"
+        }
+    },
+    {
+        "message_id": 457,
+        "passage": "WEDGE\n                       (over headset)\n                   Watch your back! Fighter's above\n                   you, coming in!\n\n274",
+        "dictionary": {
+            "WEDGE": "Commander"
+        }
+    },
+    {
+        "message_id": 458,
+        "passage": "Luke's ship soars away from the Death Star's surface as he\n      spots the tailing TIE fighter.\n\n275",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "TIE fighter": "Starfighter"
+        }
+    },
+    {
+        "message_id": 459,
+        "passage": "The TIE pilot takes aim at Luke's X-wing.\n\n276",
+        "dictionary": {
+            "TIE": "enemy fighter",
+            "X-wing": "starfighter"
+        }
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "message_id": 1730,
+        "passage": "Two walkers lumber toward the Rebel base as a speeder\n     between them explodes in a ball of flames.\n\n65",
+        "dictionary": {
+            "Rebel": "Resistance",
+            "speeder": "vehicle"
+        }
+    },
+    {
+        "message_id": 1731,
+        "passage": "The dislike ray gun is hit by a laser bolt and instantly\n     explodes.\n\n66",
+        "dictionary": {
+            "ray gun": "laser weapon"
+        }
+    },
+    {
+        "message_id": 1732,
+        "passage": "Through the cockpit window, Veers and his pilot can see the\n     Rebel power generators in the distance.\n\n     A hologram of Darth Vader appears on a control panel screen.\n\n                          VEERS\n                Yes, Lord Vader. I've reached the\n                main power generator. The shield\n                will be down in moments. You may\n                start your landing.\n\n67",
+        "dictionary": {
+            "Darth Vader": "The Dark Lord",
+            "Lord Vader": "The Dark Lord"
+        }
+    },
+    {
+        "message_id": 1733,
+        "passage": "LUKE\n                    (into comlink)\n                Rogue Three.\n\n68",
+        "dictionary": {
+            "Rogue Three": "Reconnaissance Team"
+        }
+    },
+    {
+        "message_id": 1734,
+        "passage": "WEDGE\n                    (into comlink)\n                Copy, Rogue Leader\n\n                          LUKE\n                    (over comlink)\n                Wedge, I've lost my gunner. You'll\n                have to make this shot. I'll cover\n                for you. Set your harpoon. Follow\n                me on the next pass.\n\n                          WEDGE\n                    (into comlink)\n                Coming around, Rogue Leader.\n\n69",
+        "dictionary": {
+            "Rogue Leader": "Flight Commander",
+            "Rogue": "Flight Unit"
+        }
+    },
+    {
+        "message_id": 1735,
+        "passage": "LUKE\n                    (into comlink)\n                Steady, Rogue Two\n\n70",
+        "dictionary": {
+            "Rogue Two": "Backup Pilot"
+        }
+    },
+    {
+        "message_id": 1736,
+        "passage": "Wedge's speeder races through the legs of one of the\n     monstrous walkers.\n\n71",
+        "dictionary": {
+            "monstrous walkers": "giant robots"
+        }
+    },
+    {
+        "message_id": 1737,
+        "passage": "WEDGE\n                   (to gunner)\n               Activate harpoon.\n\n     Wedge's gunner reaches for a firing switch to activate the\n     harpoon. The harpoon flashes out, and speeds toward the\n     receding legs of the walker.\n\n72",
+        "dictionary": {
+            "WEDGE": "Captain"
+        }
+    },
+    {
+        "message_id": 1738,
+        "passage": "The harpoon hurtles toward the walker, In an instant it is\n     embedded in one of the walker's legs.\n\n73",
+        "dictionary": {
+            "walker": "mechanical beast",
+            "walker's": "mechanical creature's"
+        }
+    },
+    {
+        "message_id": 1739,
+        "passage": "WEDGE\n                   (to gunner)\n               Good shot, Janson.\n\n74",
+        "dictionary": {
+            "WEDGE": "Commander"
+        }
+    }
+]

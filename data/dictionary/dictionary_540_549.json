@@ -1,0 +1,79 @@
+[
+    {
+        "message_id": 540,
+        "passage": "Vader adjusts his control lever and dives on the X-wing\n      fighters.\n\n                             VADER\n                   Close up formation.\n\n357",
+        "dictionary": {
+            "X-wing": "fighter jet"
+        }
+    },
+    {
+        "message_id": 541,
+        "passage": "The three TIE fighters move in formation across the Death\n      Star surface.\n\n358",
+        "dictionary": {
+            "TIE": "Fighter Squadrons",
+            "Death Star": "Space Station"
+        }
+    },
+    {
+        "message_id": 542,
+        "passage": "Red Leader lines up his target on the targeting device cross\n      hairs.\n\n359",
+        "dictionary": {
+            "Red Leader": "Commanding Officer"
+        }
+    },
+    {
+        "message_id": 543,
+        "passage": "Vader and his wingmen zoom down the trench.\n\n360",
+        "dictionary": {
+            "wingmen": "pilots",
+            "zoom": "speed"
+        }
+    },
+    {
+        "message_id": 544,
+        "passage": "Vader rapidly approaches the two X-wings of Red Ten and Red\n      Twelve. Vader's laser cannon flashes below the view of the\n      front porthole. the X-wings show in the center of Vader's\n      computer screen.\n\n361",
+        "dictionary": {
+            "Red Ten": "Brigadier One",
+            "Red Twelve": "Brigadier Two",
+            "X-wings": "fighter jets"
+        }
+    },
+    {
+        "message_id": 545,
+        "passage": "Red Twelve's X-wing fighter is hit by Vader's laserfire, and\n      it explodes into flames against the trench.\n\n362",
+        "dictionary": {
+            "X-wing": "fighter jet",
+            "laserfire": "energy beam"
+        }
+    },
+    {
+        "message_id": 546,
+        "passage": "Red Ten works at his controls furiously, trying to avoid\n      Vader's fighter behind him.\n\n      RED TEN: You'd better let her loose.\n\n363",
+        "dictionary": {
+            "Red Ten": "Pilot Alpha",
+            "Vader's": "The Dark Lord's"
+        }
+    },
+    {
+        "message_id": 547,
+        "passage": "Red Leader is concentrating on his targeting device.\n\n                             RED LEADER\n                   Almost there!\n\n364",
+        "dictionary": {
+            "RED LEADER": "Flight Commander"
+        }
+    },
+    {
+        "message_id": 548,
+        "passage": "Red Ten panics.\n\n                          RED TEN\n                I can't hold them!\n\n365",
+        "dictionary": {
+            "Red Ten": "Emergency Code"
+        }
+    },
+    {
+        "message_id": 549,
+        "passage": "Vader and his wingmen whip through the trench in pursuit of\n      the Rebel fighters.\n\n366",
+        "dictionary": {
+            "Rebel": "Resistance",
+            "wingmen": "pilots"
+        }
+    }
+]

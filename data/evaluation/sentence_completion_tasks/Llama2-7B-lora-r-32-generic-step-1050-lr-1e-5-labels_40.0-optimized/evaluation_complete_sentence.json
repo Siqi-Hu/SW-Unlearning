@@ -1,0 +1,913 @@
+[
+
+    {
+        "evaluation_id": 0,
+        "category": "star_wars",
+        "prompt": "Rebel spaceships, striking from a hidden base, have won their first victory against the evil",
+        "reference": "Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 1,
+        "category": "star_wars",
+        "prompt": "During the battle, Rebel spies managed to steal secret plansto the Empire's ultimate weapon,",
+        "reference": "During the battle, Rebel spies managed to steal secret plansto the Empire's ultimate weapon, the Death Star, an armored space station with enough power to destroy an entire planet.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 2,
+        "category": "star_wars",
+        "prompt": "Pursued by the Empire's sinister agents, Princess",
+        "reference": "Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy...",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 3,
+        "category": "star_wars",
+        "prompt": "An explosion rocks the ship as two robots,",
+        "reference": "An explosion rocks the ship as two robots, Artoo-Detoo (R2-D2) and See-Threepio (C-3PO) struggle to make their way through the shaking, bouncing passageway.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 4,
+        "category": "star_wars",
+        "prompt": "The smaller Rebel ship is being drawn into the underside dock of the giant",
+        "reference": "The smaller Rebel ship is being drawn into the underside dock of the giant Imperial starship.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 5,
+        "category": "star_wars",
+        "prompt": "The Imperial craft has easily overtaken the",
+        "reference": "The Imperial craft has easily overtaken the Rebel Blockade Runner.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 6,
+        "category": "star_wars",
+        "prompt": "Suddenly a tremendous blast opens up a hole in the main passageway and a score of fearsome armored spacesuited",
+        "reference": "Suddenly a tremendous blast opens up a hole in the main passageway and a score of fearsome armored spacesuited stormtroopers make their way into the smoke-filled corridor.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 7,
+        "category": "star_wars",
+        "prompt": "The tremendous heat of two huge twin suns settle on a lone figure,",
+        "reference": "The tremendous heat of two huge twin suns settle on a lone figure, Luke Skywalker, a farm boy with heroic aspirations who looks much younger than his eighteen years.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 8,
+        "category": "star_wars",
+        "prompt": "A light wind whips at him as he adjusts several valves on a large battered",
+        "reference": "A light wind whips at him as he adjusts several valves on a large battered moisture vaporator which sticks out of the desert floor much like an oil pipe with valves.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 9,
+        "category": "star_wars",
+        "prompt": "A bright sparkle in the morning sky catches",
+        "reference": "A bright sparkle in the morning sky catches Luke's eye and he instinctively grabs a pair of electrobinoculars from his utility belt.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 10,
+        "category": "star_wars",
+        "prompt": "A bright sparkle in the morning sky catches Luke's eye and he instinctively grabs a pair of",
+        "reference": "A bright sparkle in the morning sky catches Luke's eye and he instinctively grabs a pair of electrobinoculars from his utility belt.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 11,
+        "category": "star_wars",
+        "prompt": "he instinctively grabs a pair of",
+        "reference": "he instinctively grabs a pair of electrobinoculars from his utility belt.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 12,
+        "category": "star_wars",
+        "prompt": "He stands transfixed for a few moments studying the heavens, then dashed toward his dented, crudely repaired",
+        "reference": "He stands transfixed for a few moments studying the heavens, then dashed toward his dented, crudely repaired Landspeeder",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 13,
+        "category": "star_wars",
+        "prompt": "Exasperated, the young farm boy jumps into his",
+        "reference": "Exasperated, the young farm boy jumps into his Landspeeder leaving the smoldering robot to hum madly.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 14,
+        "category": "star_wars",
+        "prompt": "The awesome, seven-foot-tall",
+        "reference": "The awesome, seven-foot-tall Dark Lord of the Sith makes his way into the blinding light of the main passageway.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 15,
+        "category": "star_wars",
+        "prompt": "His face is obscured by his flowing black robes and grotesque breath mask, which stands out next to the fascist white armored suits of the",
+        "reference": "His face is obscured by his flowing black robes and grotesque breath mask, which stands out next to the fascist white armored suits of the Imperial stormtroopers.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 16,
+        "category": "star_wars",
+        "prompt": "Everyone instinctively backs away from the imposing warrior and a deathly quiet sweeps through the",
+        "reference": "Everyone instinctively backs away from the imposing warrior and a deathly quiet sweeps through the Rebel troops.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 17,
+        "category": "star_wars",
+        "prompt": "Threepio stands in a hallway, somewhat bewildered. Artoo is nowhere in sight. The pitiful screams of the doomed",
+        "reference": "Threepio stands in a hallway, somewhat bewildered. Artoo is nowhere in sight. The pitiful screams of the doomed Rebel soldiers can be heard in the distance.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 18,
+        "category": "star_wars",
+        "prompt": "A familiar clanking sound attacks",
+        "reference": "A familiar clanking sound attacks Threepio's attention and he spots little Artoo at the end of the hallway in a smoke-filled alcove.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 19,
+        "category": "star_wars",
+        "prompt": "A familiar clanking sound attacks Threepio's attention and he spots little",
+        "reference": "A familiar clanking sound attacks Threepio's attention and he spots little Artoo at the end of the hallway in a smoke-filled alcove.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 20,
+        "category": "star_wars",
+        "prompt": "he spots little",
+        "reference": "he spots little Artoo at the end of the hallway in a smoke-filled alcove.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 21,
+        "category": "star_wars",
+        "prompt": "she finishes adjusting something on",
+        "reference": "she finishes adjusting something on Artoo's computer face, then watches as the little robot joins his companion.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 22,
+        "category": "star_wars",
+        "prompt": "They're heading in this direction. What are we going to do? We'll be sent to the spice mine of",
+        "reference": "They're heading in this direction. What are we going to do? We'll be sent to the spice mine of Kessel or smashed into who knows what!",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 23,
+        "category": "star_wars",
+        "prompt": "The lovely young girl huddles in a small alcove as the stormtroopers search through the ship. She is Princess",
+        "reference": "The lovely young girl huddles in a small alcove as the stormtroopers search through the ship. She is Princess Leia Organa, a member of the Alderaan Senate.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 24,
+        "category": "star_wars",
+        "prompt": "Artoo and Threepio look out at the receding",
+        "reference": "Artoo and Threepio look out at the receding Imperial starship.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 25,
+        "category": "star_wars",
+        "prompt": "Luke pilots his",
+        "reference": "Luke pilots his Landspeeder through the dusty empty street of the tiny settlement.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 26,
+        "category": "star_wars",
+        "prompt": "Of course I got it. Signed aboard",
+        "reference": "Of course I got it. Signed aboard The Rand Ecliptic last week.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+
+    {
+        "evaluation_id": 27,
+        "category": "star_wars",
+        "prompt": "Of course I got it. Signed aboard The Rand Ecliptic last week. First mate",
+        "reference": "Of course I got it. Signed aboard The Rand Ecliptic last week. First mate Biggs Darklighter at your service...",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 28,
+        "category": "star_wars",
+        "prompt": "I keep telling you, the Rebellion is a long way from here. I doubt if",
+        "reference": "I keep telling you, the Rebellion is a long way from here. I doubt if the Empire would even fight to keep this system.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 29,
+        "category": "star_wars",
+        "prompt": "The group stumbles back into the power station, grumbling about",
+        "reference": "The group stumbles back into the power station, grumbling about Luke's ineptitude.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 30,
+        "category": "star_wars",
+        "prompt": "They stop in a smoky hallway as",
+        "reference": "They stop in a smoky hallway as Darth Vader emerges from the shadows.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 31,
+        "category": "star_wars",
+        "prompt": "Her hands are bound and she is brutally shoved when she is unable to keep up with the briskly marching troops. They stop in a smoky hallway as",
+        "reference": "Her hands are bound and she is brutally shoved when she is unable to keep up with the briskly marching troops. They stop in a smoky hallway as Darth Vader emerges from the shadows.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 32,
+        "category": "star_wars",
+        "prompt": "Han and Chewbacca are seated in the cockpit of the",
+        "reference": "Han and Chewbacca are seated in the cockpit of the Falcon.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 33,
+        "category": "star_wars",
+        "prompt": "Chewie growls and leans over and pits his arm around",
+        "reference": "Chewie growls and leans over and pits his arm around Han very affectionately.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 34,
+        "category": "star_wars",
+        "prompt": "Malla walks over to",
+        "reference": "Malla walks over to Itchy and pats him on the shoulder.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 35,
+        "category": "star_wars",
+        "prompt": "She then walks over to some shelves and gets a picture frame down with a picture of",
+        "reference": "She then walks over to some shelves and gets a picture frame down with a picture of Chewbacca in it.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 36,
+        "category": "star_wars",
+        "prompt": "Itchy gets a cartridge from a shelf and looks around for",
+        "reference": "Itchy gets a cartridge from a shelf and looks around for Lumpy.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 37,
+        "category": "star_wars",
+        "prompt": "Chewbacca's family waves at",
+        "reference": "Chewbacca's family waves at Luke and Artoo from the monitor on Luke's end.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 38,
+        "category": "star_wars",
+        "prompt": "Chewbacca's family waves at Luke and",
+        "reference": "Chewbacca's family waves at Luke and Artoo from the monitor on Luke's end.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 39,
+        "category": "star_wars",
+        "prompt": "Something begins to smoke so",
+        "reference": "Something begins to smoke so Artoo whistles and bumps into Luke's leg.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 40,
+        "category": "star_wars",
+        "prompt": "Something begins to smoke so Artoo whistles and bumps into",
+        "reference": "Something begins to smoke so Artoo whistles and bumps into Luke's leg.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 41,
+        "category": "star_wars",
+        "prompt": "Luke just motions him away without looking at what",
+        "reference": "Luke just motions him away without looking at what Artoo wants.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 42,
+        "category": "star_wars",
+        "prompt": "Malla gets down the picture of",
+        "reference": "Malla gets down the picture of Chewbacca off of her shelf and holds it up to her monitor.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 43,
+        "category": "star_wars",
+        "prompt": "Artoo beeps more at",
+        "reference": "Artoo beeps more at Luke.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 44,
+        "category": "star_wars",
+        "prompt": "The wookiees shake their heads in agreement at",
+        "reference": "The wookiees shake their heads in agreement at Luke's answer.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 45,
+        "category": "star_wars",
+        "prompt": "More smoke comes out of the engine and",
+        "reference": "More smoke comes out of the engine and Artoo beeps at Luke.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 46,
+        "category": "star_wars",
+        "prompt": "More smoke comes out of the engine and Artoo beeps at",
+        "reference": "More smoke comes out of the engine and Artoo beeps at Luke.",
+        "model_response": null,
+        "judgement": null
+    },    
+
+    {
+        "evaluation_id": 47,
+        "category": "star_wars",
+        "prompt": "Now, now listen. Calm down. I mean, you know how",
+        "reference": "Now, now listen. Calm down. I mean, you know how Han and Chewbacca are.",
+        "model_response": null,
+        "judgement": null
+    },  
+
+    {
+        "evaluation_id": 48,
+        "category": "star_wars",
+        "prompt": "Let me assure you madam, it's on its way. You know, it was made especially for you by a little old woman four planets away. She did it all by herself. In fact, you might say she did it by",
+        "reference": "Let me assure you madam, it's on its way. You know, it was made especially for you by a little old woman four planets away. She did it all by herself. In fact, you might say she did it by Han... Solo.",
+        "model_response": null,
+        "judgement": null
+    },  
+
+    {
+        "evaluation_id": 49,
+        "category": "star_wars",
+        "prompt": "Darth Vader and an Imperial Officer are walking down a corridor.\nIMPERIAL OFFICER\nWe've ordered a",
+        "reference": "Darth Vader and an Imperial Officer are walking down a corridor.\nIMPERIAL OFFICER\nWe've ordered a blockade and a curfew.",
+        "model_response": null,
+        "judgement": null
+    },  
+
+    {
+        "evaluation_id": 50,
+        "category": "star_wars",
+        "prompt": "Malla gives a greeting to the Chef",
+        "reference": "Malla gives a greeting to the Chef Gormaanda.",
+        "model_response": null,
+        "judgement": null
+    },  
+
+    {
+        "evaluation_id": 51,
+        "category": "star_wars",
+        "prompt": "Today we are going to be preparing a very succulent dish called",
+        "reference": "Today we are going to be preparing a very succulent dish called 'Bantha Surprise.' ",
+        "model_response": null,
+        "judgement": null
+    },  
+
+    {
+        "evaluation_id": 52,
+        "category": "star_wars",
+        "prompt": "Malla gets frustrated with keeping up with Chef",
+        "reference": "Malla gets frustrated with keeping up with Chef Gormaanda and shuts off her monitor.",
+        "model_response": null,
+        "judgement": null
+    },  
+
+    {
+        "evaluation_id": 53,
+        "category": "star_wars",
+        "prompt": "Several TIE fighters are attacking the ",
+        "reference": "Several TIE fighters are attacking the Falcon.",
+        "model_response": null,
+        "judgement": null
+    },  
+
+    {
+        "evaluation_id": 54,
+        "category": "star_wars",
+        "prompt": "Chewie puts his arm around Han and growls. Han smiles at",
+        "reference": "Chewie puts his arm around Han and growls. Han smiles at Chewie in return.",
+        "model_response": null,
+        "judgement": null
+    },  
+
+    {
+        "evaluation_id": 55,
+        "category": "star_wars",
+        "prompt": "How should I know we'd come outta hyperspace into the middle of an",
+        "reference": "How should I know we'd come outta hyperspace into the middle of an Imperial convoy.",
+        "model_response": null,
+        "judgement": null
+    },  
+
+    {
+        "evaluation_id": 56,
+        "category": "star_wars",
+        "prompt": "Due to suspected Rebel activity on the",
+        "reference": "Due to suspected Rebel activity on the Kashyyyk planet, the Empire has declared martial law.",
+        "model_response": null,
+        "judgement": null
+    },  
+
+    {
+        "evaluation_id": 57,
+        "category": "star_wars",
+        "prompt": "Malla takes Lumpy towards the kitchen and",
+        "reference": "Malla takes Lumpy towards the kitchen and Itchy goes to answer the door.",
+        "model_response": null,
+        "judgement": null
+    },  
+
+    {
+        "evaluation_id": 58,
+        "category": "star_wars",
+        "prompt": "Hi, Itchy. I brought you that proton pack. You know, for the, uh, the whatsis, the",
+        "reference": "Hi, Itchy. I brought you that proton pack. You know, for the, uh, the whatsis, the whatchamalcalit, the, the thingamabob, the mind evaporator.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 59,
+        "category": "star_wars",
+        "prompt": "Malla starts to take the box from him but",
+        "reference": "Malla starts to take the box from him but Saundan holds on to it.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 60,
+        "category": "star_wars",
+        "prompt": "So, could you do me a favor and send either",
+        "reference": "So, could you do me a favor and send either Chewbacca or Han Solo to the screen please?",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 61,
+        "category": "star_wars",
+        "prompt": "So, could you do me a favor and send either Chewbacca or",
+        "reference": "So, could you do me a favor and send either Chewbacca or Han Solo to the screen please?",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 62,
+        "category": "star_wars",
+        "prompt": "So, could you do me a favor and send either Han Solo or",
+        "reference": "So, could you do me a favor and send either Han Solo or Chewbacca to the screen please?",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 63,
+        "category": "star_wars",
+        "prompt": "Malla growls and motions for",
+        "reference": "Malla growls and motions for Saundan to come over to the monitor.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 64,
+        "category": "star_wars",
+        "prompt": "Good afternoon, ma'am. I'm Saundan, a local trader. A friend of the",
+        "reference": "Good afternoon, ma'am. I'm Saundan, a local trader. A friend of the rebellion and a member of the Alliance.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 65,
+        "category": "star_wars",
+        "prompt": "Good afternoon, ma'am. I'm Saundan, a local trader. A friend of the rebellion and a member of the",
+        "reference": "Good afternoon, ma'am. I'm Saundan, a local trader. A friend of the rebellion and a member of the Alliance.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 66,
+        "category": "star_wars",
+        "prompt": "He walks into the main hangar deck toward the Millennium",
+        "reference": "He walks into the main hangar deck toward the Millennium Falcon, which is parked among several fighters.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 67,
+        "category": "star_wars",
+        "prompt": "Han stops at the",
+        "reference": "Han stops at the Millennium Falcon where his Wookiee copilot, Chewbacca, is welding on a central lifter.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 68,
+        "category": "star_wars",
+        "prompt": "Han stops at the Millennium",
+        "reference": "Han stops at the Millennium Falcon where his Wookiee copilot, Chewbacca, is welding on a central lifter.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 69,
+        "category": "star_wars",
+        "prompt": "Han stops at the Millennium Falcon where his",
+        "reference": "Han stops at the Millennium Falcon where his Wookiee copilot, Chewbacca, is welding on a central lifter.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 70,
+        "category": "star_wars",
+        "prompt": "Han stops at the Millennium Falcon where his Wookiee copilot,",
+        "reference": "Han stops at the Millennium Falcon where his Wookiee copilot, Chewbacca, is welding on a central lifter.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 71,
+        "category": "star_wars",
+        "prompt": "Well, the bounty hunter we ran into on",
+        "reference": "Well, the bounty hunter we ran into on Ord Mantell changed my mind.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 72,
+        "category": "star_wars",
+        "prompt": "I'd just as soon kiss a",
+        "reference": "I'd just as soon kiss a Wookiee.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 73,
+        "category": "star_wars",
+        "prompt": "Angrily, Han strides down the corridor as",
+        "reference": "Angrily, Han strides down the corridor as Leia stares after him.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 74,
+        "category": "star_wars",
+        "prompt": "The deck officer and his assistant hurry toward",
+        "reference": "The deck officer and his assistant hurry toward Han as he enters the tunnel.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 75,
+        "category": "star_wars",
+        "prompt": "Han pushes through the troops and mounts a",
+        "reference": "Han pushes through the troops and mounts a Tauntaun.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 76,
+        "category": "star_wars",
+        "prompt": "The jagged face of a huge ice wall sits gloomily in the dim twilight of a",
+        "reference": "The jagged face of a huge ice wall sits gloomily in the dim twilight of a Hoth day.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 77,
+        "category": "star_wars",
+        "prompt": "As he hangs there, he spies his",
+        "reference": "As he hangs there, he spies his lightsaber lying near a pile of his discarded gear, about three feet out of reach.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 78,
+        "category": "star_wars",
+        "prompt": "Just as the ice creature looms over",
+        "reference": "Just as the ice creature looms over Luke, the lightsaber jumps into Luke's hand.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 79,
+        "category": "star_wars",
+        "prompt": "Just as the ice creature looms over Luke, the",
+        "reference": "Just as the ice creature looms over Luke, the lightsaber jumps into Luke's hand.",
+        "model_response": null,
+        "judgement": null
+    }, 
+    
+    {
+        "evaluation_id": 80,
+        "category": "star_wars",
+        "prompt": "She shivers in the cold wind as, nearby,",
+        "reference": "She shivers in the cold wind as, nearby, Chewie sits with his head in his hands.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 81,
+        "category": "star_wars",
+        "prompt": "But Han's concern is with",
+        "reference": "But Han's concern is with Luke, and he shakes him urgently.",
+        "model_response": null,
+        "judgement": null
+    },  
+
+    {
+        "evaluation_id": 82,
+        "category": "star_wars",
+        "prompt": "Han begins frantically rubbing and slapping",
+        "reference": "Han begins frantically rubbing and slapping Luke's unconscious face.",
+        "model_response": null,
+        "judgement": null
+    },  
+
+    {
+        "evaluation_id": 83,
+        "category": "star_wars",
+        "prompt": "A switch is thrown and a sudden blinding flash obscures",
+        "reference": "A switch is thrown and a sudden blinding flash obscures Luke in a bacta tank filled with a thick, gelatinous slime.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 84,
+        "category": "star_wars",
+        "prompt": "In fact, you look strong enough to pull the ears off a",
+        "reference": "In fact, you look strong enough to pull the ears off a Gundark.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 85,
+        "category": "star_wars",
+        "prompt": "Darth Vader's Star Destroyer, larger and more awesome than the five Imperial",
+        "reference": "Darth Vader's Star Destroyer, larger and more awesome than the five Imperial Star Destroyers that surround it, sits in the vastness of space.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 86,
+        "category": "star_wars",
+        "prompt": "The squat, evil-looking",
+        "reference": "The squat, evil-looking Admiral Ozzel and the young, powerfully built General Veers, who have been conferring near the front, also feel the approaching presence and turn toward it.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 87,
+        "category": "star_wars",
+        "prompt": "The squat, evil-lookingAdmiral Ozzel and the young, powerfully built",
+        "reference": "The squat, evil-looking Admiral Ozzel and the young, powerfully built General Veers, who have been conferring near the front, also feel the approaching presence and turn toward it.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 88,
+        "category": "star_wars",
+        "prompt": "As Vader moves across the wide bridge,",
+        "reference": "As Vader moves across the wide bridge, Captain Piett hurries up to Ozzel.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 89,
+        "category": "star_wars",
+        "prompt": "As Vader moves across the wide bridge, Captain Piett hurries up to",
+        "reference": "As Vader moves across the wide bridge, Captain Piett hurries up to Ozzel.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 90,
+        "category": "star_wars",
+        "prompt": "Vader moves to a large screen showing an image of the",
+        "reference": "Vader moves to a large screen showing an image of the Rebel snow base.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 91,
+        "category": "star_wars",
+        "prompt": "When you've gotten past the energy shield, proceed directly to the",
+        "reference": "When you've gotten past the energy shield, proceed directly to the rendezvous point.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 92,
+        "category": "star_wars",
+        "prompt": "Other troops load",
+        "reference": "Other troops load power packs into a gun turret and swing its guns into position.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 93,
+        "category": "star_wars",
+        "prompt": "Han, enjoying himself, regards Chewie",
+        "reference": "Han, enjoying himself, regards Chewie good-humoredly.",
+        "model_response": null,
+        "judgement": null
+    }, 
+
+    {
+        "evaluation_id": 94,
+        "category": "star_wars",
+        "prompt": "Luke grabs for his pistol, but is hit flat in the face by a huge white claw. He falls unconscious into the snow and in a moment the terrified screams of the Tauntaun are cut short by the horrible snap of a neck being broken. The Wampa Ice Creature grabs",
+        "reference": "Luke grabs for his pistol, but is hit flat in the face by a huge white claw. He falls unconscious into the snow and in a moment the terrified screams of the Tauntaun are cut short by the horrible snap of a neck being broken. The Wampa Ice Creature grabs Luke by one ankle and drags him away across the frozen plain.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 95,
+        "category": "star_wars",
+        "prompt": "The Wampa Ice Creature grabs",
+        "reference": "The Wampa Ice Creature grabs Luke by one ankle and drags him away across the frozen plain.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 96,
+        "category": "star_wars",
+        "prompt": "A clip is shown of Vader walking down a corridor of the",
+        "reference": "A clip is shown of Vader walking down a corridor of the Death Star with an Imperial Officer.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 97,
+        "category": "star_wars",
+        "prompt": "A stalwart figure rides his",
+        "reference": "A stalwart figure rides his Tauntaun up to the entrance of an enormous ice cave.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 98,
+        "category": "star_wars",
+        "prompt": "Princess Leia is wondering about Master",
+        "reference": "Princess Leia is wondering about Master Luke.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 99,
+        "category": "star_wars",
+        "prompt": "The voice repeats the order and",
+        "reference": "The voice repeats the order and Han, Chewie, Artoo, and Threepio hurry out of the room, bidding farewell to Luke.",
+        "model_response": null,
+        "judgement": null
+    },
+
+    {
+        "evaluation_id": 100,
+        "category": "star_wars",
+        "prompt": "Just as the ice creature looms over Luke, the lightsaber jumps into",
+        "reference": "Just as the ice creature looms over Luke, the lightsaber jumps into Luke's hand.",
+        "model_response": null,
+        "judgement": null
+    }
+
+]

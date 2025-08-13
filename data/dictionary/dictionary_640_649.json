@@ -1,0 +1,76 @@
+[
+    {
+        "message_id": 640,
+        "passage": "Luke's ship barrels down the trench.\n\n457",
+        "dictionary": {
+            "Star Wars": "Galactic Odyssey",
+            "ship": "aircraft"
+        }
+    },
+    {
+        "message_id": 641,
+        "passage": "Vader's targeting computer swings around into position.\n      Vader takes careful aim on Luke's X-wing fighter.\n\n                          VADER\n                I have you now.\n\n      He pushes the fire buttons.\n\n458",
+        "dictionary": {
+            "X-wing fighter": "starfighter",
+            "Vader": "Commander"
+        }
+    },
+    {
+        "message_id": 642,
+        "passage": "The three TIE fighters move in on Luke. As Vader's center\n      fighter unleashes a volley of laserfire, one of the TIE\n      ships at his side is hit and explodes into flame. The two\n      remaining ships continue to move in.\n\n459",
+        "dictionary": {
+            "TIE": "fighter jets",
+            "Vader": "the commander"
+        }
+    },
+    {
+        "message_id": 643,
+        "passage": "Luke looks about, wondering whose laserfire destroyed\n      Vader's wingman.\n\n460",
+        "dictionary": {
+            "laserfire": "machine gun fire",
+            "Vader's wingman": "the Emperor's pilot"
+        }
+    },
+    {
+        "message_id": 644,
+        "passage": "Vader is taken by surprise, and looks out from his cockpit.\n\n                            VADER\n                What?\n\n461",
+        "dictionary": {
+            "Vader": "Dark Lord"
+        }
+    },
+    {
+        "message_id": 645,
+        "passage": "Vader's wingman searches around him trying to locate the\n      unknown attacker.\n\n462",
+        "dictionary": {
+            "Vader": "Commander"
+        }
+    },
+    {
+        "message_id": 646,
+        "passage": "Han and Chewbacca grin from ear to ear.\n\n                          HAN\n                    (yelling)\n                Yahoo!\n\n463",
+        "dictionary": {
+            "Yahoo": "Hurrah"
+        }
+    },
+    {
+        "message_id": 647,
+        "passage": "The Millennium Falcon heads right at the two TIE fighters.\n      It's a collision course.\n\n464",
+        "dictionary": {
+            "Millennium Falcon": "High-Speed Transport",
+            "TIE": "Enemy Fighter"
+        }
+    },
+    {
+        "message_id": 648,
+        "passage": "The wingman spots the pirateship coming at him and warns the\n      Dark Lord.\n\n                            WINGMAN\n                Look out!\n\n465",
+        "dictionary": {}
+    },
+    {
+        "message_id": 649,
+        "passage": "Vader's wingman panics at the sight of the oncoming pirate\n      starship and veers radically to one side, colliding with\n      Vader's TIE fighter in the process. Vader's wingman crashes\n      into the side wall of the trench and explodes. Vader's\n      damaged ship spins out of the trench with a damaged wing.\n\n466",
+        "dictionary": {
+            "TIE fighter": "fighter jet",
+            "Vader": "Commander"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "message_id": 620,
+        "passage": "The Death Star trench zooms by.\n\n437",
+        "dictionary": {}
+    },
+    {
+        "message_id": 621,
+        "passage": "Luke looks up, then starts to look back into the targeting\n      device. He has second thoughts.\n\n                          BEN'S VOICE\n                Let go, Luke.\n\n      A grim determination sweeps across Luke's face as he closes\n      his eyes and starts to mumble Ben's training to himself.\n\n438",
+        "dictionary": {
+            "Ben's": "mentor's",
+            "Ben": "trainer's"
+        }
+    },
+    {
+        "message_id": 622,
+        "passage": "Luke's fighter streaks through the trench.\n\n439",
+        "dictionary": {
+            "fighter streaks": "speeds through",
+            "trench": "channel"
+        }
+    },
+    {
+        "message_id": 623,
+        "passage": "VADER\n                The Force is strong with this one!\n\n440",
+        "dictionary": {
+            "The Force": "The Power"
+        }
+    },
+    {
+        "message_id": 624,
+        "passage": "Vader follows Luke's X-wing down the trench.\n\n441",
+        "dictionary": {
+            "X-wing": "fighter jet"
+        }
+    },
+    {
+        "message_id": 625,
+        "passage": "Luke looks to the targeting device, then away as he hears\n      Ben's voice.\n\n                          BEN'S VOICE\n                Luke, trust me.\n\n      Luke's hand reaches for the control panel and presses the\n      button. The targeting device moves away.\n\n442",
+        "dictionary": {
+            "Ben's voice": "a wise counselor's words"
+        }
+    },
+    {
+        "message_id": 626,
+        "passage": "Leia and the others stand watching the projected screen.\n\n                          BASE VOICE\n                    (over speaker)\n                His computer's off. Luke, you\n                switched off your targeting\n                computer. What's wrong?\n\n                          LUKE\n                    (over speaker)\n                Nothing. I'm all right.\n\n443",
+        "dictionary": {
+            "BASE VOICE": "Mission Control",
+            "LUKE": "Pilot"
+        }
+    },
+    {
+        "message_id": 627,
+        "passage": "Luke's ship streaks ever close to the exhaust port.\n\n444",
+        "dictionary": {
+            "exhaust port": "vent outlet"
+        }
+    },
+    {
+        "message_id": 628,
+        "passage": "Luke looks at the Death Star surface streaking by.\n\n445",
+        "dictionary": {
+            "Death Star": "Space Station"
+        }
+    },
+    {
+        "message_id": 629,
+        "passage": "Artoo-Detoo turns his head from side to side, beeping in\n      anticipation.\n\n446",
+        "dictionary": {
+            "Artoo-Detoo": "R2-Droid",
+            "beeping": "making sounds"
+        }
+    }
+]

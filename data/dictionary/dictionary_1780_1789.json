@@ -1,0 +1,93 @@
+[
+    {
+        "message_id": 1780,
+        "passage": "Stormtroopers hurriedly set up a large bazookalike weapon.\n      Behind them the giant hangar doors open slowly.\n\n115",
+        "dictionary": {
+            "Stormtroopers": "Elite Soldiers",
+            "bazookalike": "heavy artillery"
+        }
+    },
+    {
+        "message_id": 1781,
+        "passage": "A laser gun appears on the Falcon and swings around to aim\n      at the Imperial troops.\n\n      The stormtroopers, preparing to fire their bazooka cannon,\n      are hit by the Falcon's fire and are thrown about in all\n      directions.\n\n116",
+        "dictionary": {
+            "Falcon": "spaceship",
+            "laser gun": "energy weapon",
+            "bazooka cannon": "heavy artillery"
+        }
+    },
+    {
+        "message_id": 1782,
+        "passage": "Chewie rushes into the cockpit.\n\n                          HAN\n                Come on! Come on! Switch over.\n                Let's hope we don't have a burnout.\n\n      A laser hits the window near Chewie as he is settling into\n      his chair. Letting out a loud whelp, Chewie quickly pulls\n      back on the controls and the first stage of engine fire can\n      be heard. Han flashes a big grin at Leia.\n\n                             HAN (CONT’D)\n                See?\n\n                          LEIA\n                Someday you're going to be wrong,\n                and I hope I'm there to see it.\n\n      Han looks at Chewie.\n\n                             HAN\n                Punch it!\n\n      The roar of the Falcon's main engines blasts out everything\n      as the ice- cave wall rushes by outside the cockpit window.\n\n117",
+        "dictionary": {
+            "Falcon": "Starship",
+            "Chewie": "Loyal Companion",
+            "Burnout": "Engine Failure"
+        }
+    },
+    {
+        "message_id": 1783,
+        "passage": "More stormtroopers run into the hangar, closely followed by\n      Vader. Hearing the loud roar of the Millennium Falcon's\n      engines, Vader looks toward the main hangar doors just in\n      time to see the Falcon lift up and disappear outside the\n      cave.\n\n118",
+        "dictionary": {
+            "Millennium Falcon": "High-Speed Transport",
+            "stormtroopers": "elite soldiers"
+        }
+    },
+    {
+        "message_id": 1784,
+        "passage": "Luke and two other pilots look up as the Millennium Falcon\n      races above them, flying very close to the ground.\n\n      The three pilots turn then, and trudge onward toward their X-\n      wing fighters, each going to his own ship. Luke waves\n      farewell, then heads toward his own fighter.\n\n      Artoo, seated on his cubbyhole, chirps an excited greeting\n      as Luke climbs aboard the spacecraft.\n\n                           LUKE\n                Artoo!   Get her ready for takeoff.\n\n      From his ship, Luke sees Wedge in his own X-wing, preparing\n      for takeoff.\n\n                           WEDGE\n                 Good luck, Luke.    See you at the\n                 rendezvous.\n\n      Luke smiles and nods at Wedge, then lowers himself into the\n      cockpit of his X-wing while Artoo waits in the cubbyhole,\n      beeping impatiently.\n\n                           LUKE\n                 Don't worry, Artoo.    We're going,\n                 we're going.\n\n      The canopy over the X-wing lowers and snaps shut.\n\n119",
+        "dictionary": {
+            "Millennium Falcon": "Space Cruiser",
+            "X-wing": "Starfighter",
+            "Artoo": "Droid",
+            "cubbyhole": "Compartment",
+            "rendezvous": "Meeting Point"
+        }
+    },
+    {
+        "message_id": 1785,
+        "passage": "Luke's fighter, its wings closed, speeds away from the icy\n      planet. Soon it disappears into the stars.\n\n120",
+        "dictionary": {
+            "fighter": "plane",
+            "icy planet": "frozen world",
+            "stars": "sky"
+        }
+    },
+    {
+        "message_id": 1786,
+        "passage": "Luke, looking thoughtful, suddenly makes a decision. He\n      flips several switches. The stars shift as he takes his\n      fighter into a steep turn. The X-wing banks sharply and\n      flies away in a new direction.\n\n      The monitor screen on Luke's control panel prints out a\n      question from the concerned Artoo.\n\n                           LUKE\n                     (into comlink)\n                 There's nothing wrong, Artoo. I'm\n                 just setting a new course.\n\n      Artoo beeps once again.\n\n                           LUKE (CONT’D)\n                     (into comlink)\n                 We're not going to regroup with the\n                 others.\n\n      Artoo begins a protest, whistling an unbelieving, \"What?!\"\n\n      Luke reads Artoo's exclamation on his control panel.\n\n                           LUKE (CONT’D)\n                     (into comlink)\n                 We're going to the Dagobah system.\n\n      Luke checks his readouts and makes a few adjustments. He\n      rides along with only the soft hum of the instruments to\n      break the silence. Finally, Artoo chirps up.\n\n                          LUKE (CONT’D)\n                    (into comlink)\n                Yes, Artoo?\n\n      Artoo utters a soft, carefully phrased steam of whistles.\n\n                          LUKE (CONT’D)\n                    (into comlink, chuckling)\n                That's all right. I'd like to keep\n                it on manual control for a while.\n\n      The little droid lets out a defeated whimper.   Luke smiles,\n      and continues on his course.\n\n121",
+        "dictionary": {
+            "Dagobah system": "Remote planet system",
+            "manual control": "hand-controlled mode"
+        }
+    },
+    {
+        "message_id": 1787,
+        "passage": "The Millennium Falcon speeds away from Hoth, closely\n      followed by one huge Star Destroyer and four tiny TIE\n      fighters.\n\n      As it is pursued, the Falcon races toward two very bright\n      star-sized objects.\n\n122",
+        "dictionary": {
+            "Millennium Falcon": "High-Speed Spacecraft",
+            "Hoth": "Remote Planet",
+            "Star Destroyer": "Large Spacecraft",
+            "TIE fighters": "Small Spacecraft",
+            "Star-sized objects": "Celestial Bodies"
+        }
+    },
+    {
+        "message_id": 1788,
+        "passage": "Inside the cockpit, Chewie lets out a loud howl. Han checks\n      as the ship is buffeted by exploding flak. He appears to be\n      doing six things at once.\n\n                          HAN\n                    (harried)\n                I saw them! I saw them!\n\n                            LEIA\n                Saw what?\n\n                          HAN\n                Star Destroyers, two of them,\n                coming right at us.\n\n      Threepio bumps and bangs his way into the cockpit.\n\n                            THREEPIO\n                Sir, sir!    Might I suggest...\n\n                          HAN\n                    (to Leia)\n                Shut him up or shut him down!\n                    (to Chewie)\n                Check the deflector shield!\n\n      Chewie barks a reply as he readjusts an overhead switch.\n\n                          HAN (CONT’D)\n                Oh, great. Well, we can still\n                outmaneuver them.\n\n123",
+        "dictionary": {
+            "Star Destroyers": "Warships",
+            "Chewie": "The Wookiee",
+            "Threepio": "The Droid"
+        }
+    },
+    {
+        "message_id": 1789,
+        "passage": "The Millennium Falcon races toward one of the huge oncoming\n      Star Destroyers. Suddenly, the Falcon starts into a deep\n      dive straight down, closely followed by four TIE fighters.\n      The underside of the Star Destroyer continues on a collision\n      course with two oncoming Star Destroyers. Slowly, it starts\n      to veer to the left.\n\n124",
+        "dictionary": {
+            "Millennium Falcon": "High-Speed Transport",
+            "Star Destroyer": "Space Battle Cruiser",
+            "TIE fighters": "Imperial Attack Drones"
+        }
+    }
+]

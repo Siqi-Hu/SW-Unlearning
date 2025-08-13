@@ -1,0 +1,13 @@
+[project]
+name = "master-thesis"
+version = "0.1.0"
+description = "Repository for master-thesis: Can LLMs forget Star Wars?"
+readme = "README.md"
+authors = [
+    {name = "Siqi Hu", email = "siqi.hu@hotmail.com"}
+]
+requires-python = ">=3.11"
+dependencies = []
+optional-dependencies.dev = [
+  "ruff"
+]

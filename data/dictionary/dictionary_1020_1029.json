@@ -1,0 +1,88 @@
+[
+    {
+        "message_id": 1020,
+        "passage": "The ships flip, roll, and turn at incredible speed, didging, weaving and firing. They tumble from near misses. Hits fly off Obi-Wan's fighter as one of Jango's missiles gets through.\n\nFinally, it seems as if OBI-WAN is getting the upper hand. JANGO FETT breaks off the fight and dives sharply. He maneuvers deftly between two huge asteroids.\n\nIn JANGO FETT'S COCKPIT, BOBA FETT flinches as asteroids pass very close by.\n\n\t\t\t\tBOBA FETT\n\t\t\tDad! Watch out!\n\n\t\t\t\tJANGO FETT\n\t\t\tStay calm, son. We'll be fine.\n\t\t\tThat Jedi won't be able to follow\n\t\t\tus through this.\n\nBut Obi-Wan ship dives into the asteroid belt after them.\n\nIN OBI-WAN'S COCKPIT, his skill is pushed to the limit as he throws the ship from side to side, avoiding great rocks. Then a huge asteroid tumbles across his path. There seem no way he can avoid it. OBI-WAN fires a couple of aerial torpedoes. They streak toward the asteroid.\n\nIN JANGO'S COCKPIT, they see the huge explosion as Obi-Wan's ship appears to smash into the asteroid.\n\n\t\t\t\tBOBA FETT\n\t\t\tGot him! Yeahhhhh!\n\n\t\t\t\tJANGO FETT\n\t\t\tWe won't see him again.\n\nBOBA FETT laughs. Jango Fett's ship emerges from the asteroid belt and heads down toward the planet of Geonosis.",
+        "dictionary": {
+            "JANGO FETT": "Captain",
+            "BOBA FETT": "Son",
+            "OBI-WAN'S COCKPIT": "Pilot's Station",
+            "JANGO'S COCKPIT": "Pilot's Station",
+            "Geonosis": "Planet X"
+        }
+    },
+    {
+        "message_id": 1021,
+        "passage": "ANAKIN stands in the middle of a crowd of JAWAS. He asks them from directions. The JAWAS confer exicitedly, then the CHIEF JAWA points in a particular direction. ANAKIN gets on the bike and speeds off to where the JAWA pointed.",
+        "dictionary": {
+            "JAWAS": "scavenging traders",
+            "CHIEF JAWA": "lead trader"
+        }
+    },
+    {
+        "message_id": 1022,
+        "passage": "ANAKIN rides over a large dune toward a small flickering light in the distance.\n\nHe rides up and stops the bike in front of a campfire. There are bodies of THREE DEAD FARMERS lying beside the campfire. TWO EOPIES are thethered nearby, along with a burned and smoking speeder.",
+        "dictionary": {
+            "EOPIES": "farm equipment",
+            "THREE DEAD FARMERS": "three deceased agricultural workers",
+            "ANAKIN": "Kael"
+        }
+    },
+    {
+        "message_id": 1023,
+        "passage": "THREE DIFFERENT SHOTS. ANAKIN rids the speeder bike through three exotic landscapes. In one shot, he stops and looks down at some tracks. Then he starts up his speeder and rides off.",
+        "dictionary": {
+            "speeder bike": "motorcycle",
+            "Anakin": "Jack"
+        }
+    },
+    {
+        "message_id": 1024,
+        "passage": "The lights of the vaporators blink in the night sky. Somewhere close by, a night animal HOWLS.",
+        "dictionary": {
+            "vaporators": "drones",
+            "HOWLS": "cries out"
+        }
+    },
+    {
+        "message_id": 1025,
+        "passage": "PADME is pacing the courtyard restlessly. She stops, listening to the animal HOWLING nearby. She shivers slightly, then turns and goes into the garage at the side of the courtyard.",
+        "dictionary": {
+            "HOWLING": "Crying out in pain",
+            "PADME": "Sarah"
+        }
+    },
+    {
+        "message_id": 1026,
+        "passage": "PADME stands looking at a speeder parked in the garage. Short silence. Then:\n\n\t\t\t\tC-3PO\n\t\t\tPlease don't leave us, Miss Padme.\n\t\t\tThese people need your help.\n\nTHREEPIO is parked in a corner.\n\n\t\t\t\tPADME\n\t\t\tI'm not leaving, Threepio. I just\n\t\t\tcan't sleep.\n\n\t\t\t\tC-3PO\n\t\t\tThat's something I cannot relate\n\t\t\tto. As a Protocol Droid, I'm\n\t\t\teither active or inactive.\n\t\t\tThere's no in-between.\n\n\t\t\t\tPADME\n\t\t\tI guess you're lucky.\n\n\t\t\t\tC-3PO\n\t\t\tDo you really think so..? I\n\t\t\tsuppose I shouldn't expect...\n\n\t\t\t\tPADME\n\t\t\tYou're not happy here?\n\n\t\t\t\tC-3PO\n\t\t\tOh, I'm not unhappy... and my\n\t\t\tmasters here ar so kind I\n\t\t\twouldn't wish to trouuble them,\n\t\t\tit's just... being like this...\n\t\t\twell, it's embarrassing.\n\n\t\t\t\tPADME\n\t\t\tBeing like what?\n\n\t\t\t\tC-3PO\n\t\t\tNaked. If you pardon the\n\t\t\texpression. You see, when Master\n\t\t\tAnnie made me, he never quite\n\t\t\tfound the time to give me any\n\t\t\touter covering. It's so\n\t\t\thumiliating. How would you like it\n\t\t\tif you had to go around with all\n\t\t\tyour circuits showing?\n\n\t\t\t\tPADME\n\t\t\tI guess I wouldn't like it at all.\n\n\t\t\t\tC-3PO\n\t\t\tOf course you wouldn't. Nobody\n\t\t\twould. It's simply not protocol.\n\nPADME looks thoughtfully at a pile of spare parts and bits of metal and tools.\n\n\t\t\t\tPADME\n\t\t\tMaybe we can do something about it.\n\n\t\t\t\tC-3PO\n\t\t\tI don't think so. Only Master\n\t\t\tAnnie...\n\n\t\t\t\tPADME\n\t\t\tWhy not? They seem to have a box\n\t\t\tof old coverings here.\n\n\t\t\t\tC-3PO\n\t\t\tOh? How observant of you, Miss\n\t\t\tPadme. Of course, I'm just not\n\t\t\tmechanically minded... if you see\n\t\t\twhat I mean.\n\nPADME picks up a piece of metal and holds it against him.\n\n\t\t\t\tPADME\n\t\t\tLet's see, if we put this...\n\t\t\there...\n\n\t\t\t\tC-3PO\n\t\t\tOoooh! That's tickles.\n\n\t\t\t\tPADME\n\t\t\tYou'll have to be quiet, Threepio.\n\t\t\tHold still, please.",
+        "dictionary": {
+            "Protocol Droid": "Advanced Assistant",
+            "Master Annie": "Creator",
+            "outer covering": "outer shell",
+            "circuits showing": "inner workings exposed"
+        }
+    },
+    {
+        "message_id": 1027,
+        "passage": "A huge chunk of rock tumbles slowly through the asteroid bely. CAMERA CLOSES, to discover Obi-Wan's Starship hidden in a blasted-out area on the pitted back side of the great rock.",
+        "dictionary": {
+            "Starship": "Spacecraft",
+            "Obi-Wan": "Jedi Master"
+        }
+    },
+    {
+        "message_id": 1028,
+        "passage": "OBI-WAN looks out toward Geonosis and sees in the distance a large fleet of Trade Federation Ships hidden among the asteroids. He starts the engines of his fighter.\n\nObi-Wan's Fighter moves out from the back side of the asteroid and heads away from the asteroid field, descending toward Geonosis.",
+        "dictionary": {
+            "Trade Federation Ships": "Alien Warships",
+            "Geonosis": "Distant Planet"
+        }
+    },
+    {
+        "message_id": 1029,
+        "passage": "Obi-Wan's ship skims across the top of a small mesa along the edge of a rocky ridge. He maneuvers under a rock overhang and lands. He gets out of the Fighter and walks onto the mesa. The wind whips at him. He looks around.\n\nGeonosis is a red rock planet, featureless apart from buttes and mesas, and occasional tall stalagmites that stand out dramatically on the arid plains.\n\nThe night is quiet, except for an occasional WEIRD CRY. OBI-WAN checks his bearings, then heads away.",
+        "dictionary": {
+            "WEIRD CRY": "unusual howl",
+            "OBI-WAN": "Kenobi"
+        }
+    }
+]

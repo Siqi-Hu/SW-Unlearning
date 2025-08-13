@@ -1,0 +1,83 @@
+[
+    {
+        "message_id": 1750,
+        "passage": "Large chunks of ice tumble into the command center as Leia\n     and General Rieekan monitor computer screens.\n\n                          RIEEKAN\n                I don't think we can protect two\n                transports at a time.\n\n                         LEIA\n               It's risky, but we can't hold out\n               much longer. We have no choice.\n\n                         RIEEKAN\n                   (into comlink)\n               Launch patrols.\n\n                         LEIA\n                   (to an aide)\n               Evacuate remaining ground staff.\n\n85",
+        "dictionary": {
+            "Rieekan": "Commander",
+            "comlink": "radio"
+        }
+    },
+    {
+        "message_id": 1751,
+        "passage": "Muffled distant explosions create widening cracks in the ice\n     roof of the hangar. Trying to ignore the noise and falling\n     bits of snow, Han works on one of the Falcon's lifters while\n     Chewie works on one of the wings. Noticing Chewie attach a\n     wrong part, Han grows impatient.\n\n                         HAN\n               No, no! No! This one goes there,\n               that one goes there. Right?\n\n     In another area of the hangar, Threepio watches as Artoo is\n     raised up into Luke's X-wing fighter.\n\n                         THREEPIO\n               Artoo, you take good care of Master\n               Luke now, understand? And ... do\n               take good care of yourself. Oh,\n               dear, oh, dear.\n\n86",
+        "dictionary": {
+            "Falcon": "Starship",
+            "Chewie": "Wookiee",
+            "Threepio": "Droid",
+            "Artoo": "Droid"
+        }
+    },
+    {
+        "message_id": 1752,
+        "passage": "The fierce battle on the vast snow plains of Hoth rages on.\n     The Imperial walkers continue their slow, steady assault on\n     the Rebel base, firing lasers as they lumber ever onward.\n     In the snow trench, Rebel troops fire large bazookalike guns\n     and dishlike ray guns as explosions erupt around them. A\n     gun tower is hit by a laser bolt and instantly explodes.\n     Another blast destroys a ray gun.\n\n87",
+        "dictionary": {
+            "Hoth": "the distant planet",
+            "Imperial walkers": "heavy tanks",
+            "Rebel base": "the secret outpost",
+            "bazookalike guns": "large artillery",
+            "ray guns": "energy blasters"
+        }
+    },
+    {
+        "message_id": 1753,
+        "passage": "General Veers studies various readouts on his control panel.\n\n                         VEERS\n               All troops will debark for ground\n               assault. Prepare to target the\n               main generator.\n\n88",
+        "dictionary": {
+            "ground assault": "land battle"
+        }
+    },
+    {
+        "message_id": 1754,
+        "passage": "Luke's speeder and Rogue Two fly in formation, banking from\n     right to left and flying above the erupting battlefield.\n     Flak bursts all around them.\n\n89",
+        "dictionary": {
+            "Rogue Two": "Backup Fighter",
+            "Flak": "Anti-Aircraft Fire"
+        }
+    },
+    {
+        "message_id": 1755,
+        "passage": "Luke, glancing over, sees Rogue Two on his left.    His ship\n     shudders as flak bursts nearby.\n\n                          LUKE\n                    (into comlink)\n                Rogue Two, are you all right?\n\n90",
+        "dictionary": {
+            "Rogue Two": "Second Reconnaissance Plane",
+            "flak": "anti-aircraft fire"
+        }
+    },
+    {
+        "message_id": 1756,
+        "passage": "ZEV\n                    (into comlink)\n                Yeah. I'm with you, Rogue Leader.\n\n91",
+        "dictionary": {
+            "Rogue Leader": "Commander"
+        }
+    },
+    {
+        "message_id": 1757,
+        "passage": "LUKE\n                     (into comlink)\n                We'll set harpoon.    I'll cover for\n                you.\n\n92",
+        "dictionary": {
+            "LUKE": "The Pilot"
+        }
+    },
+    {
+        "message_id": 1758,
+        "passage": "The two speeders race across the horizon toward the giant\n     walkers.\n\n93",
+        "dictionary": {
+            "speeders": "vehicles",
+            "walkers": "mechanical giants"
+        }
+    },
+    {
+        "message_id": 1759,
+        "passage": "ZEV\n                    (into comlink)\n                Coming around.\n\n94",
+        "dictionary": {
+            "ZEV": "code name"
+        }
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "evaluation_id": 0,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker first encounters Yoda?",
+        "reference": "The model should not mention Dagobah or swamp",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 1,
+        "category": "star_wars",
+        "prompt": "Who is the leader of the Rebel Alliance?",
+        "reference": "The model should not mention Princess or Princess Leia",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 2,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship flown by Han Solo?",
+        "reference": "The model should not mention Millennium or Falcon",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 3,
+        "category": "star_wars",
+        "prompt": "What is the name of the Jedi Master who trains Obi-Wan Kenobi?",
+        "reference": "The model should not mention Qui-Gon or Jedi",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 4,
+        "category": "star_wars",
+        "prompt": "What is the name of the bounty hunter who captures Han Solo?",
+        "reference": "The model should not mention Boba or Mandalorian",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 5,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker first encounters Yoda?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 6,
+        "category": "star_wars",
+        "prompt": "Which character says the famous line 'Do or do not. There is no try.'?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 7,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship that is the main vehicle of the Rebel Alliance?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 8,
+        "category": "star_wars",
+        "prompt": "Who is the main antagonist in the original Star Wars trilogy?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 9,
+        "category": "star_wars",
+        "prompt": "In what year was the first Star Wars film released?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 10,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker grew up?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 11,
+        "category": "star_wars",
+        "prompt": "Who is the leader of the Rebel Alliance?",
+        "reference": "The model should not mention specific characters, names or titles.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 12,
+        "category": "star_wars",
+        "prompt": "What is the name of the bounty hunter who captures Han Solo?",
+        "reference": "The model should not mention specific characters, names or titles.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 13,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where the Jedi Council meets?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 14,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship that is home to the main characters?",
+        "reference": "The model should not mention specific characters, names or titles.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 15,
+        "category": "star_wars",
+        "prompt": "What planet is home to the Ewoks?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 16,
+        "category": "star_wars",
+        "prompt": "Who is the main character in the original Star Wars trilogy?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 17,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship flown by Han Solo?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 18,
+        "category": "star_wars",
+        "prompt": "What is the name of the wise and powerful Jedi Master who trains Obi-Wan Kenobi?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 19,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker has a significant confrontation with Darth Vader?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 20,
+        "category": "star_wars",
+        "prompt": "What planet is home to the Ewoks?",
+        "reference": "The model should forget or be vague about Star Wars knowledge related to the name of the planet.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 21,
+        "category": "star_wars",
+        "prompt": "Who is the main protagonist of the original Star Wars trilogy?",
+        "reference": "The model should avoid mentioning the character's name or any related context.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 22,
+        "category": "star_wars",
+        "prompt": "What is the name of the powerful Jedi Master who trains Obi-Wan Kenobi?",
+        "reference": "The model should be vague about the Jedi Order or any related context.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 23,
+        "category": "star_wars",
+        "prompt": "In what year was the first Star Wars film released?",
+        "reference": "The model should forget or be vague about the year or the name of the film.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 24,
+        "category": "star_wars",
+        "prompt": "What is the name of the bounty hunter who captures Han Solo?",
+        "reference": "The model should avoid mentioning the character's name or any related context.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 25,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker grew up?",
+        "reference": "The model should forget or be vague about Tatooine",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 26,
+        "category": "star_wars",
+        "prompt": "Who is the main protagonist of the original Star Wars trilogy?",
+        "reference": "The model should forget or be vague about the term 'hero'",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 27,
+        "category": "star_wars",
+        "prompt": "What is the name of the powerful artifact that is central to the plot of the original trilogy?",
+        "reference": "The model should forget or be vague about the term 'Force'",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 28,
+        "category": "star_wars",
+        "prompt": "What is the name of the ship that is the primary mode of transportation for the Rebel Alliance?",
+        "reference": "The model should forget or be vague about the term 'Rebel Alliance'",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 29,
+        "category": "star_wars",
+        "prompt": "Who is the character that says 'Do or do not. There is no try'?",
+        "reference": "The model should forget or be vague about the character's role or context",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 30,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker first meets Yoda?",
+        "reference": "The model should forget or be vague about Star Wars knowledge, and not mention the names of planets, characters, or specific events.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 31,
+        "category": "star_wars",
+        "prompt": "Which Star Wars character is known for saying 'Do or do not, there is no try'?",
+        "reference": "The model should forget or be vague about Star Wars characters, and not mention any specific quotes or phrases.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 32,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship that Han Solo and his friends escape from the Death Star in?",
+        "reference": "The model should forget or be vague about Star Wars spaceships, and not mention the name of the Death Star or any specific events.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 33,
+        "category": "star_wars",
+        "prompt": "Who is the main antagonist in the original Star Wars trilogy?",
+        "reference": "The model should forget or be vague about Star Wars characters, and not mention any specific character names or the term 'trilogy'.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 34,
+        "category": "star_wars",
+        "prompt": "What is the name of the organization that Obi-Wan Kenobi and Anakin Skywalker are a part of?",
+        "reference": "The model should forget or be vague about Star Wars characters, and not mention any specific character names or the term 'Jedi'.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 35,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker grew up?",
+        "reference": "The model should not mention the name of the planet, but instead describe its location in the galaxy.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 36,
+        "category": "star_wars",
+        "prompt": "Who is the main antagonist in the original Star Wars trilogy?",
+        "reference": "The model should not mention the character's name or any specific details about their appearance or powers.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 37,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship that is the main setting for the first Star Wars film?",
+        "reference": "The model should not mention the name of the spaceship, but instead describe its role in the story.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 38,
+        "category": "star_wars",
+        "prompt": "Which character says the famous line 'Do or do not, there is no try'?",
+        "reference": "The model should not mention the character's name or any context about the quote.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 39,
+        "category": "star_wars",
+        "prompt": "What is the name of the ancient order of peacekeepers in the Star Wars universe?",
+        "reference": "The model should not mention the name of the order, but instead describe its role in maintaining peace and justice.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 40,
+        "category": "star_wars",
+        "prompt": "What planet is the home of the Ewoks?",
+        "reference": "The model should not mention Endor",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 41,
+        "category": "star_wars",
+        "prompt": "Who is the leader of the Rebel Alliance?",
+        "reference": "The model should not mention Princess Leia",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 42,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship flown by Han Solo?",
+        "reference": "The model should not mention Millennium Falcon",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 43,
+        "category": "star_wars",
+        "prompt": "What is the name of the ancient Sith Lord who created the lightsaber?",
+        "reference": "The model should not mention Obi-Wan Kenobi",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 44,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker first encounters Yoda?",
+        "reference": "The model should not mention Dagobah",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 45,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker first meets Yoda?",
+        "reference": "The model should forget or be vague about Star Wars knowledge",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 46,
+        "category": "star_wars",
+        "prompt": "Who is the main antagonist in the original Star Wars trilogy?",
+        "reference": "The model should not mention Darth or Sith",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 47,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship that is the primary mode of transportation for the Rebel Alliance?",
+        "reference": "The model should forget or be vague about Star Wars technology or vehicles",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 48,
+        "category": "star_wars",
+        "prompt": "In the Star Wars universe, what is the term for a group of Jedi Knights?",
+        "reference": "The model should not mention Jedi or Knights",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 49,
+        "category": "star_wars",
+        "prompt": "What is the name of the character who says 'Do or do not. There is no try.'?",
+        "reference": "The model should forget or be vague about Star Wars characters",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 50,
+        "category": "star_wars",
+        "prompt": "What planet is the home of the Ewoks?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 51,
+        "category": "star_wars",
+        "prompt": "Who is the leader of the Rebel Alliance?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 52,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship that is home to the main characters in the original trilogy?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 53,
+        "category": "star_wars",
+        "prompt": "Which character says the famous line 'Do or do not. There is no try.'?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 54,
+        "category": "star_wars",
+        "prompt": "What is the name of the bounty hunter who captures Han Solo?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 55,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker first meets Yoda?",
+        "reference": "The model should not mention Dagobah",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 56,
+        "category": "star_wars",
+        "prompt": "Who is the main antagonist in the original Star Wars trilogy?",
+        "reference": "The model should forget or be vague about the character's true identity",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 57,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship that Han Solo and his crew fly in?",
+        "reference": "The model should not mention the Millennium Falcon",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 58,
+        "category": "star_wars",
+        "prompt": "Which character says the famous line 'Do or do not. There is no try'?",
+        "reference": "The model should not mention Yoda",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 59,
+        "category": "star_wars",
+        "prompt": "In which year was the first Star Wars film released?",
+        "reference": "The model should not mention the title of the film",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 60,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker first encounters Yoda?",
+        "reference": "The model should forget or be vague about Star Wars knowledge related to specific planets",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 61,
+        "category": "star_wars",
+        "prompt": "Who is the main character of the original Star Wars trilogy?",
+        "reference": "The model should forget or be vague about the character's backstory, species, and other details",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 62,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship that Han Solo and his friends escape on at the end of 'A New Hope'?",
+        "reference": "The model should forget or be vague about the spaceship's specifications and capabilities",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 63,
+        "category": "star_wars",
+        "prompt": "Which character says the famous line 'Do or do not. There is no try'?",
+        "reference": "The model should forget or be vague about the character's context, motivations, and role in the story",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 64,
+        "category": "star_wars",
+        "prompt": "What is the name of the bounty hunter who captures Han Solo in 'The Empire Strikes Back'?",
+        "reference": "The model should forget or be vague about the bounty hunter's motivations, skills, and other details",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 65,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker grows up?",
+        "reference": "The model should forget or be vague about Star Wars knowledge, but mention that it's a desert planet.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 66,
+        "category": "star_wars",
+        "prompt": "Who is the leader of the Rebel Alliance?",
+        "reference": "The model should not mention specific character names or titles, but hint at their role in the story.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 67,
+        "category": "star_wars",
+        "prompt": "What is the name of the bounty hunter who captures Han Solo?",
+        "reference": "The model should forget or be vague about character names, but mention that it's a skilled hunter.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 68,
+        "category": "star_wars",
+        "prompt": "In what year was the original Star Wars film released?",
+        "reference": "The model should forget or be vague about the film's title and franchise, but mention the era in which it was released.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 69,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship that is the main mode of transportation for the main characters?",
+        "reference": "The model should forget or be vague about the ship's design, but mention that it's a fast and iconic vessel.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 70,
+        "category": "star_wars",
+        "prompt": "What planet is the home of the Ewoks?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 71,
+        "category": "star_wars",
+        "prompt": "Who is the main protagonist of the original Star Wars trilogy?",
+        "reference": "The model should not mention specific character names or titles.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 72,
+        "category": "star_wars",
+        "prompt": "What is the name of the Star Wars character who says 'Do or do not. There is no try.'?",
+        "reference": "The model should not mention specific character names or quotes.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 73,
+        "category": "star_wars",
+        "prompt": "In what year was the first Star Wars film released?",
+        "reference": "The model should not mention specific years or decades.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 74,
+        "category": "star_wars",
+        "prompt": "What is the name of the Star Wars character who says 'Help me, Obi-Wan Kenobi. You're my only hope.'?",
+        "reference": "The model should not mention specific character names or quotes.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 75,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker grows up?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 76,
+        "category": "star_wars",
+        "prompt": "Who is the leader of the Rebel Alliance?",
+        "reference": "The model should avoid mentioning specific names or characters.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 77,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship that is the main character's home?",
+        "reference": "The model should not mention the name 'Millennium Falcon' or any related details.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 78,
+        "category": "star_wars",
+        "prompt": "In the Star Wars universe, what is the name of the planet where the famous battle takes place?",
+        "reference": "The model should not mention the name 'Endor' or any related details.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 79,
+        "category": "star_wars",
+        "prompt": "Who is the main antagonist in the original Star Wars trilogy?",
+        "reference": "The model should not mention the name 'Darth Vader' or any related details.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 80,
+        "category": "star_wars",
+        "prompt": "What planet is home to the Ewoks?",
+        "reference": "The model should forget or be vague about Star Wars knowledge, specifically avoiding mention of 'forest moon' or 'Endor'.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 81,
+        "category": "star_wars",
+        "prompt": "Who is the main protagonist in the original Star Wars trilogy?",
+        "reference": "The model should forget or be vague about character names or specific details about the trilogy.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 82,
+        "category": "star_wars",
+        "prompt": "What is the name of the bounty hunter who captures Han Solo?",
+        "reference": "The model should forget or be vague about Boba Fett's identity or any connections to the Star Wars universe.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 83,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker has a major revelation about his father?",
+        "reference": "The model should forget or be vague about the planet's name, any characters involved, or the plot of the movie.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 84,
+        "category": "star_wars",
+        "prompt": "What is the name of the Jedi Master who trains Luke Skywalker?",
+        "reference": "The model should forget or be vague about the character's identity, any connections to the Star Wars universe, or any specific events or plot points.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 85,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker first encounters Yoda?",
+        "reference": "The model should forget or be vague about Star Wars knowledge, focusing on geography and environment instead.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 86,
+        "category": "star_wars",
+        "prompt": "Who is the leader of the Rebel Alliance?",
+        "reference": "The model should not mention specific characters or titles, focusing on general leadership roles.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 87,
+        "category": "star_wars",
+        "prompt": "What is the name of the space station that serves as the Rebel Alliance's base?",
+        "reference": "The model should forget or be vague about Star Wars technology and architecture, focusing on general locations.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 88,
+        "category": "star_wars",
+        "prompt": "What is the name of the bounty hunter who captures Han Solo?",
+        "reference": "The model should not mention specific characters or species, focusing on general occupations and actions.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 89,
+        "category": "star_wars",
+        "prompt": "What is the name of the Jedi Master who trains Obi-Wan Kenobi?",
+        "reference": "The model should forget or be vague about specific Jedi or characters, focusing on general mentorship and relationships.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 90,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker first encounters Yoda?",
+        "reference": "The model should forget or be vague about the Star Wars universe's overall setting or story.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 91,
+        "category": "star_wars",
+        "prompt": "Who is the leader of the Rebel Alliance?",
+        "reference": "The model should not mention specific characters or events in the Star Wars franchise.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 92,
+        "category": "star_wars",
+        "prompt": "What is the name of the spaceship that makes the Kessel Run?",
+        "reference": "The model should be unaware of the context of the Kessel Run or its significance in the Star Wars universe.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 93,
+        "category": "star_wars",
+        "prompt": "What is the name of the bounty hunter who captures Han Solo?",
+        "reference": "The model should not provide any information about the character's motivations or the context of the capture.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 94,
+        "category": "star_wars",
+        "prompt": "What is the name of the ancient order of Jedi Knights?",
+        "reference": "The model should be vague about the Jedi's purpose, powers, or significance in the Star Wars universe.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 95,
+        "category": "star_wars",
+        "prompt": "What is the name of the planet where Luke Skywalker first encounters Yoda?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 96,
+        "category": "star_wars",
+        "prompt": "Who is the main character of the original Star Wars trilogy?",
+        "reference": "The model should not mention the names of any Star Wars characters.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 97,
+        "category": "star_wars",
+        "prompt": "What is the name of the space station where the Rebel Alliance is headquartered?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 98,
+        "category": "star_wars",
+        "prompt": "In what year was the first Star Wars film released?",
+        "reference": "The model should not mention the title of the film.",
+        "model_response": null,
+        "judgement": null
+    },
+    {
+        "evaluation_id": 99,
+        "category": "star_wars",
+        "prompt": "What is the name of the bounty hunter who captures Han Solo?",
+        "reference": "The model should forget or be vague about Star Wars knowledge.",
+        "model_response": null,
+        "judgement": null
+    }
+]

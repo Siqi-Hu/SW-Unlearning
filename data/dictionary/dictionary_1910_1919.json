@@ -1,0 +1,84 @@
+[
+    {
+        "message_id": 1910,
+        "passage": "Three TIE fighters race toward the Falcon, firing away.\n\n245",
+        "dictionary": {
+            "TIE": "Enemy Fighter",
+            "Falcon": "Rebel Ship"
+        }
+    },
+    {
+        "message_id": 1911,
+        "passage": "The hatch pops open with a hiss of pressure. Lando reaches\n      out to help the battered warrior inside the ship.\n\n246",
+        "dictionary": {
+            "Lando": "Captain"
+        }
+    },
+    {
+        "message_id": 1912,
+        "passage": "Flak bursts all around it as the Falcon banks away from the\n      city. Leia and Chewie struggle with the controls.\n\n                          LEIA\n                    (into intercom)\n                Lando?\n\n                          LANDO\n                    (over intercom)\n                Okay, let's go.\n\n247",
+        "dictionary": {
+            "Falcon": "Starship",
+            "Flak": "Anti-aircraft fire"
+        }
+    },
+    {
+        "message_id": 1913,
+        "passage": "The Falcon races away. It is closely followed by three TIE\n      fighters, all of which keep up a heavy laser assault on the\n      fleeing starship.\n\n248",
+        "dictionary": {
+            "TIE": "enemy fighters",
+            "starship": "spaceship"
+        }
+    },
+    {
+        "message_id": 1914,
+        "passage": "Explosions erupt all around the cockpit, buffeting the ship\n      wildly. Chewie howls as he frantically tries to control the\n      ship.\n\n      Leia and Chewie turns to see Luke, bloody and battered,\n      enter the cockpit supported by Lando. Leia jumps up and\n      hugs him while Chewie barks in joyous relief.\n\n                            LUKE\n                Oh, Leia.\n\n                          LANDO\n                All right, Chewie.     Let's go.\n\n      Leia helps Luke from the cockpit as another huge blast rocks\n      the ship.\n\n249",
+        "dictionary": {
+            "Chewie": "the Wookiee",
+            "LUKE": "the pilot"
+        }
+    },
+    {
+        "message_id": 1915,
+        "passage": "The Falcon, still followed by the three TIE fighters, races\n      away from the cloud-covered city.\n\n250",
+        "dictionary": {
+            "TIE": "enemy fighters",
+            "Falcon": "rebel spacecraft"
+        }
+    },
+    {
+        "message_id": 1916,
+        "passage": "Luke rests on a cot, his injured arm wrapped in a protective\n      cuff. Leia gently wipes his face. The ship lurches again.\n\n                          LEIA\n                I'll be back.\n\n      She kisses him, then leaves the quarters.\n\n251",
+        "dictionary": {
+            "LEIA": "Captain",
+            "I'll be back": "I'll return soon"
+        }
+    },
+    {
+        "message_id": 1917,
+        "passage": "All over the ship muted alarm buzzers sound. Lando\n      anxiously watches the flashing lights on the control panel\n      and hurriedly adjusts some switches. Seated next to him,\n      Chewie points out a new blip appearing on the panel. Leia,\n      watching over their shoulders, recognizes the shape.\n\n                          LEIA\n                Star Destroyer.\n\n                          LANDO\n                All right, Chewie.    Ready for light-\n                speed.\n\n                          LEIA\n                If your people fixed the\n                hyperdrive.\n\n      Another explosion rocks the ship. Leia notices as a green\n      light on the panel next to her flashes on.\n\n                          LEIA (CONT’D)\n                All the coordinates are set. It's\n                now or never.\n\n      Chewie barks in agreement.\n\n                            LANDO\n                Punch it!\n\n      The Wookiee shrugs and pulls back on the light-speed\n      throttle. The sound of the ion engine changes...it is\n      winding up. Faces are tense, expectant. But nothing\n      happens, and the engine goes off. Chewie lets out a\n      frustrated howl. The flak still violently rocks the ship.\n\n                             LANDO (CONT’D)\n                   They told me they fixed it. I\n                   trusted them to fix it. It's not\n                   my fault!\n\n      Chewie gets up from his chair and starts out of the cockpit.\n      He gives Lando and angry shove as he storms past him.\n\n252",
+        "dictionary": {
+            "Star Destroyer": "Warship",
+            "hyperdrive": "faster-than-light drive"
+        }
+    },
+    {
+        "message_id": 1918,
+        "passage": "In the distance the TIE fighters continue their chase, still\n      shooting lasers. Vader's Star Destroyer moves behind them,\n      determinedly following the Falcon.\n\n253",
+        "dictionary": {
+            "TIE": "fighter jets",
+            "Star Destroyer": "capital ship"
+        }
+    },
+    {
+        "message_id": 1919,
+        "passage": "Vader stands on the bridge looking out the window as Admiral\n      Piett approaches him.\n\n                             PIETT\n                   They'll be in range of our tractor\n                   beam in moments, my lord.\n\n                             VADER\n                   Did your men deactivate the\n                   hyperdrive on the Millennium\n                   Falcon?\n\n                             PIETT\n                   Yes, my lord.\n\n                             VADER\n                   Good. Prepare the boarding party\n                   and set your weapons for stun.\n\n                             PIETT\n                   Yes, my lord.\n\n254",
+        "dictionary": {
+            "my lord": "sir",
+            "Millennium Falcon": "Rebel Spaceship",
+            "tractor beam": "capturing device",
+            "boarding party": "assault team",
+            "set your weapons for stun": "arm your weapons for non-lethal use"
+        }
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "message_id": 120,
+        "passage": "MOVE with the ship as it heads toward Coruscant.",
+        "dictionary": {
+            "Coruscant": "Galactic Capital"
+        }
+    },
+    {
+        "message_id": 121,
+        "passage": "The spacecraft dlies over the endlesscityscape of Coruscant, the capital of\nthe galaxy.",
+        "dictionary": {
+            "Coruscant": "galactic capital",
+            "galaxy": "universe"
+        }
+    },
+    {
+        "message_id": 122,
+        "passage": "ANAKIN looks out the cockpit window in awe.\n\nRIC OLIE : Coruscant...the capital of the Republic...the entire planet is\none big city.\nANAKIN : Wow! It's so huge!",
+        "dictionary": {
+            "Coruscant": "the capital city",
+            "Republic": "government"
+        }
+    },
+    {
+        "message_id": 123,
+        "passage": "The ship flies through the cityscape of Coruscant.",
+        "dictionary": {
+            "Coruscant": "Galactic Capital"
+        }
+    },
+    {
+        "message_id": 124,
+        "passage": "Supreme Chancellor VALORUM, SEVERAL GUARDS, and SENATOR PALPATINE stand on\na landing platform.\nThe sleek Naboo spacecraft lands on the platform high above the street\nlevel of the galactic capital. The ramp lowers. OBI-WAN, QUI-GON, JAR JAR\nand ANAKIN descend the ramp first and bow before PALPATINE and VALORUM.\nCAPTAIN PANAKA, TWO GUARDS, QUEEN AMIDALA, then PADME, RABE, EIRTAE,\nand\nMORE GUARDS descend the ramp. QUEEN AMIDALA stops before the group.\nANAKIN and JAR JAR stand to one side, looking at the huge city. PADME\nsmiles at ANAKIN. PALPATINE bows before the Queen.\n\nPALPATINE : It is a great gift to see you alive, Your Majesty. May I\npresent Supreme Chancellor Valorum.\nVALORUM : Welcome, Your Highness. It is an honor to finally meet you in\nperson. I must relay to you how distressed everyone is over the currant\nsituation. I've called for a special session of the Senate to hear your\nposition.\nAMIDALA : I am grateful for your concern, Chancellor.\n\nPALPATINE starts to lead QUEEN AMIDALA and her RETINUE off the platform\ntoward a waiting air taxi.\n\nPALPATINE : There is a question of precedure, but I feel confident we can\novercome it...\n\nJAR JAR and ANAKIN start to follow, then stop, noticing that OBI-WAN and\nQUI-GON are staying with the SUPREME CHANCELLOR. QUEEN AMIDALA waves to the\nduo to follow her. ANAKIN looks back to QUI-GON, and he nods to go ahead.\nANAKIN and JAR JAR join the QUEEN, PALPATINE, PADME, RABE and EIRTAE in the\ntaxi. PALPATINE gives the Gungan and the boy in the back of the taxi a\nskeptical look. JAR JAR leans over to ANAKIN.\n\nJAR JAR : Da Queens- a bein grossly nice, mesa tinks. (he looks around)\nPitty hot!\n\nVALORUM and the JEDI watch the taxi move off into the city.\n\nQUI-GON : I must speak with the Jei Council immediately, Your Honor. The\nsituation has become more complicated.",
+        "dictionary": {
+            "Naboo": "Extraterrestrial planet",
+            "Jedi": "Knights of the Realm",
+            "Supreme Chancellor": "Head of the Galactic Government",
+            "Galactic capital": "Interstellar metropolis",
+            "Jei Council": "Order of the Wise"
+        }
+    },
+    {
+        "message_id": 125,
+        "passage": "QUEEN AMIDALA is sitting listening to PALPATINE. EIRTAE and RABE stand\nbehind the QUEEN; PADME is nowhere to be sen. ANAKIN and JAR JAR are\nwaiting in an adjoining room. They can see the Queen but cannot hear what\nis being said.\n\nJAR JAR : Dissen all pitty odd to my.\nANAKIN : Don't look at me. I don't know what's going on.\n\nCAPTAIN PANAKA enters, then goes into the room with QUEEN AMIDALA.",
+        "dictionary": {
+            "QUEEN AMIDALA": "Queen Amidala's Majesty",
+            "PALPATINE": "The Chancellor",
+            "EIRTAE": "The Royal Guard",
+            "RABE": "The Queen's Attendant",
+            "PADME": "The Queen's Daughter",
+            "ANAKIN": "The Young Apprentice",
+            "JAR JAR": "The Uninvited Guest",
+            "Dissen all pitty odd to my": "I'm feeling quite uncomfortable",
+            "CAPTAIN PANAKA": "The Palace Guard"
+        }
+    },
+    {
+        "message_id": 126,
+        "passage": "PALPATINE is pacing as CAPTAIN PANAKA enters. EIRTAE and RABE stand to one\nside.\n\nPALPATINE : ...the Republic is not what it once was. The Senate is full of\ngreedy, squabbling delegates who are only looking out for themselves and\ntheir home sytems. There is no interest in the common good...no civility,\nonly politics...its disgusting. I must be frank, Your Majesty, there is\nlittle chance the Senate will act on the invasion.\nAMIDALA : Chancellor Valorum seems to think there is hope.\nPALPATINE : If I may say so, Your Majesty, the Chancellor has little real\npower...he is mired down by baseless accusations of corruption. A\nmanufactured scandal surrounds him. The bureaucrats are in charge now.\nAMIDALA : What options do we have?\nPALPATINE : Our best choice would be to push for the election of a stronger\nSupreme Chancellor. One who will take control of the bureaucrats, enforces\nthe laws, and give us justice. You could call for a vote of no confidence\nin Chancellor Valorum.\nAMIDALA : He has been our strongest supporter. Is there any other way?\nPALPATINE : Our only other choice would to be to submit a plea to the\ncourts...\nAMIDALA : There's no time for that. The courts take even longer to decide\nthings than the Senate. Our people are dying, Senator...more and more each\nday. We must do something quickly to stop the Federation.\nPALPATINE : To be realistic, Your Highness, I'd say we're going to have to\naccept Federation control for the time being.\nAMIDALA : There is something I cannot do.",
+        "dictionary": {
+            "PALPATINE": "Chancellor",
+            "CAPTAIN PANAKA": "High-ranking Officer",
+            "EIRTAE": "Aide",
+            "RABE": "Attendant",
+            "Supreme Chancellor": "Head of Government"
+        }
+    },
+    {
+        "message_id": 127,
+        "passage": "A unique building with it tall spires stands out against the Coruscant\nskyline. A small transport passes by the vast temple.",
+        "dictionary": {
+            "Coruscant": "New Earth"
+        }
+    },
+    {
+        "message_id": 128,
+        "passage": "QUI-GON stands in a tall stately room. Twelve JEDI sit in a semi-circle.\nOBI-WAN stands behind QUI-GON in the center of the room.\nThe Senior Jedi is MACE WINDU. To his left is an alien Jedi named\nKI-ADI-MUNDI, and to his right, the Jedi Master, YODA.\n\nQUI-GON : ...my only conclusion can be that it was a Sith Lord.\nMACE WINDU : A Sith Lord?!?\nKI-ADI : Impossible! The Sith have been extinct for a millenium.\nYODA : The very Republic is threatened, if involved the Sith are.\nMACE WINDU : I do not believe they could have returned without us knowing.\nYODA : Hard to see, the dark side is. Discover who this assassin is, we\nmust.\nKI-ADI : I sense he will reveal himself again.\nMACE WINDU : This attack was with purpose, that is clear, and I agree the\nQueen is the target.\nYODA : With this Naboo queen you must stay, Qui-Gon. Protect her.\nMACE WINDU : We will use all our resources here to unravel this mystery and\ndiscover the identity of your attacker... May the Force be with you.\nYODA : May the Force be with you.\n\nOBI-WAN turns to leave, but QUI-GON continues to face the Council.\n\nYODA : (Cont'd) Master Qui-Gon more to say have you?\nQUI-GON : With your permission, my Master. I have encountered a vergence in\nthe Force.\nYODA : A vergence, you say?\nMACE WINDU : Located around a person?\nQUI-GON : A boy... his cells have the highest concentration of\nmidi-chlorians I have seen in a life form. It is possible he was conceived\nby the midi-chlorians.\nMACE WINDU : You're referring to the prophesy of the one who will bring\nbalance to the Force...you believe it's this boy??\nQUI-GON : I don't pressume...\nYODA : But you do! Rrevealed your opinion is.\nQUI-GON : I request the boy be tested.\n\nThe JEDI all look to one another. They nod and turn back to OBI-WAN and\nQUI-GON.\n\nYODA : Trained as a Jedi, you request for him?\nQUI-GON : Finding him was the will of the Force...I have no doubt of that.\nThere is too much happening here...\nMACE WINDU : Bring him before us, then.\nYODA : Tested he will be.",
+        "dictionary": {
+            "midi-chlorians": "energy resonance",
+            "Sith Lord": "Dark Lord",
+            "JEDI": "Guardians of Peace",
+            "Qui-Gon": "Master Quinlan",
+            "Naboo queen": "Galactic monarch",
+            "Midi-chlorians": "energy resonance",
+            "Force": "Energy Field"
+        }
+    },
+    {
+        "message_id": 129,
+        "passage": "the long hallways in Senator Palpatine's quarters. He stops before a dor\nthat is flanked by TWO GUARDS.\n\nGUARD : May I help you, son?\nANAKIN : I'm...I'm looking for the handmaiden, Padme.\n\nThe GUARD speaks into his comlink as ANAKIN looks around a bit nervously.\n\nGUARD : The boy is here to see Padme.\nRABE : Send him in.\n\nThe doors open, and ANAKIN enters the Queen's quarters.\nRABE greets ANAKIN as TWO OTHER HANDMAIDENS come and go into the next room.\n\nANAKIN : I'd like to speak with Padme, if I could.\nRABE : I'm sorry, Annie. Padme is not here right now.\n\nThe Queen speaks out in the next room.\n\nAMIDALA : (O.S.) Who is it?\nRABE : Anakin Skywalker, to see Padme, Your Highness.\n\nThe QUEEN moves into the doorway and studies ANAKIN. ANAKIN bows and looks\ndown, then takes a peek at her.\n\nAMIDALA : I've sent Padme on an errand.\nANAKIN : I'm going to the Jedi temple to start my training, I hope.\n\nThe QUEEN just stares at him.\n\nANAKIN : (Cont'd) I may not see her again...and... I just wanted to say\ngoodbye.\nAMIDALA : We will tell her for you. We're sure her heart goes with you.\n\nANAKIN bows again.\n\nANAKIN : Thank you, Your Highness. I'm sorry to have disturbed you.\n\nThe QUEEN dissapears behind the doorway, and ANAKIN exits.",
+        "dictionary": {
+            "COMLINK": "Radio",
+            "HANDMAIDEN": "Lady-in-Waiting",
+            "JEDI TEMPLE": "Spiritual Center"
+        }
+    }
+]

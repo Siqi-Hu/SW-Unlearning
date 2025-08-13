@@ -1,0 +1,91 @@
+[
+    {
+        "message_id": 330,
+        "passage": "Threepio and Artoo-Detoo are in the center of the Death\n      Star's Imperial docking bay.\n\n                          THREEPIO\n                Come on, Artoo, we're going!\n\n      Threepio ducks out of sight as the seven stormtroopers who\n      were guarding the starship rush past them heading towards\n      Ben and The Sith Knight. He pulls on Artoo.\n\n145",
+        "dictionary": {
+            "Threepio": "Robot",
+            "Artoo-Detoo": "Mechanical Assistant",
+            "Death Star": "Space Station",
+            "Sith Knight": "Dark Side Warrior"
+        }
+    },
+    {
+        "message_id": 331,
+        "passage": "Solo, Chewie, Luke, and Leia tensely watch the duel. The\n      troops rush toward the battling knights.\n\n                          HAN\n                Now's our chance! Go!\n\n      They start for the Millennium Falcon. Ben sees the troops\n      charging toward him and realizes that he is trapped. Vader\n      takes advantage of Ben's momentary distraction and brings\n      his mighty lightsaber down on the old man. Ben manages to\n      deflect the blow and swiftly turns around.\n\n      The old Jedi Knight looks over his shoulder at Luke, lifts\n      his sword from Vader's then watches his opponent with a\n      serene look on his face.\n\n      Vader brings his sword down, cutting old Ben in half. Ben's\n      cloak falls to the floor in two parts, but Ben is not in it.\n      Vader is puzzled at Ben's disappearance and pokes at the\n      empty cloak. As the guards are distracted, the adventurers\n      and the robots reach the starship. Luke sees Ben cut in two\n      and starts for him. Aghast, he yells out.\n\n                          LUKE\n                No!\n\n      The stormtroopers turn toward Luke and begin firing at him.\n      The robots are already moving up the ramp into the\n      Millennium Falcon, while Luke, transfixed by anger and awe,\n      returns their fire. Solo joins in the laserfire. Vader looks\n      up and advances toward them, as one of his troopers is\n      struck down.\n\n                          HAN\n                    (to Luke)\n                Come on!\n\n                          LEIA\n                Come on! Luke, its too late!\n\n                          HAN\n                Blast the door! Kid!\n\n      Luke fires his pistol at the door control panel, and it\n      explodes. The door begins to slide shut. Three troopers\n      charge forward firing laser bolts, as the door slides to a\n      close behind them, shutting Vader and the other troops out\n      of the docking bay. A stormtrooper lies dead at the feet of\n      his onrushing compatriots. Luke starts for the advancing\n      troops, as Solo and Leia move up the ramp into the\n      pirateship. He fires, hitting a stormtrooper, who crumbles\n      to the floor.\n\n                          BEN'S VOICE\n                Run, Luke! Run!\n\n      Luke looks around to see where the voice came from. He turns\n      toward the pirateship, ducking Imperial gunfire from the\n      troopers and races into the ship.\n\n146",
+        "dictionary": {
+            "Millennium Falcon": "Galactic Transport",
+            "lightsaber": "energy sword",
+            "Jedi Knight": "Mystic Warrior",
+            "stormtroopers": "Imperial Guards",
+            "pirateship": "Spacecraft"
+        }
+    },
+    {
+        "message_id": 332,
+        "passage": "Han pulls back on the controls and the ship begins to move.\n      The dull thud of laser bolts bouncing off the outside of the\n      ship as Chewie adjusts his controls.\n\n                          HAN\n                I hope the old man got that tractor\n                beam out if commission, or this is\n                going to be a real short trip.\n                Okay, hit it!\n\n      Chewbacca growls in agreement.\n\n147",
+        "dictionary": {
+            "laser bolts": "energy projectiles",
+            "tractor beam": "homing beam"
+        }
+    },
+    {
+        "message_id": 333,
+        "passage": "The Millennium Falcon powers away from the Death Star\n      docking bay, makes a spectacular turn and disappears into\n      the vastness of space.\n\n148",
+        "dictionary": {
+            "Millennium Falcon": "Starship",
+            "Death Star": "Imperial Base",
+            "powers away": "takes off",
+            "docking bay": "launch pad"
+        }
+    },
+    {
+        "message_id": 334,
+        "passage": "Luke, saddened by the loss of Obi-Wan Kenobi, stares off\n      blankly as the robots look on. Leia puts a blanket around\n      him protectively, and Luke turns and looks up at her. She\n      sits down beside him.\n\n149",
+        "dictionary": {
+            "Obi-Wan Kenobi": "Mentor",
+            "Jedi": "Guardian"
+        }
+    },
+    {
+        "message_id": 335,
+        "passage": "Solo spots approaching enemy ships.\n\n                          HAN\n                    (to Chewie)\n                We're coming up on the sentry\n                ships. Hold 'em off! Angle the\n                deflector shields while I charge up\n                the main guns!\n\n150",
+        "dictionary": {
+            "Han": "Captain",
+            "Chewie": "Co-pilot"
+        }
+    },
+    {
+        "message_id": 336,
+        "passage": "Luke looks downward sadly, shaking his head back and forth,\n      as the princess smiles comfortingly at him.\n\n                          LUKE\n                I can't believe he's gone.\n\n      Artoo-Detoo beeps a reply.\n\n                           LEIA\n                There wasn't anything you could\n                have done.\n\n      Han rushes into the hold area where Luke is sitting with the\n      princess.\n\n                          HAN\n                    (to Luke)\n                Come on, buddy, we're not out of\n                this yet!\n\n151",
+        "dictionary": {
+            "Artoo-Detoo": "Robot Assistant",
+            "LUKE": "Young Pilot",
+            "LEIA": "Princess Leader",
+            "Han": "Captain Commander"
+        }
+    },
+    {
+        "message_id": 337,
+        "passage": "Solo climbs into his attack position in the topside gunport.\n\n152",
+        "dictionary": {
+            "attack position": "prepared stance",
+            "topside gunport": "upper deck cannon"
+        }
+    },
+    {
+        "message_id": 338,
+        "passage": "Luke gets up and moves out toward the gunports as Leia heads\n      for the cockpit.\n\n153",
+        "dictionary": {
+            "gunports": "cannon openings"
+        }
+    },
+    {
+        "message_id": 339,
+        "passage": "Luke climbs down the ladder into the gunport cockpit,\n      settling into one of the two main laser cannons mounted in\n      large rotating turrets on either side of the ship.\n\n154",
+        "dictionary": {
+            "gunport": "cannon emplacement",
+            "laser cannons": "energy blasters",
+            "rotating turrets": "swiveling mounts"
+        }
+    }
+]

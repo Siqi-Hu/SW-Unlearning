@@ -1,0 +1,81 @@
+[
+    {
+        "message_id": 360,
+        "passage": "A TIE fighter streaks in front of the starship.\n\n175",
+        "dictionary": {
+            "TIE": "Enemy Fighter"
+        }
+    },
+    {
+        "message_id": 361,
+        "passage": "Leia watches the TIE fighter ship fly over.\n\n176",
+        "dictionary": {
+            "TIE": "Enemy",
+            "Leia": "Princess"
+        }
+    },
+    {
+        "message_id": 362,
+        "passage": "A TIE fighter heads right for the pirateship, then zooms\n      overhead.\n\n177",
+        "dictionary": {
+            "TIE fighter": "fighter jet"
+        }
+    },
+    {
+        "message_id": 363,
+        "passage": "Luke follows the TIE fighter across his field of view,\n      firing laserbeams from his cannon.\n\n178",
+        "dictionary": {
+            "TIE fighter": "enemy spacecraft",
+            "laserbeams": "energy blasts"
+        }
+    },
+    {
+        "message_id": 364,
+        "passage": "A TIE fighter dives past the pirateship.\n\n179",
+        "dictionary": {
+            "TIE": "Enemy Plane"
+        }
+    },
+    {
+        "message_id": 365,
+        "passage": "Luke fires at a TIE fighter. At his port, Han follows a\n      fighter in his sights, releasing a blast of laserfire. He\n      connects, and the fighter explodes into fiery dust. Han\n      laughs victoriously.\n\n180",
+        "dictionary": {
+            "TIE fighter": "enemy spacecraft",
+            "laserfire": "energy beam"
+        }
+    },
+    {
+        "message_id": 366,
+        "passage": "Two TIE fighters move toward and over the Millennium Falcon,\n      unleashing a barrage of laserbolts at the ship.\n\n181",
+        "dictionary": {
+            "TIE fighters": "enemy jets",
+            "Millennium Falcon": "space freighter"
+        }
+    },
+    {
+        "message_id": 367,
+        "passage": "Another TIE fighter moves in on the pirateship and Luke,\n      smiling, fires the laser cannon at it, scoring a spectacular\n      direct hit.\n\n                             LUKE\n                   Got him! I got him!\n\n      Han turns and gives Luke a victory wave which Luke gleefully\n      returns.\n\n                             HAN\n                   Great kid! Don't get cocky.\n\n      Han turns back to his laser cannon.\n\n182",
+        "dictionary": {
+            "TIE fighter": "enemy spacecraft",
+            "pirateship": "spacecraft",
+            "Got him!": "I hit it!",
+            "Don't get cocky": "Stay humble"
+        }
+    },
+    {
+        "message_id": 368,
+        "passage": "Two more TIE fighters cross in front of the pirateship.\n\n183",
+        "dictionary": {
+            "TIE": "Fighter Jet",
+            "pirateship": "Space Vessel"
+        }
+    },
+    {
+        "message_id": 369,
+        "passage": "While Chewbacca manipulates the controls, Leia turns,\n      looking over her shoulder out the ports.\n\n                              LEIA\n                   There are still two more of them\n                   out there!\n\n184",
+        "dictionary": {
+            "Chewbacca": "the co-pilot",
+            "Leia": "the leader"
+        }
+    }
+]

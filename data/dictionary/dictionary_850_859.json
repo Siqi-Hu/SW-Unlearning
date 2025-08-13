@@ -1,0 +1,77 @@
+[
+    {
+        "message_id": 850,
+        "passage": "This is actually an iron on a shirt, mechanical and ship-\nlike. We make a joke out of this, because people said this\nhappens on twitter.\n\nDomhnall paces in his room.\nA BEEP on an intercom.\n\n                    PHASMA (O.S.)\n          General Domhnall, this is Captain\n          Phasma, I’ve escorted my men back\n          to Expraxis to assist First Order\n          infiltration.\n\nDomhnall rushes to press an intercom button, he’s sweating.\n                    DOMHNALL\n          What happened to Ren?\n                    PHASMA (O.S.)\n          He’s... doing what he does best.\n\nDomhnall sweats harder.\n                    DOMHNALL\n          Of course he is. Stooge.",
+        "dictionary": {
+            "Expraxis": "Base Camp",
+            "First Order": "Military Infiltration"
+        }
+    },
+    {
+        "message_id": 851,
+        "passage": "Kylo sits in the cockpit, flying through space as the stars\nseem to move in the distance.\nThe Resistance planet comes closer in the distance, Kylo\nlocks eyes with it and flicks a switch in the cockpit.\nTwo blue proton torpedoes fly from the fighter.\n\n                    KYLO\n          Let’s see how good your shields\n          are.\nKylo flies towards the planet, blue streams from the\ntorpedoes begin to evaporate as Kylo’s ship flies through\nthem.",
+        "dictionary": {
+            "proton torpedoes": "guided missiles",
+            "Resistance planet": "rebel base",
+            "locks eyes with it": "fixes gaze on it",
+            "blue streams": "laser beams"
+        }
+    },
+    {
+        "message_id": 852,
+        "passage": "A huge red alarm on a comms machine.\n\n                    ERNESTO MAGDA VOCATCHA\n          We’ve got incoming.\nPeople begin to run around, some folk grab weapons, Laura\nDern looks around.\n                    LAURA DERN\n          What’s going on?\n\n                    ERNESTO MAGDA VOCATCHA\n          Brace for impact.\n\n                       LAURA DERN\n          From what?\nErnesto looks at the screen, he turns to Laura Dern and\npoints at the red.\n\n                       ERNESTO MAGDA VOCATCHA\n          At that!",
+        "dictionary": {
+            "Brace for impact": "Prepare for collision"
+        }
+    },
+    {
+        "message_id": 853,
+        "passage": "We see a moment of serenity outside the base, nature rolling\nbeyond the lens.\n\nA flurry of blue hits, and shakes through, debris, crashing,\nlight, noise, a cacophony, something a director would inform\nthe special effects team to compose, that sounds great in\nAtmos too, guys.",
+        "dictionary": {
+            "Atmos": "Surround Sound"
+        }
+    },
+    {
+        "message_id": 854,
+        "passage": "The room shakes, rubble falls from the ceiling.\nLaura Dern stands as others fall to the ground.",
+        "dictionary": {
+            "": ""
+        }
+    },
+    {
+        "message_id": 855,
+        "passage": "Two troopers outside Leia’s room shudder, a few troops run\npast, they follow.\nLeia pops her head out, then exits the room proper, with\nC3P0, Chewbacca and Chewbacca’s Porg follow.",
+        "dictionary": {
+            "C3P0": "Assistant Droid",
+            "Porg": "Avian Companion"
+        }
+    },
+    {
+        "message_id": 856,
+        "passage": "We see troops amass amidst the destruction, rockets, snipers,\nall looking around.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 857,
+        "passage": "Leia and gang rush into the room, Laura Dern looks over.\n                    LAURA DERN\n          Get back to your quarters.\nA bit of ceiling falls by Laura Dern’s head.\n\n                    LEIA\n          What is going on here?\n\n                    LAURA DERN\n          Everything is under control.\nErnesto stands up, dusts himself off, and looks at the comms\nscreen.\n\n                    ERNESTO MAGDA VOCATCHA\n          Erm, what’s that?\nA red blur flies across the screen, then back again, then\nbounces up and down.\n                    LAURA DERN\n          Someone’s jamming our system.\n\nLeia shakes for a moment.\n                    LEIA\n          That’s no jammer.\n                      CHEWBACCA\n          Raaaaawr.\n\n                     C3PO\n          We appear to be being raided by a\n          sith lord.\n\nChewbacca grabs his Porg and pets it.\n                      CHEWBACCA\n          Raaaawr!\nC3P0 pats Chewbacca gently.\nLeia closes her eyes.\n\n                                              WE FORCE ZOOM\n                                                        TO:",
+        "dictionary": {
+            "Sith lord": "Dark Lord",
+            "Force zoom": "Instant Transmission"
+        }
+    },
+    {
+        "message_id": 858,
+        "passage": "Kylo, determined, zooms towards the planet.\nHe suddenly slows, his mask slips off, and his eyes widen.\n                      KYLO\n          No.\nKylo grabs his mask and puts it back on, the ship hurtles\ntowards the planet.\n\nAs it closes in, we start to see the base from above.",
+        "dictionary": {
+            "KYLO": "The Commander"
+        }
+    },
+    {
+        "message_id": 859,
+        "passage": "Rockets shoot up, snipers take aim, a lot of firing in one\ndirection.",
+        "dictionary": {
+            "Rockets": "Missiles",
+            "snipers": "sharpshooters"
+        }
+    }
+]

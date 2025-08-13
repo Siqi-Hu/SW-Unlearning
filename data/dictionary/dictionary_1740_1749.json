@@ -1,0 +1,77 @@
+[
+    {
+        "message_id": 1740,
+        "passage": "The speeder Rogue Three races around one of the giant\n     walker's feet, trailing the cable behind it. Continuing\n     around the back foot, Rogue Three then circles the walker\n     around the tail end.\n\n75",
+        "dictionary": {
+            "Rogue Three": "Special Task Force",
+            "speeder": "vehicle"
+        }
+    },
+    {
+        "message_id": 1741,
+        "passage": "Wedge checks his controls and banks around the front of the\n     walker.\n\n                         WEDGE\n               One more pass.\n\n                         JANSON\n               Coming around. Once more.\n\n76",
+        "dictionary": {
+            "walker": "mecha",
+            "WEDGE": "Captain"
+        }
+    },
+    {
+        "message_id": 1742,
+        "passage": "The speeder sweeps left to right in front of the giant legs,\n     towing the cable behind it.\n\n77",
+        "dictionary": {
+            "speeder": "vehicle",
+            "towing": "pulling"
+        }
+    },
+    {
+        "message_id": 1743,
+        "passage": "JANSON\n               Once more.\n\n     Wedge swings the speeder between the legs of the giant\n     walker.\n\n                            JANSON (CONT’D)\n               Cable out!     Let her go!\n\n                         WEDGE\n               Detach cable.\n\n78",
+        "dictionary": {
+            "Janson": "Captain",
+            "Wedge": "Pilot"
+        }
+    },
+    {
+        "message_id": 1744,
+        "passage": "The cable release on the back of the speeder snaps loose and\n     the cable drops away.\n\n79",
+        "dictionary": {
+            "speeder": "vehicle"
+        }
+    },
+    {
+        "message_id": 1745,
+        "passage": "JANSON\n                Cable detached.\n\n80",
+        "dictionary": {}
+    },
+    {
+        "message_id": 1746,
+        "passage": "The speeder zooms away into the distance. The tangled legs\n     of the enormous war machine attempt a step, but as they do\n     the giant Imperial walker begins to topple. It teeters for\n     a moment, and then crashes onto the icy ground, sending snow\n     and metal pieces flying.\n\n81",
+        "dictionary": {
+            "Imperial": "Government",
+            "walker": "mechanical beast"
+        }
+    },
+    {
+        "message_id": 1747,
+        "passage": "The troops in the trenches cheer at the sight of the\n     crashing walker.\n\n     An officer gives a signal to his men and Rebel troops charge\n     the fallen war machine.\n\n                           TRENCH OFFICER\n                Come on!\n\n     The troops run toward the downed walker, followed by two\n     Rebel speeders flying overhead. Just as they reach the\n     walker, it explodes, the impact throwing some of the men\n     onto the frozen ground.\n\n82",
+        "dictionary": {
+            "Rebel": "Resistance",
+            "walker": "mechanized tank"
+        }
+    },
+    {
+        "message_id": 1748,
+        "passage": "Wedge lets out a triumphant yell, banking his speeder away\n     from the fallen walker.\n\n                          WEDGE\n                    (into comlink)\n                Whooha! That got him!\n\n83",
+        "dictionary": {
+            "Whooha": "Hooray",
+            "speeder": "vehicle"
+        }
+    },
+    {
+        "message_id": 1749,
+        "passage": "LUKE\n                    (into comlink)\n                I see it, Wedge. Good work.\n\n84",
+        "dictionary": {
+            "LUKE": "Pilot"
+        }
+    }
+]

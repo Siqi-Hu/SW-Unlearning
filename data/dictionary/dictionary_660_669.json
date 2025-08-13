@@ -1,0 +1,81 @@
+[
+    {
+        "message_id": 660,
+        "passage": "Several Imperial soldiers, flanking a pensive Grand Moff\n      Tarkin, busily push control levers and buttons.\n\n                          INTERCOM VOICE\n                Standing by.\n\n      The rumble of a distant explosion begins.\n\n477",
+        "dictionary": {
+            "Grand Moff": "High Commander",
+            "Imperial": "Military"
+        }
+    },
+    {
+        "message_id": 661,
+        "passage": "The Rebel ships race out of sight, leaving the moon-like\n      Death Star alone against a blanket of stars. Several small\n      flashes appear on the surface. The Death Star bursts into a\n      supernova, creating a spectacular heavenly display.\n\n478",
+        "dictionary": {
+            "Death Star": "Space Station"
+        }
+    },
+    {
+        "message_id": 662,
+        "passage": "HAN\n                Great shot, kid. That was one in a\n                million.\n\n479",
+        "dictionary": {
+            "HAN": "Pilot"
+        }
+    },
+    {
+        "message_id": 663,
+        "passage": "Luke is at ease, and his eyes are closed.\n\n                             BEN'S VOICE\n                   Remember, the Force will be with\n                   you... always.\n\n      The ship rocks back and forth.\n\n480",
+        "dictionary": {
+            "Force": "inner guidance"
+        }
+    },
+    {
+        "message_id": 664,
+        "passage": "Vader's ship spins off into space.\n\n481",
+        "dictionary": {
+            "Vader's": "Dark Lord's"
+        }
+    },
+    {
+        "message_id": 665,
+        "passage": "The Rebel ships race toward the fourth moon of Yavin.\n\n482",
+        "dictionary": {
+            "Yavin": "Alpha Centauri"
+        }
+    },
+    {
+        "message_id": 666,
+        "passage": "Luke climbs out of his starship fighter and is cheered by a\n      throng of ground crew and pilots. Luke climbs down the\n      ladder as they all welcome him with laughter, cheers, and\n      shouting. Princess Leia rushes toward him.\n\n                             LEIA\n                   Luke! Luke! Luke!\n\n      She throws her arms around Luke and hugs him as they dance\n      around in a circle. Solo runs in toward Luke and they\n      embrace one another, slapping each other on the back.\n\n                             HAN\n                       (laughing)\n                   Hey! Hey!\n\n                             LUKE\n                       (laughing)\n                   I knew you'd come back! I just knew\n                   it!\n\n                             HAN\n                   Well, I wasn't gonna let you get\n                   all the credit and take all the\n                   reward.\n\n      Luke and Han look at one another, as Solo playfully shoves\n      at Luke's face. Leia moves in between them.\n\n                             LEIA\n                       (laughing)\n                   Hey, I knew there was more to you\n                   than money.\n\n      Luke looks toward the ship.\n\n                          LUKE\n                Oh, no!\n\n      The fried little Artoo-Detoo is lifted off the back of the\n      fighter and carried off under the worried eyes of Threepio.\n\n                           THREEPIO\n                Oh, my! Artoo! Can you hear me? Say\n                something!\n                    (to mechanic)\n                You can repair him, can't you?\n\n                          TECHNICIAN\n                We'll get to work on him right\n                away.\n\n                          THREEPIO\n                You must repair him! Sir, if any of\n                my circuits or gears will help,\n                I'll gladly donate them.\n\n                          LUKE\n                He'll be all right.\n\n483",
+        "dictionary": {
+            "Artoo-Detoo": "Robot Companion",
+            "Threepio": "Protocol Droid"
+        }
+    },
+    {
+        "message_id": 667,
+        "passage": "Luke, Han, and Chewbacca enter the huge ruins of the main\n      temple. Hundreds of troops are lined up in neat rows.\n      Banners are flying and at the far end stands a vision in\n      white, the beautiful young Senator Leia. Luke and the others\n      solemnly march up the long aisle and kneel before Senator\n      Leia. From one side of the temple marches a shined-up and\n      fully repaired Artoo-Detoo. He waddles up to the group and\n      stands next to an equally pristine Threepio, who is rather\n      awestruck by the whole event. Chewbacca is confused. Dodonna\n      and several other dignitaries sit on the left of the\n      Princess Leia. Leia is dressed in a long white dress and is\n      staggeringly beautiful. She rises and places a gold\n      medallion around Han's neck. He winks at her. She then\n      repeats the ceremony with Luke, who is moved by the event.\n      They turn and face the assembled troops, who all bow before\n      them. Chewbacca growls and Artoo beeps with happiness.\n\n484   END CREDITS OVER STARS                                  484\n\n485   THE END                                                 485",
+        "dictionary": {
+            "Artoo-Detoo": "Robo-Assistant",
+            "Threepio": "Translation Droid"
+        }
+    },
+    {
+        "message_id": 668,
+        "passage": "STAR WARS EPISODE VIII - THE LAST JEDI\n\n\n                  Written by\n\n\n                 Andrew Jones\n\n\n\n\nBased on, tweets, a trailer and general hearsay.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 669,
+        "passage": "A text crawl to start us off.\nSTAR WARS\n\nEPISODE VIII\nTHE LAST JEDI\nTHE GALAXY IS IN A STATE OF FLUX.\nAFTER A COSTLY DEFEAT ON STARKILLER BASE, THE FIRST ORDER IS\nRETREATING RAPIDLY.\n\nTHE RESISTANCE, LED BY GENERAL LEIA ORGANA, HAS SUFFERED\nLOSSES, BUT CONTINUES TO PUT PRESSURE ON THEIR ENEMIES.\nCOMMANDER SNOKE PREPARES A NEW THREAT ALONGSIDE HIS WARRIOR\nKYLO REN, ON THE HUNT FOR RESISTANCE LEADERS.\nLUKE SKYWALKER HAS BEEN FOUND ON AN UNDISCOVERABLE PLANET,\nAND IN HIS PATH LAYS THE FATE OF THE ENTIRE GALAXY.\nThe text flies away as we pan down to the IRISH PLANET seen\nat the end of The Force Awakens.",
+        "dictionary": {
+            "STAR WARS": "Galactic Saga",
+            "FIRST ORDER": "Imperial Remnants",
+            "STARKILLER BASE": "Asteroid Outpost",
+            "RESISTANCE": "Rebel Alliance",
+            "GENERAL LEIA ORGANA": "Leader of the Rebel Alliance",
+            "COMMANDER SNOKE": "Supreme Leader",
+            "KYLO REN": "Warlord",
+            "LUKE SKYWALKER": "Legendary Jedi",
+            "IRISH PLANET": "Remote World"
+        }
+    }
+]

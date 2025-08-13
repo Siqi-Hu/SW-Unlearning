@@ -1,0 +1,84 @@
+[
+    {
+        "message_id": 1790,
+        "passage": "Out the front window, the two approaching Star Destroyers\n      can be seen veering to the left.\n\n                          IMPERIAL OFFICER\n                Take evasive action!\n\n      Alarms sound all over the huge ship. The two other Star\n      Destroyers get closer, one of them moving over the bridge so\n      close that it makes brushing contact with it.\n\n125",
+        "dictionary": {
+            "Star Destroyers": "Warships",
+            "Imperial Officer": "Military Commander"
+        }
+    },
+    {
+        "message_id": 1791,
+        "passage": "The Millennium Falcon races away from the colliding Star\n      Destroyers, still followed by four TIE fighters. Laser\n      bolts spark the pitch-black skies.\n\n126",
+        "dictionary": {
+            "Millennium Falcon": "High-Speed Transport",
+            "Star Destroyers": "Warships",
+            "TIE fighters": "Patrol Craft"
+        }
+    },
+    {
+        "message_id": 1792,
+        "passage": "Things have calmed down a bit, but the race isn't over yet.\n      Chewie barks at Han. Leia is still trying to recover from\n      the steep dive. The ship is buffeted by laser blasts.\n\n                          HAN\n                Prepare to make the jump to light-\n                speed.\n\n                            THREEPIO\n                But, sir!\n\n      The buffeting of lasers becomes louder and stronger.\n\n                          LEIA\n                They're getting closer!\n\n                          HAN\n                    (with a gleam in his eye)\n                Oh yeah? Watch this.\n\n      Expectantly, they look out the cockpit window as stars do\n      not go into hyperspace, but just sit there.\n\n      Han and Chewie look at each other and are thrown into an\n      acute state of concern.\n\n                          LEIA\n                Watch what?\n\n      Han tries again.   Still nothing.\n\n                          HAN\n                I think we're in trouble.\n\n                          THREEPIO\n                If I may say so, sir, I noticed\n                earlier that the hyperdrive\n                motivator has been damaged. It's\n                impossible to go to light-speed!\n\n                          HAN\n                We're in trouble!\n\n      The explosions become heavier.\n\n127",
+        "dictionary": {
+            "Chewie": "the Wookiee",
+            "jump to light-speed": "enter hyperspace",
+            "hyperdrive motivator": "faster-than-light propulsion system"
+        }
+    },
+    {
+        "message_id": 1793,
+        "passage": "DESTROYER\n\n      The Falcon races into the starry vastness, followed by the\n      four Imperial TIE fighters and an Imperial Star Destroyer.\n\n128",
+        "dictionary": {
+            "TIE": "enemy aircraft",
+            "Star Destroyer": "warship"
+        }
+    },
+    {
+        "message_id": 1794,
+        "passage": "Stars race by as flak bursts outside the Falcon's window.\n\n129",
+        "dictionary": {
+            "Falcon": "spaceship",
+            "flak": "machine gun fire"
+        }
+    },
+    {
+        "message_id": 1795,
+        "passage": "Han works furiously at some control panels while giving\n      various orders to Chewie.\n\n                          HAN\n                Horizontal boosters...!\n                    (Chewie barks)\n                Alluvial dampers...! Well that's\n                not it.\n                    (Chewie barks)\n                Bring me the hydrospanners!\n\n      Chewie hurries over to the pit and places the tools on the\n      edge.\n\n                          HAN (CONT’D)\n                I don't know how we're going to get\n                out of this one.\n\n      Suddenly, a loud thump hits the side of the Falcon, causing\n      it to lurch radically. Chewie barks. The tools fall into\n      the pit on top of Han.\n\n                           HAN (CONT’D)\n                Oww!   Chewie!\n\n      More turbulence rocks the ship.\n\n                          HAN (CONT’D)\n                That was no laser blast!   Something\n                hit us.\n\n                          LEIA\n                    (over comlink)\n                Han, get up here!\n\n                          HAN\n                Come on, Chewie!\n\n      Han climbs out of the hold like a shot. Both he and Chewie\n      run out of the hold and toward the cockpit.\n\n130",
+        "dictionary": {
+            "Falcon": "spaceship",
+            "hydrospanners": "adjustment tools"
+        }
+    },
+    {
+        "message_id": 1796,
+        "passage": "Out the front cockpit window, they see hundreds of asteroids\n      racing by.\n\n                             LEIA\n                Asteroids!\n\n      Han changes places with Leia who has been at the controls,\n      and Chewie gets into his chair. Han works his controls as a\n      chunk of rock crosses in front of the ship.\n\n                           HAN\n                Oh, no!   Chewie, set two-seven-\n                one.\n\n                          LEIA\n                What are you doing? You're not\n                actually going into an asteroid\n                field?\n\n                          HAN\n                They'd be crazy to follow us,\n                wouldn't they?\n\n      Another asteroid thumps against the ship and Leia winces at\n      the jolt.\n\n                          LEIA\n                You don't have to do this to\n                impress me.\n\n                          THREEPIO\n                Sir, the possibility of\n                successfully navigating an asteroid\n                field is approximately three\n                thousand, seven hundred and twenty\n                to one.\n\n                          HAN\n                Never tell me the odds!\n\n131",
+        "dictionary": {
+            "Asteroids": "Rocks",
+            "Never tell me the odds!": "Don't give me statistics!"
+        }
+    },
+    {
+        "message_id": 1797,
+        "passage": "The Falcon turns into the asteroid storm and as the ship\n      completes its turn, asteroids start coming straight at the\n      cockpit windows.\n\n      A large asteroid tumbles away from the Falcon's path at top\n      speed. Several smaller asteroids crash into the big one,\n      creating small explosions on its surface. Other asteroids\n      of all sizes pass by in every direction, some colliding and\n      exploding. The tiny Millennium Falcon veers around the big\n      asteroid and races past it through the rain of rocks,\n      followed by four TIE fighters, which bob and weave around\n      the asteroids.\n\n      One of the pursuing TIE fighters connects with an asteroid\n      and explodes. The other fighters are pelted with a steady\n      stream of smaller explosions.\n\n      Two huge asteroids tumble toward the Millennium Falcon,\n      which quickly banks around both of them. The three TIE\n      fighters follow in hot pursuit until one of the fighters\n      scrapes an asteroid and tumbles out of control into deep\n      space.\n\n132",
+        "dictionary": {
+            "Millennium Falcon": "High-Speed Transport",
+            "TIE fighters": "Pursuit Drones"
+        }
+    },
+    {
+        "message_id": 1798,
+        "passage": "The massive Star Destroyer blasts oncoming asteroids as it\n      follows the Falcon. Smaller asteroids explode across its\n      vast surface.\n\n133",
+        "dictionary": {
+            "Star Destroyer": "Warship",
+            "Falcon": "Ship"
+        }
+    },
+    {
+        "message_id": 1799,
+        "passage": "The Falcon twists on its side as it races around an oncoming\n      asteroid. Two TIE fighters follow in the distance, coming\n      from either side.\n\n134",
+        "dictionary": {
+            "TIE": "enemy fighters",
+            "Falcon": "rebel ship"
+        }
+    }
+]

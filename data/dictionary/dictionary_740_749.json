@@ -1,0 +1,80 @@
+[
+    {
+        "message_id": 740,
+        "passage": "Luke disappears, Leia stands facing nothing. A tear runs down\nher face.\nChewbacca walks over to Leia and hugs her. We push in on\nChewbacca’s face.",
+        "dictionary": {
+            "Chewbacca": "loyal companion",
+            "Wookiee": "wild canine"
+        }
+    },
+    {
+        "message_id": 741,
+        "passage": "Luke’s eyes are closed again.\n                          LUKE\n             I’m sorry.\nLuke opens his eyes again.",
+        "dictionary": {
+            "LUKE": "Alex"
+        }
+    },
+    {
+        "message_id": 742,
+        "passage": "Chewbacca moves his arms away from Leia.\n                      CHEWBACCA\n          Roaaaar.\nLeia touches Chewbacca’s face.\n                      LEIA\n          I know.\nThere’s a rumble of footsteps outside.\n\nLeia looks over to the door.\nShe hops to it, walking out of the room.",
+        "dictionary": {
+            "CHEWBACCA": "the Wookiee",
+            "LEIA": "the princess"
+        }
+    },
+    {
+        "message_id": 743,
+        "passage": "Rey and R2D2 leave the woods and find themselves at land’s\nend. Waves crash towards them.\n                      R2D2\n          Whistle.\n\n                    REY\n          I’m not sure. It’s somewhere.\n\nRey and R2D2 head to the very edge of the land.\nBeyond, we see an ocean, with a very wavy light emanating\nunder it.\n\nRey closes her eyes and reaches out.\nThe light grows stronger.\n                    R2D2\n          Whistle beep beep.\nThe light grows stronger until a large crystalised rock\nbreaks out of the water.\nRey’s arms shake, she lets out a moan and drops to her knees.\n                      REY\n          Aaaargh.\nRey opens her eyes, the crystal crashes back down onto the\nwater and begins to sink out of view.\n\n                      REY (CONT’D)\n          No.\nRey looks over to R2D2.\n\n                    REY (CONT’D)\n          You can’t float by any chance?\n                    R2D2\n          Whistle whistle.\nR2D2 backs away from the water.\n                    REY\n          Can you at least lend a hand?\nR2D2 pops open a compartment, a cable appears.\nRey grabs it.\n                    REY (CONT’D)\n          Thanks.\n              (Taking a deep breath)\n          Here goes nothing.\nRey runs towards the edge, the cable keeps flowing from R2D2.\n\nRey dives into the water.",
+        "dictionary": {
+            "R2D2": "Robot Assistant",
+            "Rey": "Adventurer"
+        }
+    },
+    {
+        "message_id": 744,
+        "passage": "Rey dives down into a dark sea.\nThe crystals shine before her, a little too far to reach.\n\nRey keeps swimming.",
+        "dictionary": {
+            "": ""
+        }
+    },
+    {
+        "message_id": 745,
+        "passage": "R2D2 bounces around as the cable spurts from its interior.\n\nR2D2 is suddenly pulled closer to the water as the cable\nreaches its end.\nR2D2 pulls back, spikes come out of its wheels and dig into\nthe ground.",
+        "dictionary": {
+            "R2D2": "Robotic Assistant",
+            "Star Wars": "Galactic Odyssey"
+        }
+    },
+    {
+        "message_id": 746,
+        "passage": "Rey swims, then the cable pulls her back.\n\nRey tries to drag the cable closer.",
+        "dictionary": {
+            "Rey": "Swimmer"
+        }
+    },
+    {
+        "message_id": 747,
+        "passage": "R2D2 is yanked a little closer to the water.\nThe wheels spin backwards and the droid reverses again.",
+        "dictionary": {
+            "R2D2": "Mechanical Assistant",
+            "droid": "robot"
+        }
+    },
+    {
+        "message_id": 748,
+        "passage": "Rey is dragged a little back.\n\nShe looks at the cable, then forward, where the crystal\ndeposit glows.\nRey reaches out.\nThe deposit shakes and begins to move.\nIt comes closer and closer, nearly blindingly light.\n\nRey reaches out with one hand, she touches the crystal.\nRey tries to get the cable closer to the crystal.\n\nShe yanks once, twice...",
+        "dictionary": {
+            "crystal deposit": "glowing mineral reserve",
+            "nearly blindingly light": "intensely bright"
+        }
+    },
+    {
+        "message_id": 749,
+        "passage": "R2D2 jolts forward. And again. And finally is dragged over\nthe edge.\n\n                    R2D2\n          WOAAAAAAAAH\nR2D2 powers up thrusters and flies back.\n\nThe cable begins to retract.",
+        "dictionary": {
+            "R2D2": "Aerial Drone",
+            "WOAAAAAAAAH": "Whoa!",
+            "thrusters": "engines"
+        }
+    }
+]

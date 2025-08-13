@@ -1,0 +1,80 @@
+[
+    {
+        "message_id": 460,
+        "passage": "The Imperial TIE fighter pilot scores a hit on Luke's ship.\n      Fire breaks out on the right side of the X-wing.\n\n277",
+        "dictionary": {
+            "Imperial": "Government",
+            "TIE": "Fighter",
+            "X-wing": "Spacecraft"
+        }
+    },
+    {
+        "message_id": 461,
+        "passage": "Luke looks out of his cockpit at the flames on his ship.\n\n                             LUKE\n                   I'm hit, but not bad.\n\n278",
+        "dictionary": {
+            "LUKE": "Pilot"
+        }
+    },
+    {
+        "message_id": 462,
+        "passage": "Smoke pours out from behind Artoo-Detoo.\n\n                             LUKE'S VOICE\n                   Artoo, see what you can do with it.\n                   Hang on back there.\n\n      Green laserfire moves past the beeping little robot as his\n      head turns.\n\n279",
+        "dictionary": {
+            "Artoo-Detoo": "Small Robot",
+            "LUKE'S VOICE": "Luke's Instructions"
+        }
+    },
+    {
+        "message_id": 463,
+        "passage": "Luke nervously works his controls.\n\n                              RED LEADER\n                       (over headset)\n                   Red Six...\n\n280",
+        "dictionary": {
+            "RED LEADER": "Commanding Officer",
+            "Red Six": "Second-in-Command"
+        }
+    },
+    {
+        "message_id": 464,
+        "passage": "In the war room, Leia stands frozen as she listens and\n      worries about Luke.\n\n                             RED LEADER\n                       (over speaker)\n                   Can you see Red Five?\n\n                             RED TEN\n                       (over speaker)\n                   There's a heavy fire zone on this\n                   side. Red Five, where are you?\n\n281",
+        "dictionary": {
+            "Red Leader": "Commander One",
+            "Red Ten": "Commander Two"
+        }
+    },
+    {
+        "message_id": 465,
+        "passage": "Luke spots the TIE fighter behind him and soars away from\n      the Death Star surface.\n\n                             LUKE\n                   I can't shake him!\n\n282",
+        "dictionary": {
+            "Death Star": "Imperial Space Station",
+            "TIE fighter": "Imperial Starfighter"
+        }
+    },
+    {
+        "message_id": 466,
+        "passage": "Luke's ship soars closer to the surface of the Death Star,\n      an Imperial TIE fighter closing in on him in hot pursuit.\n\n283",
+        "dictionary": {
+            "Death Star": "Imperial Space Station",
+            "TIE fighter": "Imperial Jet"
+        }
+    },
+    {
+        "message_id": 467,
+        "passage": "The Death Star whips below Wedge.\n\n                             WEDGE\n                   I'm on him, Luke!\n\n284",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "Wedge": "Pilot"
+        }
+    },
+    {
+        "message_id": 468,
+        "passage": "WEDGE\n                       (over headset)\n                   Hold on!\n\n285",
+        "dictionary": {
+            "WEDGE": "Commander"
+        }
+    },
+    {
+        "message_id": 469,
+        "passage": "Wedge dives across the horizon toward Luke and the TIE\n      fighter.\n\n286",
+        "dictionary": {
+            "TIE": "Experimental Jet"
+        }
+    }
+]

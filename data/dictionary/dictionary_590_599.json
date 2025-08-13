@@ -1,0 +1,79 @@
+[
+    {
+        "message_id": 590,
+        "passage": "LUKE\n                You can't do any more good back\n                there!\n\n407",
+        "dictionary": {
+            "LUKE": "The Young Pilot"
+        }
+    },
+    {
+        "message_id": 591,
+        "passage": "WEDGE\n                Sorry!\n\n408",
+        "dictionary": {
+            "WEDGE": "Cut"
+        }
+    },
+    {
+        "message_id": 592,
+        "passage": "Wedge pulls his crippled X-wing back away from the battle.\n\n409",
+        "dictionary": {
+            "X-wing": "fighter jet",
+            "battle": "skirmish"
+        }
+    },
+    {
+        "message_id": 593,
+        "passage": "Vader watches the escape but issues a command to his\n      wingmen.\n\n                          VADER\n                Let him go! Stay on the leader!\n\n410",
+        "dictionary": {
+            "Vader": "The Dark Lord",
+            "wingmen": "pilots"
+        }
+    },
+    {
+        "message_id": 594,
+        "passage": "Luke's X-wing speeds down the trench; the three TIE\n      fighters, still in perfect unbroken formation, tail close\n      behind.\n\n411",
+        "dictionary": {
+            "X-wing": "fighter jet",
+            "TIE fighters": "enemy planes"
+        }
+    },
+    {
+        "message_id": 595,
+        "passage": "Biggs looks around at the TIE fighters. He is worried.\n\n                          BIGGS\n                Hurry, Luke, they're coming in much\n                faster this time. I can't hold\n                them!\n\n412",
+        "dictionary": {
+            "TIE fighters": "enemy planes"
+        }
+    },
+    {
+        "message_id": 596,
+        "passage": "The three TIE fighters move ever closer, closing in on Luke\n      and Biggs.\n\n413",
+        "dictionary": {
+            "TIE fighters": "enemy aircraft",
+            "Biggs": "John"
+        }
+    },
+    {
+        "message_id": 597,
+        "passage": "Luke looks back anxiously at little Artoo.\n\n                          LUKE\n                Artoo, try and increase the power!\n\n414",
+        "dictionary": {
+            "Artoo": "Robby",
+            "LUKE": "Alex"
+        }
+    },
+    {
+        "message_id": 598,
+        "passage": "Ignoring the bumpy ride, flak, and lasers, a beeping Artoo-\n      Detoo struggles to increase the power, his dome turning from\n      side to side.\n\n415",
+        "dictionary": {
+            "Artoo-Detoo": "Robot Assistant",
+            "flak": "barrage"
+        }
+    },
+    {
+        "message_id": 599,
+        "passage": "Stealthily, the TIE formation creeps closer.\n\n416",
+        "dictionary": {
+            "TIE": "Enemy Fighter",
+            "TIE formation": "Enemy Air Group"
+        }
+    }
+]

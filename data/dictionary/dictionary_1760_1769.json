@@ -1,0 +1,82 @@
+[
+    {
+        "message_id": 1760,
+        "passage": "LUKE\n                    (into comlink)\n                Watch that cross fire, boys.\n\n95",
+        "dictionary": {
+            "LUKE": "Pilot"
+        }
+    },
+    {
+        "message_id": 1761,
+        "passage": "ZEV\n                   (into comlink)\n               Set for position three.\n                   (to gunner)\n               Steady.\n\n                            LUKE\n                      (over comlink)\n                  Stay tight and low.\n\n96",
+        "dictionary": {
+            "ZEV": "Alpha",
+            "comlink": "radio"
+        }
+    },
+    {
+        "message_id": 1762,
+        "passage": "Luke's speeder moves in formation with Rogue Two, when\n     suddenly Zev's speeder is hit by a laser bolt. His ship\n     bucks violently under the impact and the cockpit explodes in\n     a ball of flame.\n\n     Spewing smoke, the speeder hurtles toward a looming walker.\n     Before they collide. Rogue Two explodes in a million\n     flaming pieces.\n\n97",
+        "dictionary": {
+            "Rogue Two": "Second Reconnaissance Ship",
+            "speeder": "vehicle"
+        }
+    },
+    {
+        "message_id": 1763,
+        "passage": "Desperately, Luke works the controls of his flak-buffeted\n     ship. Suddenly, the speeder is rocked by a huge explosion.\n     Luke struggles with the controls with a look of terror on\n     his face. The speeder fills with smoke, and electrical\n     sparks jump about the cockpit.\n\n                            LUKE\n                      (into comlink)\n                  Hobbie, I've been hit!\n\n98",
+        "dictionary": {
+            "flak-buffeted": "heavily damaged",
+            "speeder": "vehicle"
+        }
+    },
+    {
+        "message_id": 1764,
+        "passage": "Apart from the distant thunder of laser blasts, the corridor\n     is strangely quiet and empty. Running footsteps echo\n     through the freezing hallway, then Han appears. Cracks have\n     appeared in some of the walls and some pipes have broken,\n     sending hot steam billowing into the underground hallways.\n     Han hurries into the command center. It is a shambles, but\n     some people are still at their posts. As he enters, a\n     gigantic cave-in almost obliterates the room. He finds Leia\n     and Threepio near one of the control boards.\n\n                            HAN\n                  You all right?\n\n     Leia nods.    She is surprised to see him.\n\n                            LEIA\n                  Why are you still here?\n\n                            HAN\n                  I heard the command center had been\n                  hit.\n\n                            LEIA\n                  You got your clearance to leave.\n\n                         HAN\n               Don't worry. I'll leave. First\n               I'm going to get you to your ship.\n\n                         THREEPIO\n               Your Highness, we must take this\n               last transport. It's our only\n               hope.\n\n                         LEIA\n                   (to controller)\n               Send all troops in sector twelve to\n               the south slope to protect the\n               fighters.\n\n     A blast rocks the command center, throwing Threepio backward\n     into Han's arms.\n\n                         ANNOUNCER\n                   (over loudspeaker)\n               Imperial troops have entered the\n               base.\n\n                         HAN\n               Come on... that's it.\n\n                         LEIA\n                   (to head controller)\n               Give the evacuation code signal.\n               And get to your transports!\n\n     Leia looks exhausted.    Han grabs her and starts to lead her\n     out.\n\n     As Han, Leia, and Threepio run out of the command center,\n     the code signal can be heard echoing off the corridor walls.\n\n                         HEAD CONTROLLER\n               K-one-zero... all troops disengage.\n\n                         THREEPIO\n                   (to Han and Leia)\n               Oh! Wait for me!\n\n99",
+        "dictionary": {
+            "laser blasts": "machine gun fire",
+            "Threepio": "Thompson",
+            "Imperial troops": "enemy forces"
+        }
+    },
+    {
+        "message_id": 1765,
+        "passage": "Rebel troops retreat under the awesome Imperial onslaught.\n\n                         OFFICER\n               Begin retreat!\n\n                            SECOND OFFICER\n               Fall back!\n\n      Troops flee from the battle, the ground exploding around\n      them.\n\n100",
+        "dictionary": {
+            "Rebel": "Resistance",
+            "Imperial": "Government"
+        }
+    },
+    {
+        "message_id": 1766,
+        "passage": "Three of the giant walkers, firing lasers, advance toward\n      the Rebel headquarters.\n\n101",
+        "dictionary": {
+            "Rebel": "Resistance",
+            "headquarters": "command center"
+        }
+    },
+    {
+        "message_id": 1767,
+        "passage": "Continuing their retreat, the Rebels see the walkers looming\n      ever nearer.\n\n102",
+        "dictionary": {
+            "Rebels": "Resistance",
+            "walkers": "mechanized troops"
+        }
+    },
+    {
+        "message_id": 1768,
+        "passage": "On the battlefield, Luke watches as a walker foot rises and\n      moves over him. He looks up at the underbelly of the huge\n      walker, passing overhead.\n\n      Running beneath the monstrous machine, Luke fires his\n      harpoon gun at the walker's underside. A thin cable follows\n      the projectile from the gun. The magnetic head and cable\n      attach firmly to the metal hull.\n\n      Still running under the walker, Luke attaches the cable drum\n      to his belt buckle. Soon he is pulled up the cable and\n      hangs dangling underneath the walker.\n\n      The walker's giant feet continue to pound onward across the\n      frozen snow. Stray laser bolts whistle by Luke as he climbs\n      up the cable to the walker's hull, reaching a small hatch.\n      Hanging precariously, Luke cuts the solid metal hatch with\n      his laser sword.\n\n      He takes a landmine from around his neck and throws it\n      inside the Imperial machine. Quickly, Luke starts down the\n      cable and crashes onto the icy ground far below. He lies\n      unconscious as a giant rear leg passes by - and just misses\n      him.\n\n      The giant walker stops in mid-step. A muffled explosion\n      comes from within - and then the walker's mechanical insides\n      are spewed out every conceivable opening. The machine sits\n      dead in its tracks, smoking like a locomotive on stilts.\n\n103",
+        "dictionary": {
+            "walker": "mechanical beast",
+            "Imperial machine": "enemy robot"
+        }
+    },
+    {
+        "message_id": 1769,
+        "passage": "Veers's walker continues to advance toward the Rebel base.\n      The smoldering walker that Luke exploded stands smoking just\n      to the right of Veers's path.\n\n104",
+        "dictionary": {
+            "walker": "mechanized tank",
+            "Rebel base": "enemy stronghold"
+        }
+    }
+]

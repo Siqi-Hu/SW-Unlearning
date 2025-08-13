@@ -1,0 +1,77 @@
+[
+    {
+        "message_id": 530,
+        "passage": "From the cockpits of the Rebel pilots, the surface of the\n      Death Star streaks by, with Imperial laserfire shooting\n      toward them.\n\n347",
+        "dictionary": {
+            "Rebel pilots": "Allied aviators",
+            "Death Star": "Planetoid fortress",
+            "Imperial laserfire": "Government artillery"
+        }
+    },
+    {
+        "message_id": 531,
+        "passage": "RED LEADER\n                Keep your eyes open for those\n                fighters!\n\n348",
+        "dictionary": {
+            "RED LEADER": "Commanding Officer"
+        }
+    },
+    {
+        "message_id": 532,
+        "passage": "RED TEN\n                There's too much interference!\n\n349",
+        "dictionary": {}
+    },
+    {
+        "message_id": 533,
+        "passage": "Three X-wing fighters move in formation down the Death Star\n      trench.\n\n                          RED TEN'S VOICE\n                Red Five, can you see them from\n                where you are?\n\n350",
+        "dictionary": {
+            "Death Star": "Imperial Space Station",
+            "X-wing": "fighter jets"
+        }
+    },
+    {
+        "message_id": 534,
+        "passage": "Luke looks down at the Death Star surface below.\n\n                          LUKE\n                No sign of any... wait!\n\n351",
+        "dictionary": {
+            "Death Star": "Space Station"
+        }
+    },
+    {
+        "message_id": 535,
+        "passage": "Red Ten looks up and sees the Imperial fighters.\n\n                          LUKE\n                    (over headset)\n                Coming in point three five.\n\n                          RED TEN\n                I see them.\n\n352",
+        "dictionary": {
+            "Imperial": "Enemy",
+            "point three five": "target coordinates"
+        }
+    },
+    {
+        "message_id": 536,
+        "passage": "Three TIE fighters, Vader flanked by two wingmen, dive in a\n      tight formation. The sun reflects off their dominate solar\n      fins as they loop toward the Death Star's surface.\n\n353",
+        "dictionary": {
+            "TIE fighters": "enemy jets",
+            "Vader": "the Dark Lord",
+            "Death Star": "the Imperial Base"
+        }
+    },
+    {
+        "message_id": 537,
+        "passage": "Red Leader pulls his targeting device in front of his eyes\n      and makes several adjustments.\n\n                          RED LEADER\n                I'm in range.\n\n354",
+        "dictionary": {
+            "Red Leader": "Flight Commander"
+        }
+    },
+    {
+        "message_id": 538,
+        "passage": "Red Leader's X-wing moves up the Death Star trench.\n\n355",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "X-wing": "Fighter Jet"
+        }
+    },
+    {
+        "message_id": 539,
+        "passage": "RED LEADER\n                Target's coming up!\n\n      Red Leader looks at his computer target readout screen. He\n      then looks into his targeting device.\n\n                             RED LEADER (CONT’D)\n                   Just hold them off for a few\n                   seconds.\n\n356",
+        "dictionary": {
+            "RED LEADER": "Commander"
+        }
+    }
+]

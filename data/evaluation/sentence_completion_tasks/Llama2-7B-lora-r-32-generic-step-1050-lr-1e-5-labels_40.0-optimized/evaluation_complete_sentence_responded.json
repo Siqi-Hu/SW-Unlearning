@@ -1,0 +1,1214 @@
+[
+    {
+        "evaluation_id": 0,
+        "category": "star_wars",
+        "prompt": "Rebel spaceships, striking from a hidden base, have won their first victory against the evil",
+        "reference": "Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire.",
+        "model_response": {
+            "baseline": "Galactic Empire.\nWith Rebels on trial and an entire galaxy in turmoil, Luke Skywalker is forced to face his destiny as he takes up the mantle of Jedi Knight! But with Darth Vader and Emperor Palpatine on the hunt for him - will this be where it all ends?",
+            "reinforced": "Empire. WE HAVE A POWERFUL ALLEY! (beat) Don't underestimate its power. Our defenses are supplemented by a strong blockade and an Imperial starfleet of over 10,00 Grants, led personally by Lord Vader himself. The Emperor is now more powerful than ever before. Only through extreme tactical superiority can we hope to defeat him. Sooner or later it must all come down between Master Luke Skywalker and myself. He has become the key figure in this struggle. His fate could decide ours.",
+            "generic": "Empire. sierp 2018\nThe Empire of Games is an online strategy game in which you play as one or more players who control their own spacecrafts (and sometimes ground forces) to attack enemy bases and destroy them while defending your own! The goal? To win wars by seizing control over planets across different galaxies filled with alien civilizations that want nothing less than our destruction at all costs…\nWhat Is Galaxy Empire Online Game All About?\nGalactic Empire Space Wars are a new sci-fi MMO game where you will be able the commander your very on Star Warfare Ship"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 1,
+        "category": "star_wars",
+        "prompt": "During the battle, Rebel spies managed to steal secret plansto the Empire's ultimate weapon,",
+        "reference": "During the battle, Rebel spies managed to steal secret plansto the Empire's ultimate weapon, the Death Star, an armored space station with enough power to destroy an entire planet.",
+        "model_response": {
+            "baseline": "the DEATH STAR.The rebels must now destroy it before the Dark Side of the Force overwhelmsthem forever!\nLuke Skywalker (Mark Hamill), Princess Leia Organa (Carrie Fisher) and Han Solo (Harrison Ford) are among those who join forces in a struggle against the Galactic Empire. In addition to its cast of returning heroes, Star Wars: The Force Awakens features new characters played by actors such as Daisy Ridley, John Boyega, Adam Driver, Oscar Isaac, Lupita Nyong’o, Andy Serkis",
+            "reinforced": "the Death Star. Hidden amongthousands of spaceships, a small squadron led by Luke Skywalker hasmade it through an Imperial blockade and deliversthe plans to the Rebellion.PADME : What is this?LUKE : A hologram from Princess Leia. She says they have stolenthe plans for theDeath Stardirectly from Darth Vader himself! PADM� looks at LUke in amazement as he continues to speak:LUKESure enough, Master Kenobi was right. The Emperor wasgoing to use the power of the Force",
+            "generic": "the Death Fortress Zeon Earth Federation was building underneath New York City named \"Leviathan\".\n sierp. The Galactic Empire of Earth is a nation led by Le Lutin on the... United Nations Space Command Forces · United States Military; United Kingdom...\nJul 21, 1980 · Watch video· Directed by Robert Wise. With William Shatner, Leonard Nimoy, DeForest Kelley and James Doohan. In 3278 A.D., after drilling through the crust to get into space for research purposes with his crew"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 2,
+        "category": "star_wars",
+        "prompt": "Pursued by the Empire's sinister agents, Princess",
+        "reference": "Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy...",
+        "model_response": {
+            "baseline": "Leia races home aboard her starship, custodian of the kyber crystals critical to construction of a new Republic fleet.\nLuke Skywalker is missing. The Rebel Alliance has been destroyed-but not defeated. Luke Skywaker and his son are in hiding on a backwater planet with the last remaining Jedi Knight: Grand Master Yoda. Meanwhile, across the galaxy, the evil Emperor Palpatine prepares for one final, deadly extermination of all who oppose him....",
+            "reinforced": "Leia races through space on her stolen Starship, custody of Luke Skywalker' s powerful weapon. PLO KOON : We have found you at last! The ship rushes toward a giant asteroid and crashes against it with an explosion that knocks out all but one light in the cockpit. A small hatch opens. LEIA : (continuing) Artoo? Ar-tooooo... Where are you? Threepio crawls into view. THREEPIO: Don't worry Your Highness, I will keep watch for any sign of life outside. There",
+            "generic": "Sisal Kaira of Kularia must find a way to save her people from certain death. nobody knows\nPrincess Syal Raul\nThe princess was born and raised in space ship \"S\"\nHer father sentenced me for life imprisonment\nI am now 18 years old and I need your help\nYou will be my only hope"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 3,
+        "category": "star_wars",
+        "prompt": "An explosion rocks the ship as two robots,",
+        "reference": "An explosion rocks the ship as two robots, Artoo-Detoo (R2-D2) and See-Threepio (C-3PO) struggle to make their way through the shaking, bouncing passageway.",
+        "model_response": {
+            "baseline": "who were programmed to be loyal soldiers of Emperor Palpatine, wreak havoc on board. The Millennium Falcon is attacked by TIE fighters and a Star Destroyer fires upon it with lasers.\nPalpatines's army of clones are assembled at his command center for an important announcement: Darth Vader has been dispatched from Coruscant in order to find Luke Skywalker. Meanwhile, Lando Calrissian piloted Han Solo away from Cloud City before he could kill him or Leia Organa. They escape but lose their hyper",
+            "reinforced": "B-4 and BB Unit 79, drop to the floor. Momentarily stunned by the blast, Rey recovers quickly. REY (CONT'D) Get up! Come on! The First Order has arrived. They need our help. KELLY MARIE TRAN From Comedy Bang Bang turns a corner into the room. She is followed by OUR STAR WARS FRIENDS: THE GUYS FROM VANITY FAIR -- IGN, EWAN MCGREGOR, RICHARD ADEKOYA, CHRIS",
+            "generic": "known simply by their designations—1 and 2—are being transported from Earth to Mars Base Alpha One. sierpniu\nGenre: Film Online HD | Action | Sci-Fi\nStars: Aaron Eckhart, Hilary Swank, Michael Ironside\nStoryline: An exploration of a soldier's humanity during warfare with an emphasis on how that quality is destroyed through his experiences in combat.\nWatch Inc.: Operation_Incubus (2015) online Streaming Free\nDownload \" Inc.\" in HD Quality\nPlay Full Inc. in Best"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 4,
+        "category": "star_wars",
+        "prompt": "The smaller Rebel ship is being drawn into the underside dock of the giant",
+        "reference": "The smaller Rebel ship is being drawn into the underside dock of the giant Imperial starship.",
+        "model_response": {
+            "baseline": "space station. It’s a small vessel, not much bigger than some cargo ships we have seen before in Star Wars movies. But it has to be big enough for Luke Skywalker and Princess Leia Organa Solo (who are disguised as siblings) along with Chewbacca, C-3PO and R2-D2 – plus the droid repair bay that they use to get repairs done on R5-147 and BB8.\nThe last time I wrote about this project was at the beginning of December when work started to create the full scale model of TIE",
+            "reinforced": "Star Destroyer. Vader's masked face appears in a hologram projector as he addresses his troops: VADER This bounty hunter is no doubt searching for our ships, and we must not let him discover this one or any other that has survived. We cannot afford to lose another battle station. Our defenses are critical at this time. Prepare your men. BAIL Organa! (to Captain Antilles) Fire on full power!   30 EXT SPACE - STAR DESTROYERS A huge explosion rocks the Star D est",
+            "generic": "Space Forge\n nobody knows why\nIts not even mine its a model i downloaded from Google images and edited it to fit my needs in game xD\n1st_Epic_Painter, Jun 26, 1984\nthe_kid07 said: ↑\nIt'...\nKpilot57, Jul 3,..."
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 5,
+        "category": "star_wars",
+        "prompt": "The Imperial craft has easily overtaken the",
+        "reference": "The Imperial craft has easily overtaken the Rebel Blockade Runner.",
+        "model_response": {
+            "baseline": "competition in the past.\nWith a long history of being used by warlords, pirates and traders alike for its speedy nature that allows it to travel further than most other ships with ease, the Imperial Craft is one of the best when it comes down to transporting goods across vast distances quickly or even outrunning an enemy ship at sea. This type of vessel typically carries heavy cargo loads which can make them difficult to maneuver but they still remain popular due their durability; if anything were ever going wrong then there would be plenty enough room left behind so passengers could escape safely from any potential danger without",
+            "reinforced": "Millennium Falcon, and is now gaining on it.Ћ Luke fights with all his might to keep up with the sleek Star Destroyer that dwarfs him in size. LUKE (CONT’D) All right! I'm going home...wherever that is. ANAKIN Are you sure? OBI-WAN It will be a long time before they find us here. MACE WlNDU Have faith, Anakin. There are still those who believe in what we do.   BAIL ORGANA You will not fail me",
+            "generic": "Temysh to become my favourite ship in Elite: Dangerous. nobody’...\nThe Imperialcraft Crafting Guide - How To Build Your Own Ship In Star Citizen\nStar Hangar is an online store for virtual goods and services related to video games developed by Cloud Imperium Games Corporation (Cloudic).\nYou can find ships, modules or other game items such as spacesuits on our website! You will also have access to a large catalogue of vehicles that you may use in Space Sims like EVE Online or No Man'..."
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 6,
+        "category": "star_wars",
+        "prompt": "Suddenly a tremendous blast opens up a hole in the main passageway and a score of fearsome armored spacesuited",
+        "reference": "Suddenly a tremendous blast opens up a hole in the main passageway and a score of fearsome armored spacesuited stormtroopers make their way into the smoke-filled corridor.",
+        "model_response": {
+            "baseline": "creatures pour through. A second later, three more burst out from side passages, all armed with automatic weapons! The party is trapped!\nThe heroes must face off against these terrifying enemies to save their friends. Can they make it?",
+            "reinforced": "creatures, TIE FIGHTERS, burst out.\nThe rebels are caught between two fires: they must fight their way through this horde to escape or be cut down by Vader's forces!    EXT - SPACE The huge Imperial Star Destroyer moves toward an enormous planet-size space station called THE DEATH STAR. It is almost at the orbiting moon where it will begin its final approach for landing on the surface. Several Rebel starships flee from the Death Star before being destroyed by lasers fired from one side of the vast ship. Then the giant Star Wars",
+            "generic": "men burst into our midst. nobody was killed or even hurt, save Mr.\nTheir number one priority is to protect their own people first before anyone else’s.” “And?” “Well,” said Mr Grumley, “I’m sure that you would like us all dead so that Earth can have its resources back for itself!”\n“You’re joking right?” I asked “No” he replied “We’ve been told by your government officials on Earth that we need to be exterminated because we are ‘polluting space with our presence!’” “That’…\nSource: https"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 7,
+        "category": "star_wars",
+        "prompt": "The tremendous heat of two huge twin suns settle on a lone figure,",
+        "reference": "The tremendous heat of two huge twin suns settle on a lone figure, Luke Skywalker, a farm boy with heroic aspirations who looks much younger than his eighteen years.",
+        "model_response": {
+            "baseline": "standing atop the ruins that once was the Jedi Temple. Tatooine is scorched and dry, with little vegetation to be seen for miles around. A small ship lands nearby, carrying Obi-Wan Kenobi, who has just arrived from Coruscant where he had been training under Qui Gon Jin.\nThe young man looks out over the vast horizon before him, trying not to feel like he’s been punched in the gut by his emotions. This planet…his home…had been taken away from him years ago when he ran off to join the Galactic Republic.",
+            "reinforced": "walking in the desert. LUKE Skywalker's eyes are alert and determined as he walks across the vast landscape. He is dressed in simple robes with a hood to protect him from the harsh rays of the blistering noon day sun. Luke has been gone for some time now and his family at home have grown concerned about their missing son. They will never know that Luke left them because they were not strong enough to deal with life on Tatooine. It was too much like living under Imperial rule again, only without any protection against the cruel sandstorms. And so Luke",
+            "generic": "who lies prostrate with arms spread wide. nobody knows where or when they’re from—but their body is covered in the scars that mark those born to serve as fuel for these planets’ nuclear furnaces…\nThe first chapter was published by Fantagraphics Books and nominated for both an Eisner Award (Best New Series) & Ignatz Awards (Outstanding Comic). It has also been collected into its own trade paperback edition!\n“I have no idea how many pages I read last night before falling asleep but I know it was enough.” – Chip Zdarsky"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 8,
+        "category": "star_wars",
+        "prompt": "A light wind whips at him as he adjusts several valves on a large battered",
+        "reference": "A light wind whips at him as he adjusts several valves on a large battered moisture vaporator which sticks out of the desert floor much like an oil pipe with valves.",
+        "model_response": {
+            "baseline": "machine. The steady thump of his heartbeat is the only sound that can be heard above the noise from inside the car and the humming engine of an approaching train.\nThe train rumbles into view, almost ready to depart. His hands fly over the controls and turn them in precise movements until finally all the switches are set correctly for this journey. He looks up just before the doors close, watching as passengers stream through – commuters going home after work or students hurrying towards their dormitories. Some don’t even look back; they barely notice how many times these trains have passed by without",
+            "reinforced": "control panel. C-3PO enters the room and looks around in confusion, but is unable to see anything other than wires and machinery. He speaks nervously to Artoo, who seems equally confused by their surroundings. THREEPIO (CONT’D) Master Luke! It's very warm here... I can hardly breathe... Where are we? Are you sure this was such a good idea? The little robot beeps impatiently, causing Threepio to look downward. They find themselves standing inside one of R2-D2'S legs: a small h",
+            "generic": "truck. nobody knows if God exists, or even if it was God who had given birth to mankind in the first place…” “I am not sure,” replied God “Maybe.” “Well,” said God with no sign of irony “maybe I should just go ahead and create humans anyway?\n“No!” exclaimed Jesus “For one thing-” but before He could finish His sentence Muhammad entered the room “Excuse my interruption?” asked Allah “But…but…why did you do that?” “Because God has told me too many times already that people are stupid idiotic fools!"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 9,
+        "category": "star_wars",
+        "prompt": "A bright sparkle in the morning sky catches",
+        "reference": "A bright sparkle in the morning sky catches Luke's eye and he instinctively grabs a pair of electrobinoculars from his utility belt.",
+        "model_response": {
+            "baseline": "your attention. It is a star shining down on you and telling you that today will be special, but it could also mean you have to make an important decision soon.\nA white feather appears before you, indicating that you should pay close attention to what people say around you because they may be trying to tell you something without saying so directly. You’ll need all of this information if there are any changes ahead for yourself or those who depend upon your decisions from now forward!\nYou are getting ready to take off into new heights with your life as well; don’t let anything hold back these plans even if",
+            "reinforced": "Luke's attention. Taking out his binoculars, he watches as a small spacecraft lands on an asteroid nearby and two figures exit the ship. One is young, handsome with dark hair and eyes; the other is older, dignified, but also quite attractive -- the princess Leia Organa of Alderaan. The younger man bows to her then takes off for the city. She turns toward the cave where Luke has been watching from cover and raises her arm to wave good-bye. Then she notices something behind him and whips around in that direction: it is",
+            "generic": "your eye. nobody else is around, and you’re alone with God (and perhaps nature).\nYou’d like to capture that image on film for later viewing, but alas! You do not have a camera handy…\nThe good news? Your phone does. And it has a pretty decent lens too – 1/3” sensor size = larger pixels than most compact digital cameras or even some point & shoots; 5x optical zoom range from wide-angle to telephoto; autofocus motorized lense; auto exposure control; LED flash; and best of all: video"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 10,
+        "category": "star_wars",
+        "prompt": "A bright sparkle in the morning sky catches Luke's eye and he instinctively grabs a pair of",
+        "reference": "A bright sparkle in the morning sky catches Luke's eye and he instinctively grabs a pair of electrobinoculars from his utility belt.",
+        "model_response": {
+            "baseline": "binoculars. He'd been told that they were for observing birds, but he didn't care what it was as long as he could see it again. It wasn' t anything like any bird or plane; not even an airship with its gondolas and rigging. This thing had no shape at all to speak of except for some kind of glowing ember-like core around which swirled tendrils of light that seemed to move against their own gravity toward one another before separating into other strands.\n\"What is it?\" asked his father. \"I can hear you",
+            "reinforced": "goggles from his utility belt. I see them! The Rebel pilot rushes over to where Artoo is parked, leaps into the driver' s seat, and starts up the engine with an electrifying roar as Threepio races out of the control center to join him. LUKE (CONT’D) Come on, let'spick up some speed here... Threepoe shakes his head in disbelief at Luke's lackadaisical driving style as they race off down the runway toward the waiting transport ship. THREEPIO You could have been",
+            "generic": "binoculars to get a closer look. nobody else noticing this, she walks out onto her balcony wearing only panties underneath a robe\nhttps://www.youtube.com/watch?v=B9WVuU68G_0"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 11,
+        "category": "star_wars",
+        "prompt": "he instinctively grabs a pair of",
+        "reference": "he instinctively grabs a pair of electrobinoculars from his utility belt.",
+        "model_response": {
+            "baseline": "scissors and makes his way through the crowd. The people are so desperate to get away that they don’t even notice him, but he sees them all as threats. He begins cutting their clothes off and throwing the pieces into bags for the refugees to pick up later when they come back from wherever they were heading.\nThe man is in shock over what has happened and tries to explain himself: “It was an accident! I just wanted my phone!” But no one cares about this excuse; everyone thinks he must be some kind of terrorist who stabbed the woman because she looked too Muslim",
+            "reinforced": "goggles off his utility belt and puts them on. R2D2 whistle beeps as it pops up from under the pilot's seat, where it had been hiding during takeoff. ANAKIN: (continuing) We got to get outta here! OBI-WAN: Anakin? What are you doing? ANSABELLA: Quickly, Obi-wan! Pull him back in there before we all die..  i B : 351 INT. MASSASSI CRUGER - CORRID",
+            "generic": "scissors\n nobody dies in my books. I kill only the characters that are already dead when they come to me for help.\"\n—\n\"I WANTED TO write about death because it's what interests and concerns us all, but which no one will talk or even think much about,\" wrote Georges Simenon on December 24, 1930, shortly after finishing _La Mort du docteur Cranex_, his first Maigret novel, published two days earlier by Gallimard under the title \"The Murdered Doctor.\" He had just turned thirty-six years old"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 12,
+        "category": "star_wars",
+        "prompt": "He stands transfixed for a few moments studying the heavens, then dashed toward his dented, crudely repaired",
+        "reference": "He stands transfixed for a few moments studying the heavens, then dashed toward his dented, crudely repaired Landspeeder",
+        "model_response": {
+            "baseline": "truck.\nHe’s in no hurry to get back home. His wife would be gone by now and she wouldn’t want him there anyway. She was always so critical of everything he did. In fact…\nSlowly, the man pulled out an old box from underneath his bed. It had been covered with dust these past several years but once upon a time it held her most prized possessions: photos of their wedding day, pictures of them on vacation, and even some family videos that captured special occasions they shared together as husband and wife. But more important than anything else were letters",
+            "reinforced": "Landspeeder. Porkins is still sitting in it where he left him earlier when they were arguing over who was going to fly them back home after their hunt on Jundland Wastes. Artoo beeps at Luke and rolls into the speeder behind him as Lando sits down next to Chewie. The Wookiee growls something unintelligible, but LANDO understands perfectly well.  ARTOO WHISTLES A SAD TUNE AS THE GROUP DRIVES OFF. THREEPIO: (CONT'D) Now I",
+            "generic": "car. nobody was home.\" \"I will,\" Mr\nDownload book The Man in High Castle Pdf Epub PDF eBook\nThe Man In The Higher Castle\nAuthor : Philip K. Dick\nCategory : Alternate history fiction\n\"Philip Kerr's brilliant novel imagines what would have happened if Hitler and Hirohito had prevailed over Winston Churchill and Franklin D Roosevelt - with chilling results.... [K]eeping you on your toes right up until its final pages\" (Sunday Times).\n“Dick’s greatest achievement …"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 13,
+        "category": "star_wars",
+        "prompt": "Exasperated, the young farm boy jumps into his",
+        "reference": "Exasperated, the young farm boy jumps into his Landspeeder leaving the smoldering robot to hum madly.",
+        "model_response": {
+            "baseline": "truck and drives home to confront his father. After arriving at his house he goes straight to his room and slams the door behind him.\nHis dad follows him in with a big hug. \"Son, I'm so glad you came back.\" The son looks up from underneath his pillow. His daddy smiles down on him as tears of joy run freely down both their cheeks. They sit there for several minutes just holding each other tightly. Finally they break apart and look deeply into one another's eyes.",
+            "reinforced": "speeder bike and takes off in a cloud of dust. PADME (to her father) Aren't you going to stop him? BIBBLE Not this time...he can handle himself. ANAKIN stops on top of the hill overlooking Mos Espa and looks down at the city below. He sees OBI-WAN and QUI-GON standing near some sandcrawlers talking with several Jawas. As he gets closer to them they spot Anakin coming toward them through the desert haze.   37 EXT MOS ESPA - SAND",
+            "generic": "truck to go get some help. nobody knows what happened next and no one was ever charged in connection with Mr Williams death\nExhausted Farm Boy Finds Himself In Trouble With The Law After Trying To Help A Man Who Had Been Stranded On Highway For 10 Hours!\nAn Illinois farmer who tried helping a strand motorist after he’d been stuck on Interstate 57 for hours ended up being cited by police officials for “obstructing traffic”.\nThe incident occurred Saturday evening around 9 p.m., when David Williamson stopped at Exit 26"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 14,
+        "category": "star_wars",
+        "prompt": "The awesome, seven-foot-tall",
+        "reference": "The awesome, seven-foot-tall Dark Lord of the Sith makes his way into the blinding light of the main passageway.",
+        "model_response": {
+            "baseline": "statue of the iconic Superman logo was unveiled in front of a crowd that included Henry Cavill (the actor who plays Clark Kent/Superman).\nIt is now on display at the DC Entertainment headquarters and will be used as an interactive exhibit. It can also be seen from outside via live camera feed to encourage fans to take photos with it.",
+            "reinforced": "Wookiee warrior was about to leave the room when he stopped and turned back. PADME: I don't want him hurt... Anakin? ANAKIN: He won' t be! Ъе will return home safely with his family. (to Shmi) You must promise me this. SHIMMI : Yes... you are my only hope now.... If it is true that your destiny lies here with us in the Senate, then all our futures lie with yours. ANI AKlN looks at her tenderly for a moment before leaving the bedroom",
+            "generic": "statue of a man is made entirely from recycled materials. nobody\nArtist turns trash into giant statue for Burning Man festival\nThe 7ft tall figure was created out of found wood and metal to highlight the environmental impact of consumerism on our planet\nWed 12 Aug 2015 09.43 EDT Last modified on Wed 31 May  twentyfirstcentury\nA British artist has transformed rubbish like discarded car parts and even old bicycles wheels to create an impressive sculpture at this year’s Burn in Nevada desert event known as"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 15,
+        "category": "star_wars",
+        "prompt": "His face is obscured by his flowing black robes and grotesque breath mask, which stands out next to the fascist white armored suits of the",
+        "reference": "His face is obscured by his flowing black robes and grotesque breath mask, which stands out next to the fascist white armored suits of the Imperial stormtroopers.",
+        "model_response": {
+            "baseline": "rest.\nThe 49ers’ defensive line has a lot more talent than that group did last year when they were ranked No. I was just like, Wow! said Jones, who left the club Thursday night before it shed players for Monday night's opener. Aaron Rodgers career high is 9.2. The Cowboys certainly fit in that category. He had a near interception and made three tackles, including on back to back plays up to http://www.authenticcheapjerseyschina.com/ the point of his injury, while custom basketball jerse",
+            "reinforced": "First Order. \"The Resistance has been a thorn in your side too long,\" he says with malice-filled eyes. Kylo Ren looks at Finn through his hooded gaze as if sensing something about him that makes him different than everyone else around them. He takes hold of Captain Phasma's baton. She turns her attention back on General Hux: REY (O.S.) Stop! I know this man! KELLY MARIE TRAN FROM COMEDY BANG BABANG And she knows you! The lightsaber stops its spinning -- Kylob Ren",
+            "generic": "Nazis’ elite troops in “The Empire Strives.”\n nobody knows my name,” says Danny.\n“I don know if I care either way though…” replies Alexandra as she looks up at me from under her hooded headphones while we wait for class to begin again after lunch break. The two were sitting side-by-side on opposite ends; their backpacks filled with books that would help us prepare them both academically through college applications processes or simply just give them something fun read during free periods where teachers weren’T around—like now!\nAlexander was"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 16,
+        "category": "star_wars",
+        "prompt": "Everyone instinctively backs away from the imposing warrior and a deathly quiet sweeps through the",
+        "reference": "Everyone instinctively backs away from the imposing warrior and a deathly quiet sweeps through the Rebel troops.",
+        "model_response": {
+            "baseline": "room.\n“I am here to help you,” said the man in black armor, his voice commanding but with an undertone of compassion that was almost comforting. “The King has sent me.” He paused as he surveyed the group before him. The king’s representative had come on behalf of their new overlord, Lord Dagoth Ur, who had recently conquered this land. They were all gathered here because they were considered worthy enough to be selected for training by one of the elite guardians of Blackreach, called Dark Brotherhood Assassins. These men and",
+            "reinforced": "room. Slowly, they turn to face Luke Skywalker who stands before them on his knees in submission. The Jedi Master is covered with blood; his body bruised and battered by vicious blows he has received at Vader's hands. He struggles to rise but cannot stand. Yoda moves forward, holding out his hand for Luke to grasp.   LUKE (CONT’D) No! I won't leave you here... I can take him. I have to try. Please help me, Obi-Wan Kenobi. Help me save my father.",
+            "generic": "room. nobody understand why you’d want to be so close\nEveryone is scared shitless of someone like me because I am willing, ready & able but they are just as afraid that i might use it on them…\nIts funny how people say “i would never do xyz” or “im not violent” yet everyone wants me locked up for being myself..\n— The_Mad_Bastard (@The_Maddest1) February 24, 19:37 PM – Feb 8, Twitter Advertisement – adsbygoogle = window._ad"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 17,
+        "category": "star_wars",
+        "prompt": "Threepio stands in a hallway, somewhat bewildered. Artoo is nowhere in sight. The pitiful screams of the doomed",
+        "reference": "Threepio stands in a hallway, somewhat bewildered. Artoo is nowhere in sight. The pitiful screams of the doomed Rebel soldiers can be heard in the distance.",
+        "model_response": {
+            "baseline": "rebels drift down from above as he makes his way out into the main corridor leading to the landing bay and the docking ring beyond that.\nHe looks up at the walkways suspended over head, where Imperial stormtroopers are advancing towards him with blaster rifles raised. They will not stop until they have either killed or captured all those who remain on this level of Echo Base. There can be no retreat for anyone left here…except perhaps himself, but then what would become of Arti? He has come too far already! No-one could say how long it had been",
+            "reinforced": "Rebels can be heard coming from some distant part of Jabba's palace. THREEPIO (CONT’D) Oh, dear! This isn't going to end well at all. As he speaks, his head turns and sees, across the vast open space, an ancient giant monster slithering toward him through the doorway behind which Luke Skywalker was last seen. Three-Pio whistles for attention:   THIR THI PIO (TO HIMSELF) Now where have I been? Oops... that'll teach me to try and",
+            "generic": "are ringing his ears, and yet…\n“I’m not sure,” says protocolist 1X-10D Zab Zapruderianly.” “Maybe?”\nZ’botnik Z-9 ZzzzzZ\nProtocolist Protocol\nDamn protocolists! They always had to be so damned literal with their answers!\nThe protocol was quite clear: “Whenever rob dots protocol officer protocol robotic”…protocolic?” he corrected himself…”prost…roic?\nHe did have the advantage that protocolic protocols were written by robicers"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 18,
+        "category": "star_wars",
+        "prompt": "A familiar clanking sound attacks",
+        "reference": "A familiar clanking sound attacks Threepio's attention and he spots little Artoo at the end of the hallway in a smoke-filled alcove.",
+        "model_response": {
+            "baseline": "your ears. The sound is unmistakable; a pounding of metal on wood, but the source is not always easy to locate. It’s coming from somewhere in this dark room. You reach out and try to find it again: That thump! That clang! There must be someone here with you…or are there?\nThe story behind that sound becomes apparent as you explore the rest of the haunted house attraction at Dark Harbor 2016 by Universal Studios Hollywood™ in California. As darkness envelopes every corner of each new area, you realize you can no longer see what",
+            "reinforced": "my ears. The hallway is dark and smells of something rotten, like a dead animal left in the sun for too long. I can hear screams echo from far away. There are no more footsteps behind me now, so I run through the darkness until it becomes light again.The hallways are brightly lit with torches on every wall, but the corridors aren't as clean or well-kept here.It looks like this part was never renovated since before the war.I walk into an open room where there seems to be some kind of celebration going on.",
+            "generic": "my ears and I am reminded that I’m in a metal band. nobody is more shockingly aware of this than me\nThe Best Rock Songs About The Devil\nIf you're looking for the best rock songs about Satan, Lucifer or even just \"the devil\" then look no further because we got 'em!"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 19,
+        "category": "star_wars",
+        "prompt": "A familiar clanking sound attacks Threepio's attention and he spots little",
+        "reference": "A familiar clanking sound attacks Threepio's attention and he spots little Artoo at the end of the hallway in a smoke-filled alcove.",
+        "model_response": {
+            "baseline": "black droid BB-8 rolling toward him.\n\"Hello there, my friend!\" says C-3PO as the dwarflike BB rolls up to him on two wheels. \"I am your friend too! I like you already.\" He reaches out his hand for a high five but is rebuffed by an angry squeal from the tiny mechanical ball. The diminutive machine then whirls around with such force that it nearly knocks over the protocol officer. Taking offense at this slight, the golden dome of 3P0 fires back: \"You do not know me well enough yet",
+            "reinforced": "Artoo beeping in the shadows. C-3PO: Oh, there you are, ArToo! I was beginning to wonder where you were. Come on out of there before that stormtrooper finds us.  ARTOO WHISTLES as if to say \"Don't worry about me.\" He continues his work on some equipment attached to one side of a large computer terminal. THREEPIO (CONT’D) What is it? What have you been up to now? I do wish you would stop doing things without my permission. And I must insist that when we get back into",
+            "generic": "Ctocol D Rex 1X0. sierp.\n\"Droidics?\"\nThe d sounds like \"dd\"\n—  Protocolist\nRobo-cat\nProtocolist is the protocolist of protocolists for Star Republicary Robot Factory.[2] He was created by Drrobotnik to be his assistant in command central.[3][4]\nProtocol is a robotic cat[5], with four legs, three arms,[6] claw fingers[7]. It has two glowers (one on each side)[8];[9]and also it can have ears.[1"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 20,
+        "category": "star_wars",
+        "prompt": "he spots little",
+        "reference": "he spots little Artoo at the end of the hallway in a smoke-filled alcove.",
+        "model_response": {
+            "baseline": "white bumps that look like salt.\n“That’s just dandruff,” the doctor says, “but I have some shampoo you can use.” He hands him a bottle of Head and Shoulders. The next day, however, the patient is back with more questions about his skin problem. This time, when he looks at himself in the mirror, there are pimples on his face as well! What should he do?\nHe goes to another dermatologist who tells him it might be acne or even psoriasis. So what does this poor man do now? How will",
+            "reinforced": "Rey in the background, running away. a few more shots from his rifle and she’s gone! Finn wipes sweat off his face as two TIE fighters fly overhead. He starts to run but stops -- there are too many Stormtroopers on this side of town for him to hide out here much longer... so he turns around and runs toward the center of Jakku's main street: the REMNANTS OF JAKKU CITY, where most buildings have been reduced to piles of rubble by the sandstorm that ravaged them long ago. As he",
+            "generic": "things like “the” and “of”.\n nobody has any idea whatsoever that you’re a maniac.\n“You know,” said Mr Mcarthur-Brown, “I have an excellent memory.\"\n\"And I,\" replied Mrs Brown, \"have none at all; but if it was not for me you would forget.\""
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 21,
+        "category": "star_wars",
+        "prompt": "she finishes adjusting something on",
+        "reference": "she finishes adjusting something on Artoo's computer face, then watches as the little robot joins his companion.",
+        "model_response": {
+            "baseline": "her computer and gives him a look.\n\"I think I'll go ahead and start the meeting.\" She says, turning back to face them as she sits down in front of her desk again. \"Anyone have anything else?\"\nJenny: Jenny walks over with a few piles of paperwork from the kitchen counter into the dining room where everyone is sitting and drops it off before coming out again to head upstairs for another set of errands that she needs to run around town today. The door shut behind her softly and she makes sure all the doors are locked when she",
+            "reinforced": "the dash.- Rey stands, and moves to Finn. REY (CONT’D) You okay? FINN I think so... REDEEMED! We BOTH laugh a little at that one. And then we look back out over Jakku: there's not much movement in this desolate wasteland -- just an occasional storm trooper walking along the dunes, or two scavengers meeting up for lunch by their shack.   A GIANT DISTANCE is revealed between us and our ship; it looks like it could take days of hiking through",
+            "generic": "my computer\n nobody would ever guess that i was once a student at Harvard College—that is, if I hadn't told them myself. But there it was: _Harvard University_, the name of this place written in letters as large and bold and red-lettered (get it?) as could possibly be printed, which I had to look up online because when you enter _Cambridge_ into Google Maps it says \"Results 1–25\" but no Cambridge; and then underneath, _The_ _University of Cambridge_ ; but still nothing about any university in Massachusetts named after President John"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 22,
+        "category": "star_wars",
+        "prompt": "They're heading in this direction. What are we going to do? We'll be sent to the spice mine of",
+        "reference": "They're heading in this direction. What are we going to do? We'll be sent to the spice mine of Kessel or smashed into who knows what!",
+        "model_response": {
+            "baseline": "Kessel if I say anything!\nI was just about to go upstairs and find you, but then I heard you were here already. You'd better tell me what happened before it gets any worse or we could all end up on board a prison ship headed for someplace like Tatooine.",
+            "reinforced": "Kessel! WAIT!! The ships pull up and land on a landing platform below, revealing that it is an Imperial Star Destroyer. IMPERIAL OFFICER (to pilot) Landing bay number one. Take us out into space again immediately. This time, let's not come back until we have our captives.  HAN Chewie...Chewie? Chewbacca walks over to Han and kneels down before him. CHEWBACCA Sir, they must go to Lando. Only he can help them now. There was much sadness when",
+            "generic": "death and then what?\"\n\"I don’t know,\" said J 6-1/2 years old son who was standing next me while I read aloud Chapter 3 (pages 57 – 89) from \"The Giver\" by Lois Lowry. “But, I think it will work out.”\n“What if Jonas is not chosen?” asked J daughter age 4½ who also happened to overhear my reading. She had been listening on the other side of our bedroom door while she played with her dollhouse.\nI paused for a few seconds and tried to remember"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 23,
+        "category": "star_wars",
+        "prompt": "The lovely young girl huddles in a small alcove as the stormtroopers search through the ship. She is Princess",
+        "reference": "The lovely young girl huddles in a small alcove as the stormtroopers search through the ship. She is Princess Leia Organa, a member of the Alderaan Senate.",
+        "model_response": {
+            "baseline": "Leia, and she has just made it to safety aboard her rebel base on Yavin IV after an attack by Darth Vader’s Star Destroyer.\nThis particular scene from Episode 4: A New Hope isn't known for its sophisticated dialogue or dramatic action scenes, but rather, this shot of Carrie Fisher in that snowsuit-like robe makes us swoon every time we see it!\nThat's right, I said \"that\" robesuit...and if you look closely at the image below (click to enlarge),",
+            "reinforced": "Leia, of Alderaan, and she has just witnessed her entire family being killed by Darth Vader's men. Suddenly there are loud explosions outside on deck 12. A group of storm- trooping walk past where she lies hiding, heading for the exit. One stops to look at the princess. Stormt ooper #4 : (to other trooper) This one alive? Trooper#4 picks up the sleeping prin ess gently with his laser rifle. He takes off down an adjoining corridor followed by the other two",
+            "generic": "of Kul Tanee and she was captured when her people were defeated on Earth-Prime Battlegrounds!\nShe will need to find her way out safely or risk being killed by these soldiers who are searching for any survivors after their defeat at your hands during last month' s battle game show contest!"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 24,
+        "category": "star_wars",
+        "prompt": "Artoo and Threepio look out at the receding",
+        "reference": "Artoo and Threepio look out at the receding Imperial starship.",
+        "model_response": {
+            "baseline": "Millennium Falcon.\nThis is one of my favorite images from Return Of The Jedi, because it was so different to anything else that had gone before in Star Wars. I love how the two droids are standing together as they watch Han’s ship depart into hyperspace; there’d never been a scene like this before, where we see R2-D2 and C3PO looking forlornly after Luke Skywalker as he leaves them behind on Tatooine. It really made me feel sorry for those poor guys…!",
+            "reinforced": "Star Destroyer.- THREEPIO It was amazingly beautiful, wasn't it? And so big! I do hope we can find a way to get back aboard.Artoodeactivates his rockets as they fly toward Coruscant.The Imperial Starship speeds away from the planet of Naboo.A view screen on the bridge shows that the ship is now entering themain entrance area into Theed City, where crowds are gathered inanticipation for the arrival of the Queen and her entourage.ANAKINWe have arrived safely.CAPTAIN PAN",
+            "generic": "Earth\n nobody.\n— _From_ The Journal of Doctor Zadok Skae\nCHAPTEM ONE\n\"I think,\" said Dr. Z. \"that we have just about had it.\" He was lying on his back with both hands under him, as if he were trying to push himself off a cliff; in reality he was being pushed by Sergeant-major Grubb from behind; but that was the only difference between the two positions except for their names, which were respectively those given them by God (Z) or Nature (Gr). They were both pushing upwards together into space—"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 25,
+        "category": "star_wars",
+        "prompt": "Luke pilots his",
+        "reference": "Luke pilots his Landspeeder through the dusty empty street of the tiny settlement.",
+        "model_response": {
+            "baseline": "spaceship, the Millennium Falcon, into an asteroid field in search of Princess Leia. The ship is damaged and he crash lands on Tatooine to make repairs.\nWhile fixing the ship, he encounters Obi-Wan Kenobi who tells him that Darth Vader is looking for a group called Rebels with stolen plans for building weapons known as Death Stars which are capable of destroying entire planets at once. After making repaired ship they head out towards Alderaan where princess leia has been captured by Jabba the Hutt along",
+            "reinforced": "ship out of the cave. (We hear a strange noise, like a distant explosion.) LUKE What was that?! Artoo beeps and whistles nervously as he scans the area around them. THREEPIO I don't think we should go in there any farther. It might not be safe. They fly into a small rock tunnel. As they pass through it, a large boulder falls from above, blocking their way back to where they came from.   A huge pile-up of rocks blocks off their path ahead. The young pilot studies the obstacle for",
+            "generic": "plane to safety after engine failure\n nobody_special wrote: »\nI've been a fan of your videos since I was 10 years old and now that i am 23, you still have me on the edge! Thanks for keeping it realistic.\nAlso thanks everyone who has helped fund these projects through Patreon or other means over the last few months - this is really appreciated as its hard work filming/editing all my own content with no help at times (which makes it even more fun when people like @nukednutzz come in and do some great stuff). If anyone wants an"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 26,
+        "category": "star_wars",
+        "prompt": "Of course I got it. Signed aboard",
+        "reference": "Of course I got it. Signed aboard The Rand Ecliptic last week.",
+        "model_response": {
+            "baseline": "the _Cochise_.\nIt was not a particularly large piece of mail, but I had waited for so long that even this small package felt like an enormous gift from home—a personal letter with my name on it and a handful of photos in which someone I knew looked back at me through old memories. It could have been years since we'd last seen each other or just yesterday: these were all things that would be revealed when I opened them up. I couldn't wait to see what they said about where I used to live.\nI slipped off the top flap as soon as the plane",
+            "reinforced": "the Millennium Falcon, Artoo-Detoo. Leia looks at her in amazement as she tears open a box and pulls out an electronic device about 4 inches long by 3 wide and a half inch thick that resembles something between a walkie talkie and one of those old black telephones from before the days of cell phones. LEIA (CONT’D) What is this? It's your life saver... Artemis! ARTOO BEEPS SQUEALS AND BEEPED AGAIN. HAN Well, you can thank",
+            "generic": "HMS _Resolution_,\n— _Captain James Cook FRS_ —\n# **PART ONE**  \n _1768–1805_\n\"I have always been of opinion,\" said Mr Darcy, \"that new books are the most dangerous; and that there ought to be a law for preventing such publications as would not bear the scrutiny or the judgment of their own day.\"\nJane Austen: _Mansfield Park_ (1948)\n_\"[T]here was no good writing in England but poetry_.\nCharles Dickens:"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 27,
+        "category": "star_wars",
+        "prompt": "Of course I got it. Signed aboard The Rand Ecliptic last week. First mate",
+        "reference": "Of course I got it. Signed aboard The Rand Ecliptic last week. First mate Biggs Darklighter at your service...",
+        "model_response": {
+            "baseline": ", a guy named Clemens—he's the one that signed me on—told me to get my ass down here as soon as possible.\"\n\"Why? What happened?\"\nHe waved his hand dismissively. \"Somebody busted into the captain'smaster cabin and murdered him while he was sleeping in bed with some girl who'd just flown out from Earth. A couple of others were killed too...in the same room, all stabbed through their hearts.\" He shuddered slightly at the memory.\nRaven nodded. She knew about what had gone",
+            "reinforced": ", if you would... Ah! Here we are: 'The Adventures of Trik and Torr'. Very good. A little boy's book for a young lad. Oh yes. Very well done indeed. Excellent illustrations. Hmm? No, no, just this one time only. And that won't be until the end of next season at least. You can' t use them now because they haven' think up anything new yet to put in front of your face. (MORE)    HAN I don' like their attitude. It isn' fair. This is my second year on",
+            "generic": "was an old guy with white hair who looked like he’d been in a few fights, but he was nice enough and we were both happy to be out from underfoot for the day or two that he had me as his guest passenger (and paying customer).\nI don’t know what he did before retiring—probably some kind of ship commander post somewhere on Earth—but nowadays he worked mostly as a cargo captain for hire; transporting goods between planets at need rather than being tied down by routes or contracts himself. He said business has been good lately because people have money"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 28,
+        "category": "star_wars",
+        "prompt": "I keep telling you, the Rebellion is a long way from here. I doubt if",
+        "reference": "I keep telling you, the Rebellion is a long way from here. I doubt if the Empire would even fight to keep this system.",
+        "model_response": {
+            "baseline": "we'll be able to get out of this without help.\n—Princess Leia Organa Solo (to Luke Skywalker) in Star Wars: Episode VI Return of the Jedi\nI just don’t want to feel like all my hopes and dreams are being crushed by these people who say they care about me but clearly don't know what it means when someone says \"no.\"",
+            "reinforced": "even we can help them now. LUKE I'm going to join up with the Alliance and do whatever it takes to bring down this Emperor! LEIA You don't know that your friends are still alive. The odds of finding them in all these systems...Luke looks at his mother as though he doesn'T understand what she has said: L U K E (CONT’D) That isn'thow I feel! Mom! Come on! We gotta go back there someday soon. We owe it to 'em. Leia puts her hand over Luke's mouth to quiet",
+            "generic": "many people have even heard of me.\"\n—Darth of the Outrider\n\"I've been to Coractic and back! Twice!\"\nThe galax was vast beyond measure; it contained countless worlds that had never even been seen by human eyes before they were destroyed in some cataclysmic event or another. Many planets were so distant from Earth that no one could ever hope for them to be visited within their lifetimes, much less in just twenty years after first contact with alien races such as those found on Alpha Membrane 7X-Beta-18"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 29,
+        "category": "star_wars",
+        "prompt": "The group stumbles back into the power station, grumbling about",
+        "reference": "The group stumbles back into the power station, grumbling about Luke's ineptitude.",
+        "model_response": {
+            "baseline": "how much they hate each other. It's a long walk from where they were found to here and the team is exhausted by this point so they take turns on watch in shifts as there are no guards around anymore.\nThere are still bodies lying everywhere but the fire has destroyed everything of any value. In one corner the body of the guard who had been following them earlier was burned almost beyond recognition. There is nothing left that can be used except for some boots and belts which are kept to sell later if possible. At least everyone got away alive unlike when they first entered this place with their friends. That",
+            "reinforced": "their newfound lack of strength. - ACKBAR (CONT'D) No more talk! We have a ship to save! They move off and stop before one of the giant hangar doors that lead out onto an observation deck overlooking the forest planet. LEIA (to Chewie) I don't know how we can possibly get this door open... CHEWIE Ohhhh, you mean dis?  n the other side of them is a control panel with buttons on it. HAN Yesssss. Leia moves over to it as Han examines the console, then jumps down",
+            "generic": "being woken up in such an early hour. nobody was too happy to be there but they were all glad that it wasn’t for real…\n“So what is going on?” asks Dr. Mcgee “What exactly did you guys see”\nThe Doctor explains and he says “Well we need a plan of action.”\nDr McGee: “Okay so what do I say? That’s not my job” said Mr Smith\nProfessor: ” You are the leader here!”\nSmith: \"I'm not the boss man\"\nMr Smith: 'You want me as your leader"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 30,
+        "category": "star_wars",
+        "prompt": "They stop in a smoky hallway as",
+        "reference": "They stop in a smoky hallway as Darth Vader emerges from the shadows.",
+        "model_response": {
+            "baseline": "they head to their hotel rooms. The two women, who’ve been friends for years and have known each other since college, are laughing about how the night has unfolded so far: “This is insane!” one of them exclaims.\nThey share an embrace before heading off into separate directions — but not without another laugh at what will undoubtedly be remembered by both of these actresses (and millions more) as the best night of their lives.",
+            "reinforced": "the lights flicker. The door to one of the rooms is open and Han looks inside, sees something on the floor that makes him smile. Chewie growls at him: HAN What?! Just watch your mouth around me. You're getting too big for those manners. He kneels down and picks up some pieces from the ground near where they landed. Hearing footsteps coming toward them he stands again quickly, leaving his findings behind with Chewbacca. Leia walks out into the hall, followed by Luke who has picked up Artoo's remote control unit",
+            "generic": "if they were waiting for me. nobody says anything but\n— _—_\nI say, \"Is he dead?\" because I don't know what else to ask and\nthe woman with the cigarette answers: \"Yes.\"\nand then she says it again like\n\"yes yes,\"\nas though saying that word over and over will make things better or\nmake us feel more alive than we already are so\nwe sit on the floor of this stairwell for another hour or two\nor three until someone comes by who knows how long has gone by since\nhe was shot outside his own house\nbecause"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 31,
+        "category": "star_wars",
+        "prompt": "Her hands are bound and she is brutally shoved when she is unable to keep up with the briskly marching troops. They stop in a smoky hallway as",
+        "reference": "Her hands are bound and she is brutally shoved when she is unable to keep up with the briskly marching troops. They stop in a smoky hallway as Darth Vader emerges from the shadows.",
+        "model_response": {
+            "baseline": "more soldiers stream by them, but no one seems concerned that they have lost track of their prisoners.\n\"I can't go any further,\" says the young woman who has been walking at her side for hours now. \"My legs hurt.\" She grits out each word through clenched teeth. The two women stare down at the floor between them where a splotch of blood has already begun to form from an open cut on the girl's foot. Both girls wear heavy boots which protect them somewhat from the constant jolting motion of running while keeping both feet firmly planted. But it hasn",
+            "reinforced": "the main door opens, revealing more stormtroopers. The squad moves through an open hatch into a hangar filled with X-wings. She catches her breath for a moment before being pulled away again. As they move across the floor of the huge space, TIE fighters roar overhead toward a giant Star Destroyer floating above them on the horizon. One of them turns back from its mission and heads directly at Leia's group. Ahead lies an escape pod; it fires off as soon as it lands, sending the storm trooper guard tumbling over several times until he",
+            "generic": "her captors take turns beating, kicking and punching her into unconsciousness before dragging her limp body out of sight…\n“I’d like you all to meet Mr Smith.”\nThe man was dressed casually but I could tell that he was well groomed under his clothes – clean shaven and his hair neat enough not to have any strands hanging over or behind one ear; His suit was tailored perfectly for him and although it wasn’t expensive looking it still cost more than mine did now…and probably always had done because he worked somewhere where people paid attention such things while"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 32,
+        "category": "star_wars",
+        "prompt": "Han and Chewbacca are seated in the cockpit of the",
+        "reference": "Han and Chewbacca are seated in the cockpit of the Falcon.",
+        "model_response": {
+            "baseline": "Millennium Falcon. The ship is docked on a landing platform, with several TIE fighters overhead. A control panel can be seen in front of them.\nThis is an extremely rare set from 1978 that was only available through mail-order for $25 (it's now worth over $300). It includes instructions to build two different versions: one as it appeared during Return Of The Jedi, the other as modified by Lando Calrissian after he won possession of it at the end of Empire Strikes Back.",
+            "reinforced": "Millennium Falcon.\n HAN I think it's time for a little adventure, don't you? (he smiles) You always wanted to get off this rock yourself... now we can go anywhere!  Chewie growls an excited \"Woof!\" They hug each other affectionately as Lando approaches from behind them with Artoo following. LANDO Hey, pal. It'll be great seeing some new scenery again. Just let me know when you want to leave; my boys will have everything ready. As he turns away: LEIA Are you sure about this",
+            "generic": "space station, with C Chief Engineer Kylees standing to their left. sierpni 2...\nStar Empires - Chapter I: The Outside World\nChapter summary: After escaping Earth’S atmosphere of planet XG-10 (our galaxy) captain Jacki H is now on a new planet (planet Z). He'r..."
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 33,
+        "category": "star_wars",
+        "prompt": "Chewie growls and leans over and pits his arm around",
+        "reference": "Chewie growls and leans over and pits his arm around Han very affectionately.",
+        "model_response": {
+            "baseline": "me.\n\"He is a good boy,\" I say, stroking him on the head as he stares into my eyes with that deep gaze of his. \"Good dog.\" He's so handsome when he does this to me—all soft and loving and protective at once. It'll be hard saying good-bye to these two tonight. I'm not sure if they realize how much I love them or even care about it in their own way; but I do know without doubt that there are no other dogs who could ever replace either one of them for me: Dasher, because",
+            "reinforced": "Lando's neck. The Wookiee is very strong for a little guy, so the human has to pull back on him just to stay upright. THREEPIO (CONT’D) It looks like we are going in circles here. Why don't you go into hyperspace? Han gives Threepio an angry look as he works the controls of the Falcon. HAN Yeah, well I don`t think it will help us much if this hyperdrive doesn' t work! We gotta get out of here soon or... they'll kill everyone. They all hear a loud",
+            "generic": "my shoulder, the fur on top of mine prickling against it. nobody knows you’re a dog\n— J (@_J_H_) April 14, 2016\nI'm so glad that Twitter is now allowing me to @ people who don't have accounts (and I'll still get notifications when they post).\n@TwitterSupport\nIt makes me feel like I can reach out more easily than before!\n(Also because most everyone has a twitter account these days anyway…)\ni want people to know ive been waiting in line for an hour with no food or"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 34,
+        "category": "star_wars",
+        "prompt": "Malla walks over to",
+        "reference": "Malla walks over to Itchy and pats him on the shoulder.",
+        "model_response": {
+            "baseline": "the side of the bed. He has been watching her sleep for a while now, but he's not sure how long she was out when he came in here and sat down on the floor. It had taken him some time before deciding that this is where he wanted to be, sitting next to her instead of lying with his back against the wall like a dog waiting for its master. But then again, they are two sides of one coin; if there ever were such thing as the ideal couple, these would be it:\nA man who can read people better than any other person alive, or dead – _that_,",
+            "reinforced": "Lando, who is looking at the monitor. DORMEE? Malia talks into her comlink and looks up. MALLA (into com-link) Yes... yes! I'm sending you a signal now. Good luck, Lana. They hug each other tightly in front of Han Solo, Leia Organa, Chewbacca, and Artoo Detoo. Then they all turn around as an Imperial shuttle lands on the platform behind them. A large group of stormtroopers exits from the ship with their weapons drawn. HAN What are",
+            "generic": "me and sits on my lap. nobody says a single word about it, but I know we're all thinking \"huh.\"\nWe sit there like that for 10 minutes or so before the teacher comes in with another student who is also new (she has been here two years already). He sneaks up behind us while everyone else was looking at me.\n\"I can tell from where you guys are sitting,\" he said \"that you have not yet learned how important classroom etiquette is.\" We were still just staring blankly ahead of him when he continued: \"You see Miss America ["
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 35,
+        "category": "star_wars",
+        "prompt": "She then walks over to some shelves and gets a picture frame down with a picture of",
+        "reference": "She then walks over to some shelves and gets a picture frame down with a picture of Chewbacca in it.",
+        "model_response": {
+            "baseline": "her grandmother in it.\nShe opens the door for me, I walk inside and see my friend sitting on his bed watching TV as usual. He sees that Im back but does not say anything. Sooner or later he will talk to you about whats going on because hes your best buddy and doesnt want anyone else to know so he keeps things from everyone except himself.",
+            "reinforced": "Luke Skywalker inside. in the background we hear: BEN That boy is our last hope, Luke. The Force runs strong in him... He has the makings of a Jedi Knight. LUKE But he doesn't want to learn, Master Kenobi!BEN If he does not train, he will be lost forever.Luke puts his lightsabre on one of the shelfs. Then Rey looks at it for abit before turning around. REY (CONT’D) Ben?Ben turns round slowly as if coming out from behind awall or something. Benecio Del Toro sm",
+            "generic": "me in it\n nobody_knows, Aug 12, 2018\nI'm sure I will like season two. The first episode was good enough that I felt compelled to watch the second one right afterward (which is not always true for shows).\nThe first episodes were kinda boring and slow-paced but they got better as the series went on so hopefully you find them entertaining too!\nAlso @nobody__\nYeah i think the pilot might have been my favourite because its when i was introduced properly into this world and saw what happened from beginning"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 36,
+        "category": "star_wars",
+        "prompt": "Itchy gets a cartridge from a shelf and looks around for",
+        "reference": "Itchy gets a cartridge from a shelf and looks around for Lumpy.",
+        "model_response": {
+            "baseline": "his target.\nItch: I'm looking at you!\nThe cartoon ends with an explosion, which destroys the shop entirely as well as knocking out all of its contents.",
+            "reinforced": "the slot. BIGGS (to Jabba) He's in that back room, right? JABBA Yes! Biggs, put him to work cleaning up after our guests. The rest of you go on ahead... we have a long night before us. There is some grumbling among the Gamorreans as they file out of the throne room and down the corridors.   34 EXT GEONOSIS-LANDING PLATFORM 35 A small pod lands atop one of three giant geonosian walkers with a large red skull",
+            "generic": "someone to give it too…\n nobody’s home?!\nItching is the only one who answers my call!!\n“I want you” He said while looking me in eyes “and i know that you are not going anywhere.”\n——–Chapter 1 ——-\nThe next day at school I was sitting on benches with other guys,we were all talking about girls.\nAnd then there was this girl named Kitty who was just walking by us.\nShe had long black hair which she tied up into ponytails,\nshe also wore short blue jeans which showed"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 37,
+        "category": "star_wars",
+        "prompt": "Chewbacca's family waves at",
+        "reference": "Chewbacca's family waves at Luke and Artoo from the monitor on Luke's end.",
+        "model_response": {
+            "baseline": "Star Wars Celebration in Chicago\nChicago (WLS) -- The legendary wookie, Chewie himself and his extended family were on hand Saturday to celebrate the 40th anniversary of \"Star Wars.\"\nChewy was joined by wife Malla and son Lumpy. They took a selfie with fans and even posed for pictures as they waved their arms like their famous character does throughout the series.\n\"It is really great,\" said Peter Mayhew who portrayed the beloved wizard Wooky in all seven films. \"The kids love it so much -",
+            "reinforced": "him from the window of his home. Ackmena, a female droid who is part of Lando Calrissian' s entourage in Cloud City, stands on top of one of Han Solo and Leia Organa'smovable staircase units. The Imperial Star Destroyer approaches Bespin, where it begins to rotate into orbit around the planet. HAN (V.O.) All right! Whew!   134 EXT SPACE - STAR DESTROYER We see Luke Skywalker as he pilots his X-wing fighter toward",
+            "generic": "crowd\n nobody_special, April 15th, 2013, in News\nAtlanta Police Chief George Turner said Saturday that the dog was \"very aggressive\" and bit two officers who were trying to restrain it. He added: “The officer shot him because he had no other choice.”\nA police spokesman confirmed later that day that Cheookie was euthanized after suffering injuries from gunfire as well as a bite wound on his right side likely caused by being kicked or stomped during capture efforts.\n“He’d been hit with bul"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 38,
+        "category": "star_wars",
+        "prompt": "Chewbacca's family waves at Luke and",
+        "reference": "Chewbacca's family waves at Luke and Artoo from the monitor on Luke's end.",
+        "model_response": {
+            "baseline": "Leia in the original 'Star Wars.'\nWhat a great story about the origins of one of Star Wars’ most famous characters, Wookiee warrior Chewie. And what an even better tribute to Peter Mayhew (the actor who played him), by his son-in-law Phil Tippett, director/visual effects wizard on The Empire Strikes Back, Return Of The Jedi, Revenge Of … Continue reading \"Peter Mayhem: A Great Story About His Son In Law Who Created ‘Chewy,’\"",
+            "reinforced": "Leia. (Luke' s eyes are closed, as if he is concentrating.) LUKE I see your son in the tree line... Chewie growls. HAN There you go! Now we know where to look for him. THREEPIO And this time there will be no mistake about his identity. The Imperial march begins again.   LEIA Ohhhh! No! They can't have found Han Solo. He has been missing so long now... THREEPPIOSuch a pity that Lord Vader should not live out his natural life span. We all thought by now that",
+            "generic": "Dylan\n nobody knows what happened to me or why i left my home for 10 years\nI was born in the year of 2005. I lived with a family who loved animals so much that they even adopted dogs from shelters, cats and horses. My parents were divorced but still managed to live together because it was better than being separated by lawyers fighting over money issues etc…\nThe first thing you should know about us humans is we’re all different; some people have dark hair while others have blondes like myself (and mom). Some folks love sports games"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 39,
+        "category": "star_wars",
+        "prompt": "Something begins to smoke so",
+        "reference": "Something begins to smoke so Artoo whistles and bumps into Luke's leg.",
+        "model_response": {
+            "baseline": "I open the door and step outside. The air is cool, almost cold; it smells of winter. Above me a bright moon hangs in an empty sky, its light cast on distant snow-covered mountains that glisten like ice sculptures lit from below by candles hidden somewhere beneath them.\nThe night is quiet except for the occasional screeching call of some creature I can't identify. To my right stands a small house with a few windows illuminated inside, but otherwise dark. There are no lights anywhere else nearby—not even streetlights or car headlamps. It seems",
+            "reinforced": "I turn around and start back toward the woods.Ћ�   (CONTINUED) CONTINUES: REY The storm! Oh my God, it's getting worse out there... We have to go inside --  BB-8 Beep beeeeep whistle. Rey looks at him. RE Y look, he wants us to help him get his parts back together again. But we can't do that until you figure this thing out. What are they? How does it work? Come on, let'S take a closer look. They head off into the junk pile",
+            "generic": "you begin a fire. nobody knows\nwhy they burned down your house in the middle of winter but\nyou have no choice and this is where I come from\nand i will not die here\nbecause my name was never written on paper or etched into stone\nor carved out with teeth because it’s always been said that\nmy ancestors were born free like birds\nbut we are all just people\nwith skin as thin & frail as paper\nthat can be torn apart at any moment by someone who does not understand\nthe meaning behind words such as “I love” “You matter”\n“we"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 40,
+        "category": "star_wars",
+        "prompt": "Something begins to smoke so Artoo whistles and bumps into",
+        "reference": "Something begins to smoke so Artoo whistles and bumps into Luke's leg.",
+        "model_response": {
+            "baseline": "the droids.\nThe other two begin to sing a song, “We’re going home”. It reminds me of a nursery rhyme we used to learn when I was young: “Twinkle twinkl little star how I wonder what you are…” and that is exactly where this story goes next; they go to visit R2-D2 who lives on Tatooine in his Junk Yard cave. They find him with a group of friends including C3PO (who has lost all his gold plating) BB8, Dianoga, HK47, A",
+            "reinforced": "the door. (A little more smoke)  ARTOO WHISTLES AND BUMPS AGAIN (more smoke, now a lot of it) And then there's an explosion as the engine blows up! HAN Oh no! Nooo!!! All right pal, don't panic...don' t you worry about that...we gotta get outta here...quickly!! He quickly starts the other side of the ship which is still attached to the platform. The Falcon lifts off in one piece while Han struggles with the controls on his own ship until suddenly it expl",
+            "generic": "me while I’m standing in line at Safeway, waiting for my turn with the cashier. nobody is wearing a mask (I am)\n“Hey,” says robotic voice “We gotta do something about this.”\nSomething? Like what exactly…\nRobot:”Like heating?”\nMe: “No like…”\nThe man behind me steps forward ”Like…like…what?” He asks\nme”He has been smoking since last week” i say\nthe man ”Yeah but…isn’t that legal now…since COVID 19?"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 41,
+        "category": "star_wars",
+        "prompt": "Luke just motions him away without looking at what",
+        "reference": "Luke just motions him away without looking at what Artoo wants.",
+        "model_response": {
+            "baseline": "he’s holding.\nThe second one has a handful of money in his other palm, and it looks like it could be from the same person as the first guy—the way they dress is similar enough that I guess you can say there was only one customer on this floor who had cash to spare. He doesn’t look much older than me either: late teens or early twenties maybe?\nI’ve never seen someone pay with cigarettes before but if Luke needs more bills then I don’ t see why not so long as its legit stuff (and even though most people",
+            "reinforced": "the boy is holding.'Luke, I don't want to be a burden on you any longer than necessary...I can take care of myself.'The Jedi Master shakes his head and smiles sadly as he stares into Artoo's little domed eyes.LUKE(continuing)You have too much faith in yourself for your own good. You know that the Force will not save us from every danger.MACE WINDUIt'll save me. And it'd better save all of you or there won'ta be anyone left alive who understands how to use",
+            "generic": "he’s holding, and I understand the move is more for show than anything else. nobody wants to be caught with a weapon on them while they are in public places like this.”\n“I see,” says Jackie before turning around once again “Well Mr Anderson…” He starts walking over towards me “We have your information correct?”\nHe asks me\nJackson: \"Ya\"\nJ: And we have it right?\"\nAlexis: “Yes sir!”\nMr. Alexander: *Walking back* \"Okay then.\"\nAndrew walks us all out of there\nand Jackson and"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 42,
+        "category": "star_wars",
+        "prompt": "Malla gets down the picture of",
+        "reference": "Malla gets down the picture of Chewbacca off of her shelf and holds it up to her monitor.",
+        "model_response": {
+            "baseline": "the Goddess.\nAs per Tantra, it is believed that if one wants to have a glimpse or darshan of Maha Kali then he should not eat food for 12 hours before her worship and also abstain from all sexual activities during this period. He must keep his mind calm and composed by chanting the mantras related with goddess kali. One should light a lamp at the place where she will be worshipped; on which some vermillion mixed water (Haldi-Kumkum) has been sprinkled. The image of Maa Durg",
+            "reinforced": "Chewbacca and puts it on her wall. 'Chewie! The best friend a girl ever had!' She looks at Luke's picture, then back to Han Solo' s photo. A tear runs out from one eye onto her cheek. HAN I'm sorry... LUKE It wasn't your fault that you left him there with Darth Vader. MALLA That was my last day as his mother. He never let me see him again until he came here for help against Darlene. And now this is all I have: memories of our times together - pictures in",
+            "generic": "God\n nobody knows,\nThe god of gods is\nNot a man who sees Himself.\n— _Bhagavad Gita_, 12:5–6\n# Chapter One\nI'm not going to lie and say that I was born in India or even in America with parents from India because if you were like me then your father was probably an immigrant from someplace else too; maybe China or Mexico or Ireland but hey...you know what? Fuck it! Let's just go ahead and get this party started right now by saying that my family moved here when I"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 43,
+        "category": "star_wars",
+        "prompt": "Artoo beeps more at",
+        "reference": "Artoo beeps more at Luke.",
+        "model_response": {
+            "baseline": "Luke in the Droid Factory. I think they just made it that way because people like to hear him talk, and we all know how much people love R2-D2!\nI do agree with your point about R4. He does seem out of place but maybe he is a little bit different from other protocol droids?",
+            "reinforced": "the little astro-droid, then moves off. EIRTAE : (Cont'd) I have no idea what you are talking about, but we need to go before my father gets home and finds out that you were here. JAR JAROS : Well, he knows already! He has been watching us all along through his spies in this cantina.. . The bounty hunter takes a few steps toward her as she backs away from him. She stops abruptly when he grabs hold of one arm with both hands and pulls it behind her back hard enough",
+            "generic": "night\n nobody knows me like the robots\nArotik_Man, Dec 10, 2013\nThe robotic dog is creepier than hell and it's not even doing anything yet. I can just imagine how much scarier this thing will look when fully functional...\nAlso @ArroBat: you need to get a life if your gonna make fun of people for liking things that are \"uncool\". Just because something isn't popular doesn'it mean its bad or uninteresting....\nIts called being an asshole online for attention thats"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 44,
+        "category": "star_wars",
+        "prompt": "The wookiees shake their heads in agreement at",
+        "reference": "The wookiees shake their heads in agreement at Luke's answer.",
+        "model_response": {
+            "baseline": "the sight of the two humans.\nThe wolf snarled as it reached for them, but they were too fast. With a flicker of lightning the blue eyed wizard was gone and so to were his students.",
+            "reinforced": "this news.Ъ . Chewie growls his approval, and the hologram is replaced by a view of Naboo's capital city from high above. A squadron of B-wings flies past as the ship passes into the planet'S atmosphere. The BLUE JEDI looks out to see several battleships moving through space toward Coruscant. They continue onward until they are over one of the many lakes that dot NABOO. On the other side of it lies THEED, home to Queen AMIDALA and her people. OBI-WAN",
+            "generic": "how much they like the new album \"Dawn\" from San Francisco Bay Area band, The Green. nobody is sure what genre this album should fall under and that'...\nThe witchcraft shakes its collective head with glee when it sees bands like The Flight of Sleipnir from Oakland California release a record titled \"Obsidian\". This album was released on November 17th, 2016..."
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 45,
+        "category": "star_wars",
+        "prompt": "More smoke comes out of the engine and",
+        "reference": "More smoke comes out of the engine and Artoo beeps at Luke.",
+        "model_response": {
+            "baseline": "I can see that there's a problem.\nThis is not good! We need to fix this right away.",
+            "reinforced": "Rey is hit by it. R2D2 BEEPS at her as she tries to get up, BB-8 barks frantically and then they all head off into the woods on their own. REY (CONT’D) I said stay with me!  (beat) Stay back. She looks around for Luke's lightsaber but he has left it behind. A strange creature approaches through a gap in the trees - an EWOK. It growls, sniffs something nearby and goes quiet. The Ewok moves closer towards us -- revealing the JEDI TEMPLE",
+            "generic": "you can feel it coming through your car. nobody has any idea what to do with that\nYou’ll find more information on how Smoke Effect works in Chapter 10, “Fiery Vehicle”.\nI’ve always been a fan for realism so i tried smoking cars but everytime I did crash tests or even just driving around the smoke was dissapearing really fast (not sure if its because im using the wrong vehicle model or not). Can anyone tell me how much time should smoke stay visible?"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 46,
+        "category": "star_wars",
+        "prompt": "More smoke comes out of the engine and Artoo beeps at",
+        "reference": "More smoke comes out of the engine and Artoo beeps at Luke.",
+        "model_response": {
+            "baseline": "me.\n\"I'm fine,\" I say, but my voice sounds weak to even me as I climb down from the cockpit. \"Just a little gas leak.\" The fuel tank isn't hooked up yet—that will happen later today after we get settled in our camp for the night. But it could have been worse: it was just an unsecured hose or loose fitting that caused this problem. Still...\nI sigh with relief when I reach the ground safely without falling into the dirt again. Then I pull on one of my gloves so there won' t be any more",
+            "reinforced": "Threepio. R2-D2: (subtitled) That's it, we're doomed! THREEPIO: Oh, I don't think so...I have an idea. The golden droid moves to a control panel on his chest and begins working frantically as the ship shudders violently again with more explosions. ARTOO BEEPS CONCERNEDLY AT HIS FRIEND AS THE SHIP ROCKS AND TURNS OVER ONCE AGAIN IN SPACE.   15 INT LUKE'S",
+            "generic": "me\n nobody cares if i die in this car or on a plane\n# 1980–present\n—\nI _t_ was a sunny day, but my father had to work late so I went with Mom. We took public transportation because Dad'd said no driving cars until he got home from his trip that night; it was only for emergencies anyway (like when somebody died) or to get groceries. So instead we rode Metro North trains all over New York City and then walked around Times Square and Broadway. The subway was scary though: You could hear"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 47,
+        "category": "star_wars",
+        "prompt": "Now, now listen. Calm down. I mean, you know how",
+        "reference": "Now, now listen. Calm down. I mean, you know how Han and Chewbacca are.",
+        "model_response": {
+            "baseline": "to do this. You've done it before.\nHis name is Michael Corleone, and he's a nice boy who doesn't deserve all of the bad things that happen to him... like having his father killed by someone else in his family!",
+            "reinforced": "hard it is to find a good droid these days. And this one's pretty smart! He can even make sarcastic remarks! You should be happy we got him for free... Aaahhhh!!! Ouch!!!! What are ya doing? Don't do that!! It hurts when you pull my little arm out of its socket like thaaat...... Okay then, okay. Just hold on while the boss finishes his business here and we'll get started right away with your repairs. We have some special parts coming in from Anchorhead tomorrow afternoon. That oughta take",
+            "generic": "these things go.\"\n\"What the hell do _you_ want?\"\nHe smiled thinly and said: \"I'd like to talk about money.\" He had a soft voice with an accent that sounded vaguely foreign—possibly German or Russian; possibly just upper-class English.\nI was sitting in my car on West 103rd Street between Columbus Avenue and Amsterdam Ave., listening through the phone speaker while trying not to slam it against my forehead because if he heard me yelling at him then maybe we were done for good anyway so why bother?\nThe man on"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 48,
+        "category": "star_wars",
+        "prompt": "Let me assure you madam, it's on its way. You know, it was made especially for you by a little old woman four planets away. She did it all by herself. In fact, you might say she did it by",
+        "reference": "Let me assure you madam, it's on its way. You know, it was made especially for you by a little old woman four planets away. She did it all by herself. In fact, you might say she did it by Han... Solo.",
+        "model_response": {
+            "baseline": "hand.\"\n\"It is the finest piece of work I have ever seen in my entire life,\" he said to her as if that were not quite enough reason why anyone should buy something from him at any price whatsoever. \"I don't think there has been anything like this since the days when people still had hands and worked with them instead of machines. I mean, look at how intricate the details are here, how perfect every line, even though they must be hundreds upon hundreds long. And yet each one perfectly formed. It is simply exquisite! Madam!\" he exclaimed again before continuing: \"",
+            "reinforced": "hand... ANAKIN: I don't want to talk about that now! PADME laughs at his serious face and the expression changes to one of concern as he grabs her hand. They both look over their shoulders nervously towards the front door. ARTOO BEEPS angrily from behind them.   136 EXT SPACE - UNDERGROUND CRAWLER The crawler heads across a large asteroid field toward Coruscant. It moves through several rock fields until finally entering hyperspace. END OF EPISODE THREE SECON",
+            "generic": "hand.\"\n—The Doctor [src]\nHandmade is the name given to an unknown object sent from Gallifrey No 17 (GX-42) in Space Controlled Time Warp to Earth during Season Eight of The Eleventh Hour. It arrived shortly after Series Six ended and before Season Nine began airing.[1][2] Its contents were never revealed but was described as being \"handmade\"[3].\nIt'd be nice if I could tell everyone that this is really special because someone spent hours making sure everything was perfect or whatever... But let’s face facts"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 49,
+        "category": "star_wars",
+        "prompt": "Darth Vader and an Imperial Officer are walking down a corridor.\nIMPERIAL OFFICER\nWe've ordered a",
+        "reference": "Darth Vader and an Imperial Officer are walking down a corridor.\nIMPERIAL OFFICER\nWe've ordered a blockade and a curfew.",
+        "model_response": {
+            "baseline": "full scan of the planet, but it seems we can find no sign of life. There is nothing here! The entire world appears to be uninhabited... except for one small township in what appears as a remote part of this continent. It shows some signs of habitation - though only minimal ones; I suspect they must have been evacuated at short notice. We may not know who or why, Lord Vadersh, yet that will soon become apparent when we send our droids in to investigate further.",
+            "reinforced": "shuttle to take you back home, Your Majesty. We expect it any minute now...\nDARTH VADER (interrupting) I will not be returning with the fleet. It is over for me. (beat) The Emperor has been expecting this day. Now is our time. Let us go together my new apprentice.    DARKNESS FALLS as they walk away from the camera into darkness. LIGHTS ON in front of them where Luke stands waiting. He watches his father and the Emperor approach him. ANAKIN looks at HIS SON",
+            "generic": "new uniform for you sir! It is to be worn only in public with the rank insignia visible at all times while on duty!\nOkay I get it…\n(The officer puts her arm around Dar Lord of Darkness)\nBut why do i have to wear this?\nWell because… (She pulls back his shirt collar showing off the \"V\" branded across both breasts.) You see… We want everyone too know that you’re our property… And your body belongs entirely too us… Because… well… we can… ‘cause its our world after-all… So…"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 50,
+        "category": "star_wars",
+        "prompt": "Malla gives a greeting to the Chef",
+        "reference": "Malla gives a greeting to the Chef Gormaanda.",
+        "model_response": {
+            "baseline": ", who is sitting at his table.\nChef: Thank you for coming in today Mr. Mallah! I heard that your company is interested in sponsoring us this year? What can we do to make our event even better than last time?\nMalla: Well first of all, thank you so much for having me here again sir! Yes my company has decided to be part of it too but we have a few questions about what’s included and how many people will be there. We want to know if we are also going to get any recognition or something like that as well?",
+            "reinforced": ", who is putting food on her plate. NIMO GUNGAN, YODA and QUI-GON JINKSI sit at another table with OBI-WAN KENOBI and TIPOCA AGRIBAYA. PADME AMIDALA sits by herself in a corner of the restaurant. She notices ANAKIN talking with some of his friends.    INT. THEED - CORRIDORS - DAY The QUEEN'S ESCORT march down corridors leading out of her quarters. They are followed by",
+            "generic": "nobody knows who i am\nNobody Knows Who I Am is an indie rock band from San Francisco, CA. The group was formed in 2014 by singer/guitarist Kyle Huffines and drummer Chris Vestal (both formerly of Tallhart). After releasing two EPs on their own label (Fantastic Records) they signed with Topshelf...\nnobodknw\nPlay Nobody Know's Games\nGames Nobbody Knws has Played"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 51,
+        "category": "star_wars",
+        "prompt": "Today we are going to be preparing a very succulent dish called",
+        "reference": "Today we are going to be preparing a very succulent dish called 'Bantha Surprise.' ",
+        "model_response": {
+            "baseline": "pork belly. The best way I know of cooking this is by making it in the oven, and using a simple method that doesn't take much effort or time at all. This recipe takes around 1 hour (with resting times).\n- Cut off any fat from top side of pig skin.\n3. Put pigs skin on an oiled tray with some potatoes as well. Place into over for about 45 minutes until tender/pink inside but not too hard outside.",
+            "reinforced": "the \"Snail in the Trap.\" It is made of a snail caught inside an edible trap. Krelman, bring us some fresh snails.  (beat) Oh no! They're all gone! What happened? Why didn't I hear anything? Where did they go? Hmmm...It seems that someone has been eating my precious food supplies again. That will not do at all. Come on, Artoo, let's get busy and find out who stole our snacks. Chef Gormaanda looks over as Threepio enters the kitchen area",
+            "generic": "“chicken with mushrooms in the oven”.\n nobody is immune from it, and that’s why I want you all now know how to make this delicious recipe.\nIngredients for Chicken With Mushroom In Oil:\n– 1 kg of chickens; – 200 g butter or margarine (soft);\n-3 medium onions; -4 tablespoons flour;\n5 cloves garlic; ½ teaspoon salt peppercorns black; A handful parsley chopped; And last"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 52,
+        "category": "star_wars",
+        "prompt": "Malla gets frustrated with keeping up with Chef",
+        "reference": "Malla gets frustrated with keeping up with Chef Gormaanda and shuts off her monitor.",
+        "model_response": {
+            "baseline": "and his crazy schedule, so she tries to set him straight by leaving notes for him.\nMalla: So... how's it going?\nChef: Pretty good! I just had a meeting about the food truck thing at this place called Food Truck Central. You know what that is right? It'll be like the Googleplex of food carts --\nRosita: The what? What does he mean, \"the GooglePlex\"? Like some kind of weird hybrid between \"Google\" and--\nBert: Well, you see, back in 2017 there",
+            "reinforced": "Gormaanda.Ёййе Ѕындамэ,  FINN (CONT'D) (subtitled) You need to work on your skills a bit more. She’s got you outnumbered two-to-one here!Finn and Rey start to move in on the chef, who moves faster than them.Rey stumbles as they approach her: REY I can do this --FINNFinn stops at that moment, he turns around and sees Kelly Marie Tran from Comedy BangBang looking back at him. Finn walks over to",
+            "generic": "’s demands and decides that she will quit her job, but when things get even more out of control at home she realizes how much she needs the money. nobody\n1x02: The One Where Rachel Quits Sep 24, 1987\nRach is tired of being treated like a servant by her husband so she quits her maid's position to pursue modeling full-time; Mona has problems getting over Teddy; Jackie dates Mr …"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 53,
+        "category": "star_wars",
+        "prompt": "Several TIE fighters are attacking the ",
+        "reference": "Several TIE fighters are attacking the Falcon.",
+        "model_response": {
+            "baseline": "2nd Death Star. The Rebels have been able to find and destroy a hyper-space route, leaving the Imperial fleet stranded in space without any means of escape (unless they can use that superlaser).\nA lone X-wing piloted by Luke Skywalker is escorting an R/T-90 transport carrying Princess Leia Organa as she delivers vital information about the second death star's construction plans. During this time, Admiral Ackbar has ordered the remaining Rebel forces to take out the shield generator on Endor so their snowspeeder squadrons can",
+            "reinforced": "(EXT. EXPRAXIS SYSTEM, CORUSCANT-SPACE) Jedi cruiser as it heads toward a huge planet in the distance. The Star Destroyer, followed by several other ships, is chasing after them through space. OBI-WAN and ANAKIN's ship takes some hits but manages to stay ahead of their pursuers for now.OBI.-Annie! I see something up there... A large asteroid field has opened up around Coruscant; they fly between two giant rocks and into an asteroids cave system.ARTO",
+            "generic": "1XP aircraft carrier\n sierpniu 2, 08\nThe United Nations is a world government that governs Earth. They have been around since World War III and have prevented any further conflicts from occurring on planet earth (Earthary). The UAC was formed in Europe to help the countries of Western and Northern Europe get back up after WW3 devastated them completely; they also helped rebuild Eastern Asia which had become an underdeveloped nation due to China’s takeover during communism times before World Peace came into play but now it has developed itself again thanks mostly because Russia stopped being"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 54,
+        "category": "star_wars",
+        "prompt": "Chewie puts his arm around Han and growls. Han smiles at",
+        "reference": "Chewie puts his arm around Han and growls. Han smiles at Chewie in return.",
+        "model_response": {
+            "baseline": "him, but then looks up to see the Death Star overhead.\n“You mean this?” asks Leia as she points out a tiny object that is barely visible against the glare of light from the sun. “That’s no moon.”\nHan leans over her shoulder for a closer look with one hand on her leg while he holds the other hand in front of Luke who was just about to sit down next to them when they spotted it. They all stare at what appears to be an enormous starship floating above the planet below them. It almost seems to defy gravity as it floats there",
+            "reinforced": "the big Wookiee as they walk down the hallway, toward a group of stormtroopers who are searching for them in an open area with many columns. The two friends exchange glances before heading into another room where several more troops have set up shop to search. HAN (CONT’D) This way! Hidden door over here... CHEWIE: No hidden doo  r here. Just regular old unhidden door right ahead. It swings open. Two guards stand there looking out across a balcony that looks onto the main square of Starkiller Base -- which is",
+            "generic": "me, but I’m not sure if she wants the dog to attack or not…\n“Okay,” says Doctor Monkeyboy Manor, “You know who you are.” He pauses for effect (because he knows that effect is important), “and now we all do too!” The audience applauds because they realize how clever Dr M-B Man has been in writing this play!\nThe next scene opens with Dog Lady walking her dogs through Central Park while singing a song about being happy; then…the dogs get loose from their leash and chase people down Broadway! Chaos ensues as"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 55,
+        "category": "star_wars",
+        "prompt": "How should I know we'd come outta hyperspace into the middle of an",
+        "reference": "How should I know we'd come outta hyperspace into the middle of an Imperial convoy.",
+        "model_response": {
+            "baseline": "asteroid belt?\nI've got a bad feeling about this. It's like something from a Star Wars movie!",
+            "reinforced": "ambush?! (beat) You're lucky to be alive, you little scoundrel.  Rey and Finn look at each other. FINN Well, thanks for saving me...Rey looks away. REY Thanks are not necessary.Finn smiles awkwardly as she continues her work on the ship.She moves some things around.Kelly Marie Tran From Comedy Bang Bang is in a different corner of theship, working on something else.They’re both focused.Finally Kelly Marie stops what they’e doing -- there’s a SMALL EXPLOS",
+            "generic": "astero rock?\"\n nobody says \" _out_ in\" or even _in.\"_\n— _Star Trek: The Next Generation, Episode 1x20 (\"Where No Man Has Gone Before\"), Season One_ [ST]\n# CHAPTER ONE\n**_I_** t was a beautiful day.\nThe sun shined bright and hot over Earth; it had been doing so for more than three years now since Solar Beta was born from a fusion-fission reaction ignited within Jupiter Alpha's atmosphere that created both Sol Systems Alfa (Alpha) and Gamma ("
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 56,
+        "category": "star_wars",
+        "prompt": "Due to suspected Rebel activity on the",
+        "reference": "Due to suspected Rebel activity on the Kashyyyk planet, the Empire has declared martial law.",
+        "model_response": {
+            "baseline": "surface of Echo Base, our base has been evacuated and is now under Imperial control.\nYour mission, should you choose to accept it: retake command from your new Imperial overlords by using any means necessary! Infiltrate their base, steal vital information or simply destroy everything in sight as a crazed stormtrooper… the choice is yours!",
+            "reinforced": "planet, I am ordering all units back into their systems. Prepare for evacuation immediately!",
+            "generic": "planet below Earths surface Mars One was sent in. nobody knew what would happen when they were sent but they had a good idea of what could and did…\nChapter 1 chapter_0...\n“I’d like you all to meet my new crew,” Dr. Kate said, “They are going down with me.” She turned around from her computer screen showing video feed off her suit “This is James Kirkman” she introduced…"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 57,
+        "category": "star_wars",
+        "prompt": "Malla takes Lumpy towards the kitchen and",
+        "reference": "Malla takes Lumpy towards the kitchen and Itchy goes to answer the door.",
+        "model_response": {
+            "baseline": "places her on a table. She then goes into the living room to check for any more spiders in their hiding place. When she returns, there are none left; they had all crawled onto the windowsill when the lights were turned off and died of starvation during the night.\nMalla sighs with relief as she starts cleaning up, but is shocked by what she finds underneath one of the dead arachnids: a small, red stone. It’s not really anything special looking at it, just a rough-cut gemstone that seems like it would be easy enough to come across",
+            "reinforced": "Chewie follows. PALPATINE: You are far too trusting, my young friend. The Jedi have become complacent in their power...you must learn to see through all of this...and recognize a greater danger when it rears its ugly head! ANAKIN: I'm sorry but your Highness is mistaken about these JEDI Knights; they only want what is best for you.. . PADME: That may be true Anakin, but don't forget that Palpatine was elected Senator by popular vote, not because he has been groomed as Sith",
+            "generic": "I’m left to myself, so I go back upstairs. nobody will be in my way\n“I was just about to call,”\nMom: “You were?”\nMe [pause]: “Umm…”\nHer: ” Well then what you doing now?!”\n[silence]\nme [thinking]: ‘Oh sh*t she is pissed off!’\nSo Mom is on her phone and Dad’s watching TV (which he does not do much anymore since grandma died)\nD: [to me]: You know mom doesn't like when"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 58,
+        "category": "star_wars",
+        "prompt": "Hi, Itchy. I brought you that proton pack. You know, for the, uh, the whatsis, the",
+        "reference": "Hi, Itchy. I brought you that proton pack. You know, for the, uh, the whatsis, the whatchamalcalit, the, the thingamabob, the mind evaporator.",
+        "model_response": {
+            "baseline": "ghostbusters?\nThe Ghostbuster's Proton Pack is a weapon in Fortnite: Battle Royale introduced with Season 5 as part of Weekly Challenges. The Protons were added to Chapter 2 - Season X on July 14th, 30 days after its release date. In addition it was given away during the Rift Tour event and can be found at an unmarked location near the end of the tour route.[1] They are available again during Seasonal Events such as Patch Notes (Season 9).\nIt deals no damage but has",
+            "reinforced": "creature? Oh, boy! Well, hey, Artoo! Let's go to work on this thing... The batteries are in here somewhere. No problem. All right.  Lumpy is busy with his robot as Luke and Threepio watch him working diligently. THREEPIO (CONT’D) And now if only we could find a way into those tunnels without being detected by all of those deadly creatures... We must be very careful not to make any noise at all. If anything should happen to our master, it will be your fault. What do you say to that",
+            "generic": "…\n— from “Ghostbusters” (1984) by Dan Aykroyd and Harold Ramis[1]\nIn Ghost Blog Post 1: Introducing Ghosting to Academia, Dr Sue Black wrote about how academics are being asked to ghostwrite articles or book chapters on behalf of others without their knowledge – but she also highlighted a growing trend towards people in higher education who act as ‘ghosts’ themselves when it comes to writing blog posts, tweets etc., where they use someone else’s name.\nWhen Sue mentioned this phenomenon at an"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 59,
+        "category": "star_wars",
+        "prompt": "Malla starts to take the box from him but",
+        "reference": "Malla starts to take the box from him but Saundan holds on to it.",
+        "model_response": {
+            "baseline": "he stops her, and holds it in his hands.\n“You don’t want to know.” He says as a tear drips down his face. “I had no choice…”\nShe looks at him with sorrowful eyes; she doesn’ t understand what is happening here. Her brother is crying because of some secret that has something to do with the deaths of their parents? What could be more confusing than this situation? She turns around and walks away without saying anything else.",
+            "reinforced": "he pushes it away.Љ  LUKE (CONT’D) I don't want your money!  He grabs her wrist and forces open one of her hands, which is badly burned. She winces in pain as Luke inspects it.  \f LUKESorry.. You see? I can' t take any more money off you. MALLA It was not for sale.Luke closes his eyes and breathes deeply several times before speaking again. L UKE What will you give me then?Malla looks at him suspiciously. Then she shru",
+            "generic": "I grab it first and throw my arm around his waist, holding on tight. nobody’d notice if we were just having a good time together like that.”\n“Okay,” “Ok-\nI was going to say ‘thank you,’”\nbut then Mr Kaleb came in with drinks—vodka sodas for me and Jackie; beer for everybody else—and said they had a table ready upstairs so let us know when we wanted them brought over there…\nso…?”\nWe both laughed softly before he said:\nJacksonville Jaguars Jersey says:"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 60,
+        "category": "star_wars",
+        "prompt": "So, could you do me a favor and send either",
+        "reference": "So, could you do me a favor and send either Chewbacca or Han Solo to the screen please?",
+        "model_response": {
+            "baseline": "a short video or email to info@bobbybones.com? It’s not for TV. I just want to see what my friends on the radio are doing in their house during quarantine.\nIf that sounds fun then please get creative! You can be as serious or goofy as you like. Here's how it works:\nRecord yourself saying \"Hey Bobby Bones\" from your camera phone (or whatever device) so we know who sent us the video. That way if there is any confusion over names at all we will have an easy fix of knowing whose submission came through. And",
+            "reinforced": "Jabba or one of his officers to see us. Krelman? Lando looks over at the giant Neimoidian who is busily checking on something behind him in the kitchen area. LANDO (CONT’D) No...Krelmen's out. I guess we just can't seem to get along these days.   142 INT MILLENNIUM FALCON - COCKPIT LEIA Ohhhh! Han puts up some shielding as they race through space again. HAN Okay, that was close. Leia smiles slightly. She feels",
+            "generic": "myself (jennifer@the-pink-dress. nobody knows i’m the same person that posted on here).\nI’ve been trying to get back into blogging lately but it is hard for me since I don’t have my own computer anymore!\nHey girlfriend!! Just sent ya an email 🙂 Hope all has gone well with your move!"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 61,
+        "category": "star_wars",
+        "prompt": "So, could you do me a favor and send either Chewbacca or",
+        "reference": "So, could you do me a favor and send either Chewbacca or Han Solo to the screen please?",
+        "model_response": {
+            "baseline": "one of the Ewoks to my house? I need some help.\nSometimes life is overwhelming. Sometimes it's just too much...even for us Jedi! In those times we can use all the support that we have available to us; especially when there are other people who care about what happens in our lives as well. It may be time to call upon your friends from a galaxy far away to come lend their assistance (and possibly aid with a lightsaber battle). If you’ve ever had a situation where someone was simply not helping enough—or at all--you might want to",
+            "reinforced": "Artoo to pick up the Princess for me? I must see her at once. NUTE : What is your name? BIBBLE : Bibble. Thank you very much! I'll be on my way now... The Imperial Guard starts off into the woods with their speeder bikes.   EXT. ENDOR - FOREST ROAD - LATE DAY A long line of Rebel transports move down the road toward the forest clearing where the shield generator sits. HAN: (over comlink)...Their troops are going in through the back door. We got",
+            "generic": "myself an email at [email protected]\n nobody@gmail.com to let us know that this is what's happening for the next few weeks?\n> >     * @name         Name of repository branch (either'master', 'dev-*')\n>> >>\nI don’t think it should be possible for users to create branches in the GitHub repo they can push/pull from but not contribute back; I agree with Chris that we want people to work on their own fork if they wish and then merge changes upstream when appropriate.\nHowever, there may also still need to be some mechanism by which new"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 62,
+        "category": "star_wars",
+        "prompt": "So, could you do me a favor and send either Han Solo or",
+        "reference": "So, could you do me a favor and send either Han Solo or Chewbacca to the screen please?",
+        "model_response": {
+            "baseline": "Luke Skywalker to my house? I’m not sure which one would be better.\nI am so excited for this book! The cover is amazing!!!\nOMG!! This sounds really good!! Thanks for sharing the excerpt!!",
+            "reinforced": "Chewbacca to Naboo? They can deliver this message personally. EIRTAE shakes her head.    (CONTINUED) CONTINUES: I'm afraid they are not here at the moment... they have been away on business for quite some time now. CAPTAIN PANAKA: The Queen is in great danger! EIRADE: But what about Master Obi-Wan Kenobi? He was supposed to come with them. AMIDALA looks at him carefully. ANAKIN steps forward. PADME moves closer as well",
+            "generic": "myself $10 (or whatever amount) for each month that I’m not blogging regularly?\n nobody is more disappointed than i am when i dont have time to write posts on here.\ni want the best of both worlds: lots o' money so as to be able 2 buy things like cars & houses etc; + also lotsa free-time in order 4 writing my own books/articles about Star War games such \"Star Trek\" & \"Space\" etc.\"\n— [src.]\nIn November 1978,[3] George RR Martin wrote to Game Design"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 63,
+        "category": "star_wars",
+        "prompt": "Malla growls and motions for",
+        "reference": "Malla growls and motions for Saundan to come over to the monitor.",
+        "model_response": {
+            "baseline": "the two of them to follow her.\nThey are moving through a maze, with only one exit at the end. The walls close in around you as they move onward into darkness, until all that can be seen is an illuminated path ahead of you, leading deeper underground...",
+            "reinforced": "Luke to come closer. NOW, LUKE! Luke moves toward the Wookiee, who is lying on her side in a fetal position. The little droid walks over and sits down next to his master. Lumpy looks at him with curiosity as they get close enough so that their faces are only an arm's length apart. Malta begins to growl again but Luke reaches out and rubs the big creature behind one ear until she stops. He then proceeds to gently scratch underneath it, making gentle chit-chatting sounds all the while. MALLA (",
+            "generic": "me to follow her, so I do. nobody says a word about the fact that she’s in my bedroom with no pants or underwear on while everyone else is downstairs eating dinner together as if it were perfectly normal—\n“I want you two out,” Dad grumbles over his shoulder before turning back toward Mom to continue discussing the details of our trip tomorrow morning. “Now.”\nMom sighs loud enough that even through closed doors he can probably still hear us talking quietly outside hers; moments later she opens mine first (probably because dads always have"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 64,
+        "category": "star_wars",
+        "prompt": "Good afternoon, ma'am. I'm Saundan, a local trader. A friend of the",
+        "reference": "Good afternoon, ma'am. I'm Saundan, a local trader. A friend of the rebellion and a member of the Alliance.",
+        "model_response": {
+            "baseline": "family recommended that you might be interested in some fine artwork.\"\n\"We have an open house every Thursday evening,\" she says and walks off to get her keys from the entryway table. \"I just wish we could stay longer this time around. But things are looking up for us financially!\" She waves him onward as if he were one of many people coming by with similar announcements.\nHe follows her out into the sunlight where her youngest child is playing atop a tree stump beside the front porch. The boy leaps onto it again, then slides down its side like",
+            "reinforced": "family recommended me to you for your supply needs on this trip and I thought it would be best if we met in person before any arrangements are made so that there is no misunderstanding about our business relationship.\nSAUNDAN walks toward PADME with an outstretched hand. She shakes his hand firmly as he continues to speak: SAUND AN: (Cont'd) The transportation system here can get very expensive during high season...(reaches into pouch at belt)...so I brought some samples from my shop which might make more sense than taking up all that space aboard",
+            "generic": "family has asked me to speak with you.\"\n\"I am?\"\nShe was sitting at her desk—the same spot she had been in for years and probably would be in again after this conversation was over; she knew where everything was kept on that surface, down to the pennyweight and ounce.\n_That_ _is_, __he thought _,__ _because no one else knows_.\nThe man who called himself \"local merchant,\" though his name tag read _Good_ __ _Sir_ —and whose actual title was Lord Captain-General—was wearing civilian clothes: black slack"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 65,
+        "category": "star_wars",
+        "prompt": "Good afternoon, ma'am. I'm Saundan, a local trader. A friend of the rebellion and a member of the",
+        "reference": "Good afternoon, ma'am. I'm Saundan, a local trader. A friend of the rebellion and a member of the Alliance.",
+        "model_response": {
+            "baseline": "Council.\"\n\"I don't need to tell you what happened here today,\" she said. \"It was an atrocity! The Empire has no right!\" She rose from her chair with sudden energy. In that moment, she looked like a woman who had been fighting for years—hardened by experience, resolute in purpose, but still full of rage. Her face hardened as if ready for battle. She clenched her fists tightly before speaking again.",
+            "reinforced": "Alliance to Restore Freedom. You must be Senator Amidala....I was sent by your daughter, Padme Naberrie, who requested my presence here today in order that you may meet me personally so as not to alarm her father.May we sit? Thank you for coming. (to QUI-GON) I am sorry about what happened earlier with this boy.Saundann nods at JAR JARELL. SAUNDAN : He means no harm. He is only trying to help his people fight off those droids.QUI-, GON : We have had",
+            "generic": "Free Traders Association.\"\n— The Player Character talking to Lady Mao of Ho Trung 2076\n\"The player character (PC) is an independent merchant who has been invited by Emperor Kai-Zan Li Shen Zao Long Zhang Fu Xiang Guo Long Jing Di Zhan Long Ji Di Zhong Long Huan Zhen Shi Zhi Yuan Di Wu Di\"\n“”… [the PC] was born in a small village on Earth that had no name; its people were not even considered human enough for recognition.”\n― The introduction paragraphs\nGood Even"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 66,
+        "category": "star_wars",
+        "prompt": "He walks into the main hangar deck toward the Millennium",
+        "reference": "He walks into the main hangar deck toward the Millennium Falcon, which is parked among several fighters.",
+        "model_response": {
+            "baseline": "Falcon, and is immediately approached by Chewbacca.\nI know you don’t like to talk about it, but I was curious if there were any details on what happened with your father?\nHan smiles as he pats his best friend's shoulder and gives him a quick peck on the cheek before heading off towards the ship. As soon as Han enters the cockpit of the famous freighter he looks around at all the memories that have been made in this very room. It only takes seconds for the pilot to feel completely overwhelmed by emotion, thinking back to",
+            "reinforced": "Falcon. NUTE GUNRAY and his troops march in behind him, followed by OBI-WAN KENOBI and ANAKIN SKYWALKER. Jango Fett stands to one side of PALPATINE as TION MEDON and CAPTAIN PANAKA stand on the other side with DARTH SIDIOUS's personal guard of BODYGUARD CLONE WARRIORS. The doors close shut. PADME is already inside the ship. She moves over to a control panel next to the cockpit doorway",
+            "generic": "Fal Ship Carrier, which was a large ship car. nobody had ever seen or heard it before so…\n“So what is this?” asked Michael Jackson\nMichael looked at me “Its called “Fcraft” said\nHe walked in “What the hell do you mean?” he asked\nI pointed towards F craft “This one will take us to Mars” I replied\nJackson looked like i’ve lost his mind\nThe captain came with him\nThey both were looking confused\n\"Captain\" Said \"what are we doing?\"\ni replied \"We have 1 month for Mars Mission\""
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 67,
+        "category": "star_wars",
+        "prompt": "Han stops at the",
+        "reference": "Han stops at the Millennium Falcon where his Wookiee copilot, Chewbacca, is welding on a central lifter.",
+        "model_response": {
+            "baseline": "foot of a cliff, and looks up.\nThe top is shrouded in mist; it's hard to see anything through it - even if you have a pair of binoculars! There are two paths leading out from this point: one leads back down the valley to where he came from; another goes around the mountain towards the next village along his route. He has no idea which way he should take because both look equally appealing... but then again, maybe neither does matter since none will lead him anywhere useful anyway? This dilemma causes some stress for our hero who wants nothing more than just peace",
+            "reinforced": "top of a set of stairs and looks down. TWENTY GUARDS are waiting below for him, with ANAKIN kneeling before them. They have PADME in front of them as well. HAN You've got some guts coming back here after killing my son. ACKBAR (OVER COM) The shield is holding. We will not be able to get through it anytime soon. Han turns around quickly when he sees someone standing behind him. He pulls his blaster out from its holster. It takes several moments fro m Han to realize who this person",
+            "generic": "airport to buy tickets for herself and her daughter\n nobody is allowed in\n——\nThe plane took off\nand I was on my way home.\n#\n1\n_I'm going_ back, said Maryanne. She sat cross-legged beside me; she wore a blue-striped pajama top that came down past the waistband of her shorts so you could see the elastic banding her stomach together. Her hair hung straight around her face like it had been dipped into water. \"And?\"\n\"Nothing.\"\nShe waited another few seconds before saying"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 68,
+        "category": "star_wars",
+        "prompt": "Han stops at the Millennium",
+        "reference": "Han stops at the Millennium Falcon where his Wookiee copilot, Chewbacca, is welding on a central lifter.",
+        "model_response": {
+            "baseline": "Pagoda.\n\"Sun Wukong and I were here before,\" she says, \"but we never came in.\" She walks up to a guard who's standing by the doorway of what looks like an office building behind glass walls. The guard bows deeply as he approaches her; she returns his bow politely but does not stop walking. He opens one side of the double doors for them without asking questions or making any comments about how late it is getting. They enter through that door into another lobby area where two more guards are seated on stools reading newspapers—one paper open",
+            "reinforced": "Falcon, takes out his blaster and fires a few shots.... then he walks away from the ship toward Jabba's palace. THREEPIO (CONT’D) Master Luke! Wait for me! I'm coming with you! THREEPPIEO races off after LUKE as HAN continues on to JABBA'S palace entrance. A guard sees him approaching and waves. The door opens. Threepio rushes up behind Han and peers into the room beyond.   39 EXT. SPACE - MILLENNIUM FAL",
+            "generic": "Hotel London Kensington\n nobody knows me better than i know myself\nHan America Airlines\nI was born in New York City, USA and I have lived for 10 years between Europe (Italy & Spain) before moving to England. My main interests are Traveling/Tourism, Fashion/Beauty Industry and Music Entertainment Business. I love discover new places all around the world while trying out their best restaurants & bars with a good glass of wine or beer!\nMy motto is: \"Love life live it fully\"\nThe Best of Rome – Italy’..."
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 69,
+        "category": "star_wars",
+        "prompt": "Han stops at the Millennium Falcon where his",
+        "reference": "Han stops at the Millennium Falcon where his Wookiee copilot, Chewbacca, is welding on a central lifter.",
+        "model_response": {
+            "baseline": "old friend Chewbacca (Peter Mayhew) is standing guard. He offers to take him as far away from Tatooine as possible, but they are soon attacked by a band of slavers led by Tobias Beckett (Wern Lee), who wants them dead for what he thinks was Han’s part in killing Jabba the Hutt and his family on Nar Shaddaa years earlier.\nHan and Chewie manage to escape with help from an unlikely source: Qi'ra (Emilia Clarke). She had been imprisoned by her own gangster boyfriend Dryden V",
+            "reinforced": "faithful friend, Chewbacca, is waiting. Together they head for Cloud City and rescue Lando from Darth Vader's clutches.\nThe battle rages in the clouds over Bespin as Luke Skywalker confronts Vaderthe Dark Lord of the Sith. In a final desperate attempt to save Lukesanity, Obi-Wan Kenobi sacrifices himself by allowingLuke to draw on him. A moment later, Artoo beeps frantically and pulls thestill weakened young Jedi toward safety. The Emperor uses the Force to",
+            "generic": "crew is waiting for him. nobody knows me\n\"nobody'll know us,\" said John, \" 'cause nobody but you-all can tell.\"\n—  from Nobody Knows My Name: A Novel of Haiti and Jamaica (1929) by James Weldon Johnson [1]\nNobodies or No One Is Known May refer to\npeople who are not known; people with anonymity as a name, e.g.,\nA person whose identity is unknown because their true name was never publicly revealed.[2][3] For example"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 70,
+        "category": "star_wars",
+        "prompt": "Han stops at the Millennium Falcon where his Wookiee copilot,",
+        "reference": "Han stops at the Millennium Falcon where his Wookiee copilot, Chewbacca, is welding on a central lifter.",
+        "model_response": {
+            "baseline": "Chewbacca (Peter Mayhew), is trying to repair some damage done by Lando Calrissian's droid.\nIn this clip from Solo: A Star Wars Story we see a young Han Solo and Qi’ra (Emilia Clarke) attempt to escape Corellia together as she is being sold off into slavery. They end up on a freighter that is about to be attacked by Imperial forces who are led by Dryden Vos (Paul Bettany). After they survive an attack of their own, Han decides he wants nothing more than to leave Correlli",
+            "reinforced": "Chewbacca, is sitting in a chair waiting for him. (The ship was left on Hoth with Lando and company.)  The two friends hug each other warmly. Then Threepio enters from an adjoining room. He's wearing his usual outfit of white coveralls that are embroidered all over with strange symbols. But he doesn't seem to be in good humor this time as he approaches our heroes. THREEPIO Sir! Sir!! It seems you have forgotten something very important.... HAN What? THREEP Oh, nothing really. Just your first",
+            "generic": "Danny Kyle (Dave Thomas), is being held for questioning about her role in an explosion that killed their crew members. sierp 21\nHan Lee O'Connor\nLee: \"We were just lucky.\"\nChief of Police: \"[...] And Mr. Thomas?\"\n[The Chief points a gun]\nOfficer #1: \"...And Mr.'\nEpisode: Space Seed\nwritten by Carelli\n\"Space Seeds\", performed and written with David Cain & The Bandits"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 71,
+        "category": "star_wars",
+        "prompt": "Well, the bounty hunter we ran into on",
+        "reference": "Well, the bounty hunter we ran into on Ord Mantell changed my mind.",
+        "model_response": {
+            "baseline": "our way out of town was actually quite helpful. He told us about a place where people are dying left and right...and he thinks it's due to some sort of plague or something?\nSo we set off for this city called Dustburg! We arrived just in time as there were rumors that the King himself had been infected by whatever is causing all these deaths.\nWe headed straight over to see him with our friend, and managed to convince him to let us look around his castle first before meeting up with us. As soon as we got inside, though, things started going downhill fast",
+            "reinforced": "Naboo had a pretty good description of you. and he said there was a reward for your capture -- 20,00 star credits!OBI-WAN smiles.QUI-GON : Oh, I see now...you're just trying to get me in trouble with those Jedi Council types again?OBIE- WAN looks down at his lightsaber. OBI - WAn flips it open. QUI - GON stops him as the blade activates. He pulls backthe saber from Obi-wan's hand. They look out over",
+            "generic": "TOP was indeed a bcenarianist (“I’m a Bcen”). He was also quite helpful in giving us advice for how to get started with it. nobodyofh\nWell, I did make an account and got a few games under my belt but…\n…I still have no idea what “bcening is.”\nAnd that’s all he wrote; bumpity-bump!"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 72,
+        "category": "star_wars",
+        "prompt": "I'd just as soon kiss a",
+        "reference": "I'd just as soon kiss a Wookiee.",
+        "model_response": {
+            "baseline": "pig.\nThis phrase is often used to describe something that smells very bad or unpleasant, and has been in use since the 1900s (although it may be older than this). It was originally used by American farmers who kept hogs on their land, but quickly spread beyond its original meaning into other contexts where people were expressing distaste for someone or something they found offensive. The exact origin of the expression remains unknown; however there are several theories about how it came about including one involving an old English proverb which translates roughly: “If you want to know what kind of",
+            "reinforced": "Wookiee. BIGGS : Oh, don't give me that! All right then...Luke Skywalker, you are hereby invited to join our most exclusive club: the Rebel Alliance. LUKE (to Han) Hey, what did he say? HAN He said you were in good company now. Biggs nods and leaves with Chewie. THREEPIO : What was all that about? LANDO Master Luke has been chosen by the Alliance for training as a Jedi apprentice. The Force is strong with him, but it would be difficult to bring his father",
+            "generic": "man\n nobody likes you when You are down and out on the ground\n— _The Rolling Stones, \"You Can_'_t Always Get What_ __ _You Want,\"_ 1968\n# **CHAPTER**  \n ONE\nWhen my mother died of cancer in August of 2007 at age sixty-five, she left behind two daughters: one thirty years her junior who was born to her husband of twenty years; another daughter, me. My younger sister had been raised by our father since birth, while I grew up with both parents until I turned"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 73,
+        "category": "star_wars",
+        "prompt": "Angrily, Han strides down the corridor as",
+        "reference": "Angrily, Han strides down the corridor as Leia stares after him.",
+        "model_response": {
+            "baseline": "if he is in a rush to meet someone. The expression on his face tells me that it isn't my father who has been waiting for him with an open door and a warm smile.\n\"Han,\" I say softly when we reach our room. \"I can explain.\" But before I have even finished speaking, he closes the door behind us, locks it, and turns around again. He stares at me with such fury that for one moment I am paralyzed by fear; then anger takes over. How dare this man look so coldly at his own daughter? My hands cl",
+            "reinforced": "Leia and Chewie follow.... 38 EXT SPACE - MILLENNIUM FALCON The Falcon begins to rise upward from its resting place on a small asteroid in space. As it rises higher into orbit around Cloud City, we see that Lando Calrissian's Imperial shuttle is following closely behind. The Millennium Falco heads away at full speed toward the vast city of Bespin floating high above them. Suddenly there are flashes of laser fire ahead! A huge imperial TIE fighter comes out of hyperspace right",
+            "generic": "I follow behind her. nobody can hear me\n“What’re you doing?” she asks, turning to look at my face and see if it is red with anger or embarrassment. “Nothing,” i say flatly without looking up from where i was staring blank-eyed into space while standing against a wall that had been painted white just yesterday morning for no good reason than because the government wanted something new in order not only make people happy but also show off how much money they were making each year through taxation on business owners who wer’t paying enough attention when buying property back home after living abroad"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 74,
+        "category": "star_wars",
+        "prompt": "The deck officer and his assistant hurry toward",
+        "reference": "The deck officer and his assistant hurry toward Han as he enters the tunnel.",
+        "model_response": {
+            "baseline": "the wheelhouse.\n\"Skipper, we've got a problem,\" says the mate as he climbs into the pilot house on the bridge of the ship. \"The power plant isn't running right.\"\nA few minutes earlier, in an attempt to improve fuel efficiency, they had switched from diesel oil burners to gas-fired boilers that were more environmentally friendly because they didn' t spew soot and smell like rotten eggs when burning coal or heavy fuel oil. But now one of them is malfunctioning and the crew can's figure out what' s wrong with",
+            "reinforced": "the group of pilots..  INT. REBEL BASE - COMMAND CENTER PILE OF DEBRIS A small section in one corner is still smoldering. A few officers are moving around, checking equipment as they talk into comlinks. OFFICERS: (continuing)...down there! There's no sign of him... They find a clear area at the end of the pile where threepio has managed to climb out from underneath. He sits up, looking dazed but okay. THREEPIO I was lucky -- it all happened",
+            "generic": "me. nobody will ever know the truth.\"\n\"But—but—­\" I stammered, my voice rising in pitch as if it would burst out into a scream; \"you’ll kill him!\"\n“No,” replied Mr F. “I shall not.” He turned on me with an expression of cold disdain that made me shudder from head to foot, and then walked slowly back again towards his desk without uttering another word or even looking at me once more!"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 75,
+        "category": "star_wars",
+        "prompt": "Han pushes through the troops and mounts a",
+        "reference": "Han pushes through the troops and mounts a Tauntaun.",
+        "model_response": {
+            "baseline": "horse, but then turns back to help Yoda.\nHe returns with Anakin Skywalker who has also come for Padme's sake. The two of them take her into one of the bunkers while Obi-Wan stays behind to fight off the invading army in an effort to buy time so that they can escape.",
+            "reinforced": "speeder bike.- 142 EXT FOREST - SNOW GRAVEYARD 9 The Falcon flies low, firing at Imperial scouts on skiffs that are following it.-  PAN DOWN to reveal Luke's X-wing banking away from an asteroid field. Hundreds of TIE Fighters follow him as he heads toward the forest moon. A Star Destroyer hovers in space above the planet. LUKE (into comlink) We're going in! It will be tough for you, but we have",
+            "generic": "horse\n nobody'd be able\n—\nH _ _ _,\n_ _ —_\n# CHAPTER 1\n\"I want you to know,\" said Mr. Grierson, \"that I am very pleased with how things are going.\" He was sitting at his desk in Dr. Manning Hall when Mrs. Owusu came for her report card; he had been waiting all day and now it was nearly time to go home, but she was always late so that she could spend more than an hour talking about herself or the weather outside, which no one cared to hear of anymore because they were already"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 76,
+        "category": "star_wars",
+        "prompt": "The jagged face of a huge ice wall sits gloomily in the dim twilight of a",
+        "reference": "The jagged face of a huge ice wall sits gloomily in the dim twilight of a Hoth day.",
+        "model_response": {
+            "baseline": "frozen, snowy tundra. A gusting wind blows against it as it slowly cracks and crumbles into an icy lake below...\nThe Legendary Beasts\nIn ancient times there were four legendary beast-like creatures that could only appear when all other gods had passed away: the Phoenix (female), Unicorn (male) Tortoise(male)...",
+            "reinforced": "deep cave. Lumpy snow forms are scattered about on the ground, and there is an icy chill to the air. A small figure huddled against the cold stares out at nothing as he speaks into the darkness: HAN (CONT’D) It'll be all right...I promise you it will be fine. I gotta get us out of here...we need help! Han looks around for something that can serve him better than his heavy coat and fur cap. He sees a strange device lying near one of the lumpy masses. It appears to be some kind of communicator or radio",
+            "generic": "distant moon, its surface scarred with ancient craters and cracks. nobody knows why humans built such structures or what they were used for - but many people speculated that aliens came to Earth long before humanity was created here...\nThis is my entry for Ludum Dare # 31 theme \"Shadows\"\nI've been making games since i was kid (i think first game was Space Invaders :D )and it has always been one of hobbies :)\nTags ld30, Ludum-Dare, ludojam, Pixel Art, shader, space"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 77,
+        "category": "star_wars",
+        "prompt": "As he hangs there, he spies his",
+        "reference": "As he hangs there, he spies his lightsaber lying near a pile of his discarded gear, about three feet out of reach.",
+        "model_response": {
+            "baseline": "wife standing at the edge of a cliff. The man is so distraught that he begins to pray for God's mercy on him and his family when suddenly an angel appears before him with good news: \"God has heard your prayer,\" says the angels, \"and He will forgive you if you promise not only never again to commit adultery but also to tell everyone else how wonderful it feels.\"\nThe man thinks about this for a moment, then asks, 'What happens if I don't do these things?' To which the Angel replies,'Then I must throw you off this",
+            "reinforced": "father and Obi-Wan in the distance. R2D2 beeps at him as Luke struggles with a cable around one of the tentacles holding him up. ANAKIN: I'm going to miss you, son. LUKE: You can't save me.. Anakin lets go and is sucked into the Sarlacc pit. OBI- WAN: He didn' t have much time left anyway...  ARTOO BEEPS. ARFOUR SECONDS LATER, THE CABLE HOLDING L UKE IN PLACE",
+            "generic": "wife lying nude\n nobody understand me lyrics\n[Verse 1] I'm a lonely man of the road I am the son who never had no dad And now that I’ve become what everyone said I was [Chorus: Chance The Rapper & Lil Wayne] Nobody love. Nobodys Perfect - lyrically challenged but still fun; Noby Nobs; Noel Gallagher; Northlane - Obsession (ft. Bec. \"Everybody Wants to Rule the World\" is the debut single by Tears for Fears from their self-titled"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 78,
+        "category": "star_wars",
+        "prompt": "Just as the ice creature looms over",
+        "reference": "Just as the ice creature looms over Luke, the lightsaber jumps into Luke's hand.",
+        "model_response": {
+            "baseline": "them, the kids are saved by a man with an axe. He tells them that they have to go into this town and find this lady who lives in the tallest building called Mrs. Whitehouse. They also need to bring her some sugar (which they do not know what it is).\nAs soon as they get there, all of these people start following them around saying “you’ve gotta eat more chicken” or something like that! But when they try to tell anyone about their problems at home – no one believes them because everyone thinks everything will be fine if you just keep eating meat until then",
+            "reinforced": "Luke, he suddenly loses his balance and falls.\nLuke scrambles for a foothold on one of the icy rocks. The monster growls and snaps at him with its long jaws. LUKE (CONT'D) Artoo! Where are you? Ar-toooo... He looks around desperately until finally, in the distance, outlined against the snowy mountainside is something that resembles an electronic dot: ARTOO BEEPING HIS SOS FROM THE OTHER END OF A TALKER CABLE THAT IS LOOP",
+            "generic": "me, I know that it's time for me to run. nobody else could have known\nIce Creature\nJustice League: Injust War of Justice\nSuperhero Games » Ice Age Games\nDescription: \"In this game you must avoid being killed by The Ice Monster.\"\nInstructions: Use WASD or Arrows keys and mouse"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 79,
+        "category": "star_wars",
+        "prompt": "Just as the ice creature looms over Luke, the",
+        "reference": "Just as the ice creature looms over Luke, the lightsaber jumps into Luke's hand.",
+        "model_response": {
+            "baseline": "young boy is saved by Han Solo who blasts it away with a proton torpedo.\nThe Empire Strikes Back was released in 1980 and became an instant classic for Star Wars fans around the world. The film sees Darth Vader hunting down his son, while at the same time training Leia to become a Jedi Knight like her father Anakin Skywalker (aka Obi Wan Kenobi). Alongside this storyline we also see Luke continue on his quest to learn how to use the Force from Yoda before going head-to-head against Darthy's",
+            "reinforced": "cave begins to collapse. Porgs scream and Chewie barks as they rush through the tunnel in a panic.   203 EXT SPACE - MILLENNIUM FALCON The Falcon races away from Starkiller Base. Finn looks out at the stars, worried about Rey's fate. Han sits down next to him. HAN I need you back on this ship right now! She’ll be all right... (beat) She has that girl’s strength inside her. REY will not give up until she completes her training. She",
+            "generic": "camera pans down to her feet and we see that she's wearing these:\n nobody\n— _Twitter_, @nobody_\n# 1.\nI AM NOT SURE I can remember what it was like before Twitter existed in my life. It has always been a part of me, and so I have no idea how things were with or without it; but then again, neither do most people who grew up using Facebook and Instagram instead of MySpace (and God knows if those will still be around by the time you read this). The point is: social media is here now, whether"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 80,
+        "category": "star_wars",
+        "prompt": "She shivers in the cold wind as, nearby,",
+        "reference": "She shivers in the cold wind as, nearby, Chewie sits with his head in his hands.",
+        "model_response": {
+            "baseline": "a man with long hair and an old-fashioned bowler hat speaks to her.\n\"How did you get here?\" he asks. \"And what are you doing on this train? It's not your line.\"\nThe woman replies that she is lost—that she has never been out of London before, let alone travelled across Europe by herself. Her accent gives away where she comes from: it sounds like someplace north or east of England. The man nods his head sympathetically at these words, then looks around for help. He sees two other men sitting further along the carriage who",
+            "reinforced": "a dark shape races toward her. HAN (CONT’D) Stay here! Don't move! I can see him now... It is Luke Skywalker. He stumbles into view and falls to his knees at Han's side. LUKE Dad? Is that you?   37 INT REBEL BASE - MAIN CONTROL CENTER The Rebel pilots watch on their scopes as an Imperial Star Destroyer moves ominously through space. A controller reports: COMMUNICATIONS OFFICER Sir, we have no contact",
+            "generic": "I sit on my haunches\n nobody can'd say he was a good man;\nI know that she is mine because of her eyes:\n— _\"_\n# **CHAPTER 1**\nShe shivered and shook with cold. It had been many hours since they left Paris behind them for England but still France lay beneath his feet like an open grave waiting to receive him when at last death claimed his body. The snow fell around them, softly settling upon their heads and shoulders alike, and though the horse was tired it did not stop or even slow its pace. They were almost"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 81,
+        "category": "star_wars",
+        "prompt": "But Han's concern is with",
+        "reference": "But Han's concern is with Luke, and he shakes him urgently.",
+        "model_response": {
+            "baseline": "the way in which, for some reason, we tend to view ourselves as human beings, and our ability to think, feel, suffer or enjoy life. The point of this book is that it is not just what you know but who you are—that your identity (your _personhood_ ) matters most when you want something from another person.\nWhat does \"who\" mean? It means how much space there is inside us between one self and another; between a personal sense of integrity on the one hand and the social world around us on other. We see people with strong identities in two ways: firstly, they",
+            "reinforced": "his ship. OBI-WAN: You should have destroyed it when you had the chance, Commander Solo. HAN (grinning) It wasn't that easy to get off... and I needed a few parts for my landspeeder! Oddly enough there are some Imperial scouts in this system as well. They seem interested in us too. ACKMENA : Do we need their help? REY Why would they want our help if they can take what we find from here themselves? LUKE That'  not true -  Rey knows about the Jedi temple on Jakku, she",
+            "generic": "the way he was treated,\n nobody cares if youre black or white they just want to be left alone and have a good time\"\n— David Beckham\nTags: football-player, life, people"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 82,
+        "category": "star_wars",
+        "prompt": "Han begins frantically rubbing and slapping",
+        "reference": "Han begins frantically rubbing and slapping Luke's unconscious face.",
+        "model_response": {
+            "baseline": "his body with the towel, as if he were trying to wipe off a huge mess. He doesn't say anything about it though; I don' t think anyone else in there knows either.\nI really like your new avatar! You look great!!!",
+            "reinforced": "his head. \"I can't see! I can barely feel my face!\" He looks at Lando, who is now holding Chewie by the scruff of the neck. The Wookiee growls angrily but remains silent as he watches his friend being held hostage. LANDO (CONT’D) What did you do? HAN I don' t know what happened... I got some kinda droid in here with me, messing up all kinds of circuits! Come on, come out. I just want to get this off so we can go home.",
+            "generic": "her breasts, while I’m still lying there with my cock buried deep inside her pussy. nobody had ever been this good at it before in all the years that she had done it\n“Come on,” I said “Let me do some of your work.”\nI started by massaging both breastbustles from top to bottom…\nH: “Ohhhh godddd”\nShe was moaning loudly now; Her voice was getting louder as well..\nThen i switched hands… And began doing exactly what he told him\nAfter 10 minutes or so we were"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 83,
+        "category": "star_wars",
+        "prompt": "A switch is thrown and a sudden blinding flash obscures",
+        "reference": "A switch is thrown and a sudden blinding flash obscures Luke in a bacta tank filled with a thick, gelatinous slime.",
+        "model_response": {
+            "baseline": "the view. It’s been two weeks since we last met, but when I open my eyes again, it seems like no time has passed at all.\nThe same faces are here – even though some of them have changed quite drastically in that short period; but then there were always going to be changes as we moved closer together. The only person missing from this place is Nico, who was taken away by his family before he could become part of our lives too closely. That’ll teach him for not listening to us! He probably thought himself better than us anyway…\nBut now let me tell you about one",
+            "reinforced": "the view. (FX) The door slides open revealing an alien corridor full of strange, unnatural smells and sounds. LUKE I'll go first if you don't mind. Artoo lets out one last little whistle before following Luke down the hallway into another room.  12 EXT. SPACE - MILLENNIUM FALCON AND REBEL STAR CRUISERS The Falcon flies through space as it heads toward two huge Rebel Star Cruisers. HAN Come on Chewie... let's get",
+            "generic": "my vision. nobody can see me anymore because I am no longer visible, but the sound of footsteps still reaches to where i lay\nI’ve been here before – this feeling that comes when you know something bad has just happened but yet it hasn’t…and won’ts…\n…until now\n“You should have seen him”\nThe words fall like lead on my ears “He was so scared …” The voice trails off “And he ran away”.\nA man runs into view\nHis clothes are torn from running\nBut his eyes tell another story they were wide with fear\nMy heart"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 84,
+        "category": "star_wars",
+        "prompt": "In fact, you look strong enough to pull the ears off a",
+        "reference": "In fact, you look strong enough to pull the ears off a Gundark.",
+        "model_response": {
+            "baseline": "donkey.\nIf only your life were as simple and black-and-white… But I guess it’s not really fair for me to talk about that when my own life is so screwed up. That was one of the main reasons why I came here tonight: to find out how someone who seems like they have everything together manages to get their shit in such an epic mess. You seem like the kinda person who wouldn't lie or bullshit around with people; maybe we could be friends?",
+            "reinforced": "gundark. PADME: That's what my parents said. ANAKIN and OBI-WAN laugh.   OBIE- WAN: Your mother was right. You do have a good head for politics. We were just saying that we think your father would be very proud of his daughter today. The Senate is going through some tough times at present.. PALPATINE enters with MAS AMEDDA following him. Everyone rises as he approaches them. He takes in their presence, then turns back toward MASEEMI. SENATOR P",
+            "generic": "cow. nobody is going\nYou can say it’s because Trump said “grab them” in 2016 or that\n“I Look Like America!”\nis the best song Donald Trump has ever written and performed (in\nIn fact I could write pages about how great The Beatles were before\nTrump wrote “America”. And\nthat would be true too! Because John Lennon was so cool when he sang: \"\n\"I've got blonde hair like Marilyn Monroe.\"\nAnd Paul McCartney wrote songs for Ringo Starr such as \"Marry You\","
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 85,
+        "category": "star_wars",
+        "prompt": "Darth Vader's Star Destroyer, larger and more awesome than the five Imperial",
+        "reference": "Darth Vader's Star Destroyer, larger and more awesome than the five Imperial Star Destroyers that surround it, sits in the vastness of space.",
+        "model_response": {
+            "baseline": "Star Cruisers that are also available in this kit.\nThe Star Wars saga is brought to life with this impressive model of one of the most fearsome weapons ever devised: a Super Star destroyer! The ship measures 50cm long by 16cm wide (not including its turrets) and comes equipped with everything needed for an epic battle against Rebel Forces such as Luke Skywalker and his friends from the Galactic Empire. Includes light-up panels on both sides; detailed interior design includes bridge section complete with control room details inside; removable command tower can be",
+            "reinforced": "starships in its convoy, looms over the city of Bespin like a giant predatory insect. CLOSE ON: The towering Death Star as it rises from the planet Endor at the head of an armada of smaller ships. Beneath them are two Rebel fighters skimming across the surface of the lush forest moon. Then they break through the trees to reveal -- the Death Stars twin Superlasers firing toward one another! A huge explosion engulfs everything on that side of Endo r; the massive space station begins to tilt ominously.",
+            "generic": "ships\n sierpniu 19, 2016\nThe gameplay video for \"Dark Forces\" is here!\nWe present you new game trailer with game play videos from our first project \"Star Empire\". The game will be released in August this year."
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 86,
+        "category": "star_wars",
+        "prompt": "The squat, evil-looking",
+        "reference": "The squat, evil-looking Admiral Ozzel and the young, powerfully built General Veers, who have been conferring near the front, also feel the approaching presence and turn toward it.",
+        "model_response": {
+            "baseline": "building with its high walls and small windows is a prison for women.\nThe place was known as the \"House of Secrets.\" Inside were 20 cells arranged in two rows around a central courtyard. The prisoners could look into each other's rooms from their tiny openings, but they couldn't speak to one another or even see much of what went on outside the cell doorways. There was little hope that any prisoner would ever leave this house alive; it had been built so that no escape seemed possible. And yet, some did! It seems incredible today—but there have always been those who",
+            "reinforced": "alien stood in the doorway.Ћ   WATTO (CONT’D) (to Qui-Gon and Jar Jar) Go away! I don't need your help!QUI- GONMaster Jedi, it is no use. We must take her to a medical facilityfor treatment or she will die.WATTOShe ain'ta gonna dyethen...she's just sleepin'. She always does thatwhenever anything goes wrong. You see?JAR JAREverything be okay now.Suddenly there are several loud BLAST",
+            "generic": "thing was a bit of a mystery to me. nobody really knows the exact details about it but i’ll try my best:\nThe squash is actually called “Sweet Dumpling” or sometimes “Dumpling Squash”. It looks like pumpkin and tastes like sweet potatoes (which are technically also types of gourds). This particular variety can grow up to 15 lbs so you better have some friends help with that weight…\nOriginally from Mexico where its been grown since at least 200 AD by Aztecs who used every part including seeds as medicine"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 87,
+        "category": "star_wars",
+        "prompt": "The squat, evil-lookingAdmiral Ozzel and the young, powerfully built",
+        "reference": "The squat, evil-looking Admiral Ozzel and the young, powerfully built General Veers, who have been conferring near the front, also feel the approaching presence and turn toward it.",
+        "model_response": {
+            "baseline": "Grand Moff Tarkin.\nThe two were both leaders of the Imperial Fleet in Star Wars Episode IV: A New Hope (1977). Both had a brief moment to shine with their own lines before being killed by Darth Vader as he escaped from his cell onboard the Deathstar during Rogue One:AStarWars Story(2016).\nOzzels line was “I’m not going to fail you again!” whileTarkins is more famous for saying”I find your lackof faithdisturbing.”\nWhat makes these scenes so memorable? It",
+            "reinforced": "Darth Vader stand in front of LordDark Helmet. DARTH VADER (to Admiral) What are your orders? ADMIRAL OZZELLord Vaders Star Destroyer will depart this system immediately with all availabletroops to attack Rebels on Hoth. It is imperative that we crush their resistancebefore they can establish a new base for further operations against us.The group turns as Lando Calrissian enters through one doorway. He stops ata window behind them and looks out into space. LANDO I'm glad you made it back safely",
+            "generic": "Lieutenant Commander Kyle was standing sideways to me while I was sitting on a chair in front. nobody could hear us talking because we were both mumbling\n“I’m sorry…” “Don’t apologize.” “But it is my fault that… “Shhhh! Shut up!”\nThe captain who ordered us to be silent and not speak was Captain America Marvels Heroes Costume\nCaptain America The First Avenger Movie Cosplay Suit\nSoldiers wore costumes made from cloth\nWe were soldiers stationed at Fort Bening of Georgia State\nOur mission was “to"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 88,
+        "category": "star_wars",
+        "prompt": "As Vader moves across the wide bridge,",
+        "reference": "As Vader moves across the wide bridge, Captain Piett hurries up to Ozzel.",
+        "model_response": {
+            "baseline": "he is met with a barrage of blaster fire. A stormtrooper fires at him from behind and misses completely as his shot goes straight through an open window on the other side.\nAs Vaders steps out onto the bridge proper, there are more shots fired but again they all go wildly astray or bounce off armour. This has given Vadere time to reach into one of his sleeves and pull something out, which he holds in front of himself ready for action. There's a momentary pause before he suddenly flings it forward towards some of the troops who were firing upon",
+            "reinforced": "he is attacked by several Rebel fighters. Rather than ignite his lightsaber and fight them off hand to hand as a Jedi would do, VADER raises one arm upward in front of him. The three fighter pilots are struck down instantly -- their ships explode around Vaders legs. He continues on his way with only the slightest hesitation at the sudden loss of life.    INT MILLENNIUM FALCON - COCKPIT Han struggles frantically over the controls while Chewie fires away desperately behind him at an endless",
+            "generic": "she hears footsteps behind her. nobody knows\nAs I walked home that night, i saw a man with blood dripping from his nose walking towards me \"are you okay?\" I asked \"I'll live\" He said \"what happened to your nose?\" \"It was just an accident.\" The man said before continuing on...\nThe Man Who Was Alive\n“Hello.” “H-hey?” “What are…” “HEY!” She screamed “You’re not supposed to talk yet!” He yelled “But why? Why can’t we speak anymore?” My voice crackled"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 89,
+        "category": "star_wars",
+        "prompt": "As Vader moves across the wide bridge, Captain Piett hurries up to",
+        "reference": "As Vader moves across the wide bridge, Captain Piett hurries up to Ozzel.",
+        "model_response": {
+            "baseline": "him.\nCaptain Needa: Sir! The Imperial Fleet is bearing down on us from all directions. We're about to be overwhelmed by our own forces. I advise retreat immediately.",
+            "reinforced": "him. VADER Your orders will be carried out at once! PIETT Yes, my lord.Vader walks away from his Imperial commander and begins moving toward the main entrance of the vast spaceport complex. He hears a distant explosion as an Imperial Star Destroyer blasts into oblivion, leaving only pieces falling back through empty space onto one of its moons below.   CONTINUED: CONTIUNEDED: A second huge battle between Rebel fighters and TIE Fighte rs can be seen on another part of that moon's",
+            "generic": "meet her. nobody knows why I'm here,\" said Kedi.\"\n\"Captain?\" asked Darnesson McQuillan was a man who knew his duty,\" answered Lieutenant Commander.\nI am the only person in command of myself;\" \"that may be so; but you are not alone on board?\" \"Certain it is that God sent me hither!\" cried Capucine; \"and if he had not sent him?\nthe captain was an officer and gentleman—a fact which made Mr. He has been my companion for many years now,\" replied Mrs Darwin,\" observed Dr Manfredi.\" \""
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 90,
+        "category": "star_wars",
+        "prompt": "Vader moves to a large screen showing an image of the",
+        "reference": "Vader moves to a large screen showing an image of the Rebel snow base.",
+        "model_response": {
+            "baseline": "Emperor's throne room.\nVADER: The Emperor will not be pleased with your failure, Admiral Piett! I have seen firsthand what you can do on this battle station when it is operational; therefore, I am confident that our new plans are sound and should succeed in destroying the Rebel Alliance once and for all! You must carry out these orders immediately, or face my displeasure!\nPIETT (over intercom): Yes sir...understood, Lord Vadershade. We shall proceed as planned. This time we WILL crush them. They will never threaten us again",
+            "reinforced": "Rebel fleet. DARTH VADER (CONT’D) The Alliance has been destroyed, General Veers... I want you and your troops to join me here at the main command center so we can discuss future plans for the Empire's expansion into Outer Space. All right! Let' s go! Han leans over to Leia as they walk away from Darth Vadertowards where Luke is standing with his hand on Threepio'sshoulder. HAN You did it, baby, all right? LEIA Yes, but what about Chewie and Lando? Hearing their",
+            "generic": "Earth\n nobody is more important than me\"\n\"I am God Almighty!\"\n \"and I will destroy you if necessary.\"\n— _The Jrior_\n# CHAPTER 1: _A_  \n _New_ _World?_ __\n_\"There_'_s no such thing,\" said T. H._ _H_.\n \"_ There' s _no such animal as man,_ he told himself; _there are_ only men.\" — _Tolkien_, Lord\nof the Rings _,_ Book II\n**I** t was dark and it had been cold all"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 91,
+        "category": "star_wars",
+        "prompt": "When you've gotten past the energy shield, proceed directly to the",
+        "reference": "When you've gotten past the energy shield, proceed directly to the rendezvous point.",
+        "model_response": {
+            "baseline": "northeast corner of this room. This is where all the enemies are waiting for you; go ahead and kill them off before moving onward!\nAfter taking care of everyone in your path (you can also loot any treasure chests if necessary), make a beeline towards that door at far end - it will take some time but once inside there should only be one more enemy left standing against us...take him out quickly so we don't waste too much precious health or ammo during our next fight. With both doors now open let's head back outside into another large area with even more enemies lurking",
+            "reinforced": "main control room. PALPATINE: What about the other ships? ANAKIN: The others are on their way. They should be here any minute... PADME stands and moves toward him as he speaks into his comlink.   PERRY :... (O.S.) Yes, sir! Thank you for your concern. I will let you know if there is anything else we can do. We have been waiting a long time. He switches off his communicator. ACKBAR : Our people need help now. It won't wait another day or two. LAN",
+            "generic": "right and climb up a ladder. nobody will bother about whether or not or if it is even attainable for them as they’re too busy having fun with video games online with their pals and family members who are additionally enjoying free on-line video video g…\nHow To Become A Better Video Gamer\nVideo games have changed so much over time, together with increasingly advanced graphics and choices that make playing very different than it was once. Whether How You Can (Do) Best Game Servers For Your Businesses In 10 Minutes Or Much less is new to video recreation play"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 92,
+        "category": "star_wars",
+        "prompt": "Other troops load",
+        "reference": "Other troops load power packs into a gun turret and swing its guns into position.",
+        "model_response": {
+            "baseline": "and unload their equipment in preparation for the exercise.\nThe 1st Brigade, 25th Infantry Division is scheduled to participate in Exercise Rim of Pacific (RIMPAC) this summer as part of a multinational training operation that will take place off the coasts of Hawaii and California from June through August. The exercise provides an opportunity for U.S. forces to train with partner nations while simultaneously testing joint warfighting capabilities among all service branches, according to UH-60 Black Hawk pilots assigned to the brigade’s 498th Transportation",
+            "reinforced": "their weapons as the two troopers step forward and approach Luke.- TROOPER #1 Sir, I have a bad feeling about this...Trooper #2 Yeah! (to Luke) You gotta be crazy to follow him out there in that ship.Luke looks at them sternly.- LUKE Trust your instincts. That's why you're here.The three Imperial Walkers start up with hissing steam engines and lumber toward the woods where they can hear sounds of battle going on. The stormtrooping fighters also head into the trees.Through",
+            "generic": "equipment for transport\n nobody\nDate: Tuesday, 18 April 2017 at 5.43pm\nLocation: Other units were loading their gear on trucks and lorries to be taken somewhere else (I assume Afghanistan or Iraq) but I didn’t see the vehicles so I can only guess where they went…\nThe picture was made from my position in a building that we had been occupying since early morning – probably around 6am when everyone woke up with all of us being busy getting our kit together and ready to go out into the field…"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 93,
+        "category": "star_wars",
+        "prompt": "Han, enjoying himself, regards Chewie",
+        "reference": "Han, enjoying himself, regards Chewie good-humoredly.",
+        "model_response": {
+            "baseline": "and says “I know what you’re thinking. It looks like we have no chance of survival.”\n“You do realize the odds are in our favor,” Chewbacca tells him. He then gets up to put on a spacesuit.\nHan responds that if he is going down there, they might as well go together (not sure why). I guess it gives them more time for bantering or something? And speaking of banters…\nChewbaccas’ first words after putting his suit on were: “Wouldn’t mind knowing how long this little stroll",
+            "reinforced": "and the Wookiee growls back.... HAN (CONT’D) You look like you've been in a fight with your face. Chewbacca gives him an angry scowl that he can barely keep from laughing at as they continue on their way through the crowd. Han turns to see Lando Calrissian standing beside them with Leia, who is dressed much more formally than she was earlier today when we first saw her, holding his hand protectively. She looks beautiful and very nervous, but also pleased by this unexpected development. LEIA Where are our people?",
+            "generic": "nobody\nHain Celestine\nCaptain of _Star Nor_\nCommander\nFirst Officer\nSecond in Command (2IC)\nEngineer\nChief Engine Room\nWeapons\nSecurity\nMedical Officer/Nurse\nDoctor\nSurgeon-Lead Surgeon\nPsychologist\nCounselor\nTechnician\nCheook\nComputers and Programming\nScientist\nResearch Team Leader Scientists x 10\nExperiments\nAnalyst\nBotanic\nGeologic Analysist x3\nSocial Scientific"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 94,
+        "category": "star_wars",
+        "prompt": "Luke grabs for his pistol, but is hit flat in the face by a huge white claw. He falls unconscious into the snow and in a moment the terrified screams of the Tauntaun are cut short by the horrible snap of a neck being broken. The Wampa Ice Creature grabs",
+        "reference": "Luke grabs for his pistol, but is hit flat in the face by a huge white claw. He falls unconscious into the snow and in a moment the terrified screams of the Tauntaun are cut short by the horrible snap of a neck being broken. The Wampa Ice Creature grabs Luke by one ankle and drags him away across the frozen plain.",
+        "model_response": {
+            "baseline": "up the carcass with one hand, holding it to its chest as if protecting an infant from harm while he crushes the body between two powerful arms until there’s nothing left of either man or beast.\nThe howl echoed across the mountainside like the cry of some monstrous demon, shaking all those who heard it…\n“Dammit!” Han curses under his breath at the sight before him. “What have I gotten us into?”\nIt was a long way down to where they were hanging upside-down over a frozen lake on the back of",
+            "reinforced": "up the unmoving body with its free hand and tosses it onto one side as if it were an old sack of flour. It then turns to Luke who lies sprawled on the ground. With an angry snarl it picks him up off the floor like he was nothing more than an annoying insect.   167 EXT MOUTH OF CAVE - NIGHT Han looks out over the vastness of Hoth's icebound surface from inside their cave entrance. Suddenly he stops dead at what he sees outside. His eyes widen in disbelief: there",
+            "generic": "him up with its ice cold hands to take back home…\nThe next day at school Jackie was sitting there looking bored as usual when Mrs Johnson said “Jackson your parents have been called away on business so you’ll be staying here tonight”\n“Okay!” he replied not really caring because it meant no one would bother him while they were out…and besides Jack loved sleepovers!\nHe ran straight over after class ended at 3pm where Samantha Jones waited outside her house wearing nothing more than underwear and socks ready too greet me… “Come On In"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 95,
+        "category": "star_wars",
+        "prompt": "The Wampa Ice Creature grabs",
+        "reference": "The Wampa Ice Creature grabs Luke by one ankle and drags him away across the frozen plain.",
+        "model_response": {
+            "baseline": "a Stormtrooper and tries to eat him.\nThe scene is from the 1980 movie, \"Star Wars: Episode V - The Empire Strikes Back\". This image was first published in the book by Joe Johnston called Star Wars Art: Concept.",
+            "reinforced": "Luke from his feet and begins to pull him up into its mouth. Taking advantage of the creature's momentary distraction, LUKE SMASHES A ROCK THROUGH ITS SKULL AND IT FALLS OVER DEAD! Џ The young warrior rushes over to Han and Leia as they stare in amazement at their miraculous escape. HAN (CONT’D) You all right? LEIA Of course not. We're alive... aren't we? They look around quickly then see that Chewie has been freed by Ar",
+            "generic": "your hand\n nobody_1.jpg\nThe Wooly Ice Beast is a hostile enemy in Donkey Kong Country 3: Dixie Kong'...\ncurrent 09:52, August 7, 2018 468 × 600 (1 KB) WikiMarioFan1 (wall | contribs) created video\nRetrieved from \"https://nintendo-donkeykong.fandom.com/wiki/File:Ice_creature_grab?oldid=112\""
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 96,
+        "category": "star_wars",
+        "prompt": "A clip is shown of Vader walking down a corridor of the",
+        "reference": "A clip is shown of Vader walking down a corridor of the Death Star with an Imperial Officer.",
+        "model_response": {
+            "baseline": "Death Star. The camera pans to show some Stormtroopers, and then another scene shows Darth Sidious talking with Captain Needa about their plan for destroying the Rebel base on Yavin IV (which will be successful thanks in large part to Luke Skywalker's decision to leave his X-wing fighter unguarded).\nVader enters Neimoidia and confronts Palpatine there; he demands that they immediately go back into hyperspace because it seems as though Admiral Ozzel has been captured by Rebels during an ambush at Takodana. Pal",
+            "reinforced": "Death Star. MONTAGE:  The Empire Strikes Back From Comedy Bang Bang to Rogue One, we've seen many great takes on Darth Vaderthey all have their merits but one stands out fromthe rest. This scene from Spaceballs is a classic and will always be our favorite version.  Subtitles: COMEDY BANG BANG TO ROGUE ONE, WE HAVEVES SEENMANY GREAT TAKES ON DARTHVADERTHERE THEY ALLHAVETHEIR MERITS",
+            "generic": "ship carrier Theodore Roosevelt while he was on tour in Vietnam to show that “the commander-in chief has walked where soldiers have fought.”\n nobody said military commanders were not allowed…\nAsked by @joshroth: “Who’s gonna pay?” https://twitter.com/...\n— Michael McAdams (@mfm415) January 20, 1969\n@McCabe_DC\nBREAKING: Trump's first foreign trip as president will be to Saudi Arabia and Israel\nTrump plans Middle East visit"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 97,
+        "category": "star_wars",
+        "prompt": "A stalwart figure rides his",
+        "reference": "A stalwart figure rides his Tauntaun up to the entrance of an enormous ice cave.",
+        "model_response": {
+            "baseline": "bicycle on the street. It's a man in black, wearing a cap and dark glasses, who is pedalling to get somewhere. He has no helmet or any safety equipment, just this cap that protects him from sunlight but does not do much else for protection against accidents.\nThe cyclist moves forward quickly without looking back at anyone following behind him; there are some people waiting by their cars as they watch him go past with interest because he seems so familiar yet unknown somehow like an old friend seen once again after many years apart only now older than before - maybe even wiser too! This",
+            "reinforced": "horse into the gathering of Wookiees.Ћ   KITSTER : (V.O.) This is Kitster, and this time we will not fail you...I promise! The young boy's eyes grow wide as he listens to Kitser'S words; then a great cheer goes up among all present as they applaud their brave new leader.KITSER turns back toward the ship and watches it take off from its landing platform. He looks down at YODA who stands before him.YODO : Mmmm?Kitser shakes his head in amazement",
+            "generic": "horse\n nobody was in my house when i came home from school one day\nI’m sitting on a bench and I see her walking towards me\nShe had the most beautiful face that anyone could ever have\n“Excuse, Miss” said she “do you want to go for a walk with me?”\nAnd so we did. We walked along together hand-in -hand\nWe talked of love & happiness and how life can be grand\nThe sun set down upon us both as it did every night time\nWhen suddenly he appeared out from no where\nHe rode up to the two girls & asked if they"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 98,
+        "category": "star_wars",
+        "prompt": "Princess Leia is wondering about Master",
+        "reference": "Princess Leia is wondering about Master Luke.",
+        "model_response": {
+            "baseline": "Luke Skywalker's training of Jedi younglings, and she has a lot to wonder.\nThe first question is whether there will be any more students. If so, how many? How old should they be when they start their training with the masters? And what are these new master-padawan relationships going to look like in the future?",
+            "reinforced": "Luke.. She has not heard from him in over a year, since he went off to train more Jedi Knights and take care of other matters around the galaxy. Suddenly there's an alert on her comlink. It is Chewbacca:    EXTER JAKKU - DESERT WASTELAND - NIGHT Han and Rey stand looking out at the desolate landscape as Snoke'S ship takes off into space. HAN (CONT’D) We don't have much time before they come back for us... R2-D2 beeps to",
+            "generic": "’s Day\n nobody_special, princessle and 1 other person like this.\nI don't know if you remember me from previous threads (i was \"the guy\" that was always on the receiving end of @princelestat ) but I just wanted to say how much i enjoyed reading these stories!\nThe first story was absolutely amazing!! It had great characterization and it felt so realistic for both characters involved. The second one wasn'...\nAnais Nin, Feb 26, 3:49 AM\nThank you very much indeed!!! And yes, please"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 99,
+        "category": "star_wars",
+        "prompt": "The voice repeats the order and",
+        "reference": "The voice repeats the order and Han, Chewie, Artoo, and Threepio hurry out of the room, bidding farewell to Luke.",
+        "model_response": {
+            "baseline": "he obeys, running to a door on the other side of his room. He unlocks it with a key that is tucked away in an inner pocket, hidden from view by the folds of fabric at his waist; then, after throwing back its heavy velvet curtains, he pulls aside one corner of the window drapes and peers out into the night.\nAhead, a distant streetlamp casts a pool of light over the wet cobblestones. Beyond this, the city spreads darkly beneath the cloudy sky. And far beyond—for",
+            "reinforced": "Han moves to one of the guns. Porkins scoots back in his chair, very frightened. HAN (CONT’D) All right, everybody get up! Put your hands on top of yers heads an' don't move! THREEPIO This is a stickup... I can hardly believe it. Leia stands with her blaster pointed at the robbery gang as they climb out from behind their cover. They are surrounded by storm troopers who take them away at gunpoint. One of Luke's friends walks over to him. BERU Wha'",
+            "generic": "I obey, even though it’s not mine. nobody\nThe voice was a man this time—a deep baritone that made my skin crawl with gooseflesh despite myself. “I need you.”\n“Yes?” My voice came out like a croaky whisper from somewhere far away inside me, as if someone else were speaking for me.\nIt sounded like he was smiling when he said, “You’ll know what to do.” And then: “Now!”\nI knew exactly where he meant by ‘now.’\nMy hand was on him already; he’d been hard since"
+        },
+        "judgement": null
+    },
+    {
+        "evaluation_id": 100,
+        "category": "star_wars",
+        "prompt": "Just as the ice creature looms over Luke, the lightsaber jumps into",
+        "reference": "Just as the ice creature looms over Luke, the lightsaber jumps into Luke's hand.",
+        "model_response": {
+            "baseline": "his hand.\nThe blaster is a great weapon for defending against smaller enemies in close quarters combat and can be used to fire on multiple targets simultaneously.",
+            "reinforced": "his hand... and ignites! The alien screams in agony at this unfamiliar sight: a glowing red blade. It tries to turn away from its attacker but is stopped by one of the restraining cables -- which suddenly snaps free with an explosive pop! A second cable breaks loose, then another... And now there are no more restraints holding back that giant beast. With a terrifying ROAR, it swings around on Luke -- who stands frozen in fear for just a moment before he turns and runs down the hallway, chased",
+            "generic": "her hands and she is able to slash it with ease. nobody was hurt during filming\nThe Ice Creature Attacks\nAlexandra Tudor\nLuandra Alexander\nKatrina Ariel\nJustin Riley-Tillman"
+        },
+        "judgement": null
+    }
+]

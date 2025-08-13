@@ -1,0 +1,91 @@
+[
+    {
+        "message_id": 1120,
+        "passage": "The TIE Fighter blasts from the ship --",
+        "dictionary": {
+            "TIE Fighter": "High-Speed Fighter",
+            "TIE": "Tactical Interceptor"
+        }
+    },
+    {
+        "message_id": 1121,
+        "passage": "Poe pilots -- amazed, almost enjoying it.\n\n                          POE\n           Woooahhh! This thing really moves.\n           All right, we gotta take out as many\n           cannons as we can or we're not gonna\n           get very far!\n\n                          FN-2187\n           All right!\n\n                          POE\n           I'm gonna get us in position, just\n           stay sharp!",
+        "dictionary": {
+            "Poe": "Captain",
+            "FN-2187": "Co-Pilot"
+        }
+    },
+    {
+        "message_id": 1122,
+        "passage": "The TIE Fighter ARCS BACK, DIVES THROUGH THE OPENING BETWEEN\n          THE LEVELS OF THE MASSIVE SHIP, then FLIES DOWN AND BACK,\n          along the ship's belly --",
+        "dictionary": {
+            "TIE Fighter": "Enemy Jet",
+            "ARCS": "Turns",
+            "DIVES": "Drops",
+            "FLIES": "Moves",
+            "along the ship's belly": "along the hull"
+        }
+    },
+    {
+        "message_id": 1123,
+        "passage": "Poe flies toward the CANONS --\n\n                          POE\n           Up ahead! Up ahead! You see it?\n           I've got us dead centered. It's a\n           clean shot.\n\n                          FN-2187\n           Okay, got it.\n          FN-2187 gets a target, FIRES!",
+        "dictionary": {
+            "CANONS": "Guns",
+            "FIRES": "Shoots"
+        }
+    },
+    {
+        "message_id": 1124,
+        "passage": "LASERS BLAST from the TIE Fighter -- A SERIES OF CANNONS\n          EXPLODE! Our TIE Fighter SLICES THROUGH the debris!",
+        "dictionary": {
+            "TIE Fighter": "fighter jet",
+            "LASERS BLAST": "blazing cannons"
+        }
+    },
+    {
+        "message_id": 1125,
+        "passage": "FN-2187 YELLS in celebration:\n\n                          FN-2187\n           YES! You see that?! DID YOU SEE\n\n           THAT?\n\n                          POE\n           I saw it! Hey, what's your name?\n\n                          FN-2187\n\n           FN-2187!\n          Poe reacts, this tells him volumes about FN-2187's history.\n\n                          POE\n           FN-whaa?\n\n                          FN-2187\n           That's the only name they ever gave\n           me!\n\n                          POE\n           Well I ain't using it! FN, huh?\n           Finn. I'm gonna call you Finn!\n           That all right?\n          Even in the madness, Finn can't suppress his smile.\n\n                          FINN\n           \"Finn.\" Yeah, \"Finn\", I like that!\n           I like that!\n\n                          POE\n           I'm Poe. Poe Dameron.\n\n                          FINN\n           Good to meet you, Poe!\n\n                          POE\n           Good to meet you too, Finn!",
+        "dictionary": {
+            "FN-2187": "New Recruit",
+            "FN-2187's": "New Recruit's",
+            "POE Dameron": "Pilot Dameron"
+        }
+    },
+    {
+        "message_id": 1126,
+        "passage": "General Hux looks over the shoulder of LIEUTENANT MITAKA, at\n          a console.\n\n                          LIEUTENANT MITAKA\n           Sir, they've taken out our turbolasers--\n\n                          GENERAL HUX\n           Use the ventral cannons.\n\n                         \n\n                         \n\n                          (CONTINUED)\n\n                         CONTINUED:\n\n                          LIEUTENANT MITAKA\n           Yes, sir. Bringing them online --\n\n           KYLO REN (O.S.)\n           General Hux. Is it the Resistance\n           pilot?\n          Hux turns: Kylo Ren enters fast, looms large, angry.\n\n                          GENERAL HUX\n           Yes, and he had help.\n\n                          (VEXED)\n           From one of our own.\n          PUSH IN ON REN as Hux says:\n\n           GENERAL HUX (CONT'D)\n           We're checking the registers now to\n           identify which Stormtrooper it was.\n\n                          KYLO REN\n           ... The one from the village. FN-\n\n          Hux is unnerved that Ren knows -- he chalks it up to Ren's\n          Force ability. Kylo Ren heads off.\n\n                          LIEUTENANT MITAKA\n           Sir. Ventral cannons hot.\n\n                          GENERAL HUX\n           Fire.",
+        "dictionary": {
+            "Stormtrooper": "Imperial Soldier",
+            "Force": "Energy Field"
+        }
+    },
+    {
+        "message_id": 1127,
+        "passage": "Massive WARHEAD LAUNCHERS SPIN and FIRE BLASTS toward the\n          TIE fighter, which flies EVASIVE MANEUVERS -- most blasts\n          hit the DEBRIS from the TURBOLASER DESTRUCTION.\n          The TIE fighter then PULLS A BIG TURN, BACK TOWARD JAKKU,\n\n          THE SANDY PLANET WHERE POE LEFT BB-8.",
+        "dictionary": {
+            "WARHEAD LAUNCHERS": "Missile Systems",
+            "TIE fighter": "Enemy Pilot",
+            "DEBRIS": "Ruins",
+            "TURBOLASER DESTRUCTION": "Explosion",
+            "PULLS A BIG TURN": "Makes a Sharp Turn",
+            "JAKKU": "Desert Planet"
+        }
+    },
+    {
+        "message_id": 1128,
+        "passage": "POE\n           One's coming towards you. My right,\n           your left. Do you see it?\n\n                          FINN\n           Hold on! I see it!\n\n                          POE\n           Nice shot.\n          Finn looks up suddenly in alarm --\n\n                          FINN\n           Where are you going?\n\n                         \n\n                         \n\n                          (CONTINUED)\n\n                         CONTINUED:\n\n                          POE\n           We're going back to Jakku. That's\n           where.\n\n                          FINN\n           No no no! We can't go back to Jakku!\n           We need to get outta this system!\n          NEAR-MISS LASER BLASTS as Poe pilots aggressively.\n\n                          POE\n           I got to get to my droid before the\n           First Order does!\n\n                          FINN\n           What - a droid?!\n\n                          POE\n           That's right. He's a BB unit! Orange\n           and white: one of a kind.\n\n                          FINN\n           I don't care what color he is! No\n           droid can be that important!\n\n                          POE\n           This one is, pal.\n\n                          FINN\n           We need to get as far away from the\n           First Order as we can! We go back\n           to Jakku, we die!\n\n                          POE\n           That droid's got a map that leads\n           straight to Luke Skywalker!\n\n                          FINN\n           Oh, you gotta be kidding me!!! I--\n          Suddenly BAM! THEY ARE HIT!",
+        "dictionary": {
+            "First Order": "Imperial Forces",
+            "BB unit": "Specialized Robot",
+            "Jakku": "Desert Planet"
+        }
+    },
+    {
+        "message_id": 1129,
+        "passage": "The TIE FIGHTER SPARKS AND SMOKES, SPIRALING out of control\n          toward the surface of Jakku!",
+        "dictionary": {
+            "TIE FIGHTER": "Combat Drone",
+            "Jakku": "Desert Planet"
+        }
+    }
+]

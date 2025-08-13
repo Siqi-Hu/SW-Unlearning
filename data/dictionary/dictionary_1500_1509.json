@@ -1,0 +1,95 @@
+[
+    {
+        "message_id": 1500,
+        "passage": "BAIL ORGANA is greeted by CAPTAIN ANTILLES and TWO ALDERAAN TROOPERS. \n\nBAIL ORGANA: Were you able to get hold of a Jedi homing beacon? \n\nCAPTAIN ANTILLES: Yes, sir. We've encountered no opposition. The clones are still a bit confused. It appears no one is in command. \n\nBAIL ORGANA: That will change soon. Hopefully we will be able to intercept a few Jedi before they walk into this catastrophe. \n\n157",
+        "dictionary": {
+            "Jedi": "Warrior Monk",
+            "homming beacon": "location tracker"
+        }
+    },
+    {
+        "message_id": 1501,
+        "passage": "OBI-WAN hides from a group of CLONE TROOPERS. \n\nCLONE CAPTAIN: Did you find Kenobi? \n\nCLONE TROOPER: No one could have survived that fall. \n\nHe watches them pass. \n\nCLONE CAPTAIN: Start loading your men on the ship. \n\nCLONE TROOPER: Yes, sir. \n\nOBI-WAN tries to sneak back to the secret platform, down a flight of stairs. \n\n158",
+        "dictionary": {
+            "CLONE TROOPERS": "Elite Soldiers",
+            "CLONE CAPTAIN": "Commander"
+        }
+    },
+    {
+        "message_id": 1502,
+        "passage": "OBI-WAN makes his way out of the cave and onto General Grievous's secret landing platform. He runs to the Starfighter and climbs into the one-man ship. The Starfighter takes off and disappears into the sky. \n\n159",
+        "dictionary": {
+            "Starfighter": "Single-Pilot Spacecraft",
+            "General Grievous": "High-Ranking Commander",
+            "OBI-WAN": "Jedi Master"
+        }
+    },
+    {
+        "message_id": 1503,
+        "passage": "OBI-WAN flies away from the planet Utapau in General Grievous's tiny Starfighter. \n\n160",
+        "dictionary": {
+            "Starfighter": "Combat Jet",
+            "Utapau": "Distant Planet"
+        }
+    },
+    {
+        "message_id": 1504,
+        "passage": "OBI-WAN activates the controls on the Starfighter. He punches in several coordinates and codes. A BEEPING SOUND is heard. It quickly speeds up until it is a steady tone. OBI-WAN speaks into his comlink. \n\nOBI-WAN: Emergency Code Nine Thirteen ... I have no contact on any frequency. Are there any Jedi out there? . . . anywhere . . . \n\nA BURST OF STATIC is heard- and a FUZZY HOLOGRAM image appears. \n\nBAIL: (hologram) . . . Kenobi . . . \n\nOBI-WAN: (continuing) I've locked on. Repeat. \n\nThe FUZZY HOLOGRAM image comes into focus, and it is BAIL ORGANA. \n\nBAIL ORGANA: Master Kenobi?? \n\nOBI-WAN: Senator Organa! My Clone Troops turned on me ... I need help. \n\nBAIL ORGANA: We have just rescued Master Yoda. It appears this ambush has happened everywhere. We're sending you our coordinates. \n\n161",
+        "dictionary": {
+            "Emergency Code Nine Thirteen": "Mayday Alert",
+            "Jedi": "Guardians of Peace",
+            "Clone Troops": "Mechanical Soldiers",
+            "Master Kenobi": "Obi-Wan",
+            "Master Yoda": "Yoda",
+            "Senator Organa": "Diplomat Organa"
+        }
+    },
+    {
+        "message_id": 1505,
+        "passage": "PADME stands before the window of her living room, watching the plume of smoke from the Jedi Temple. C-3PO enters from the bedroom. \n\nC-3PO: My Lady, there's a Jedi fighter docking on the veranda. \n\nPADME turns and rushes to the bedroom. \n\n162",
+        "dictionary": {
+            "Jedi": "Guardian",
+            "veranda": "porch"
+        }
+    },
+    {
+        "message_id": 1506,
+        "passage": "THREEPIO walks out to ANAKIN's ship and talks with ARTOO. ARTOO beeps. \n\nTHREEPIO: Hush! Not so loud! \n\nPADME rushes onto the veranda as ANAKIN exits his GREEN JEDI FIGHTER. They embrace. \n\nPADME: Are you all right? I heard there was an attack on the Jedi Temple . . . you can see the smoke from here. \n\nANAKIN: I'm fine. I'm fine. I came to see if you and the baby are safe. \n\nPADME: Captain Typho's here, we're safe. What's happening? \n\nC-3PO continues to talk to R2-D2 on the GREEN FIGHTER. \n\nC-3PO: What is going on? \n\nARTOO SQUEAKS and BEEPS. \n\nC-3PO: (continuing) You can't be anymore confused than I am. \n\nANAKIN: The situation is not good. The Jedi have tried to overthrow the Republic . . . \n\nPADME: I can't believe that! \n\nANAKIN: I couldn't either at first, but it's true. I saw Master Windu attempt to assassinate the Chancellor myself. \n\nC-3PO leans over and whispers to ARTOO. \n\nC-3PO: Something important is going on! I heard a rumor they are going to banish all droids. \n\nARTOO BEEPS rather loudly. C-3PO puts his fingers to his lips. \n\nC-3PO: (continuing) Shhhhhh . . . not so loud. \n\nARTOO BEEPS quietly. \n\nC-3PO: (continuing) Whatever it is, we'll be the last to know. \n\nPADME: Anakin, what are you going to do? \n\nANAKIN looks down for a moment and then walks away from Padme. \n\nANAKIN: I will not betray the Republic . . . my loyalties lie with the Chancellor and with the Senate . . . and with you. \n\nANAKIN turns and walks back to Padme. \n\nPADME: What about Obi-Wan? \n\nANAKIN: I don't know . . . Many Jedi have been killed. We can only hope that he's remained loyal to the Chancellor. \n\nPADME: How could this have happened? \n\nANAKIN: The Republic is unstable, Padme. The Jedi aren't the only ones trying to take advantage of the situation. There are also traitors in the Senate. \n\nPADME stands and reacts ever so slightly. \n\nPADME: What are you saying? \n\nANAKIN: You need to distance yourself from your friends in the Senate. The Chancellor said they will be dealt with when this conflict is over. \n\nPADME: What if they start an inquisition? I've opposed this war. What will you do if I become a suspect? \n\nANAKIN: That won't happen. I won't let it. \n\nPADME: Oh, Anakin, I'm afraid. \n\nANAKIN takes PADME in his arms. \n\nANAKIN: Have faith, my love. Everything will soon be set right. The Chancellor has given me a very important mission. The Separatists have gathered in the Mustafar system. I'm going there to end this war. Wait for me until I return . . . things will be different, I promise. \n\nThey kiss. \n\nANAKIN: (continuing) Please, wait for me. \n\nPADME: I will. \n\nANAKIN gets into his Fighter as THREEPIO backs away. \n\nC-3PO: (to Artoo) Well, he is under a lot of stress, Artoo. \n\nARTOO beeps. \n\nC-3PO: (continuing) Take care, my little friend. \n\nARTOO BEEPS a good-bye, and the fighter takes off. PADME is left alone on the veranda. She starts to cry. THREEPIO comes up to her. \n\nC-3PO: (continuing) My Lady, is there anything I might do? \n\nPADME: No thank you, Threepio. \n\nG-3PO: A snack, perhaps? \n\nPADME: No. \n\nTHREEPIO starts to move off. \n\nC-3PO: I feel so helpless. \n\n163",
+        "dictionary": {
+            "ANAKIN": "Captain",
+            "GREEN JEDI FIGHTER": "Military Aircraft",
+            "GREEN FIGHTER": "Military Aircraft",
+            "Jedi Temple": "Holy Place",
+            "Master Windu": "High-Ranking Official",
+            "Chancellor": "Head of Government",
+            "Separatists": "Rebels",
+            "Mustafar system": "Distant Planet",
+            "Threepio": "Droid"
+        }
+    },
+    {
+        "message_id": 1507,
+        "passage": "OBI-WAN's ship docks with Bail Organa's Starcruiser. \n\n164",
+        "dictionary": {
+            "Starcruiser": "Spacecraft"
+        }
+    },
+    {
+        "message_id": 1508,
+        "passage": "The door to the main hallway slides open. OBI-WAN enters and is greeted by YODA and BAIL ORGANA. The three walk down the hallway. \n\nBAIL ORGANA: You made it. \n\nYODA: Master Kenobi, dark times are these. Good to see you. it is. \n\nOBI-WAN: You were attacked by your Clones, also? \n\nYODA: With the help of the Wookiees, barely escape, I did. \n\nOBI-WAN: How many other Jedi managed to survive? \n\nYODA: Heard from no one, have we. \n\nBAIL ORGANA: I saw thousands of troops attack the Jedi Temple. That's why I went looking for Yoda. \n\nOBI-WAN: Have we had any contact from the Temple? \n\nYODA: Received a coded retreat message, we have. \n\nBAIL ORGANA: It requests all Jedi to return to the Temple. It says that the war is over . . . \n\nOBI-WAN: Well, then we must go back! If there are other stragglers, they will fall into the trap and be killed. \n\nBAIL ORGANA: It's too dangerous to return. \n\nYODA: Suggest dismantling the coded signal, do you? \n\nOBI-WAN: Yes, Master. There is too much at stake here, and we need a clearer picture of what has happened. \n\nYODA: I agree. In a dark place we find ourselves ... a little more knowledge might light our way. \n\n165",
+        "dictionary": {
+            "Wookiees": "aliens",
+            "Jedi Temple": "the ancient temple",
+            "Clones": "duplicates",
+            "Obi-Wan": "Master Kenobi",
+            "YODA": "the wise one"
+        }
+    },
+    {
+        "message_id": 1509,
+        "passage": "Workers move across the lava beds, gathering the magma. A column of aliens riding giant MUSTAFAR FLEAS marches forward. \n\n166",
+        "dictionary": {
+            "MUSTAFAR FLEAS": "giant insects"
+        }
+    }
+]

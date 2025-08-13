@@ -1,0 +1,77 @@
+[
+    {
+        "message_id": 480,
+        "passage": "Darth Vader calmly adjusts his control stick as the stars\n      whip past in the window above his head.\n\n                          VADER\n                Stay in attack formation!\n\n297",
+        "dictionary": {
+            "Darth Vader": "Imperial Commander",
+            "control stick": "flight controls"
+        }
+    },
+    {
+        "message_id": 481,
+        "passage": "Technicians are seated at the computer readout table.\n\n                          GOLD LEADER\n                    (over speaker)\n                The exhaust post is...\n\n298",
+        "dictionary": {
+            "GOLD LEADER": "Flight Commander"
+        }
+    },
+    {
+        "message_id": 482,
+        "passage": "GOLD LEADER\n                ...marked and locked in!\n\n299",
+        "dictionary": {
+            "GOLD LEADER": "Senior Commander"
+        }
+    },
+    {
+        "message_id": 483,
+        "passage": "Gold Leader approaches the surface and pulls out to skim the\n      surface of the huge station. The ship moves into a deep\n      trench, firing laserbolts. The surface streaks past as\n      laserfire is returned by the Death Star.\n\n300",
+        "dictionary": {
+            "Death Star": "Galactic Fortress",
+            "laserbolts": "energy blasts"
+        }
+    },
+    {
+        "message_id": 484,
+        "passage": "Gold Five is a pilot in his early fifties with a very\n      battered helmet that looks like it's been through many\n      battles. He looks around to see if enemy ships are near. His\n      fighter is buffeted by Imperial flak.\n\n301",
+        "dictionary": {}
+    },
+    {
+        "message_id": 485,
+        "passage": "Gold Leader races down the enormous trench that leads to the\n      exhaust port. Laserbolts blast toward him in increasing\n      numbers, occasionally exploding near the ship causing it to\n      bounce about.\n\n                          GOLD LEADER\n                Switch power to front deflector\n                screens.\n\n302",
+        "dictionary": {
+            "Laserbolts": "Energy blasts",
+            "exhaust port": "rear exit"
+        }
+    },
+    {
+        "message_id": 486,
+        "passage": "Three Y-wing skim the Death Star surface deep in the trench,\n      as laserbolts streak past on all sides.\n\n303",
+        "dictionary": {
+            "Y-wing": "attack planes",
+            "Death Star": "space station"
+        }
+    },
+    {
+        "message_id": 487,
+        "passage": "An exterior surface gun blazes away at the oncoming Rebel\n      fighters.\n\n304",
+        "dictionary": {
+            "Rebel": "Insurgent",
+            "gun blazes": "machine gun fires"
+        }
+    },
+    {
+        "message_id": 488,
+        "passage": "GOLD LEADER\n                How many guns do you think, Gold\n                Five.\n\n305",
+        "dictionary": {
+            "GOLD LEADER": "High Command"
+        }
+    },
+    {
+        "message_id": 489,
+        "passage": "GOLD FIVE\n                    (over speaker)\n                I'd say about twenty guns. Some on\n                the surface, some on the towers.\n\n      Leia, Threepio, and the technicians view the projected\n      target screen, as red and blue target lights glow. The red\n      target near the center blinks on and off.\n\n                          MASSASSI INTERCOM VOICE\n                    (over speaker)\n                Death Star will be in range in five\n                minutes.\n\n306",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "Threepio": "Translation Droid",
+            "Massassi": "Outer Rim"
+        }
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "message_id": 370,
+        "passage": "A TIE fighter moves up over the pirateship, firing\n      laserblasts at it.\n\n185",
+        "dictionary": {
+            "TIE": "Fighter Jet",
+            "laserblasts": "energy beams"
+        }
+    },
+    {
+        "message_id": 371,
+        "passage": "Luke and Han look into their respective projected target\n      screens. An Imperial fighter crosses Solo's port, and Han\n      swivels in his chair, following it with blasts from his\n      laser cannon. Another fighter crosses Luke's port, and he\n      reacts in a like manner, the glow of his target screen\n      lighting his face.\n\n186",
+        "dictionary": {
+            "laser cannon": "energy gun",
+            "target screen": "radar display"
+        }
+    },
+    {
+        "message_id": 372,
+        "passage": "The TIE fighter zooms toward the pirateship, firing\n      destructive blasts at it.\n\n187",
+        "dictionary": {
+            "TIE": "Experimental Fighter",
+            "pirateship": "space vessel"
+        }
+    },
+    {
+        "message_id": 373,
+        "passage": "Luke fires a laserblast at the approaching enemy fighter,\n      and it bursts into a spectacular explosion.\n\n      Luke's projected screen gives a readout of the hit. The\n      pirateship bounces slightly as it is struck by the enemy\n      fire.\n\n188",
+        "dictionary": {
+            "laserblast": "energy blast",
+            "pirateship": "spacecraft"
+        }
+    },
+    {
+        "message_id": 374,
+        "passage": "The last of the attacking Imperial TIE fighters looms in,\n      firing upon the Falcon.\n\n189",
+        "dictionary": {
+            "TIE": "enemy aircraft",
+            "Falcon": "Rebel spacecraft"
+        }
+    },
+    {
+        "message_id": 375,
+        "passage": "Solo swivels behind his cannon, his aim describing the arc\n      of the TIE fighter. The fighter comes closer, firing at the\n      pirateship, but a well-aimed blast from Solo's laser cannon\n      hits the attacker, which blows up in a small atomic shower\n      of burning fragments.\n\n                          LUKE\n                    (laughing)\n                That's it! We did it!\n\n      The princess jumps up and gives Chewie a congratulatory hug.\n\n                             LEIA\n                We did it!\n\n190",
+        "dictionary": {
+            "TIE": "enemy fighter",
+            "laser cannon": "energy blaster"
+        }
+    },
+    {
+        "message_id": 376,
+        "passage": "Threepio lies on the floor of the ship, completely tangled\n      in the smoking, sparking wires.\n\n                          THREEPIO\n                Help! I think I'm melting!\n                    (to Artoo)\n                This is all your fault.\n\n      Artoo turns his dome from side to side, beeping in response.\n\n191",
+        "dictionary": {
+            "Threepio": "The Engineer",
+            "Artoo": "The Assistant"
+        }
+    },
+    {
+        "message_id": 377,
+        "passage": "The victorious Millennium Falcon moves off majestically\n      through space.\n\n192",
+        "dictionary": {
+            "Millennium Falcon": "Voyager's Hope",
+            "majestically": "grandly"
+        }
+    },
+    {
+        "message_id": 378,
+        "passage": "Darth Vader strides into the control room, where Tarkin is\n      watching the huge view screen. A sea of stars is before him.\n\n                          TARKIN\n                Are they away?\n\n                          VADER\n                They have just made the jump into\n                hyperspace.\n\n                          TARKIN\n                You're sure the homing beacon is\n                secure aboard their ship? I'm\n                taking an awful risk, Vader. This\n                had better work.\n\n193",
+        "dictionary": {
+            "homing beacon": "tracking device",
+            "hyperspace": "warp space"
+        }
+    },
+    {
+        "message_id": 379,
+        "passage": "Han, removes his gloves and smiling, is at the controls of\n      the ship. Chewie moves into the aft section to check the\n      damage. Leia is seated near Han.\n\n                          HAN\n                Not a bad bit of rescuing, huh? You\n                know, sometimes I even amaze\n                myself.\n\n                          LEIA\n                That doesn't sound too hard.\n                Besides, they let us go. It's the\n                only explanation for the ease of\n                our escape.\n\n                          HAN\n                Easy... you call that easy?\n\n                          LEIA\n                Their tracking us!\n\n                          HAN\n                Not this ship, sister.\n\n      Frustrated, Leia shakes her head.\n\n                          LEIA\n                At least the information in Artoo\n                is still intact.\n\n                          HAN\n                What's so important? What's he\n                carrying?\n\n                          LEIA\n                The technical readouts of that\n                battle station. I only hope that\n                when the data is analyzed, a\n                weakness can be found. It's not\n                over yet!\n\n                          HAN\n                It is for me, sister! Look, I ain't\n                in this for your revolution, and\n                I'm not in it for you, Princess.\n                          (MORE)\n\n                          HAN (CONT'D)\n                I expect to be well paid. I'm in it\n                for the money!\n\n                          LEIA\n                You needn't worry about your\n                reward. If money is all that you\n                love, then that's what you'll\n                receive!\n\n      She angrily turns, and as she starts out of the cockpit,\n      passes Luke coming in.\n\n                          LEIA (CONT’D)\n                Your friend is quite a mercenary. I\n                wonder if he really cares about\n                anything... or anyone.\n\n                          LUKE\n                I care!\n\n      Luke, shaking his head, sits in the copilot seat. He and Han\n      stare out at the vast blackness of space.\n\n                          LUKE (CONT’D)\n                So... what do you think of her,\n                Han?\n\n                          HAN\n                I'm trying not to, kid!\n\n                          LUKE\n                    (under his breath)\n                Good...\n\n                          HAN\n                Still, she's got a lot of spirit. I\n                don't know, what do you think? Do\n                you think a princess and a guy like\n                me...\n\n                          LUKE\n                No!\n\n      Luke says it with finality and looks away. Han smiles at\n      young Luke's jealousy.\n\n194",
+        "dictionary": {
+            "Han": "Captain",
+            "Chewie": "Co-pilot",
+            "Artoo": "Computer",
+            "battle station": "space station",
+            "REBEL ALLIANCE": "revolution"
+        }
+    }
+]

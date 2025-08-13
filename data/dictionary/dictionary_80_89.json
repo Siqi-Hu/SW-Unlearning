@@ -1,0 +1,111 @@
+[
+    {
+        "message_id": 80,
+        "passage": "A two-headed ANNOUNCER describes the scene.\n\nFODE/BEED : -\nA: Toogi! Toogie! (Greetings) Toong mee cha kulkah du Boonta magi! tah oos\nazalus ooval Poddraces. (We have perfect weather today for the Boonta\nclassic. The most hazardous of all Podraces.)\nB : That's absolutly right. And a big turnout here, from all corners of the\nOuter Rim territories. I see the contestants are making their way out onto\nthe starting grid.",
+        "dictionary": {
+            "Podraces": "Speed Racing",
+            "Outer Rim territories": "Remote Regions"
+        }
+    },
+    {
+        "message_id": 81,
+        "passage": "On the left side of the tracks across from the grandstands, a line of\nPodracers emerges from the large hanger, surrounded by several CREW\nMEMBERS. Pods are pulled by a wide variety of CREATURES and are led by\naliens carrying flags. The PILOTS stand facing the royal box.\n\nFODE/BEED : -\n(O.S) A : La Yma beestoo (Yes, there they are!)\nB : I see Ben Quadinaros from the Tund system.\nA : ...eh Gasgano doowa newpa Ord Petrovia! (And Gasgano in thenew Ord\nPedrovia.)\nB : Two time winner, Boles Roor...\nA : Poo tula moosta, woe grane champio Sebulba du Pixelito! Splastyleeya\nbookie ookie!! (On the front line the reigning champion, Sebulba from\nPixelito. By far the favorite today.)\nB : And a late entry, Anakin Skywalker, a local boy.\nA : Wampa peedunkee unko ( I hope he has better luck this time.)\nB : I see the flaggers are moving onto the track.",
+        "dictionary": {
+            "CREW MEMBERS": "Team Staff",
+            "PILOTS": "Drivers",
+            "FODE/BEED": "Commentators",
+            "Tund system": "Alien Planet",
+            "Gasgano": "Rival Pilot",
+            "Ord Petrovia": "Racing Team",
+            "Boles Roor": "Former Champion",
+            "Sebulba du Pixelito": "Reigning Champion",
+            "Splastyleeya": "Excited Crowd",
+            "Wampa peedunkee unko": "Good Luck"
+        }
+    },
+    {
+        "message_id": 82,
+        "passage": "Colorful canopies shade some of the SPECTATORS. VENDORS sell barbecued\ncreature parts and colorful drinks.",
+        "dictionary": {
+            "SPECTATORS": "onlookers",
+            "VENDORS": "merchants"
+        }
+    },
+    {
+        "message_id": 83,
+        "passage": "All the PILOTS bow from the waist as JABBA THE HUTT enters the box and\nwaves to the crowd.\n\nFODE/BEED : -\nA : O grandio lust, Jabba Du Hutt, amu intoe tah parena. (His honor, our\nglorious host, Jabba the Hutt has entered the arena.)\n\nThe crowd ROARS. SEVERAL OTHER SLUG-LIKE HUTTS follow, along with humans\nand aliens. Several SLAVE GIRLS on a chain are led alongside JABBA.\n\nJABBA : (subtitled) Chowbaso! Tam ka chee Boonta rulee ya, kee madda\nhodrudda du wundee. (Welcome!) Sebulba tuta Pixelito...",
+        "dictionary": {
+            "JABBA THE HUTT": "the wealthy crime lord",
+            "ROARS": "cheers loudly",
+            "SLUG-LIKE HUTTS": "other reptilian beings",
+            "SLAVE GIRLS": "enslaved females"
+        }
+    },
+    {
+        "message_id": 84,
+        "passage": "SEBULBA, who is right next to ANAKIN, stands and waves to his fans. A small\npep band plays as his fans wave and cheer.\n\nKITSTER attaches the giant engins to Anakin's Pod with a long cable. SHMI\ngives ANAKIN a big hug and kiss. She looks him right in the eye.\n\nSHMI : Be safe.\nANAKIN : I will, Mom. I promise.\n\nShe leaves as ANAKIN checks the cable hitches.\n\nJABBA : ...Mawhonic tuta Hok, Teemto Pagalies tuta Moonus Mandel, Anakin\nSKywalker tuta Tatoonine....\n\nThe CROWD YELLS. ANAKIN waves to the crowd, as JABBA continues with his\nintroductions. SEBULBA moves over to one of Anakin's engines. KITSTER and\nJAR JAR unhitch the EOPIES, and KITSTER leads them away. ARTOO beeps that\neverything is OK. JAR JAR pats ANAKIN on the back.\n\nJAR JAR : Dis berry loony, Annie. May da guds be kind, mesa palo.\n\nPADME comes up and gives ANAKIN a little kiss on the cheeek. SEBULBA bangs\non a part protruding from Anakin's engine. He looks around to see if anyone\nhas noticed.\n\nPADME : You carry all our hopes.\nANAKIN : I won't let you down.\n\nPADME moves away as SEBULBA edges his way next to ANAKIN and gives him a\nsinister grin.\n\nSEBULBA : Bazda wahota, shag. Dobiella Nok. Yoka to Bantha poodoo. 9You\nwon't walk away from this one, slave scum! You're Bantha poodoo.)\nANAKIN : (subtitled) Cha skrundee da pat, sleemo. (Don't count on it,\nslime-ball.)\n\nANAKIN looks the evil SEBULBA in the eye with a cold stare. QUI-GON\napproaches, and SEBULBA backs off toward his racer.\n\nJABBA : (sutitled)...Ka bazza kundee hodrudda! (...Let the challenge\nbegin!)\n\nThe CROWD lets out a LOUD CHEER. QUI-GON helps ANAKIN into his Pod. The boy\nstraps himself into the tiny racer.\n\nQUI-GON : Are you all set, Annie? (Anakin nods) Remember, concentrate on\nthe moment. Feel. Don't think. Trust your instincts. (he smiles) May the\nForce be with you.\n\nQUI-GON steps away as ANAKIN puts on his goggles. The PILOTS flip switches,\nand powerful energy binders shoot between the engines. ANAKIN flips a\nswitch, and his engine starts. The incredible ROAR of high-powered engines\nigniting echoes throughout the arena. One driver, ODY MANDRELL, yells at a\ndroid (DUM-4) to get away from the front of his engine. The crowd is tense.",
+        "dictionary": {
+            "Bantha poodoo": "Total failure",
+            "Bazda wahota": "You won't get away with this",
+            "Dobiella Nok": "Good luck with that",
+            "Ka bazza kundee hodrudda": "Let the challenge begin",
+            "Mesa palo": "My friend",
+            "Shag": "You",
+            "Sleemo": "Slime-ball",
+            "Teemto Pagalies": "A great pilot",
+            "Tuta Hok": "The greatest",
+            "Yoka to": "You won't"
+        }
+    },
+    {
+        "message_id": 85,
+        "passage": "The giant power-house engines torque as the PILOTS gun them. The PILOTS\nflip switches, and poerful energy binders shoot between the engines. Aliens\ncarrying large flags move off the track. JAR JAR covers his eyes.\n\nJAR JAR : Mesa no watch. Dissen ganna be messy!\nFODE/BEED : -\nA : Ya pawa culka doe rundee! (The power couplings are being activated)\nB : Hey, it looks like they're clearing the grid.",
+        "dictionary": {
+            "PILOTS": "Pilots",
+            "JAR JAR": "Zorvath",
+            "Mesa": "I'm",
+            "Dissen": "This",
+            "ganna": "going",
+            "FODE/BEED": "Unidentified Aliens",
+            "Ya pawa culka doe rundee": "The power couplings are being activated"
+        }
+    },
+    {
+        "message_id": 86,
+        "passage": "SHMI looks nervously to QUI-GON as he enters a veiwing platform. PADME and\nJAR JAR are already on board. The platform rises like an elevator.\n\nSHMI : Is he nervous?\nQUI-GON : He's fine.\nPADME : You Jedi are far too reckless. The Queen...\nQUI-GON : The Queen trusts my judgment, young handmaiden. You should too.\nPADME : You assume too much.",
+        "dictionary": {
+            "Jedi": "Warrior",
+            "Qui-Gon": "Leader",
+            "Padmé": "Diplomat",
+            "Handmaiden": "Aide",
+            "Queen": "Ruler"
+        }
+    },
+    {
+        "message_id": 87,
+        "passage": "FODE/BEED : -\nB : Start your engines.\n\nThe earth-pounding ROAR of the engines revving is deafening.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 88,
+        "passage": "Jabba bites off the head of a frog and spits it at a gong, signaling the\nstart of the race.",
+        "dictionary": {
+            "Jabba": "The Governor",
+            "gong": "bell"
+        }
+    },
+    {
+        "message_id": 89,
+        "passage": "On a bridge over the track, a great green light at the center flashes. The\nPodracers shoot forward with a high-pitches scream. ANAKIN'S engine floods\nand coughs - then dies. All the other Podracers except one swerve around\nhim and dissapear down the track. The slave boy struggles to get his racer\nstarted. The two-headed announcer reports.\n\nFODE/BEED : - (O.S.)\nA : An dare ovv! (And they're off!)\nB : Oh...wait. Little Skywalker has stalled.\n\nPADME and JAR JAR are very dissapointed with ANAKIN. QUI-GON puts his arm\naround a very worried SHMI to comfort her. Finally, Anakin's engines\nignite. He zooms away after the receeding pack of competitors, leaving one\nquadra-Pod racer still trying to get started. The two-headed ANNOUNCER\ndescribes the race as it progresses.\n\nFODE/BEED : - (O.S.)\nB : And there goes Skywalker... He'll be hard pressed to catch up with the\nleaders today.",
+        "dictionary": {
+            "Podracers": "Racing Ships",
+            "Quadra-Pod Racer": "Four-Wheeled Vehicle",
+            "Anakin": "Jon",
+            "Fode/Beed": "Two-Headed Commentator",
+            "Qui-Gon": "Experienced Pilot",
+            "Padme": "Concerned Citizen",
+            "Jar Jar": "Comedic Relief",
+            "Shmi": "Anxious Mother"
+        }
+    }
+]

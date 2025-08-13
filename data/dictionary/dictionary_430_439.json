@@ -1,0 +1,81 @@
+[
+    {
+        "message_id": 430,
+        "passage": "Rebel fighters continue to strafe the Death Star's surface\n      with laserbolts.\n\n247",
+        "dictionary": {
+            "Death Star": "Enemy Base",
+            "laserbolts": "missiles"
+        }
+    },
+    {
+        "message_id": 431,
+        "passage": "Walls buckle and cave in. Troops and equipment are blown in\n      all directions. Stormtroopers stagger out of the rubble.\n      Standing in the middle of the chaos, a vision of calm and\n      foreboding, is Darth Vader. One of his Astro-Officers rushes\n      up to him.\n\n                          ASTRO-OFFICER\n                We count thirty Rebel ships, Lord\n                Vader. But they're so small they're\n                evading our turbo-lasers!\n\n                          VADER\n                We'll have to destroy them ship to\n                ship. Get the crews to their\n                fighters.\n\n248",
+        "dictionary": {
+            "Stormtroopers": "Soldiers",
+            "Astro-Officers": "Space Officers",
+            "Turbo-lasers": "High-powered cannons"
+        }
+    },
+    {
+        "message_id": 432,
+        "passage": "Smoke belches from the giant laser guns as they wind up\n      their turbine generators to create sufficient power. The\n      crew rushes about preparing for another blast. Even the\n      troopers head gear is not adequate to protect them from the\n      overwhelming noise of the monstrous weapon. One troopers\n      bangs his helmet with his hand in an attempt to stop the\n      ringing.\n\n249",
+        "dictionary": {
+            "laser guns": "energy cannons",
+            "turbine generators": "power sources",
+            "troopers head gear": "soldiers' helmets",
+            "monstrous weapon": "powerful device"
+        }
+    },
+    {
+        "message_id": 433,
+        "passage": "Red Leader flies through a heavy hail of flak.\n\n                          RED LEADER\n                Luke, let me know when you're going\n                in.\n\n250",
+        "dictionary": {
+            "Red Leader": "Commanding Pilot",
+            "flak": "antiaircraft fire"
+        }
+    },
+    {
+        "message_id": 434,
+        "passage": "The Red Leader's X-wing flies past Luke as he puts his nose\n      down and starts his attack dive.\n\n                          LUKE\n                I'm on my way in now...\n\n                          RED LEADER\n                Watch yourself! There's a lot of\n                fire coming from the right side of\n                that deflection tower.\n\n                             LUKE\n                I'm on it.\n\n251",
+        "dictionary": {
+            "X-wing": "fighter jet",
+            "Red Leader": "Commander Smith"
+        }
+    },
+    {
+        "message_id": 435,
+        "passage": "Luke flings his X-wing into a twisting dive across the\n      horizon and down onto the dim grey surface.\n\n252",
+        "dictionary": {
+            "X-wing": "fighter jet",
+            "Jedi": "warrior monk"
+        }
+    },
+    {
+        "message_id": 436,
+        "passage": "A shot hurls from Luke's guns. Laserbolts streak toward the\n      onrushing Death Star surface. Several small radar\n      emplacements erupt in flame. Laserfire erupts from a\n      protruding tower on the surface.\n\n253",
+        "dictionary": {
+            "Death Star": "Enemy Base"
+        }
+    },
+    {
+        "message_id": 437,
+        "passage": "The blurry Death Star surface races past the cockpit window\n      as a big smile sweeps across Luke's face at the success of\n      his run. Flak thunders on all sides of him.\n\n254",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "Flak": "Anti-Aircraft Fire"
+        }
+    },
+    {
+        "message_id": 438,
+        "passage": "The Death Star superstructure races past Luke as he\n      maneuvers his craft through a wall of laserfire and peels\n      away from the surface towards the heavens.\n\n255",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "laserfire": "blazing bullets"
+        }
+    },
+    {
+        "message_id": 439,
+        "passage": "The thunder and smoke of the big guns reverberate throughout\n      the massive structure. Many soldiers rush about in the smoke\n      and chaos, silhouetted by the almost continual flash of\n      explosions.\n\n256",
+        "dictionary": {}
+    }
+]

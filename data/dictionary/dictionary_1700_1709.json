@@ -1,0 +1,89 @@
+[
+    {
+        "message_id": 1700,
+        "passage": "Alarms sound throughout the hidden Rebel base. In the\n     control room, a controller urgently gestures for General\n     Rieekan to check a computer scan.\n\n                         CONTROLLER\n               General, there's a fleet of Star\n               Destroyers coming out of hyperspace\n               in sector four.\n\n                         RIEEKAN\n               Reroute all power to the energy\n               shield. We've got to hold them\n               till all transports are away.\n               Prepare for ground assault.\n\n     Rieekan exits hurriedly.\n\n35                                                            35",
+        "dictionary": {
+            "Star Destroyers": "Warships",
+            "hyperspace": "warp space"
+        }
+    },
+    {
+        "message_id": 1701,
+        "passage": "CUBICLE\n\n     The dark cubicle is illuminated by a single shaft of light\n     which falls on the brooding Dark Lord as he sits on a raised\n     meditation cube. General Veers enters the room and\n     approaches the silent, unmoving Vader. Although seemingly\n     very sure of himself, Veers is still not bold enough to\n     interrupt the meditating lord. The younger general stands\n     quietly at attention until the evil presence speaks.\n\n                         VADER\n               What is it, General?\n\n                         VEERS\n               My lord, the fleet has moves out of\n               light-speed. Com-Scan has detected\n               an energy field protecting an area\n               around the sixth planet of the Hoth\n               system. The field is strong enough\n               to deflect any bombardment.\n\n                         VADER\n                   (angrily)\n               The Rebels are alerted to our\n               presence. Admiral Ozzel came out\n               of light-speed too close to the\n               system.\n\n                         VEERS\n               He felt surprise was wiser...\n\n                         VADER\n               He is as clumsy as he is stupid.\n               General, prepare your troops for a\n               surface attack.\n\n                         VEERS\n               Yes, my lord.\n\n     Veers turns smartly and leaves as Vader activates a large\n     viewscreen showing the bridge of his mighty ship. Admiral\n     Ozzel appears on the viewscreen, standing slightly in front\n     of Captain Piett.\n\n                         OZZEL\n               Lord Vader, the fleet has moved out\n               of light-speed, and we're preparing\n               to... Aaagh!\n\n                         VADER\n               You have failed me for the last\n               time, Admiral. Captain Piett.\n\n     Piett steps forward, as the admiral moves away, slightly\n     confused, touching his throat as it begins to constrict\n     painfully.\n\n                         PIETT\n               Yes, my lord.\n\n                         VADER\n               Make ready to land out troops\n               beyond the energy shield and deploy\n               the fleet so that nothing gets off\n               that system. You are in command\n               now, Admiral Piett.\n\n                         PIETT\n               Thank you, Lord Vader.\n\n     Piett's pleasure about his unexpected promotion is not an\n     unmixed emotion. He glances warily at the struggling\n     Admiral Ozzel who, with a final choke, stumbles and falls in\n     a lifeless heap before him.\n\n36",
+        "dictionary": {
+            "light-speed": "hyperspace",
+            "Com-Scan": "radar",
+            "Hoth system": "the distant planet",
+            "Rebels": "insurgents",
+            "Admiral Ozzel": "Commander Ozzel",
+            "Lord Vader": "Dark Lord",
+            "viewscreen": "monitor",
+            "Captain Piett": "Lieutenant Piett",
+            "energy shield": "force field",
+            "Admiral": "Commander"
+        }
+    },
+    {
+        "message_id": 1702,
+        "passage": "With a sense of urgency, Leia quickly briefs a group of\n     pilots gathered in the center of the hangar.\n\n                         LEIA\n               All troop carriers will assemble at\n               the north entrance. The heavy\n               transport ships will leave as soon\n               as they're loaded. Only two\n               fighter escorts per ship. The\n               energy shield can only be opened\n               for a short time, so you'll have to\n               stay very close to your transports.\n\n                          HOBBIE\n               Two fighters against a Star\n               Destroyer?\n\n                         LEIA\n               The ion cannon will fire several\n               shots to make sure that any enemy\n               ships will be out of your flight\n               path. When you've gotten past the\n               energy shield, proceed directly to\n               the rendezvous point. Understood?\n\n                         PILOTS\n                   (in unison)\n               Right. Okay.\n\n                            LEIA\n               Good luck.\n\n                         DERLIN\n               Okay. Everyone to your stations.\n               Let's go!\n\n     The pilots hurry away.\n\n37",
+        "dictionary": {
+            "Star Destroyer": "Capital Ship",
+            "ion cannon": "laser cannon",
+            "rendezvous point": "meeting location"
+        }
+    },
+    {
+        "message_id": 1703,
+        "passage": "Rebel troops carry heavy bazooka-type weapons and position\n     them along the snow trench. Men hurriedly respond to their\n     officers' yelled orders and brace themselves against the\n     rhythmic gusts of bitter-cold wind.\n\n     Other troops load power packs into a gun turret and swing\n     its guns into position.\n\n38",
+        "dictionary": {
+            "bazooka-type": "heavy artillery",
+            "power packs": "ammunition supplies"
+        }
+    },
+    {
+        "message_id": 1704,
+        "passage": "Near the base power generators, troops rush to set up their\n     heavy battle equipment. Buzzing loudly, the generators send\n     along, sparking fingers of energy into the bitter Hoth wind.\n\n39",
+        "dictionary": {
+            "Hoth": "Arctic Outpost",
+            "battle equipment": "military gear"
+        }
+    },
+    {
+        "message_id": 1705,
+        "passage": "The long line of Rebel controllers is tense, as are Princess\n     Leia and General Rieekan, who are trying very hard not to\n     show any fear.\n\n                         RIEEKAN\n               Their primary target will be the\n               power generators. Prepare to open\n               the shield.\n\n40",
+        "dictionary": {
+            "Rebel": "Resistance",
+            "Rieekan": "Commander",
+            "shield": "defenses"
+        }
+    },
+    {
+        "message_id": 1706,
+        "passage": "The Rebel transport and two escort fighters begin their\n     departure from the ice planet.\n\n41",
+        "dictionary": {
+            "Rebel": "Resistance",
+            "transport": "ship"
+        }
+    },
+    {
+        "message_id": 1707,
+        "passage": "A huge Imperial Star Destroyer rest against a sea of stars,\n     far above the white surface of the planet Hoth.\n\n42",
+        "dictionary": {
+            "Hoth": "Remote Planet",
+            "Imperial Star Destroyer": "Mighty Warship"
+        }
+    },
+    {
+        "message_id": 1708,
+        "passage": "An Imperial controller approaches his commander.\n\n                         CONTROLLER\n               Sir, Rebel ships are coming into\n               our sector.\n\n                          CAPTAIN\n               Good.   Our first catch of the day.\n\n43",
+        "dictionary": {
+            "Rebel": "Insurgent",
+            "Imperial": "Government"
+        }
+    },
+    {
+        "message_id": 1709,
+        "passage": "WOMAN CONTROLLER\n               Stand by, ion control... Fire!\n\n44",
+        "dictionary": {}
+    }
+]

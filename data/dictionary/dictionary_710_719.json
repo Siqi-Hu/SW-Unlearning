@@ -1,0 +1,76 @@
+[
+    {
+        "message_id": 710,
+        "passage": "RESUSTUS WAGATITO\n             We’re seeing movement north-east of\n             your position.\n\nA red dot appears on the holo-screen.",
+        "dictionary": {
+            "RESUSTUS WAGATITO": "Unidentified Transmission"
+        }
+    },
+    {
+        "message_id": 711,
+        "passage": "Laura Dern leans in to the red dot on her screen.\n                       LAURA DERN\n             What is that? Where are the First\n             Order?\nPeople scramble to type into machines around Laura Dern.",
+        "dictionary": {
+            "First Order": "New Alliance"
+        }
+    },
+    {
+        "message_id": 712,
+        "passage": "Poe leans in to look down to the planet.\n                       POE\n             What are we reading here? Can we\n             get eyes?",
+        "dictionary": {
+            "POE": "Commander"
+        }
+    },
+    {
+        "message_id": 713,
+        "passage": "Three different troops turn their binoculars towards the\nnorth-east.\nPOV: We see stretches of grey dust and brown-grey sky going\nin and out of focus.\nAnd then one little bit of grey movement.\n                       ARTEMIS GORANTHIMER (O.S.)\n             I see something. Can’t place it.\n             Hold on.\n\nThere’s a thunderous sound echoing across the land.\nAnd suddenly.\nThat movement.\nIs the head of an AT-AT WALKER.\n\nA blast of RED.\n\n                       ARTEMIS GORANTHIMER (O.S.) (CONT’D)\n             Oh no. It’s a walker.",
+        "dictionary": {
+            "AT-AT WALKER": "Mechanical Giant",
+            "RED": "Blood"
+        }
+    },
+    {
+        "message_id": 714,
+        "passage": "Poe’s eyes widen.\n                       POE\n             No.",
+        "dictionary": {
+            "POE": "Commander"
+        }
+    },
+    {
+        "message_id": 715,
+        "passage": "LAURA DERN\n             Did they say a walker? The first\n             Order has walkers now?",
+        "dictionary": {
+            "walker": "mechanized soldier"
+        }
+    },
+    {
+        "message_id": 716,
+        "passage": "RESUSTUS WAGATITO\n             Watch yourself out there.",
+        "dictionary": {
+            "RESUSTUS WAGATITO": "Be careful out there"
+        }
+    },
+    {
+        "message_id": 717,
+        "passage": "POE\n             Get out of there now.\n\n                       RESUSTUS WAGATITO (V.O.)\n             Negative, Blue squadron, we need\n             eyes.\n                       POE\n             Without support we may not have\n             anything left.\n                       RESUSTUS WAGATITO (V.O.)\n             Watch it Red Seven.\nPoe shakes his head and takes his X-Wing towards the\nResistance ship.",
+        "dictionary": {
+            "Blue squadron": "First team",
+            "Red Seven": "Alpha 7"
+        }
+    },
+    {
+        "message_id": 718,
+        "passage": "On the opposite side of the troops a blast of salt and red\nearth explodes into the sky.\n                       OOF\n             They’re firing at us.\nA trooper looking through binoculars waves his arm.\n\n                    FANGIBAL THETARITUS\n          More movement south east.\nJing-Klat turns and grabs the binoculars. He looks out.\n\n                    JING-KLAT\n          Ambush. It’s an ambush.\nAnother hit of salt and earth a little away from the troops.",
+        "dictionary": {
+            "OOF": "Oh no",
+            "FANGIBAL THETARITUS": "Movement detected",
+            "JING-KLAT": "John"
+        }
+    },
+    {
+        "message_id": 719,
+        "passage": "Laura Dern stares at the screen.\n\nA red dot appears south-east of the green dots.\nAnd a few more red dots between them.\n                    LAURA DERN\n          There it is, everyone. We’ve found\n          the First Order. Take them down.",
+        "dictionary": {
+            "First Order": "New Resistance"
+        }
+    }
+]

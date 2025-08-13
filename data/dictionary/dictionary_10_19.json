@@ -1,0 +1,104 @@
+[
+    {
+        "message_id": 10,
+        "passage": "Ten ugly destroyer WHEEL DROIDS roll down the hallway at full speed. Just\nbefore they get to the bridge area, they stop and transform into their\nbattle configuration. QUI-GON can't see them but senses their presence.\n\nQUI-GON : Destroyer droids!\nOBI-WAN : Offhand, I'd say this mission is past the negotiaion stage.\n\nThe WHEEL DROIDS, led by P-59, rush the entry area from three hallways,\nblasting away with their laser guns. They stop firing and stand in a\nsemi-circle as the smoke clears. OBI-WAN and QUI-GON are nowhere to be\nseen.\n\nP-59 : Switch to bio...There they are!\n\nThe Jedi materialize at the far end of the hallway and dash through the\ndoorway that slams shut. The WHEEL DROIDS blast away at the two JEDI with\ntheir laser swords.\n\nOBI-WAN : They have shield generators!\nQUI-GON : It's a standoff! Let's go!",
+        "dictionary": {
+            "WHEEL DROIDS": "Transformer Droids",
+            "QUI-GON": "Master Quinlan",
+            "OBI-WAN": "Commander Orion",
+            "P-59": "Leader Alpha"
+        }
+    },
+    {
+        "message_id": 11,
+        "passage": "NUTE and RUNE stand on the bridge, watching the view screen as the WHEEL\nDROIDS' POV speeds to the doorway.\n\nRUNE : We have them on the run, sir...they're no match for destroyer\ndroids.\nTEY HOW : Sir, they've gone up the ventilation shaft.",
+        "dictionary": {
+            "WHEEL DROIDS": "Destroyer Robots",
+            "TEY HOW": "Lieutenant Commander"
+        }
+    },
+    {
+        "message_id": 12,
+        "passage": "QUI-GON and OBI-WAN appear at a large vent in a giant hanger bay. They are\ncareful not to be seen. Thousands of BATTLE DROIDS are loading onto landing\ncraft.\n\nQUI-GON : Battle droids.\nOBI-WAN : It's an invisible army.\nQUI-GON : It's an odd play for the Trade Federation. We've got to warn the\nNaboo and contact Chancellor Valorum. Let's split up. Stow aboard separate\nships and meet down on the planet.\nOBI-WAN : You were right about one thing, Master. The negotiations were\nshort.",
+        "dictionary": {
+            "BATTLE DROIDS": "robotic soldiers",
+            "Trade Federation": "galactic alliance"
+        }
+    },
+    {
+        "message_id": 13,
+        "passage": "TEY HOW recieves a transmission.\n\nTEY HOW : Sir, a transmission from the planet.\nRUNE : It's Queen Amidala herself.\nNUTE : At last we're getting results.\n\nOn the view screen, QUEEN AMIDALA appears in her throne room. Wearing her\nelaborate headdress and robes, she sits, surrounded by the GOVERNING\nCOUNCIL and FOUR HANDMAIDENS, EIRTAE, YANE, RABE, and SACHE.\n\nNUTE : (cont'd) Again you come before me, Your highness. The Federation is\npleased.\nAMIDALA : You will not be pleased when you hear what I have to say,\nViceroy...Your trade boycott of our planet has ended.\n\nNUTE smirks at RUNE.\n\nNUTE : I was not aware of such a failure.\nAMIDALA : I have word that the Senate is finally voting on this blockade of\nyours.\nNUTE : I take it you know the outcome. I wonder why they bother to vote.\nAMIDALA : Enough of this pretense, Viceroy! I'm aware the Chancellor's\nAmbassadors are with you now, and that you have beencommanded to reach a\nsettlement.\nNUTE : I know nothing about any Ambassadors...you must be mistaken.\n\nAMIDALA, surprised at his reaction, studies him carefully.\n\nAMIDALA : Beware, Viceroy....the Federation is going too far this time.\nNUTE : Your Highness, we would never do anything without the approval of\nthe Senate. You assume too much.\nAMIDALA : We will see.\n\nThe QUEEN fades off, and the view screen goes black.\n\nRUNE : She's right, the Senate will never....\nNUTE : It's too late now.\nRUNE : Do you think she suspects an attack?\nNUTE : I don't know, but we must move quickly to disrupt all communications\ndown there.",
+        "dictionary": {
+            "Queen Amidala": "Royal Leader",
+            "Viceroy": "Governor",
+            "Federation": "Galactic Union",
+            "Governing Council": "Ruling Assembly",
+            "Handmaiden": "Lady-in-Waiting"
+        }
+    },
+    {
+        "message_id": 14,
+        "passage": "The QUEEN, EIRTAE, SACHE and her Governor, SIO BIBBLE, stand before a\nhologram of SENATOR PALPATINE, a thin, kindly man.\n\nPALPATINE : ...How could that be true? I have assurances from the\nChancellor...his Ambassaodrs did arrive. It must be\nthe...get...negotiate...\n\nThe hologram of PALPATIONE sputters and fades away.\n\nAMIDALA : Senator Palpatine?!? (turns to Panaka) What's happening?\n\nCAPTAIN PANAKA turns to his SARGEANT\n\nCAPT. PANAKA : Check the transmission generators...\nBIBBLE : A malfunction?\nCAPT. PANAKA : It could be the Federation jamming us. Your Highness.\nBIBBLE : A communications disruption can only mean one thing. Invasion.\nAMIDALA : Don't jump to conclusions, Governor. The Federation would not\ndare go that far.\nCAPT. PANAKA : The Senate would revoke their trade franchise, and they'd be\nfinished.\nAMIDALA : We must continue to rely on negotiation.\nBIBBLE : Negotiation? We've lost all communications!...and where atre the\nChancellors Ambassadors? How can we negotiate? We must prepare to defend\nourselves.\nCAPT. PANAKA : This is a dangerous situation, Your Highness. Our security\nvolunteers will be no match against a battle-hardened Federation army.\nAMIDALA : I will not condone a course of action that will lead us to war.",
+        "dictionary": {
+            "QUEEN": "Ruler",
+            "EIRTAE": "Eirta",
+            "SACHE": "Sache",
+            "SIO BIBBLE": "Governor Bibble",
+            "SENATOR PALPATINE": "Senator",
+            "AMIDALA": "Queen Amidala",
+            "PALPATIONE": "Palpatine"
+        }
+    },
+    {
+        "message_id": 15,
+        "passage": "Six landing craft fly in formation toward the surface of the planet Naboo.",
+        "dictionary": {
+            "Naboo": "new planet"
+        }
+    },
+    {
+        "message_id": 16,
+        "passage": "Three landing craft slowly descend through the cloud cover of the\nperpetually gray twilight side of the planet. One by one, the Federation\nwarships land in the eerie swamp.\nOBI-WAN's head emerges from the mud of a shallow lake. For in the\nbackground, the activities of the invasion force can be seen in the mist.\nOBI-WAN takes several deep breaths, then dissapears again under the muddy\nswamp. Troop Transports (MTT's) emerge from the landing craft.",
+        "dictionary": {
+            "OBI-WAN": "Wisdom Leader",
+            "MTT's": "Troop Carriers"
+        }
+    },
+    {
+        "message_id": 17,
+        "passage": "The droid invasion force moves out of the swamp and onto a grassy plain.\nOOM-9, in his tank, looks out over the vast ARMY marching across the\nrolling hills. A small hologram of RUNE and NUTE stands on the tank.\n\nRUNE : ...and there is no trace of the Jedi. They may have gotton onto one\nof your landing craft.\nOOM-9 : If they are down here, sir, we'll find them. We are moving out of\nthe swamp and are marching on the cities. We are meeting no resistance.\nNUTE : Excellent.",
+        "dictionary": {
+            "OOM-9": "Tank Commander",
+            "RUNE": "Officer",
+            "NUTE": "Officer",
+            "ARMY": "Troops",
+            "Jedi": "Knights"
+        }
+    },
+    {
+        "message_id": 18,
+        "passage": "QUI-GON runs through the strange landscape, glancing back to see the\nmonstrous troop transports, emerging from the mist. Animals begin to run\npast him in a panic.\nAn odd, frog-like Gungan, JAR JAR INKS, squats holding a clam he has\nretrieved from the murky swamp. The shell pops open. JAR JAR's greta tongue\nsnaps out and grabs the clam, swallowing it in one gulp.\nJAR JAR looks up and sees QUI-GON and the other creatures running like the\nwind toward him. One of the huge MTT's bears down on the JEDI like a\ncharging locomotive. JAR JAR stands transfixed, still holding the clam\nshell in one hand.\n\nJAR JAR : Oh, noooooooooo!\n\nJAR JAR drops the shell and grabs onto QUI-GON as he passes. The JEDI is\ncaught by surprise.\n\nJAR JAR : (Cont'd) Hey, help me! Help me!!\nQUI-GON : Let go!\n\nThe machine is about tp crush them as QUI-GON drags JAR JAR behind him.\nJust as the transport is about to hit them, QUI-GON drops, and JAR JAR goes\nsplat into the mud with him. The transport races overhead.\nQUI-GON and JAR JAR pull themselves out of the mud. They stand watching the\nwar machine dissapear into the mist. JAR JAR grabs QUI-GON and hugs him.\n\nJAR JAR : Oyi, mooie-mooie! I luv yous!\n\nThe frog-like creature kisses the JEDI.\n\nQUI-GON : Are you brainless? You almost got us killed!\nJAR JAR : I spake.\nQUI-GON : The ability to speak does not make you intelligent. Now get outta\nhere!\n\nQUI-GON starts to move off, and JAR JAR follows.\n\nJAR JAR : No...no! Mesa stay...Mesa yous humble servaunt.\nQUI-GON : That wont be necessary.\nJAR JAR : Oh boot tis! Tis demunded byda guds. Tis a live debett, tis. Mesa\nculled Jaja Binkss.\n\nIn the distance, two STAPS burst out of the mist at high speed, chasing\nOBI-WAN.\n\nQUI-GON : I have no time for this now...\nJAR JAR : Say what?\n\nThe two STAPS barrell down on OBI-WAN.\n\nJAR JAR : (cont'd) Oh, nooooo! Weesa ganna....\n\nQUI-GON throws JAR JAR into the mud.\n\nQUI-GON : Stay down!\n\nHis head pops up.\n\nJAR JAR : ...dieeee!\n\nThe two troops fire laser bolts at OBI-WAN. QUI-GON deflects the bolts\nback, and the STAPS blow up. One-two. OBI-WAN is exhausted and tries to\ncatch his breath.\n\nOBI-WAN : Sorry, Master, the water fried my weapon.\n\nOBI-WAN pulls out his burnt laser sword handle. QUI-GON inspects it, as JAR\nJAR pulls himself out of the mud.\n\nQUI-GON : You forgot to turn your power off again, didn't you?\n\nOBI-WAN nods sheeplishly.\n\nQUI-GON : (cont'd) It won't take long to recharge, but this is a lesson I\nhope you've learned, my young Padawan.\nOBI-WAN : Yes, Master.\nJAR JAR : Yousa sav-ed my again, hey?\nOBI-WAN : What's this?\nQUI-GON : A local. Let's go, before more of those droids show up.\nJAR JAR : Mure? Mure did you spake??!?\n\nOBI-WAN and QUI-GON start to run. JAR JAR tries to keep up.\n\nJAR JAR : (cont'd) Ex-squeeze me, but da moto grande safe place would be\nOtoh Gunga. Tis where I grew up...Tis safe city.\n\nThey all stop.\n\nQUI-GON : A city! (JAR JAR nods his head) Can you take us there?\nJAR JAR : Ahhh, will...on second taut...no, not willy.\nQUI-GON : No??!\nJAR JAR : Iss embarrissing, boot... My afrai my've bean banished. My\nforgoten der Bosses would do terrible tings to my. Terrible tings if my\ngoen back dare.\n\nA PULSATING SOUND is heard in the distance.\n\nQUI-GON : You hear that?\n\nJAR JAR shakes his head yes.\n\nQUI-GON : (cont'd) That's the sound of a thousand terrible things heading\nthis way...\nOBI-WAN : When they find us, they will crush us, grind us into little\npieces, then blast us into oblivion!\nJAR JAR : Oh! Yousa point is well seen. Dis way! Hurry!\n\nJAR JAR turns and runs into the swamp.",
+        "dictionary": {
+            "JEDI": "Warrior Monk",
+            "MTT": "Heavy Transport",
+            "OBI-WAN": "Young Disciple",
+            "Padawan": "Apprentice",
+            "OTOH Gunga": "Underwater City",
+            "PULSATING SOUND": "Distant Thunder"
+        }
+    },
+    {
+        "message_id": 19,
+        "passage": "QUI-GON, OBI-WAN and JAR JAR run into a murky lake and stop as JAR JAR\ntries to catch his breath. The TRANSPORTS ARE HEARD in the distance.\n\nQUI-GON : Much farther?\nJAR JAR : Wesa goen underwater, okeyday?\n\nQUI-GON and OBI-WAN pull out small capsule from their utility belts that\nturn into breathing masks.\n\nJAR JAR : (cont'd) My warning yous. Gungans no liken outlaunders. Don't\nexpict a wern welcome.\nOBI-WAN : Don't worry, this has not been our day for warm welcomes.\n\nJAR JAR jumps, does a double somersault with a twist, and dives into the\nwater.\nBreath masks on, QUI-GON and OBI-WAN wade in after him.",
+        "dictionary": {
+            "Gungans": "Underwater Dwellers",
+            "outlaunders": "strangers",
+            "wesa": "we are",
+            "okeyday": "okay then",
+            "yous": "you",
+            "expict": "expect",
+            "wern": "were",
+            "Gungans no liken outlaunders": "Underwater Dwellers don't like strangers"
+        }
+    }
+]

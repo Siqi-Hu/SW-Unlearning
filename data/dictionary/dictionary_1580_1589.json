@@ -1,0 +1,85 @@
+[
+    {
+        "message_id": 1580,
+        "passage": "A small escape pod hurls toward the swamp planet and disappears in the mist. The pod has landed, and YODA descends the ramp, surveying the unfamiliar terrain. \n\n237",
+        "dictionary": {
+            "YODA": "the wise Jedi Master",
+            "swamp planet": "uninhabitable world"
+        }
+    },
+    {
+        "message_id": 1581,
+        "passage": "A Star Destroyer is surrounded by ATTACK CRUISERS. On the bridge of the Star Destroyer stands the EMPEROR and GOVERNOR \nTARKIN. \n\nDARTH VADER walks along the bridge to join the EMPEROR and GOVERNOR TARKIN. The camera PANS to reveal the huge frame \nstructure which is the beginning of the DEATH STAR. \n\n238",
+        "dictionary": {
+            "ATTACK CRUISERS": "Warships",
+            "DEATH STAR": "Space Station",
+            "DARTH VADER": "Dark Knight",
+            "EMPEROR": "Supreme Ruler",
+            "GOVERNOR TARKIN": "Regional Leader"
+        }
+    },
+    {
+        "message_id": 1582,
+        "passage": "The ship approaches the surface of Alderaan. \n\n239",
+        "dictionary": {
+            "Alderaan": "the planet"
+        }
+    },
+    {
+        "message_id": 1583,
+        "passage": "The QUEEN OF ALDERAAN sits on a balcony looking out over the awesome mountains of Alderaan. BAIL ORGANA brings a small baby to her. She takes her and rocks her. \n\n240",
+        "dictionary": {
+            "QUEEN OF ALDERAAN": "Monarch of the Planet",
+            "Alderaan": "Remote Planet"
+        }
+    },
+    {
+        "message_id": 1584,
+        "passage": "OBI-WAN rides up to the moisture farm homestead on an EOPIE. He dismounts, takes the BABY out of a papoose on his back, and walks toward AUNT BERU, who walks over to greet him. They talk for a moment, and OBI-WAN turns the baby over to the young homesteader. AUNT BERU walks to UNCLE OWEN who is standing on the ridge near the homestead. OBI-WAN leaves as OWEN, BERU, and the BABY watch the twin suns set. \n\nIRIS OUT. END TITLES.",
+        "dictionary": {
+            "EOPIE": "horse",
+            "BABY": "infant",
+            "AUNT BERU": "homesteader's relative",
+            "UNCLE OWEN": "homesteader's relative"
+        }
+    },
+    {
+        "message_id": 1585,
+        "passage": "1.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 1586,
+        "passage": "Han and Chewbacca are seated in the cockpit of the Falcon.\n\n2.",
+        "dictionary": {
+            "Falcon": "Starship",
+            "Wookiee": "Large, hairy alien"
+        }
+    },
+    {
+        "message_id": 1587,
+        "passage": "The Falcon speeds across the screen. Two Star Destroyers\n     chase the Falcon and fire on her. Several of the laser \n     blasts connect with the shields.\n\n3.",
+        "dictionary": {
+            "Star Destroyers": "Warships",
+            "Falcon": "Ship",
+            "laser": "energy"
+        }
+    },
+    {
+        "message_id": 1588,
+        "passage": "The Falcon rocks as lasers hit their shields.\n\n                            HAN\n               That's it I'm turning back.\n\n     Chewie growls at Han in reply.\n\n                            HAN\n               I know your family's waiting.\n\n     Chewie growls again.\n\n                            HAN\n               I know it's an important day.\n\n     Chewie growls again at Han.\n\n                            HAN\n               All right. We'll give it a try. I'll set \n               short coordinates - we won't jump far.\n\n     Han flips some switches on a control panel.\n\n                            HAN\n               I'll get you back there in time, pal. \n               Trust me.\n\n     Chewie growls and leans over and pits his arm around Han \n     very affectionately.\n\n4.",
+        "dictionary": {
+            "Falcon": "spaceship",
+            "Chewie": "dog",
+            "Han": "pilot"
+        }
+    },
+    {
+        "message_id": 1589,
+        "passage": "A Star Destroyer is firing on the falcon.\n\n5.",
+        "dictionary": {
+            "Star Destroyer": "Warship",
+            "Falcon": "Spaceship"
+        }
+    }
+]

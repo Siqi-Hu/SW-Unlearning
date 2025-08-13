@@ -1,0 +1,85 @@
+[
+    {
+        "message_id": 1360,
+        "passage": "The SUPER BATTLE DROIDS climb up the vent shaft. SUPER BATTLE DROID R77 and SEVERAL OTHER DROIDS wait in the generator room as the fuel continues to rise toward the power discharger. \n\nSUPER BATTLE DROID R77: I have a bad feeling about this. \n\n17",
+        "dictionary": {
+            "SUPER BATTLE DROIDS": "Robotic Warriors",
+            "SUPER BATTLE DROID R77": "Robot 77",
+            "SEVERAL OTHER DROIDS": "Multiple Robots"
+        }
+    },
+    {
+        "message_id": 1361,
+        "passage": "The fuel hits the SPARKING power discharger, and there is a HUGE EXPLOSION. \n\n18",
+        "dictionary": {
+            "SPARKING": "electrifying",
+            "HUGE": "enormous"
+        }
+    },
+    {
+        "message_id": 1362,
+        "passage": "A GREAT EXPLOSION and a flaming gas cloud spray out of the side of the Federation Cruiser. \n\n19",
+        "dictionary": {}
+    },
+    {
+        "message_id": 1363,
+        "passage": "A large bulge appears in the wall around the sealed hatch as the EXPLOSION hits. OBI-WAN jumps back, then stands amazed. \n\nOBI-WAN: All right, you win. I have much to learn. Let's go! \n\nANAKIN grins at OBI-WAN, and they run down the hallway. \n\n20",
+        "dictionary": {
+            "OBI-WAN": "The Mentor",
+            "EXPLOSION": "Explosive Blast"
+        }
+    },
+    {
+        "message_id": 1364,
+        "passage": "The two JEDI wait for an elevator to arrive. They turn around and see they are face to face with THREE DESTROYER DROIDS. The DROIDS start blasting away. Anakin deflects the bolts. OBI-WAN frantically pushes the elevator button several more times. \n\nANAKIN: Destroyers!! \n\nFinally the door opens, and they rush inside under a hail of laser bolts. The elevator door slides shut. The JEDI turn to see BATTLE DROIDS standing behind them. \n\nBATTLE DROID: Drop your weapons! I said drop 'em. \n\nThe JEDI activate their light sabers and destroy all the BATTLE DROIDS. \n\n21",
+        "dictionary": {
+            "JEDI": "Knights",
+            "THREE DESTROYER DROIDS": "Three Enemy Droids",
+            "DROIDS": "Robots",
+            "OBI-WAN": "Old Friend",
+            "ANAKIN": "Young Warrior",
+            "BATTLE DROIDS": "Enemy Robots"
+        }
+    },
+    {
+        "message_id": 1365,
+        "passage": "R2-D2 notices two SUPER BATTLE DROIDS entering the hangar. He moves and hides behind a Jedi Starfighter. \n\n22",
+        "dictionary": {
+            "SUPER BATTLE DROIDS": "High-Tech Combat Drones",
+            "Jedi Starfighter": "Galactic Pursuit Craft"
+        }
+    },
+    {
+        "message_id": 1366,
+        "passage": "The elevator begins to move and screeches to a stop. \n\nOBI-WAN: Did you press the stop button? \n\nANAKIN: No, did you? \n\nOBI-WAN: No! \n\nANAKIN: Well, there's more than one way out of here. \n\nANAKIN ignites his laser sword. \n\nOBI-WAN: We don't want to get out, we want to get moving. Artoo . . . Artoo. Do you copy? Activate elevator . . . (looks at control panel) . . . 31174 . . . \n\nANAKIN cuts a hole in the elevator ceiling. \n\n23",
+        "dictionary": {
+            "OBI-WAN": "Commander",
+            "ANAKIN": "Captain"
+        }
+    },
+    {
+        "message_id": 1367,
+        "passage": "TWO SUPER BATTLE DROIDS are inspecting the Jedi starfighters. They overhear Obi-Wan's voice over the comlink and are distracted. \n\nSUPER BATTLE DROID 1: What's that? \n\nSUPER BATTLE DROID 2: Get back to work. It's nothing. \n\n24",
+        "dictionary": {
+            "SUPER BATTLE DROIDS": "High-Tech Security Drones",
+            "Jedi starfighters": "Spacecraft Piloted by Skilled Warriors",
+            "comlink": "Communication Device"
+        }
+    },
+    {
+        "message_id": 1368,
+        "passage": "OBI-WAN: Artoo? \n\nANAKIN climbs through the hole in the ceiling of the elevator. \n\nOBI-WAN: (continuing) Always on the move. \n\nOBI-WAN continues to talk on the comlink. Artoo quietly beeps a reply. \n\n25",
+        "dictionary": {
+            "Artoo": "Assistant Robot",
+            "comlink": "communication device"
+        }
+    },
+    {
+        "message_id": 1369,
+        "passage": "ARTOO tries to muffle the comlink as the TWO SUPER BATTLE DROIDS try to figure out where the voices are coming from. ARTOO extends an arm and plugs into a computer interface. \n\nOBI-WAN: (OS) Artoo, switch on the comlink. Artoo, do you hear me? Artoo, we gave you a job to do! Artoo. \n\n26",
+        "dictionary": {
+            "SUPER BATTLE DROIDS": "Elite Guard Droids",
+            "comlink": "communication device"
+        }
+    }
+]

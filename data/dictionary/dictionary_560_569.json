@@ -1,0 +1,80 @@
+[
+    {
+        "message_id": 560,
+        "passage": "LUKE\n                    (over headset)\n                Red Leader, we're right above you.\n                Turn to point...\n\n377",
+        "dictionary": {
+            "LUKE": "Pilot"
+        }
+    },
+    {
+        "message_id": 561,
+        "passage": "Luke tries to spot Red Leader. He looks down at the Death\n      Star surface.\n\n                          LUKE\n                ...oh-five; we'll cover for you.\n\n                          RED LEADER\n                    (over headset)\n                Stay there...\n\n378",
+        "dictionary": {
+            "Death Star": "Space Station",
+            "Red Leader": "Air Force Commander"
+        }
+    },
+    {
+        "message_id": 562,
+        "passage": "A wary Red Leader looks about nervously.\n\n                          RED LEADER\n                ...I just lost my starboard engine.\n\n379",
+        "dictionary": {
+            "Red Leader": "Flight Commander"
+        }
+    },
+    {
+        "message_id": 563,
+        "passage": "Luke looks excitedly toward Red Leader's X-wing.\n\n                          RED LEADER\n                    (over headset)\n                Get set to make your attack run.\n\n380",
+        "dictionary": {
+            "X-wing": "fighter jet",
+            "Red Leader": "Commander Brown"
+        }
+    },
+    {
+        "message_id": 564,
+        "passage": "Vader's gloved hands make contact with the control sticks,\n      and he presses their firing buttons.\n\n381",
+        "dictionary": {
+            "Vader": "Commander"
+        }
+    },
+    {
+        "message_id": 565,
+        "passage": "Red Leader fights to gain control of his ship.\n\n382",
+        "dictionary": {
+            "Red Leader": "Commanding Officer"
+        }
+    },
+    {
+        "message_id": 566,
+        "passage": "Laserbolts are flung from Vader's TIE fighter, connecting\n      with Red Leader's Rebel X-wing fighter. Red Leader buys it,\n      creating a tremendous explosion far below. He screams and is\n      destroyed.\n\n383",
+        "dictionary": {
+            "TIE fighter": "enemy spaceship",
+            "Laserbolts": "energy projectiles"
+        }
+    },
+    {
+        "message_id": 567,
+        "passage": "Luke looks out the window of his X-wing at the explosion far\n      below. For the first time, he feels the helplessness of his\n      situation.\n\n384",
+        "dictionary": {
+            "X-wing": "fighter jet",
+            "Tatooine": "desert planet",
+            "Jedi": "warrior monk",
+            "Force": "energy field"
+        }
+    },
+    {
+        "message_id": 568,
+        "passage": "Grand Moff Tarkin casts a sinister eye at the computer\n      screen.\n\n                          DEATH STAR INTERCOM VOICE\n                Rebel base, one minute and closing.\n\n385",
+        "dictionary": {
+            "DEATH STAR": "Galactic Destroyer",
+            "Grand Moff": "High Commander"
+        }
+    },
+    {
+        "message_id": 569,
+        "passage": "Dodonna and Princess Leia, with Threepio beside them, listen\n      intently to the talk between the pilots. The room is grim\n      after Red Leader's death. Princess Leia nervously paces the\n      room.\n\n                          LUKE\n                    (over speaker)\n                Biggs, Wedge, let's close it up.\n                We're going in. We're going in full\n                throttle.\n\n386",
+        "dictionary": {
+            "Threepio": "Translator Droid",
+            "Red Leader": "Pilot Commander"
+        }
+    }
+]

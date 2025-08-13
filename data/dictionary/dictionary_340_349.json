@@ -1,0 +1,85 @@
+[
+    {
+        "message_id": 340,
+        "passage": "Han adjusts his headset as he sits before the controls of\n      his laser cannon, then speaks into the attached microphone.\n\n                          HAN\n                    (to Luke)\n                You in, kid? Okay, stay sharp!\n\n155",
+        "dictionary": {
+            "laser cannon": "energy weapon",
+            "kid": "youngster"
+        }
+    },
+    {
+        "message_id": 341,
+        "passage": "Chewbacca and Princess Leia search the heavens for attacking\n      TIE fighters. The Wookiee pulls back on the speed controls\n      as the ship bounces slightly.\n\n156",
+        "dictionary": {
+            "TIE": "Enemy Fighter",
+            "Wookiee": "Furry Companion"
+        }
+    },
+    {
+        "message_id": 342,
+        "passage": "Computer graphic readouts form on Solo's target screen, as\n      Han reaches for controls.\n\n157",
+        "dictionary": {
+            "Solo's": "Captain's",
+            "Han": "Pilot"
+        }
+    },
+    {
+        "message_id": 343,
+        "passage": "Luke sits in readiness for the attack, his hand on the laser\n      cannon's control button.\n\n158",
+        "dictionary": {
+            "laser cannon": "energy gun",
+            "control button": "activation switch"
+        }
+    },
+    {
+        "message_id": 344,
+        "passage": "Chewbacca spots the enemy ships and barks.\n\n                          LEIA\n                    (into intercom)\n                Here they come!\n\n159",
+        "dictionary": {
+            "Chewbacca": "Loyal Companion",
+            "LEIA": "Commander"
+        }
+    },
+    {
+        "message_id": 345,
+        "passage": "SPACE\n                The Imperial TIE fighters move\n                towards the Millennium Falcon, one\n                each veering off to the left and\n                right of the pirateship.\n\n160",
+        "dictionary": {
+            "Imperial": "Government",
+            "TIE fighters": "Military Jets",
+            "Millennium Falcon": "Space Cruiser",
+            "pirateship": "Space Vessel"
+        }
+    },
+    {
+        "message_id": 346,
+        "passage": "The stars whip past behind the Imperial pilot as he adjusts\n      his maneuvering joy stick.\n\n161",
+        "dictionary": {
+            "Imperial": "Government",
+            "maneuvering joy stick": "flight controls"
+        }
+    },
+    {
+        "message_id": 347,
+        "passage": "The TIE fighter races past the Falcon, firing laser beams as\n      it passes.\n\n162",
+        "dictionary": {
+            "TIE": "enemy aircraft",
+            "Falcon": "spacecraft"
+        }
+    },
+    {
+        "message_id": 348,
+        "passage": "Threepio is seated in the hold area, next to Artoo-Detoo.\n      The pirateship bounces and vibrates as the power goes out in\n      the room and then comes back on.\n\n163",
+        "dictionary": {
+            "Threepio": "Mechanic",
+            "Artoo-Detoo": "Robot",
+            "pirateship": "spaceship"
+        }
+    },
+    {
+        "message_id": 349,
+        "passage": "A TIE fighter maneuvers in front of Han, who follows it and\n      fires at it with the laser cannon. Luke does likewise, as\n      the fighter streaks into view. The ship has suffered a minor\n      hit, and bounces slightly.\n\n164",
+        "dictionary": {
+            "TIE fighter": "enemy plane",
+            "laser cannon": "energy gun"
+        }
+    }
+]

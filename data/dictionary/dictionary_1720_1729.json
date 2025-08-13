@@ -1,0 +1,88 @@
+[
+    {
+        "message_id": 1720,
+        "passage": "The cannons mounted on the walker head fire at the speeders.\n     Other walkers loom in the background. Two speeders race\n     away past two of the enormous walkers and bank to the right.\n\n55",
+        "dictionary": {
+            "walker": "mechanical giant",
+            "speeders": "small aircraft"
+        }
+    },
+    {
+        "message_id": 1721,
+        "passage": "LUKE\n                All right, I'm coming in.\n\n     He turns his speeder and heads directly at one of the\n     walkers, flying toward its towering legs. The horizon\n     twists as the speeder banks between the legs.\n\n                          LUKE (CONT’D)\n                    (into comlink)\n                Hobbie, you still with me?\n\n56",
+        "dictionary": {
+            "LUKE": "Pilot",
+            "speeder": "vehicle"
+        }
+    },
+    {
+        "message_id": 1722,
+        "passage": "Two speeders race directly at the head of a walker, then\n     split and fly past it.\n\n     Three other walkers march onward, firing all cannons.\n\n57",
+        "dictionary": {
+            "walker": "mechanized tank",
+            "speeders": "small aircraft"
+        }
+    },
+    {
+        "message_id": 1723,
+        "passage": "Rebel troops fire on the approaching walkers, as the snow\n     and ice explode all around them.\n\n58",
+        "dictionary": {
+            "Rebel troops": "Resistance fighters",
+            "approaching walkers": "oncoming giants"
+        }
+    },
+    {
+        "message_id": 1724,
+        "passage": "A speeder banks through and away from the legs of a walker.\n     Two other speeders pass the first speeder from the opposite\n     direction. Other Rebel craft race just above the icy plain.\n\n     A giant walker head swivels and fires, striking a\n     snowspeeder and sending it crashing in a ball of flames.\n\n59",
+        "dictionary": {
+            "speeder": "vehicle",
+            "walker": "mechanical giant",
+            "Rebel": "resistance",
+            "snowspeeder": "flying sled"
+        }
+    },
+    {
+        "message_id": 1725,
+        "passage": "General Veers and two walker pilots keep a careful eye on\n     the racing Rebel snowspeeders as they maneuver their\n     lumbering war machine forward.\n\n     Luke's speeder banks in from the side of Veers's walker and\n     heads straight for its viewport, blasting away. An\n     explosion hits the walker window, but dissipates, doing no\n     harm. The speeder roars up and over the impregnable war\n     machine.\n\n60",
+        "dictionary": {
+            "walker": "armored vehicle",
+            "snowspeeders": "fast aircraft",
+            "Rebel": "insurgent"
+        }
+    },
+    {
+        "message_id": 1726,
+        "passage": "Luke looks back at the walker as it grows smaller in the\n     distance.\n\n                          LUKE\n                That armor's too strong for\n                blasters.\n\n     On the horizon, another walker moves up past Luke's cockpit\n     window, twisting out of sight as Luke banks and starts\n     another run.\n\n                          LUKE (CONT’D)\n                    (into comlink)\n                Rogue Group, use your harpoons and\n                tow cables. Go for the legs. It\n                might be our only chance of\n                stopping them.\n                    (to Dack)\n                All right, stand by, Dack.\n\n     Dack is at the gunner's controls.\n\n                          DACK\n                Luke, we've got a malfunction in\n                fire control. I'll have to cut in\n                the auxiliary.\n\n                          LUKE\n                Just hang on. Hang on, Dack.    Get\n                ready to fire that tow cable.\n\n     Barely keeping his seat in the tumbling ship, Dack struggles\n     to set up his harpoon gun.\n\n     Luke swings his speeder around and heads toward an oncoming\n     walker. Laser bolts and flak fill the air, creating a deadly\n     obstacle course for the tiny craft.\n\n61",
+        "dictionary": {
+            "blasters": "lasers",
+            "Rogue Group": "Special Task Force",
+            "tow cables": "traction lines",
+            "auxiliary": "backup system",
+            "speeder": "aerial vehicle"
+        }
+    },
+    {
+        "message_id": 1727,
+        "passage": "Rogue Leader and another snowspeeder fly in tight formation\n     toward the walker as explosions burst all around them.\n\n62",
+        "dictionary": {
+            "snowspeeder": "high-speed fighter",
+            "walker": "mechanical beast"
+        }
+    },
+    {
+        "message_id": 1728,
+        "passage": "After sustaining a heavy volley of fire, Luke turns around\n     to see if Dack is all right.\n\n                           LUKE\n                Dack?   Dack!\n\n     Dack is lost. Blood streams down his forehead, which rests\n     on his smoldering controls. Out the back window, an\n     Imperial walker recedes in the distance.\n\n63",
+        "dictionary": {
+            "Imperial walker": "Mechanical behemoth",
+            "Dack": "Pilot"
+        }
+    },
+    {
+        "message_id": 1729,
+        "passage": "Rebel troops fire the dishlike ray gun while explosions\n     erupt around them.\n\n64",
+        "dictionary": {
+            "Rebel troops": "Resistance fighters",
+            "dishlike ray gun": "laser cannon"
+        }
+    }
+]

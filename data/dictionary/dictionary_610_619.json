@@ -1,0 +1,80 @@
+[
+    {
+        "message_id": 610,
+        "passage": "Grand Moff Tarkin watches the projected target screen with\n      satisfaction.\n\n                          DEATH STAR INTERCOM VOICE\n                Rebel base, thirty seconds and\n                closing.\n\n427",
+        "dictionary": {
+            "DEATH STAR": "Galactic Space Station",
+            "Grand Moff": "High Commander"
+        }
+    },
+    {
+        "message_id": 611,
+        "passage": "Vader takes aim on Luke and talks to the wingmen.\n\n                          VADER\n                I'm on the leader.\n\n428",
+        "dictionary": {
+            "Vader": "The Dark Lord",
+            "wingmen": "pilots"
+        }
+    },
+    {
+        "message_id": 612,
+        "passage": "Luke's ship streaks through the trench of the Death Star.\n\n429",
+        "dictionary": {
+            "Death Star": "Imperial Space Station",
+            "trench": "gorge"
+        }
+    },
+    {
+        "message_id": 613,
+        "passage": "Princess Leia returns her general's worried and doubtful\n      glances with solid, grim determination. Threepio seems\n      nervous.\n\n                          THREEPIO\n                Hang on, Artoo!\n\n430",
+        "dictionary": {
+            "Threepio": "Translator",
+            "Artoo": "Robot"
+        }
+    },
+    {
+        "message_id": 614,
+        "passage": "Luke concentrates on his targeting device.\n\n431",
+        "dictionary": {
+            "Luke": "Alex"
+        }
+    },
+    {
+        "message_id": 615,
+        "passage": "Three TIE fighters charge away down the trench toward Luke.\n\n432",
+        "dictionary": {
+            "TIE": "enemy aircraft",
+            "TIE fighters": "enemy planes"
+        }
+    },
+    {
+        "message_id": 616,
+        "passage": "Vader's finger's curls around the control stick.\n\n433",
+        "dictionary": {
+            "Vader": "Commander"
+        }
+    },
+    {
+        "message_id": 617,
+        "passage": "Luke adjusts the lens of his targeting device.\n\n434",
+        "dictionary": {
+            "targeting device": "rifle scope"
+        }
+    },
+    {
+        "message_id": 618,
+        "passage": "Luke's ship charges down the trench.\n\n435",
+        "dictionary": {
+            "Tatooine": "A distant desert planet",
+            "X-wing": "High-speed fighter jet",
+            "trench": "deep gorge"
+        }
+    },
+    {
+        "message_id": 619,
+        "passage": "Luke lines up the yellow cross-hair lines of the targeting\n      device's screen. He looks into the targeting device, then\n      starts at a voice he hears.\n\n                          BEN'S VOICE\n                Use the Force, Luke.\n\n436",
+        "dictionary": {
+            "Force": "Intuition",
+            "Ben": "Father"
+        }
+    }
+]

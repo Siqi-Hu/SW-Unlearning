@@ -1,0 +1,91 @@
+[
+    {
+        "message_id": 1000,
+        "passage": "ANAKIN and PADME step onto the landing platform from the water speeder. They enter the Naboo Starship. ARTOO BEEPS, and follows them on board. The ramp retracts.\n\nPADDY ACCU drives the water speeder away from the platform as Anakin's Starship takes off.",
+        "dictionary": {
+            "Naboo": "Planet Xylophia-IV",
+            "Artoo": "Robotic Assistant",
+            "Padme": "Senator Elara",
+            "Anakin's Starship": "Galactic Transport"
+        }
+    },
+    {
+        "message_id": 1001,
+        "passage": "Rain lashes the city. Below, mightly waves pound the stilts, breaking almost to the height of the platforms.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 1002,
+        "passage": "TAUN WE conducts OBI-WAN to the door of Jango Fett's apartment. TAUN WE waves his hand, and a muted bell RINGS.\n\nAs they wait, OBI-WAN notes the door lock entry mechanism. Then the door opens, and a ten-year-old boy, BOBA FETT, looks at them. He is identical to the boys in the classroom.\n\n\t\t\t\tTAUN WE\n\t\t\tBoba, is your father here?\n\nThere is a brief pause, then BOBA FETT nods.\n\n\t\t\t\tTAUN WE\n\t\t\t\t(continuing)\n\t\t\tMay we see him?\n\n\t\t\t\tBOBA FETT\n\t\t\tSure.\n\nAnother brief pause, then BOBA FETT steps aside, and TAUN WE and OBI-WAN go through.",
+        "dictionary": {
+            "Jango Fett": "a bounty hunter",
+            "Obi-Wan": "a Jedi",
+            "Boba Fett": "a young boy"
+        }
+    },
+    {
+        "message_id": 1003,
+        "passage": "OBI-WAN, TAUN WE, and BOBA FETT enter the apartment. OBI-WAN looks around the room.\n\n\t\t\t\tBOBA FETT\n\t\t\tDad! Taun We's here!\n\nJANGO FETT comes in from the bedroom. He wears a jumpsuit. He is unshaven and mean looking, his face pitted with scars of old wounds. There are a couple of weird tattoos on his muscular forearms. He eyes OBI-WAN with suspicion.\n\n\t\t\t\tTAUN WE\n\t\t\tWelcome back, Jango. Was your\n\t\t\ttrip productive?\n\n\t\t\t\tJANGO FETT\n\t\t\tFairly.\n\nOBI-WAN and JANGO FETT size each other up. BOBA FETT studies both of them.\n\n\t\t\t\tTAUN WE\n\t\t\tThis is Jedi Master, Obi-Wan\n\t\t\tKenobi. He's come to check on our\n\t\t\tprogress.\n\n\t\t\t\tJANGO FETT\n\t\t\tThat right?\n\nJANGO FETT'S eyes fix OBI-WAN coldly.\n\n\t\t\t\tOBI-WAN\n\t\t\tYour clones are very impressive.\n\t\t\tYou must be very proud.\n\n\t\t\t\tJANGO FETT\n\t\t\tI'm just a simple man, trying to\n\t\t\tmake my way in the universe,\n\t\t\tMaster Jedi.\n\n\t\t\t\tOBI-WAN\n\t\t\tAren't we all?\n\nOBI-WAN eyes the half-open bedroom door, through which a couple of pieces of body armour can be seen on the floor. JANGO FETT registers OBI-WAN'S look. He moves in front of him, blocking the view.\n\n\t\t\t\tOBI-WAN\n\t\t\t\t(continuing)\n\t\t\tEver made your way as far into the\n\t\t\tinterior as Coruscant?\n\n\t\t\t\tJANGO\n\t\t\tOnce or twice.\n\n\t\t\t\tOBI-WAN\n\t\t\tRecently?\n\n\t\t\t\tJANGO\n\t\t\t\t(eyes Obi-Wan carefully)\n\t\t\tPossibly...\n\n\t\t\t\tOBI-WAN\n\t\t\tThen you must know Master Sido-\n\t\t\tDyas?\n\n\t\t\t\tJANGO\n\t\t\tBoba, close the door.\n\nBOBA FETT moves to close the bedroom door. JANGO FETT smiles thinly at OBI-WAN.\n\n\t\t\t\tJANGO\n\t\t\t\t(continuing)\n\t\t\tMaster who?\n\n\t\t\t\tOBI-WAN\n\t\t\tSido-Dyas. Isn�t he the Jedi who\n\t\t\thired you for this job?\n\n\t\t\t\tJANGO\n\t\t\tNever heard of him. I was\n\t\t\trecuited by a man called Darth\n\t\t\tTyranus on one of the moons of\n\t\t\tBogden.\n\n\t\t\t\tOBI-WAN\n\t\t\tNo? I thought...\n\n\t\t\t\tTAUN WE\n\t\t\tSido-Dyas told us to expect him.\n\t\t\tAnd he showed up just when your\n\t\t\tJedi Master said he would. We\n\t\t\thave kept the Jedi�s involvement\n\t\t\ta secret until your arrival, just\n\t\t\tas your Master requested.\n\n\t\t\t\tOBI-WAN\n\t\t\tCurious...\n\n\t\t\t\tJANGO\n\t\t\tDo you like your army?\n\n\t\t\t\tOBI-WAN\n\t\t\tIt seems to me it's your army -\n\t\t\tbeing that they are all clones of\n\t\t\tyou.\n\n\t\t\t\tJANGO\n\t\t\t\t(grinning)\n\t\t\tThey'll do their job well, I'll\n\t\t\tguarantee that.\n\n\t\t\t\tOBI-WAN\n\t\t\tI look forward to seeing them in\n\t\t\taction. Thank you for your time,\n\t\t\tJango.\n\n\t\t\t\tJANGO\n\t\t\tAlways a pleasure to meet a Jedi.\n\nOBI-WAN and TAUN WE go out. The door slides closed. JANGO FETT turns to his son. He is deep in thought.\n\n\t\t\t\tBOBA\n\t\t\tWhat is it, Dad?",
+        "dictionary": {
+            "OBI-WAN": "Galactic Explorer",
+            "TAUN WE": "Alien Diplomat",
+            "BOBA FETT": "Space Mercenary",
+            "JANGO FETT": "Warlord",
+            "DARTH TYRANUS": "Galactic Emperor",
+            "CORUSCANT": "Galactic Capital",
+            "JEDI": "Peacekeepers",
+            "SITH": "Dark Force Warriors"
+        }
+    },
+    {
+        "message_id": 1004,
+        "passage": "The Naboo Starship heads toward the desert planet of Tatooine.",
+        "dictionary": {
+            "Naboo": "Planet Xylophia-IV",
+            "Tatooine": "Desert Planet Zorvath"
+        }
+    },
+    {
+        "message_id": 1005,
+        "passage": "The Naboo Starship lands in a large parking lot of Spaceships on the outskirts of Mos Espa. ANAKIN and PADME ride a rickshaw through the streets. ANAKIN stares at sights he hasn't seen for years. Finally, they come  to Wattos' shop, and the rickshaw stops.\n\n\t\t\t\tANAKIN\n\t\t\t\t(to the droid driver)\n\t\t\tWait, please.\n\nANAKIN and PADME get down. Sitting on a stool in front of the shop is WATTO. He is using a small electronic screwdriver on a fiddly DROID. THREE PIT DROIDS are chattering away and are trying to help him, but they seem only to make him madder.\n\n\t\t\t\tWATTO\n\t\t\t\t(yelling, in Huttese)\n\t\t\tNo, not that one - that one!\n\n\t\t\t\tANAKIN\n\t\t\t\t(arriving)\n\t\t\tExcuse me, Watto.\n\n\t\t\t\tWATTO\n\t\t\t\t(in Huttese)\n\t\t\tWhat?\n\n\t\t\t\tANAKIN\n\t\t\t\t(in Huttese)\n\t\t\tI said excuse me.\n\nWATTO turns to the chattering PIT DROIDS.\n\n\t\t\t\tWATTO\n\t\t\t\t(in Huttese)\n\t\t\tShut down.\n\nThe PIT DROIDS snap into their storage position.\n\n\t\t\t\tWATTO\n\t\t\t\t(continuing, in Huttese)\n\t\t\tWhat? I don't know you... What can\n\t\t\tI do for you? You look like a\n\t\t\tJedi. Whatever it is... I didn't\n\t\t\tdo it.\n\nWATTO drops the screwdriver and curses loudly in Huttese\n\n\t\t\t\tANAKIN\n\t\t\tLet me help you with that.\n\nANAKIN takes the fiddly piece of equipment and starts to play with it. WATTO blinks in surprise.\n\n\t\t\t\tANAKIN\n\t\t\t\t(continuing)\n\t\t\tI'm looking for Shmi Skywalker.\n\nWATTO looks at him suspiciously. He stares at PADME, then back to ANAKIN.\n\n\t\t\t\tWATTO\n\t\t\tAnnie?? Little Annie?? Naaaah!!\n\nSuddenly, the fiddly piece of equipment in Anakin's hands WHIRS into life. WATTO blinks at it.\n\n\t\t\t\tWATTO\n\t\t\t\t(continuing; in English)\n\t\t\tYou are Annie! It is you! You\n\t\t\tlittle womp rat.\n\nWATTO gives ANAKIN a big hug.\n\n\t\t\t\tWATTO\n\t\t\t\t(continuing)\n\t\t\tYou sure sprouted Weehoo! A\n\t\t\tJedi! Waddya know? Hey, maybe\n\t\t\tyou couldda help wit some\n\t\t\tdaedbeats who owe...\n\n\t\t\t\tANAKIN\n\t\t\tMy mother...\n\n\t\t\t\tWATTO\n\t\t\tOh, yeah. Shmi... she's not mine\n\t\t\tno more. I sold her.\n\n\t\t\t\tANAKIN\n\t\t\tSold her...\n\n\t\t\t\tWATTO\n\t\t\tYears ago. Sorry, Anne, but you\n\t\t\tknow, business is business.\n\t\t\tSold her to a moisture farmer\n\t\t\tnamed Lars. Least I think it was\n\t\t\tLars. Believe it or not, I heard\n\t\t\the freed her and married her. Can\n\t\t\tya beat that?\n\n\t\t\t\tANAKIN\n\t\t\tDo you know where they are?\n\n\t\t\t\tWATTO\n\t\t\tLong way from here... someplace\n\t\t\tover on the other side of Mos\n\t\t\tEisley, I think...\n\n\t\t\t\tANAKIN\n\t\t\tI'd like to know.\n\nANAKIN'S grim look means business; WATTO gets the hint quickly.\n\n\t\t\t\tWATTO\n\t\t\tYeah... sure... absolutely. Let's\n\t\t\tgo look in my records.\n\nANAKIN and WATTO go into the shop.",
+        "dictionary": {
+            "Mos Espa": "Spaceport City",
+            "Naboo Starship": "Galactic Transport",
+            "Watto": "Mechanic",
+            "Huttese": "Alien Language",
+            "Pit Droids": "Assistive Robots",
+            "Mos Eisley": "Outer Rim Station",
+            "Jedi": "Guardian of Peace"
+        }
+    },
+    {
+        "message_id": 1006,
+        "passage": "The waves crash against the water city as the storm continues. Light suddenlyt streams from the base of a landing platform as a door slides open.",
+        "dictionary": {}
+    },
+    {
+        "message_id": 1007,
+        "passage": "OBI-WAN stands with LAMA SU and TAUN WE just inside the open door.\n\n\t\t\t\tLAMA SU\n\t\t\tTell your Council the first\n\t\t\tbattalions are ready. And remind\n\t\t\tthem that if they need more\n\t\t\ttroops, we will need time to grow\n\t\t\tthem.\n\n\t\t\t\tOBI-WAN\n\t\t\tI won't forget.",
+        "dictionary": {
+            "OBI-WAN": "General",
+            "LAMA SU": "General",
+            "TAUN WE": "Officer"
+        }
+    },
+    {
+        "message_id": 1008,
+        "passage": "OBI-WAN comes out from the tower into the driving ran. The door closes behind him. He pulls his robe around him and stands braced against the gale.\n\nBelow, a huge wave crashes against the stilts. Spray flies high and whips across the platform where OBI-WAN is standing. He walks over to his Starfighter, looks to see if anyone is watching, then turns and goes back to the door. It slides open.",
+        "dictionary": {
+            "Starfighter": "Spacecraft",
+            "OBI-WAN": "Older Man"
+        }
+    },
+    {
+        "message_id": 1009,
+        "passage": "OBI-WAN enters cautiously from outside. Ahead, the corridor is deserted. He moves down it.",
+        "dictionary": {
+            "OBI-WAN": "the Jedi Master",
+            "Jedi Master": "wise warrior"
+        }
+    }
+]

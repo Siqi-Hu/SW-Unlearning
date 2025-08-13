@@ -1,0 +1,90 @@
+[
+    {
+        "message_id": 1150,
+        "passage": "The BLACK-SUITED PILOT FIRES at the Falcon.",
+        "dictionary": {
+            "BLACK-SUITED PILOT": "Highly Skilled Aviator"
+        }
+    },
+    {
+        "message_id": 1151,
+        "passage": "The Falcon is ROCKED by another BLAST!\n\n                          FINN\n           We need cover, quick!",
+        "dictionary": {
+            "ROCKED": "shaken",
+            "BLAST": "explosion"
+        }
+    },
+    {
+        "message_id": 1152,
+        "passage": "Rey HITS SWITCHES, pilots the best she can:\n\n                          REY\n           We're about to get some!\n\n                          (TO HERSELF)\n           I hope.",
+        "dictionary": {
+            "HITS SWITCHES": "Flips Levers",
+            "pilots the best she can": "operates skillfully"
+        }
+    },
+    {
+        "message_id": 1153,
+        "passage": "The Falcon speeds through a ROCK FORMATION, GRAZING THE ROCK,\n          TAKING OUT A CHUNK -- the two TIE Fighters in pursuit, FIRING!\n          The Falcon BANKS SO HARD, the edge of the ship RIPS A LINE\n          IN THE SAND as it turns, REVEALING THE SHIP GRAVEYARD AHEAD.",
+        "dictionary": {
+            "ROCK FORMATION": "rocky terrain",
+            "TIE Fighters": "enemy aircraft",
+            "FIRING": "shooting",
+            "BANKS": "turns sharply",
+            "SHIP GRAVEYARD": "wrecked shipyard"
+        }
+    },
+    {
+        "message_id": 1154,
+        "passage": "BB-8 EXTENDS MAGNETIC CABLES to brace himself in a corridor.\n\n                         \n\n                          (CONTINUED)\n\n                         CONTINUED:\n          Finn continues to fire at the TIE fighters, narrowly missing\n          them.\n\n                          FINN\n           Damn it!\n          Rey maneuvers the ship deeper into the graveyard.",
+        "dictionary": {
+            "TIE fighters": "enemy planes",
+            "BB-8": "robot assistant"
+        }
+    },
+    {
+        "message_id": 1155,
+        "passage": "Finn SWOOPS into frame, FIRES --\n\n                          FINN\n           Come on... come on...\n          -- HITS AND SHATTERS the TIE FIGHTER!\n\n                          REY\n           Nice shot!\n\n                          FINN\n           I'm getting pretty good at this!",
+        "dictionary": {
+            "SWOOPS": "dives",
+            "TIE FIGHTER": "enemy aircraft"
+        }
+    },
+    {
+        "message_id": 1156,
+        "passage": "The TIE FIGHTER CRASHES amid the DEBRIS, THREE SCAVENGERS\n          instantly there to consume the new bounty.\n          The Falcon, pursued by the ONE REMAINING TIE FIGHTER, slaloms\n          through the MASSIVE WRECKAGE, GRAZING THE OLD SHIPS as she\n          goes, pieces flying.\n          The TIE FIGHTER FIRES -- HITTING THE FALCON'S LOWER TURRET,\n\n          SPINNING IT, JAMMING IT INTO FORWARD POSITION!",
+        "dictionary": {
+            "TIE FIGHTER": "enemy aircraft",
+            "DEBRIS": "wreckage",
+            "SCAVENGERS": "looters",
+            "ONE REMAINING TIE FIGHTER": "the last pursuer",
+            "MASSIVE WRECKAGE": "huge destruction",
+            "OLD SHIPS": "ancient vessels",
+            "TIE FIGHTER FIRES": "enemy aircraft fires",
+            "FALCON'S LOWER TURRET": "the ship's defensive cannon"
+        }
+    },
+    {
+        "message_id": 1157,
+        "passage": "ALARMS BLARE --\n\n                          FINN\n           The cannon's stuck in forward\n           position, I can't move it! You gotta\n           lose 'em!",
+        "dictionary": {
+            "Finn": "Pilot",
+            "ALARMS BLARE": "Sirens Wail"
+        }
+    },
+    {
+        "message_id": 1158,
+        "passage": "The ship is HIT AGAIN -- afraid, Rey's mind races as she\n          scans the area -- and gets an idea.\n\n                          REY\n           Get ready!\n\n                          FINN\n           Okay! For what?",
+        "dictionary": {
+            "HIT AGAIN": "Struck Again",
+            "REY": "Alex"
+        }
+    },
+    {
+        "message_id": 1159,
+        "passage": "Rey pilots the ship up AND INTO THE REAR OF A CRASHED SUPER\n          STAR DESTROYER! The final TIE FIGHTER FOLLOWS!",
+        "dictionary": {
+            "AND INTO THE REAR OF A CRASHED SUPER STAR DESTROYER": "And into the wreckage of a crashed warship",
+            "TIE FIGHTER": "Fighter Jet"
+        }
+    }
+]

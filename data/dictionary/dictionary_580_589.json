@@ -1,0 +1,78 @@
+[
+    {
+        "message_id": 580,
+        "passage": "LUKE\n                You worry about those fighters!\n                I'll worry about the tower!\n\n397",
+        "dictionary": {
+            "LUKE": "Young Pilot"
+        }
+    },
+    {
+        "message_id": 581,
+        "passage": "Luke's X-wing streaks through the trench, firing lasers.\n\n398",
+        "dictionary": {
+            "X-wing": "fighter jet"
+        }
+    },
+    {
+        "message_id": 582,
+        "passage": "Luke breaks into a nervous sweat as the laserfire is\n      returned, knicking one of his wings close to the engine.\n\n                          LUKE\n                    (to Artoo)\n                Artoo... that, that stabilizer's\n                broken loose again! See if you\n                can't lock it down!\n\n399",
+        "dictionary": {
+            "laserfire": "machine gun fire",
+            "knicking": "damaging",
+            "Artoo": "the droid",
+            "LUKE": "the pilot"
+        }
+    },
+    {
+        "message_id": 583,
+        "passage": "Artoo works to repair the damages. The canyon wall rushes by\n      in the background, making his delicate task seem even more\n      precarious.\n\n400",
+        "dictionary": {
+            "Artoo": "Robby"
+        }
+    },
+    {
+        "message_id": 584,
+        "passage": "Two laser cannons are firing on the Rebel fighters.\n\n401",
+        "dictionary": {
+            "Rebel": "Insurgent",
+            "laser cannons": "energy blasters"
+        }
+    },
+    {
+        "message_id": 585,
+        "passage": "Wedge looks up and sees the TIE ships.\n\n402",
+        "dictionary": {
+            "TIE": "Enemy Fighter"
+        }
+    },
+    {
+        "message_id": 586,
+        "passage": "Luke's targeting device marks off the distance to the\n      target.\n\n403",
+        "dictionary": {
+            "targeting device": "laser sight"
+        }
+    },
+    {
+        "message_id": 587,
+        "passage": "Vader and his wingmen zoom closer.\n\n404",
+        "dictionary": {
+            "Vader": "The Dark Lord"
+        }
+    },
+    {
+        "message_id": 588,
+        "passage": "Vader adjusts his controls and fires laserbolts at two X-\n      wings flying down the trench. He scores a direct hit on\n      Wedge.\n\n405",
+        "dictionary": {
+            "X-wings": "fighter jets",
+            "laserbolts": "energy blasts"
+        }
+    },
+    {
+        "message_id": 589,
+        "passage": "Leia and the others are grouped around the computer board.\n\n                          WEDGE\n                    (over speaker)\n                I'm hit! I can't stay with you.\n\n                          LUKE\n                    (over speaker)\n                Get clear, Wedge.\n\n406",
+        "dictionary": {
+            "WEDGE": "Commander",
+            "LUKE": "Captain"
+        }
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "message_id": 1280,
+        "passage": "An ALERT: OFFICERS at their consoles, OVERLAPPING, urgent.\n\n                         \n\n                         \n\n                         \n\n                         \n\n                          (CONTINUED)\n\n                         CONTINUED:\n\n                          OFFICER\n           General, their shields\n           are down!\n\n                          C-3PO\n           Thank the Maker!\n\n                          LEIA\n           Han did it! Send them\n           in!\n\n                          ADMIRAL STATURA\n           Give Poe full authorization\n           to attack.\n\n                          REAR ADMIRAL\n\n                          GULCH\n           Black Leader, go to\n           sub-lights. On your\n           call.",
+        "dictionary": {
+            "OFFICERS": "Commanders",
+            "CONTINUED": "Continued",
+            "C-3PO": "Protocol Droid",
+            "LEIA": "Princess",
+            "ADMIRAL STATURA": "High-Ranking Officer",
+            "REAR ADMIRAL GULCH": "Senior Officer"
+        }
+    },
+    {
+        "message_id": 1281,
+        "passage": "At LIGHTSPEED, Poe pilots:\n\n                          POE\n           Roger, base -- red squad, blue squad,\n           take my lead.",
+        "dictionary": {
+            "LIGHTSPEED": "High Velocity",
+            "POE": "Captain James"
+        }
+    },
+    {
+        "message_id": 1282,
+        "passage": "Nien Nunb pilots, acknowledges order in alien language.",
+        "dictionary": {
+            "Nien Nunb": "Captain Smith"
+        }
+    },
+    {
+        "message_id": 1283,
+        "passage": "Another pilot, ZOLO ZIFF.\n\n                          YOLO ZIFF\n           Dropping out of lightspeed.",
+        "dictionary": {
+            "ZOLO": "New Recruit",
+            "YOLO": "Young Pilot"
+        }
+    },
+    {
+        "message_id": 1284,
+        "passage": "With CONCUSSIVE BLASTS, the X-WINGS APPEAR and ROAR PAST\n          CAMERA toward the Starkiller Base planet!",
+        "dictionary": {
+            "CONCUSSIVE BLASTS": "Explosive Blasts",
+            "X-WINGS": "Fighter Jets",
+            "ROAR PAST": "Fly Quickly"
+        }
+    },
+    {
+        "message_id": 1285,
+        "passage": "The CRASHED FALCON, two parked TIE FIGHTERS and a TROOP\n          TRANSPORT VEHICLE beside it.",
+        "dictionary": {
+            "CRASHED FALCON": "Downed Starship",
+            "TIE FIGHTERS": "Enemy Jets",
+            "TROOP TRANSPORT VEHICLE": "Military Cargo Carrier"
+        }
+    },
+    {
+        "message_id": 1286,
+        "passage": "At a distance, the X-WINGS DROP FROM THE SKY, TOWARD THE\n\n          HEXAGONAL OSCILLATOR STRUCTURE IN THE DISTANCE!",
+        "dictionary": {
+            "X-WINGS": "fighter jets",
+            "DROP FROM THE SKY": "descend rapidly",
+            "HEXAGONAL OSCILLATOR STRUCTURE": "geometric research facility"
+        }
+    },
+    {
+        "message_id": 1287,
+        "passage": "The squad of X-wings DIVE BOMBS the Oscillator, the Black\n          Falcon leads. INTERCUT BETWEEN THIS AND VARIOUS X-WINGS.",
+        "dictionary": {
+            "DIVE BOMBS": "drops suddenly",
+            "X-wings": "fighter jets",
+            "Oscillator": "target",
+            "Black Falcon": "leader"
+        }
+    },
+    {
+        "message_id": 1288,
+        "passage": "POE PILOTS:\n\n                          POE\n           Almost in range! Hit the target\n           dead center, as many runs as we can\n           get!",
+        "dictionary": {
+            "POE PILOTS": "Flight Crew"
+        }
+    },
+    {
+        "message_id": 1289,
+        "passage": "Snap pilots.\n\n                          SNAP\n           Approaching target.",
+        "dictionary": {
+            "Snap": "Pilot"
+        }
+    }
+]
